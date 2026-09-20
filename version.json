@@ -1,8 +1,8 @@
 {
-  "version": "1.6.2.0",
-  "notes": "Régularisation des charges : le programme sait maintenant depuis quand le locataire occupe le logement. Il le lit sur la fiche du bien, et à défaut sur les quittances déjà établies — le syndic et la taxe d'ordures sont alors comptés au prorata sans rien avoir à saisir. Les dates d'occupation s'affichent et se corrigent à la main, et l'écran dit toujours si un prorata s'applique, et pourquoi.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.6.2.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.6.2.0.exe",
-  "sha256": "787b49377b9b75d7862299c3462c933a4c35b0755da6b88a4da2d64413ad4f44",
-  "signature": "4742e6b1d5b7f807446278a40537493ab1e5af4b9ece5552699cab269908d0093c42e11412682854624b6a3c1692d20315fbacabbd803b077a9029d6a588c00a"
+  "version": "1.6.3.0",
+  "notes": "Régularisation des charges : le prorata se faisait mal dès que la fiche du bien portait une date de fin de bail — le syndic et la taxe d'ordures étaient alors comptés en entier. C'est corrigé. Et tout ce que vous saisissez dans la régularisation est désormais enregistré, par bien et par exercice : vous le retrouvez tel quel, corrections à la main comprises.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.6.3.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.6.3.0.exe",
+  "sha256": "242d47d9a569d51e3a5f7ac4735db43ce63a6fdcb5f93cc046862a7e3da8a36e",
+  "signature": "a34becd902b55ac19c8d04cdb91b932a1d83de9efd1d3eb2e57218358c262f6a710d8bd112314d05b853407cb750578cd30f2c4c8b4e8d417270d689e9b0e308"
 }
