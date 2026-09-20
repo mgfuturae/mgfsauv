@@ -1,0 +1,17 @@
+{
+  "sel": "b3a7428d1d5936356c58fbce7c0ecb27",
+  "tours": 400000,
+  "visites": [
+    {
+      "numero": "040f704f",
+      "empreinte": "9031c065f5cdd401c2fdf6a42b85636e5a40ad9ab2f589ee53b69578d5a8a4cb8887d58082fb97ca7a8869e04640d9e49617a568bc422fd1e0ff8da9fadd67b5",
+      "fin": "2026-10-20"
+    },
+    {
+      "numero": "afa85db3",
+      "empreinte": "964a808683916a267d2e5875243e064d375ecd6c58bc39eba19afd91f2bf82373cf909a2b64b15e3c9289a5c834b6f4ef3df8bc75d5c83d05c5ec9ec63b99e93",
+      "fin": "2026-10-20"
+    }
+  ],
+  "signature": "a429101af0e828667bc91ed87f09efbdb5c67e697937e157a4079e806e7ebbeab0758f933548f55b53e8022eff23af74d44f4dd655c89b16472733f242e05301"
+}

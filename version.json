@@ -1,0 +1,8 @@
+{
+  "version": "1.4.1.0",
+  "notes": "En démonstration, l'adresse autorisée et la date de fin de l'accès sont affichées en haut de chaque écran.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.4.1.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.4.1.0.exe",
+  "sha256": "df5f08cb63232d3bb2524470a28c56463bcd3205f5e31427fa36cabb117c007d",
+  "signature": "24ba1fbb0b11781468af7ea6c191ade7a29f36bd6fbe6fe980685a39227084b1dcc277f3c1eb453525bbd21be24068f5a8daba057e0c57d68dfefa35f73ec602"
+}
