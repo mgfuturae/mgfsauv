@@ -1,8 +1,8 @@
 {
-  "version": "1.5.2.0",
-  "notes": "Écran des courses : les rayons à gauche, les articles du rayon choisi à droite, et la page défile. Le panneau ouvert par un clic ne peut plus tomber hors de l'écran.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.5.2.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.5.2.0.exe",
-  "sha256": "eb7aba13a1b9d4287cfc51d8fe907a2c0cdcd4ec5f6014969a993a6be16368fa",
-  "signature": "b2a762caa647dd1d9466a9c91d7e8b60437cbd14c1c52f52897ed5147e69cb39d8f89cdfbbf43e3133d3f29fa1384af557c5cde4815f53473654e778a2762609"
+  "version": "1.5.3.0",
+  "notes": "Les cases à cocher s'impriment enfin sur la liste de courses : « [ ] » à cocher au magasin, « [X] » pour ce qui est déjà retenu. Elles sortaient en « ? ».",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.5.3.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.5.3.0.exe",
+  "sha256": "235da60cb3e269bb0fec1e2a7ad681210b5ef41fcacf7b92635ede3cc115db43",
+  "signature": "5f87a953606690f90c49adee613e31a408a8af933ce042abfe5b68c6b2a1deacd4e6ffc8237c0d97a1edc435c457a8c4e632128e019b40b878d0fefaf248ef09"
 }
