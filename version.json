@@ -1,8 +1,8 @@
 {
-  "version": "1.4.1.0",
-  "notes": "En démonstration, l'adresse autorisée et la date de fin de l'accès sont affichées en haut de chaque écran.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.4.1.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.4.1.0.exe",
-  "sha256": "df5f08cb63232d3bb2524470a28c56463bcd3205f5e31427fa36cabb117c007d",
-  "signature": "24ba1fbb0b11781468af7ea6c191ade7a29f36bd6fbe6fe980685a39227084b1dcc277f3c1eb453525bbd21be24068f5a8daba057e0c57d68dfefa35f73ec602"
+  "version": "1.4.2.0",
+  "notes": "Quand une entrée est refusée, l'écran dit la vraie raison : accès arrivé à terme, avec sa date, ou liste des visites injoignable.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.4.2.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.4.2.0.exe",
+  "sha256": "14429d452541c284cec6d1f689924034f461684ff40afd76ad5b103727f01e7c",
+  "signature": "3f3df70abf417aa5bcda283e27aae63e973c9f0fdaf7d04378d25aa830dfb85bdfa4292f133974a7a9111f3273b7d9edee70c382af0b732dcaa94d06c6a84c00"
 }
