@@ -1,8 +1,8 @@
 {
-  "version": "1.5.0.0",
-  "notes": "Nouvelle rubrique « Mes Courses » : une liste de 434 articles habituels à charger d'un clic, une case à cocher devant chacun, et deux impressions — la liste complète, et seulement ce qu'il faut acheter. Elle entre aussi dans le dossier complet.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.5.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.5.0.0.exe",
-  "sha256": "b1491e0d72960b2b5e2a63eebf248c2de7bee27b9b9152fef15fb25327e1d876",
-  "signature": "42a0c0b1a2b2e62431ab5882c964b3884c2f440bcdc96c8cb488b409cd1c0281ff512c14ca668978e8a1dbb6852ac530a260b03872f7826b07966ec5d82fd106"
+  "version": "1.5.1.0",
+  "notes": "Les courses ont leur écran : un panneau par rayon, de grosses cases à cocher, et des listes qu'on enregistre sous un nom puis qu'on recharge. La feuille imprimée porte le nom de la liste.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.5.1.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.5.1.0.exe",
+  "sha256": "820c7e786149a8cd5ed9e79bf72f8484cfab5091b753dc283cf691021d7554e7",
+  "signature": "d5f3b905d38331021137ad7869ab7387701830ec4a561dec5641946675a4e6bf2ed5140425263602dc9142afb57c781e4656565b7ab698f00cb9db88b54baa01"
 }
