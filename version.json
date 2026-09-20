@@ -1,8 +1,8 @@
 {
-  "version": "1.4.2.0",
-  "notes": "Quand une entrée est refusée, l'écran dit la vraie raison : accès arrivé à terme, avec sa date, ou liste des visites injoignable.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.4.2.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.4.2.0.exe",
-  "sha256": "14429d452541c284cec6d1f689924034f461684ff40afd76ad5b103727f01e7c",
-  "signature": "3f3df70abf417aa5bcda283e27aae63e973c9f0fdaf7d04378d25aa830dfb85bdfa4292f133974a7a9111f3273b7d9edee70c382af0b732dcaa94d06c6a84c00"
+  "version": "1.4.3.0",
+  "notes": "La carte Installation indique le droit d'utilisation : titulaire, numéro de série, et « sans limite de date ». Pendant une visite, l'adresse admise et la date de fin.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.4.3.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.4.3.0.exe",
+  "sha256": "f0dfe5eebefb3d9ff6926e58bab6dd327227a7c8ea5b9f3f7c17ac90c063c71d",
+  "signature": "0e1fd4253709a34fc51c990399bba2f028400bdc89b1be18b1b8cc0fd3acd606e6807d16ac206f3c740e849ca2be64ea8c131295bfef6a2b3e5a7368ad3e4902"
 }
