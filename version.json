@@ -1,8 +1,8 @@
 {
-  "version": "1.5.4.0",
-  "notes": "Liste de courses imprimée : plus aucune croix — toutes les cases sont vides pour votre stylo — et les colonnes portent leur nom, dont la quantité, reprises en haut de chaque page.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.5.4.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.5.4.0.exe",
-  "sha256": "61fa234cb8a9e1d00c690cd22ee70af5aa14f52fc6f74d36170b4b09ea0baaf7",
-  "signature": "758de114ed026ce8ee269ab13715a286097f81905ae937e226623531f354502e968e2cb46841977074c56778d7a2662e1839f2d8297e3f2fb12625f0509f0000"
+  "version": "1.6.0.0",
+  "notes": "Régularisation des charges : la période annuelle n'est plus forcément du 1er janvier au 31 décembre. Vous indiquez son début sur la fiche du bien, et le syndic comme la taxe d'ordures sont partagés au jour près entre les années concernées, en ne comptant que les jours du locataire. Deux compteurs d'eau, froide et chaude, chacun à son prix — le second reste facultatif, à la régularisation comme au départ du locataire.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.6.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.6.0.0.exe",
+  "sha256": "d92e9691ebb682177bb221e6678de8c73b464c269312894f264fb41390a40ee1",
+  "signature": "26d326b8f039455c4c7acb786d26b88486a1eb444991983e17f3d194fb56ae06715ef17e4535eabccdd9822cb20a0db686a53001ec650f195e2e5b90d677830c"
 }
