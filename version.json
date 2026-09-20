@@ -1,8 +1,8 @@
 {
-  "version": "1.5.3.0",
-  "notes": "Les cases à cocher s'impriment enfin sur la liste de courses : « [ ] » à cocher au magasin, « [X] » pour ce qui est déjà retenu. Elles sortaient en « ? ».",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.5.3.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.5.3.0.exe",
-  "sha256": "235da60cb3e269bb0fec1e2a7ad681210b5ef41fcacf7b92635ede3cc115db43",
-  "signature": "5f87a953606690f90c49adee613e31a408a8af933ce042abfe5b68c6b2a1deacd4e6ffc8237c0d97a1edc435c457a8c4e632128e019b40b878d0fefaf248ef09"
+  "version": "1.5.4.0",
+  "notes": "Liste de courses imprimée : plus aucune croix — toutes les cases sont vides pour votre stylo — et les colonnes portent leur nom, dont la quantité, reprises en haut de chaque page.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.5.4.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.5.4.0.exe",
+  "sha256": "61fa234cb8a9e1d00c690cd22ee70af5aa14f52fc6f74d36170b4b09ea0baaf7",
+  "signature": "758de114ed026ce8ee269ab13715a286097f81905ae937e226623531f354502e968e2cb46841977074c56778d7a2662e1839f2d8297e3f2fb12625f0509f0000"
 }
