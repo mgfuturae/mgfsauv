@@ -1,8 +1,8 @@
 {
-  "version": "1.4.3.0",
-  "notes": "La carte Installation indique le droit d'utilisation : titulaire, numéro de série, et « sans limite de date ». Pendant une visite, l'adresse admise et la date de fin.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.4.3.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.4.3.0.exe",
-  "sha256": "f0dfe5eebefb3d9ff6926e58bab6dd327227a7c8ea5b9f3f7c17ac90c063c71d",
-  "signature": "0e1fd4253709a34fc51c990399bba2f028400bdc89b1be18b1b8cc0fd3acd606e6807d16ac206f3c740e849ca2be64ea8c131295bfef6a2b3e5a7368ad3e4902"
+  "version": "1.5.0.0",
+  "notes": "Nouvelle rubrique « Mes Courses » : une liste de 434 articles habituels à charger d'un clic, une case à cocher devant chacun, et deux impressions — la liste complète, et seulement ce qu'il faut acheter. Elle entre aussi dans le dossier complet.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.5.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.5.0.0.exe",
+  "sha256": "b1491e0d72960b2b5e2a63eebf248c2de7bee27b9b9152fef15fb25327e1d876",
+  "signature": "42a0c0b1a2b2e62431ab5882c964b3884c2f440bcdc96c8cb488b409cd1c0281ff512c14ca668978e8a1dbb6852ac530a260b03872f7826b07966ec5d82fd106"
 }
