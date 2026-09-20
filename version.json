@@ -1,8 +1,8 @@
 {
-  "version": "1.6.0.0",
-  "notes": "Régularisation des charges : la période annuelle n'est plus forcément du 1er janvier au 31 décembre. Vous indiquez son début sur la fiche du bien, et le syndic comme la taxe d'ordures sont partagés au jour près entre les années concernées, en ne comptant que les jours du locataire. Deux compteurs d'eau, froide et chaude, chacun à son prix — le second reste facultatif, à la régularisation comme au départ du locataire.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.6.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.6.0.0.exe",
-  "sha256": "d92e9691ebb682177bb221e6678de8c73b464c269312894f264fb41390a40ee1",
-  "signature": "26d326b8f039455c4c7acb786d26b88486a1eb444991983e17f3d194fb56ae06715ef17e4535eabccdd9822cb20a0db686a53001ec650f195e2e5b90d677830c"
+  "version": "1.6.1.0",
+  "notes": "Régularisation des charges, plus simple à saisir : un seul montant par poste, celui de la période entière, et le prorata se fait tout seul sur les jours où le locataire a occupé le bien. Les colonnes de l'eau portent enfin leur nom — m³ et prix du m³ — et les cases sont alignées.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.6.1.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.6.1.0.exe",
+  "sha256": "25506fd95b7ad9c48ba2fb6b182c56855b1eb83f2b5de39f8ff6144d0cff41df",
+  "signature": "e857306b0510e2fc66155fdaf66b79505ba40f9e8c0593402b775f375856f0e061b8cd30b4e8024fbee7050045a26291c4bb9b339abb4e2addcc87360580ac0c"
 }
