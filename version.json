@@ -1,8 +1,8 @@
 {
-  "version": "1.6.4.0",
-  "notes": "Régularisation des charges : elle ne comptait pas toutes vos quittances. Selon la façon dont le mois et l'année étaient écrits, une quittance pourtant visible à l'historique était ignorée — et sans quittance, ni les provisions ni le prorata ne pouvaient être calculés. Les quittances sont désormais lues partout de la même façon. Un bouton « Voir les quittances lues » montre, ligne par ligne, ce qui est compté et pourquoi une ligne ne l'est pas.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.6.4.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.6.4.0.exe",
-  "sha256": "e8ef6e1caadbca0a5cc4f3403a46d3bbb379c53095f928b8ecb38d4063d06eb4",
-  "signature": "cd2ede860ac1d2edd3d7b5028e9aecf668fe52826f9cdd98781d3248847970bb827f0ea679e3f766f8e2154f0f43cf52fc4a595c4a47dd16048ab9eba948d803"
+  "version": "1.6.5.0",
+  "notes": "Régularisation des charges : les montants sont enfin lus quelle que soit la façon de les écrire — « 150,00 Euros », « 1.200,00 € », « 150 € TTC » donnaient zéro. Et l'occupation du locataire croise maintenant les dates du bail ET les mois réellement quittancés : une vieille date de bail ne peut plus effacer le prorata du syndic et de la taxe d'ordures. Le bouton « Voir les quittances lues » dit désormais aussi pourquoi une quittance comptée n'apporte aucune charge.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.6.5.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.6.5.0.exe",
+  "sha256": "a4c8ab9fb1842d78ccb89563082fefa0121307083c40efb01696e56c74cc3bb6",
+  "signature": "4c689746ff140efb32da1fa701df40464f657ac2d890bad3dd47366fdd1376074ff235cc3ab4de9a9e56f819e40dbf0334c5e241b41b01eb31182b424730ff0b"
 }
