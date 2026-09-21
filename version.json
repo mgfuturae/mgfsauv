@@ -1,8 +1,8 @@
 {
-  "version": "1.6.5.0",
-  "notes": "Régularisation des charges : les montants sont enfin lus quelle que soit la façon de les écrire — « 150,00 Euros », « 1.200,00 € », « 150 € TTC » donnaient zéro. Et l'occupation du locataire croise maintenant les dates du bail ET les mois réellement quittancés : une vieille date de bail ne peut plus effacer le prorata du syndic et de la taxe d'ordures. Le bouton « Voir les quittances lues » dit désormais aussi pourquoi une quittance comptée n'apporte aucune charge.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.6.5.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.6.5.0.exe",
-  "sha256": "a4c8ab9fb1842d78ccb89563082fefa0121307083c40efb01696e56c74cc3bb6",
-  "signature": "4c689746ff140efb32da1fa701df40464f657ac2d890bad3dd47366fdd1376074ff235cc3ab4de9a9e56f819e40dbf0334c5e241b41b01eb31182b424730ff0b"
+  "version": "1.6.6.0",
+  "notes": "Régularisation des charges : quand la fiche du bien ne déclare aucune période de charges, le programme proposait l'année civile — et si vos quittances étaient ailleurs, elles tombaient toutes « hors de la période », sans provisions ni prorata. Il propose désormais les douze mois qui finissent à votre dernière quittance, et le dit. Quand aucune quittance ne tombe dans la période, l'écran indique combien le bien en compte et de quand à quand.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.6.6.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.6.6.0.exe",
+  "sha256": "6a6438da0ee1d2b3a5c8e51470c880d29b8a7f0744be0dd869d646fa0a8f9252",
+  "signature": "d5de9132a2297c1b74a10775dba1fbff33de07e18a04ce61cfdd4a1e5e995ab0a316366d8e3ce9098b596b7d819a355cf057f2689d544011ce31c85f2b572403"
 }
