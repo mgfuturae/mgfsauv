@@ -1,8 +1,8 @@
 {
-  "version": "1.6.3.0",
-  "notes": "Régularisation des charges : le prorata se faisait mal dès que la fiche du bien portait une date de fin de bail — le syndic et la taxe d'ordures étaient alors comptés en entier. C'est corrigé. Et tout ce que vous saisissez dans la régularisation est désormais enregistré, par bien et par exercice : vous le retrouvez tel quel, corrections à la main comprises.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.6.3.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.6.3.0.exe",
-  "sha256": "242d47d9a569d51e3a5f7ac4735db43ce63a6fdcb5f93cc046862a7e3da8a36e",
-  "signature": "a34becd902b55ac19c8d04cdb91b932a1d83de9efd1d3eb2e57218358c262f6a710d8bd112314d05b853407cb750578cd30f2c4c8b4e8d417270d689e9b0e308"
+  "version": "1.6.4.0",
+  "notes": "Régularisation des charges : elle ne comptait pas toutes vos quittances. Selon la façon dont le mois et l'année étaient écrits, une quittance pourtant visible à l'historique était ignorée — et sans quittance, ni les provisions ni le prorata ne pouvaient être calculés. Les quittances sont désormais lues partout de la même façon. Un bouton « Voir les quittances lues » montre, ligne par ligne, ce qui est compté et pourquoi une ligne ne l'est pas.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.6.4.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.6.4.0.exe",
+  "sha256": "e8ef6e1caadbca0a5cc4f3403a46d3bbb379c53095f928b8ecb38d4063d06eb4",
+  "signature": "cd2ede860ac1d2edd3d7b5028e9aecf668fe52826f9cdd98781d3248847970bb827f0ea679e3f766f8e2154f0f43cf52fc4a595c4a47dd16048ab9eba948d803"
 }
