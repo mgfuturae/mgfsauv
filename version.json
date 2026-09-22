@@ -1,8 +1,8 @@
 {
-  "version": "1.8.0.0",
-  "notes": "Mes Courses : enregistrer une liste ne passe plus par une boîte grise de Windows mais par une fenêtre du logiciel, qui propose d'un clic les listes déjà enregistrées. Et une fois la liste créée ou rechargée, l'écran ne montre qu'elle — vos articles cochés, rangés par rayon, prêts pour le magasin. « Modifier la liste » rend accès aux dix-sept rayons et aux 434 articles.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.8.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.8.0.0.exe",
-  "sha256": "a4001464a37624a020d1d99c56bd91d8a175e9ca4bde57ca1b2656ec974444ed",
-  "signature": "fb35f57fba8a2fd6e8bf87c2c131f471f165672b9d67055318ddd58c4410a1ef0ff2c45f272cc4d06b92340ebd7226e129f403f99513023765ca02e11078c00c"
+  "version": "1.8.1.0",
+  "notes": "Mes Courses : la vue d'une liste montre désormais les articles enregistrés sous ce nom, et ils y restent quand vous les décochez dans le magasin — ils disparaissaient un par un. Et la phrase du haut dit clairement où vous en êtes : « 17 article(s) dans cette liste » à l'ouverture, puis « 14 restent · 3 déjà pris », enfin « Tout est pris : la liste est faite. »",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.8.1.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.8.1.0.exe",
+  "sha256": "a270ad26b28132db3ff4ec1fea8d1f4cad368921d374f8579c5b3467bdf54e53",
+  "signature": "6b4bd66045fae066460111be7a8ca0467ec1884a50b48b861167e0e3bd396310ab7db7357c89c54529685ebf67a5116c5e5fdde420cbcb9f4dd04d4e3ff0c906"
 }
