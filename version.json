@@ -1,8 +1,8 @@
 {
-  "version": "1.7.3.0",
-  "notes": "Mes Courses : la liste des rayons a son propre ascenseur. Les dix-sept rayons repoussaient « Mes listes » et le panneau du rayon vers le bas de la page ; ils défilent maintenant chez eux. Le rayon que vous ouvrez est ramené dans la vue, même s'il est en bas de la liste.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.7.3.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.7.3.0.exe",
-  "sha256": "68382e825df78a4c41b0efd5af834a614320a8c9dd2851ba3cf6df68537270d3",
-  "signature": "35cb36fdd45a909e612f05d6e4675776329022be4db9dc9650af60eb69e060e5689d2c316d783f0a541c89959adcddbf55071497b18c601445688aef64d30e0d"
+  "version": "1.7.4.0",
+  "notes": "Mes Courses : le panneau du rayon choisi a lui aussi son ascenseur. Un rayon de soixante-dix-neuf articles sortait du bas de la page ; il défile maintenant chez lui, et cocher une case ne vous ramène pas en haut de la liste.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.7.4.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.7.4.0.exe",
+  "sha256": "a9a8cb8843c5705a3cb58b200f9d591531c3bef71c7eb341fae59ebfabc82d94",
+  "signature": "6e3ec5e0a7b649b4c2a646aa496dd23346e753dc0c2e30f6a7a296043c74f715a70521e205f10a7979176efe7b745a59c0847b7cbc3a06c7c08a3ae14346130b"
 }
