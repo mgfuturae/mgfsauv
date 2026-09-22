@@ -1,8 +1,8 @@
 {
-  "version": "1.7.1.0",
-  "notes": "Régularisation des charges : le choix de l'année a disparu. Les deux dates de la période suffisent — elles sont proposées d'après la fiche du bien et vos quittances, et vous les corrigez si besoin. Votre saisie reste rangée par année et par bien, l'année étant celle où commence la période.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.7.1.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.7.1.0.exe",
-  "sha256": "80b976fa24f58b5a7f80eef91d27246779e82b6f46fb327a76983ae580812ce9",
-  "signature": "49e132c580e57c962de8b481ac63dd74af2b6d9e3f83d24c19b11dd5fc1cd212b572b092f261f354b9c7738e9e03d1ef7bddc4cf039e6e43db7921a125b8c107"
+  "version": "1.7.2.0",
+  "notes": "Mes identifiants : « N° de compte bancaire » s'appelle maintenant « Accès Banque internet » — pour vous, pour votre conjoint, et pour la ligne d'usage. Ce que vous aviez déjà saisi dans ces trois cases s'y retrouve sous le nouveau nom, sans rien à refaire.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.7.2.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.7.2.0.exe",
+  "sha256": "3f7752a1840a8ed398cfa4b2bc3733b51a6e536f6a7c7d3b7db10f155a1de13b",
+  "signature": "11193fb90a9d4928fef8b47539b36d59a52d7e93bba8550dbfea881b5df82fa5ac48f75d1c0fef20126cb50fef09ae5a57992c5ec75dde6ae9da2aae2bddcc02"
 }
