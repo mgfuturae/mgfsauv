@@ -1,8 +1,8 @@
 {
-  "version": "1.7.2.0",
-  "notes": "Mes identifiants : « N° de compte bancaire » s'appelle maintenant « Accès Banque internet » — pour vous, pour votre conjoint, et pour la ligne d'usage. Ce que vous aviez déjà saisi dans ces trois cases s'y retrouve sous le nouveau nom, sans rien à refaire.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.7.2.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.7.2.0.exe",
-  "sha256": "3f7752a1840a8ed398cfa4b2bc3733b51a6e536f6a7c7d3b7db10f155a1de13b",
-  "signature": "11193fb90a9d4928fef8b47539b36d59a52d7e93bba8550dbfea881b5df82fa5ac48f75d1c0fef20126cb50fef09ae5a57992c5ec75dde6ae9da2aae2bddcc02"
+  "version": "1.7.3.0",
+  "notes": "Mes Courses : la liste des rayons a son propre ascenseur. Les dix-sept rayons repoussaient « Mes listes » et le panneau du rayon vers le bas de la page ; ils défilent maintenant chez eux. Le rayon que vous ouvrez est ramené dans la vue, même s'il est en bas de la liste.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.7.3.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.7.3.0.exe",
+  "sha256": "68382e825df78a4c41b0efd5af834a614320a8c9dd2851ba3cf6df68537270d3",
+  "signature": "35cb36fdd45a909e612f05d6e4675776329022be4db9dc9650af60eb69e060e5689d2c316d783f0a541c89959adcddbf55071497b18c601445688aef64d30e0d"
 }
