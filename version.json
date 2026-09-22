@@ -1,8 +1,8 @@
 {
-  "version": "1.7.4.0",
-  "notes": "Mes Courses : le panneau du rayon choisi a lui aussi son ascenseur. Un rayon de soixante-dix-neuf articles sortait du bas de la page ; il défile maintenant chez lui, et cocher une case ne vous ramène pas en haut de la liste.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.7.4.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.7.4.0.exe",
-  "sha256": "a9a8cb8843c5705a3cb58b200f9d591531c3bef71c7eb341fae59ebfabc82d94",
-  "signature": "6e3ec5e0a7b649b4c2a646aa496dd23346e753dc0c2e30f6a7a296043c74f715a70521e205f10a7979176efe7b745a59c0847b7cbc3a06c7c08a3ae14346130b"
+  "version": "1.8.0.0",
+  "notes": "Mes Courses : enregistrer une liste ne passe plus par une boîte grise de Windows mais par une fenêtre du logiciel, qui propose d'un clic les listes déjà enregistrées. Et une fois la liste créée ou rechargée, l'écran ne montre qu'elle — vos articles cochés, rangés par rayon, prêts pour le magasin. « Modifier la liste » rend accès aux dix-sept rayons et aux 434 articles.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.8.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.8.0.0.exe",
+  "sha256": "a4001464a37624a020d1d99c56bd91d8a175e9ca4bde57ca1b2656ec974444ed",
+  "signature": "fb35f57fba8a2fd6e8bf87c2c131f471f165672b9d67055318ddd58c4410a1ef0ff2c45f272cc4d06b92340ebd7226e129f403f99513023765ca02e11078c00c"
 }
