@@ -1,8 +1,8 @@
 {
-  "version": "1.7.0.0",
-  "notes": "Compteurs d'eau : au lieu de saisir les m³, vous inscrivez le relevé de début et le relevé de fin, et le programme en déduit la consommation — pour l'eau froide comme pour l'eau chaude. Les relevés sont enregistrés et figurent sur les documents imprimés : « relevés de 1240 à 1270, soit 30 m³ × 4,20 €/m³ », que le locataire peut refaire lui-même. C'est en place sur la régularisation des charges et sur le départ du locataire.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.7.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.7.0.0.exe",
-  "sha256": "c523caa52554c6e8c0dd22b0e0392b81fb76c94d0066651ca0a0efa2ada51196",
-  "signature": "ef08525b9246ff65914623da6e6c7b0f19a05e3d63e298b5800e61cc0d0699f02adada1704a75903c51f0c75bcad9fd9c6eda4c147dd8d3b6e237b840fafe50e"
+  "version": "1.7.1.0",
+  "notes": "Régularisation des charges : le choix de l'année a disparu. Les deux dates de la période suffisent — elles sont proposées d'après la fiche du bien et vos quittances, et vous les corrigez si besoin. Votre saisie reste rangée par année et par bien, l'année étant celle où commence la période.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.7.1.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.7.1.0.exe",
+  "sha256": "80b976fa24f58b5a7f80eef91d27246779e82b6f46fb327a76983ae580812ce9",
+  "signature": "49e132c580e57c962de8b481ac63dd74af2b6d9e3f83d24c19b11dd5fc1cd212b572b092f261f354b9c7738e9e03d1ef7bddc4cf039e6e43db7921a125b8c107"
 }
