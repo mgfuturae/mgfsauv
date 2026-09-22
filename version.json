@@ -1,8 +1,8 @@
 {
-  "version": "1.6.8.0",
-  "notes": "Régularisation des charges : le prorata se lit maintenant à côté de chaque case, comme sur l'écran de départ du locataire — « → 654,58 € (1320,00 € × 181/365 jours) » en face du syndic, et de même pour la taxe d'ordures et les deux eaux. Il n'apparaissait qu'en bas de la carte et sur le document imprimé. La fenêtre « Voir les quittances lues » n'affiche plus de total quand elle est ouverte depuis la régularisation.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.6.8.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.6.8.0.exe",
-  "sha256": "1c0e6015246fd222793e7f6f0e182721ba6770df2f02cb01ab115f1e16e05138",
-  "signature": "d3f4668b85c8b24aa077f96aa85fcfb47d2eae5be032915e85ca58e00d45f368e022051819cbd18394ace5c44a504030824e1b6eb4af8bf66d3a56c446b0820a"
+  "version": "1.6.9.0",
+  "notes": "Régularisation des charges : les dates que vous tapez — période et occupation — ainsi que les provisions corrigées à la main sont de nouveau enregistrées, par bien et par exercice. Le programme retient cette fois dans quelles cases vous avez réellement écrit : ce qu'il propose lui-même n'est jamais conservé, et ne peut donc plus se figer ni empêcher un calcul.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.6.9.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.6.9.0.exe",
+  "sha256": "e1511ec2523abd5b922452100ad3df678a2bde6025c3584e55255287cec55052",
+  "signature": "8182c23a2c60dcdc2638f4100fb372fb48c481e0aee54c370b9a68a7630868e00bcf561ddeb5033c3ffa3a95dba415b8df348b36ef451266fd59e9fa6a4ecc0a"
 }
