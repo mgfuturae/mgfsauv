@@ -1,8 +1,8 @@
 {
-  "version": "1.9.0.0",
-  "notes": "Mes Courses : la liste habituelle de 434 articles est là d'office, il n'y a plus rien à charger — c'est le catalogue dont vous vous servez pour bâtir vos listes. Et l'on ouvre une liste enregistrée en cliquant son nom, comme un rayon : le bouton « Charger » disparaît. Couleurs des formulaires : les boutons « Appliquer » et « Rétablir l'origine » passent en haut de l'écran, on ne les cherche plus au bas de la page.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.9.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.9.0.0.exe",
-  "sha256": "34fd8f2cdd7b5be690e9d617def626d06f2bc074add3d152d7ef7aa91d7f21d2",
-  "signature": "757254c675eb9fb77e39a32a61a12dcfde0137dac9789aadf206907920963fb4e292a16d85c8b7ab76ca41e0ce657c632b1d33b400abcd9c28a8c6149dde2907"
+  "version": "1.10.0.0",
+  "notes": "L'agenda est maintenant celui de deux personnes. Trois options en haut de l'écran — la première personne, la seconde, « Commun » — et une ligne « Pour qui » en créant un rendez-vous : pour l'un, pour l'autre, ou commun. Un rendez-vous commun paraît dans les trois vues. L'option choisie suit partout : la fenêtre d'un jour, le planning en grand, et l'agenda imprimé, qui porte alors le prénom et une marque devant chaque rendez-vous. Les deux prénoms se règlent dans la fiche « Paramètres » ; sans réglage, l'agenda dit « Moi » et « Conjoint ». Vos rendez-vous déjà saisis reviennent à la première personne.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.10.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.10.0.0.exe",
+  "sha256": "2fd4eaa2737a4b09f6cd1fc290e0c6b25b98c87d1b581ae211a5b873db7dae86",
+  "signature": "828275a05e8e5fb933722df7de66b39d3fc00271e50a18c62b7023fb7534eced55a1e7fe918af0a661f4e27b998528347a6efa0b1b12cb9d84528be84080330c"
 }
