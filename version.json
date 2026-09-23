@@ -1,8 +1,8 @@
 {
-  "version": "1.8.5.0",
-  "notes": "Mes Courses : la carte « Mes listes » passe en haut de la colonne de gauche, avant les rayons. Elle commençait sous les dix-sept rayons et finissait même sous le bas de la fenêtre : il fallait faire défiler toute la page pour l'atteindre. La liste des rayons occupe maintenant la place qui reste, et rien ne sort plus de l'écran.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.8.5.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.8.5.0.exe",
-  "sha256": "403837232e332ec585f72e68b707cbc3ef0f34c8c9be9290f70cc1ed39f1419c",
-  "signature": "1a21f115dbe9c11298f545a98684c767d92af327486a1aa825d04c346cfe21f28bcd2330d9c20a0b74331a454f2449cf0add3cd6f7f64566b576418fc881940c"
+  "version": "1.9.0.0",
+  "notes": "Mes Courses : la liste habituelle de 434 articles est là d'office, il n'y a plus rien à charger — c'est le catalogue dont vous vous servez pour bâtir vos listes. Et l'on ouvre une liste enregistrée en cliquant son nom, comme un rayon : le bouton « Charger » disparaît. Couleurs des formulaires : les boutons « Appliquer » et « Rétablir l'origine » passent en haut de l'écran, on ne les cherche plus au bas de la page.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.9.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.9.0.0.exe",
+  "sha256": "34fd8f2cdd7b5be690e9d617def626d06f2bc074add3d152d7ef7aa91d7f21d2",
+  "signature": "757254c675eb9fb77e39a32a61a12dcfde0137dac9789aadf206907920963fb4e292a16d85c8b7ab76ca41e0ce657c632b1d33b400abcd9c28a8c6149dde2907"
 }
