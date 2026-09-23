@@ -1,8 +1,8 @@
 {
-  "version": "1.8.4.0",
-  "notes": "Mes Courses : la liste occupe enfin le haut de l'écran. L'en-tête de page — son logo et ses marges, deux cents pixels — disparaît dans cette vue : la carte porte déjà le nom de la liste, et ses trois boutons sont montés dans son bandeau. Elle commence maintenant au premier pixel sous la barre de navigation.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.8.4.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.8.4.0.exe",
-  "sha256": "755ae87aa9bbdf7e90aa25757b2e4367ce10810f33a23a7b0fe88317810be0cd",
-  "signature": "f5361479d53ff5b621e3c0baf70c19ffe61e7864850150e248a03a5ce37141393dd0f91cb55c4a9b2301d748f27005923f3d75c921c74fb94e27ef102fbfcd05"
+  "version": "1.8.5.0",
+  "notes": "Mes Courses : la carte « Mes listes » passe en haut de la colonne de gauche, avant les rayons. Elle commençait sous les dix-sept rayons et finissait même sous le bas de la fenêtre : il fallait faire défiler toute la page pour l'atteindre. La liste des rayons occupe maintenant la place qui reste, et rien ne sort plus de l'écran.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.8.5.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.8.5.0.exe",
+  "sha256": "403837232e332ec585f72e68b707cbc3ef0f34c8c9be9290f70cc1ed39f1419c",
+  "signature": "1a21f115dbe9c11298f545a98684c767d92af327486a1aa825d04c346cfe21f28bcd2330d9c20a0b74331a454f2449cf0add3cd6f7f64566b576418fc881940c"
 }
