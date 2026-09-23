@@ -1,8 +1,8 @@
 {
-  "version": "1.8.2.0",
-  "notes": "Mes Courses : la carte « Mes listes » a son ascenseur elle aussi. Au-delà d'une dizaine de listes enregistrées, la colonne de gauche passait sous le bas de la fenêtre. La boîte se serre exactement sur son contenu quand il y en a peu, et plafonne ensuite. Les boutons « Enregistrer ce qui est coché » et « Tout décocher » restent au-dessus, toujours à la même place.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.8.2.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.8.2.0.exe",
-  "sha256": "a25f0fb9296f4da27e94ddc1e21a951f8ed2884fa1ba6aec8f2c44357947dd7d",
-  "signature": "61c1a1431133b51375b98d08789a37418737103437f375d8ebe0adb21ebb670caa53d5706c4d4e29bf9555697312f14a6dae3b6113c2ef63f1d2e16472e4db03"
+  "version": "1.8.3.0",
+  "notes": "Mes Courses : la liste commence maintenant en haut de l'écran. Elle était repoussée de 155 pixels vers le bas par une phrase d'explication qui ne la concernait pas et par une barre de boutons en double emploi ; les boutons sont montés sur la ligne du titre. Un écran sans phrase à afficher ne réserve plus de place pour elle.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.8.3.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.8.3.0.exe",
+  "sha256": "60e314892d20bcc7e8500e822391b85812f5d459d7dc66606ee0f515eff9c6eb",
+  "signature": "af39baa1f5d20a32ca5278e3547a6b1e31d57e76f1ec2c6ce10d440c4db30df7ebc70ce6aca8dd1b3e743483815dbbd8f2295b5b661cde1cd1253a502fa12306"
 }
