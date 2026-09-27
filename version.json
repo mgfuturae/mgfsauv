@@ -1,8 +1,8 @@
 {
-  "version": "1.12.0.0",
-  "notes": "Votre sauvegarde complète passe désormais d'un ordinateur à l'autre par votre propre serveur. Dans « Sauvegardes et restaurations », un bouton envoie tout — fiches, agenda, comptabilité, documents joints — déjà chiffré par votre mot de passe ; sur l'autre ordinateur, un second bouton la reprend et remet tout en place. Le serveur ne détient rien pour l'ouvrir : il garde un bloc qu'il ne peut pas lire, et le mot de passe ne quitte jamais les deux ordinateurs. L'envoi est refusé si vos données ne sont pas protégées par un mot de passe, et l'archive reçue est vérifiée octet par octet avant d'être ouverte. La reprise contrôle la version du logiciel avant de remplacer quoi que ce soit : une sauvegarde venue d'une version plus récente est refusée, en disant laquelle installer d'abord. Comme pour une sauvegarde de clé USB, une copie datée de vos données d'aujourd'hui est écrite avant le remplacement. Le droit d'envoyer se donne, et se retire, dans « Mon compte » sur le site.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.12.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.12.0.0.exe",
-  "sha256": "4e656eea4ae48e7dbd34351e1456eb969f8cfe34751606d26a08fa6c7743ebaf",
-  "signature": "c956687da12bc2e030e95cec38ed53d35f4f471bce381959e2fb6db63eacc2c905603b9e9e6cd9087da78b3bf741c8d2774b85e76486d305d41492630472950c"
+  "version": "1.13.0.0",
+  "notes": "Votre sauvegarde passe désormais d'un ordinateur à l'autre toute seule. Sur celui où vous saisissez, un bouton : « Envoyer ma sauvegarde sur mon serveur ». Sur l'autre, rien à faire — à l'ouverture de votre base, il demande à votre serveur s'il y a une sauvegarde autre que la sienne, la prend, remet tout en place et vous le dit ensuite. Aucune clé à coller, aucun réglage, aucune question : les deux ordinateurs se reconnaissent par votre adresse de connexion et votre mot de passe, que le serveur ne reçoit jamais — il n'en voit qu'une empreinte, qui n'ouvre rien. L'archive part chiffrée par votre mot de passe et le serveur ne peut pas la lire. Avant de remplacer quoi que ce soit, la version du logiciel est vérifiée : une sauvegarde venue d'une version plus récente est refusée, en disant laquelle installer d'abord, et une copie datée de vos données du jour est écrite à chaque fois. Sans réseau, l'application s'ouvre comme avant.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.13.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.13.0.0.exe",
+  "sha256": "86310eeb079705412ac244156f1d73041fb3d0f97e038ae5ac4199b6cc74e845",
+  "signature": "bcc71793dd45a6786336cbc55fe55faad208c9449f28dc90feee7a10673134d01735c8b620ab7de88d6843c1b29be2f631507a938b20da2e1c08a49684696302"
 }
