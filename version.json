@@ -1,8 +1,8 @@
 {
-  "version": "1.22.0.0",
-  "notes": "La feuille de route du jour revient, reprise du Portail : un bouton en haut du tableau de bord écrit et ouvre un document prêt à imprimer — la météo sur sept jours, Mon Quotidien, les échéances des quinze prochains jours, les tâches en cours, les sorties à venir et les commandes en cours. La météo est celle de la ville de votre adresse (Paramètres) : seuls la ville et son code postal partent sur Internet.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.22.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.22.0.0.exe",
-  "sha256": "426c829b1365e829f5363c18b5fb5170934d84687e86da4dfafe902efb11999a",
-  "signature": "b87015e2a871833e3346e81d6aed2f49fdcc94839136d206b2cc4ba5a6cbb9b7a79f69761c8e1f4436c213a6009980041923311ad9125a484000efce8530aa03"
+  "version": "1.23.0.0",
+  "notes": "La météo de la feuille de route trouve votre ville par son code postal : « Nogent sur Marne », en majuscules, sans tirets ou abrégé, est reconnu, et entre deux communes qui partagent un code postal, c'est celle dont le nom correspond. Une adresse écrite sur une seule ligne est bien découpée : seul le code postal part sur Internet, jamais la rue.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.23.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.23.0.0.exe",
+  "sha256": "2a889b6943f83116b841ee414d4142e29c023ea098db01e91d9584cc769b0136",
+  "signature": "7ad9bb5d3f9947a263ec40d293381236b46f425bc3730f8ab05a78aec352571607403c604995cfca0492826f3e95364a3e488f8687cb25200dc073de4a4e150b"
 }
