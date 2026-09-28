@@ -1,8 +1,8 @@
 {
-  "version": "1.25.0.0",
-  "notes": "La feuille de route ne montre plus un bien loué qui n'est pas compté dans votre patrimoine : ni ses loyers du mois, ni ses échéances.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.25.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.25.0.0.exe",
-  "sha256": "c382290e3b121f0852a6eba3b0dc9a394072ebe6c529b41e39c56b8edf297a37",
-  "signature": "9a63caa32d436839a5d9aa3cc1e9d6de1c3939e53e957c5ad29b18c0717f31aa8dc58e45241502abcdbe9f67d07cf68871f6469dd2e49c93eb148fc9b83a2200"
+  "version": "1.26.0.0",
+  "notes": "Tous les PDF portent un numéro de page, la feuille de route comprise. Les courriers de notification se numérotent lettre par lettre.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.26.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.26.0.0.exe",
+  "sha256": "949a2bae2183b2e9e8c2d88f1c76bc654eb18980d0453fc9210dd628058ab10a",
+  "signature": "dded9849333bc3e50a81d3a539bfea598ac18c3cd21ad31e1ae612a89527565af7014c6a43a2ddfd35984173a6a24634b9e70d1872c2c6cce20b45b0ce001b08"
 }
