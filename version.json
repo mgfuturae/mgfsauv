@@ -1,8 +1,8 @@
 {
-  "version": "1.28.0.0",
-  "notes": "La feuille de route se règle dans Paramètres : chaque carte peut être retirée. Elle se prépare toute seule à la première ouverture du jour, et se publie sur le téléphone comme le tableau de bord.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.28.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.28.0.0.exe",
-  "sha256": "ca9e8ae455f0f1b1e851f5fd753a76def2df729e89535a4d4c5c2eae2e660251",
-  "signature": "7a6ccc2e3707e9706b835eb5863c310acc5a90bfaefba989d7bef25504eed1de0bb5618ed80c0e86083b8b62cd9b825bf0d3634d47cd444bf688fa26dcd5250c"
+  "version": "1.29.0.0",
+  "notes": "Dans l'agenda, les jours du mois prennent la couleur qui était celle des jours des mois voisins, et inversement.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.29.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.29.0.0.exe",
+  "sha256": "03d9e30960a86332118f3d27c06bfca4a2b8cc9828245056626cebaab7f8ace9",
+  "signature": "4f123d88c977dfbc6288d156bce44f55c749797d8dc1bd9143263b7a5742edccee4005ac4b93da2fd91356e0fb47358f681ca73a8ca8a7564c820e990a07dc0d"
 }
