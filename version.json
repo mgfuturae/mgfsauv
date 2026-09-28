@@ -1,8 +1,8 @@
 {
-  "version": "1.17.0.0",
-  "notes": "La fermeture automatique ne fait plus perdre de saisie. Avant de se fermer, l'application enregistre la fiche ouverte — sans intitulé, elle est gardée sous « À compléter — date heure » plutôt que perdue — et si une autre fenêtre de saisie est ouverte, elle attend au lieu de fermer. Les dix minutes se comptent désormais depuis la dernière touche ou le dernier mouvement de souris sur tout l'ordinateur : travailler dans une autre fenêtre, lire un bulletin de paie par exemple, ne compte plus comme une absence.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.17.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.17.0.0.exe",
-  "sha256": "56174236ffc91a463f3ac90f1cd96edeaa27590e508f529f0ae09e0c5cafc801",
-  "signature": "cc36edbd93378047ae6493456b08219fd4a805a81fae923b8d27fb32324ea0a9dbcb0d597c72cae69556d48c4b4baf9101b82b6c243d713469f236790beb6a0b"
+  "version": "1.18.0.0",
+  "notes": "La fiche Domotique d'un bien porte un bouton « Analyser mon réseau ». En une quinzaine de secondes, il fait l'inventaire de ce qui est branché chez vous — box, Wi-Fi, ordinateurs, téléphones, TV, hi-fi, imprimante, serveur — et le range par sorte d'appareil. La liste s'écrit dans un nouveau champ, « Appareils du réseau », gardé à l'enregistrement de la fiche ; un plan PDF, avec le détail de chaque appareil, est joint à la fiche et chiffré comme les autres documents. « Autres équipements » n'est jamais touché. Rien ne sort de la maison : aucune adresse n'est envoyée à un service en ligne.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.18.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.18.0.0.exe",
+  "sha256": "3b73edf529fde923bbb89ec8d218d824569585a75a25780299412ff0b4dab103",
+  "signature": "528c2fca37cbf77952f727f6e318b7d11b492da15d28e2f6f6929fa67cb793cd65ba14db2b0acf6da979d981d29166b67d94b4d2a4d039d676b03ee288782806"
 }
