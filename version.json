@@ -1,8 +1,8 @@
 {
-  "version": "1.14.0.0",
-  "notes": "L'application se ferme maintenant toute seule après dix minutes sans rien toucher : la base est chiffrée et son mot de passe demandé à l'ouverture, mais une application laissée ouverte annulait cette protection — tout était lisible par qui passait devant l'écran. Une touche, un clic, la molette ou un simple mouvement de souris remettent le compteur à zéro, et une minute avant la fermeture un bandeau prévient. La fermeture est propre : la base est rangée et les copies en clair des documents ouverts sont effacées.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.14.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.14.0.0.exe",
-  "sha256": "a856b54cb274e870fcdb182b9528fad8d271709fed840e272884e91ac48c1cde",
-  "signature": "df8eda3f323e24ca507ff246d08ddd5de32373942a3653efd5910b976a5dc4fe65937ebd2030b46d7eb3fe9880bf26b043a4c3f6ce905aa6702502043a293d01"
+  "version": "1.15.0.0",
+  "notes": "« Envoyer ma sauvegarde » est maintenant sur la première page, dans la barre du haut, à côté de « Synchroniser avec mon téléphone » : un clic, depuis n'importe quel écran. Sur une fenêtre étroite, la barre se replie d'elle-même au lieu d'écraser ses boutons — la devise s'efface d'abord, puis le numéro de version, puis les libellés se raccourcissent — et tout revient dès que la fenêtre s'agrandit. En plein écran, rien ne change.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.15.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.15.0.0.exe",
+  "sha256": "6ae953f5640518117ad0a7377399483ac722ab2032e912b3f35ed796a6ce0e40",
+  "signature": "d772d6cbe1b355a4f7f94c5d84eb1af92c85915c82aa3c96bdd4262664da108686304789bbb8c678a73cf3507284f66f7ab8e943bb030c4ad4ed2901e2e1a50e"
 }
