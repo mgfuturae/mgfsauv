@@ -1,8 +1,8 @@
 {
-  "version": "1.24.0.0",
-  "notes": "La feuille de route du jour s'enrichit : la fête du jour, le lever et le coucher du soleil, l'indice UV et les rafales, la qualité de l'air et les pollens, vos traitements en cours, les loyers et le budget du mois, votre portefeuille, les carburants les moins chers à 5 km et les titres de franceinfo. L'agenda n'annonce plus de loyer après la fin d'un bail.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.24.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.24.0.0.exe",
-  "sha256": "b1fac6d30e6e166ad2877bda6b5c2acac394becb3f4a57d7267ae5d1e89c69ac",
-  "signature": "6e4001c33c20d98037454eaf57b8f771bed6bcbd3b6a4633c55a2a7102c6db21214c9daf5609abc44f044a92d27484f0bebb02e2c3ed67f3b05cda0ee1fa3c05"
+  "version": "1.25.0.0",
+  "notes": "La feuille de route ne montre plus un bien loué qui n'est pas compté dans votre patrimoine : ni ses loyers du mois, ni ses échéances.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.25.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.25.0.0.exe",
+  "sha256": "c382290e3b121f0852a6eba3b0dc9a394072ebe6c529b41e39c56b8edf297a37",
+  "signature": "9a63caa32d436839a5d9aa3cc1e9d6de1c3939e53e957c5ad29b18c0717f31aa8dc58e45241502abcdbe9f67d07cf68871f6469dd2e49c93eb148fc9b83a2200"
 }
