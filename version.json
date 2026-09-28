@@ -1,8 +1,8 @@
 {
-  "version": "1.20.0.0",
-  "notes": "La fenêtre du mot de passe affiche le numéro de version, à côté du nom de l'application : on sait sur quelle version on entre avant même d'ouvrir ses données.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.20.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.20.0.0.exe",
-  "sha256": "9c4f1c013d6c0f135294d9568e8305f6b38c4f13a7e02546b51e6e6f5a42f304",
-  "signature": "be8337bd925b7d75fbeb23852a1162134fd62cc95d238d591492fc23fd39a4105ec5cf33748a54f8ff27212fc522df41ce69a9b3c9b93f06392161e9e8270b00"
+  "version": "1.21.0.0",
+  "notes": "Trois nouveaux formulaires. « Mes Véhicules » : carte grise, contrôle technique, kilométrage, révisions, pneus, assurance et financement, avec leurs rappels dans l'agenda. « Mes Assurances » : un contrat par fiche, son échéance annuelle annoncée chaque année. « Mes Impôts » : une année par fiche, avec les dates limites de déclaration et de taxes. Les assureurs rejoignent le guide « En cas de décès ». L'alerte d'expiration des papiers d'identité réglée dans Paramètres fonctionne enfin, et la fin de chaque crédit est annoncée. La fiche d'un bien loué montre sa rentabilité brute et nette, et ce qui reste chaque mois une fois le crédit payé. Les cours du portefeuille se mettent à jour tout seuls, une fois par jour, et le patrimoine compte sa valeur du jour. La démonstration remplit désormais tous les champs.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.21.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.21.0.0.exe",
+  "sha256": "b430735425bd9287344919f275ffbf42567679394f1f6c2410cdaf9f37ffea53",
+  "signature": "54acf0166e2ac8cdb76846c6b6ce16d0db199161119d2ca5079bfc2a3b31df0695cc4c869f3fd07133dbde17cdfa55496af3d85d2564c882cf77a47a67a0ee04"
 }
