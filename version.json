@@ -1,8 +1,8 @@
 {
-  "version": "1.18.0.0",
-  "notes": "La fiche Domotique d'un bien porte un bouton « Analyser mon réseau ». En une quinzaine de secondes, il fait l'inventaire de ce qui est branché chez vous — box, Wi-Fi, ordinateurs, téléphones, TV, hi-fi, imprimante, serveur — et le range par sorte d'appareil. La liste s'écrit dans un nouveau champ, « Appareils du réseau », gardé à l'enregistrement de la fiche ; un plan PDF, avec le détail de chaque appareil, est joint à la fiche et chiffré comme les autres documents. « Autres équipements » n'est jamais touché. Rien ne sort de la maison : aucune adresse n'est envoyée à un service en ligne.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.18.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.18.0.0.exe",
-  "sha256": "3b73edf529fde923bbb89ec8d218d824569585a75a25780299412ff0b4dab103",
-  "signature": "528c2fca37cbf77952f727f6e318b7d11b492da15d28e2f6f6929fa67cb793cd65ba14db2b0acf6da979d981d29166b67d94b4d2a4d039d676b03ee288782806"
+  "version": "1.19.0.0",
+  "notes": "L'analyse du réseau de la fiche Domotique en dit beaucoup plus. Pour chaque appareil : son modèle exact, son numéro de série et la version de son logiciel quand il les publie, son nom Windows, ses services ouverts, sa page d'administration et son temps de réponse ; pour une imprimante, son état, son emplacement et le niveau de chaque encre. Pour le réseau : la box, le Wi-Fi de cet ordinateur (bande, canal, norme, sécurité, signal, débits) et l'appareil auquel il est relié. Une rubrique « À regarder » signale sans alarmer ce qui mérite un coup d'œil — un bureau à distance ouvert, une encre basse. Le plan PDF porte désormais une fiche par appareil. Tout reste dans la maison : les appareils sont interrogés sur le réseau local, rien n'est envoyé au-dehors. L'analyse prend environ quarante secondes, et le bandeau dit l'étape en cours.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.19.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.19.0.0.exe",
+  "sha256": "cfa5701f1fd37f35aed45621da0124d46d0b542481883b225e0ee3c69aa10b02",
+  "signature": "2c8d7ce2e40ecba15d745a5e3dd27429927d98d7f7ceedec18166e3332fbfd14bc44ba6abf5b9a4e36a6c09a9acb0f7d0f18305b1f01168137d90b4ec138ef0c"
 }
