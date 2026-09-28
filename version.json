@@ -1,8 +1,8 @@
 {
-  "version": "1.15.0.0",
-  "notes": "« Envoyer ma sauvegarde » est maintenant sur la première page, dans la barre du haut, à côté de « Synchroniser avec mon téléphone » : un clic, depuis n'importe quel écran. Sur une fenêtre étroite, la barre se replie d'elle-même au lieu d'écraser ses boutons — la devise s'efface d'abord, puis le numéro de version, puis les libellés se raccourcissent — et tout revient dès que la fenêtre s'agrandit. En plein écran, rien ne change.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.15.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.15.0.0.exe",
-  "sha256": "6ae953f5640518117ad0a7377399483ac722ab2032e912b3f35ed796a6ce0e40",
-  "signature": "d772d6cbe1b355a4f7f94c5d84eb1af92c85915c82aa3c96bdd4262664da108686304789bbb8c678a73cf3507284f66f7ab8e943bb030c4ad4ed2901e2e1a50e"
+  "version": "1.16.0.0",
+  "notes": "La liste « Mon Entreprise (Salarié) » n'affiche plus les stock-options ni les actions gratuites : ce sont des détails de la fiche, inutiles pour choisir une ligne. Ils restent dans la fiche, rien n'est effacé ; leur place dans la liste revient aux champs qui servent à reconnaître un emploi — l'employeur, le poste, la date d'entrée.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.16.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.16.0.0.exe",
+  "sha256": "b619cdbdcb1d82f241bf913b8b24996fa750a14fed66f5e31c6880d7a9e4008c",
+  "signature": "b63806d31d3443c7e544ddb48c8ade143ccbd1b337773acaa8e5c292e704bf34442fcd0daecd0dcea690a870db49368d0adb204c5be3cf84a2fcda0e61b50805"
 }
