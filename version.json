@@ -1,8 +1,8 @@
 {
-  "version": "1.26.0.0",
-  "notes": "Tous les PDF portent un numéro de page, la feuille de route comprise. Les courriers de notification se numérotent lettre par lettre.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.26.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.26.0.0.exe",
-  "sha256": "949a2bae2183b2e9e8c2d88f1c76bc654eb18980d0453fc9210dd628058ab10a",
-  "signature": "dded9849333bc3e50a81d3a539bfea598ac18c3cd21ad31e1ae612a89527565af7014c6a43a2ddfd35984173a6a24634b9e70d1872c2c6cce20b45b0ce001b08"
+  "version": "1.27.0.0",
+  "notes": "Gestion des éditions montre tous les formulaires, dont Mes Véhicules, Mes Assurances et Mes Impôts. Un formulaire sans fiche est grisé : il se coche dès sa première fiche.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.27.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.27.0.0.exe",
+  "sha256": "6f4574529dab80f77f7f1b8ae60e838e711a3cf50984f266bd62243455dcd942",
+  "signature": "2b4c653c42c96975022c46c34173ae66b2f28b9c208ac9593baadcc5232162c6f67733a308cefe695a45ea373fb9922616101ddae0c7a0697ded6e308766720d"
 }
