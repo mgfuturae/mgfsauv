@@ -1,8 +1,8 @@
 {
-  "version": "1.19.0.0",
-  "notes": "L'analyse du réseau de la fiche Domotique en dit beaucoup plus. Pour chaque appareil : son modèle exact, son numéro de série et la version de son logiciel quand il les publie, son nom Windows, ses services ouverts, sa page d'administration et son temps de réponse ; pour une imprimante, son état, son emplacement et le niveau de chaque encre. Pour le réseau : la box, le Wi-Fi de cet ordinateur (bande, canal, norme, sécurité, signal, débits) et l'appareil auquel il est relié. Une rubrique « À regarder » signale sans alarmer ce qui mérite un coup d'œil — un bureau à distance ouvert, une encre basse. Le plan PDF porte désormais une fiche par appareil. Tout reste dans la maison : les appareils sont interrogés sur le réseau local, rien n'est envoyé au-dehors. L'analyse prend environ quarante secondes, et le bandeau dit l'étape en cours.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.19.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.19.0.0.exe",
-  "sha256": "cfa5701f1fd37f35aed45621da0124d46d0b542481883b225e0ee3c69aa10b02",
-  "signature": "2c8d7ce2e40ecba15d745a5e3dd27429927d98d7f7ceedec18166e3332fbfd14bc44ba6abf5b9a4e36a6c09a9acb0f7d0f18305b1f01168137d90b4ec138ef0c"
+  "version": "1.20.0.0",
+  "notes": "La fenêtre du mot de passe affiche le numéro de version, à côté du nom de l'application : on sait sur quelle version on entre avant même d'ouvrir ses données.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.20.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.20.0.0.exe",
+  "sha256": "9c4f1c013d6c0f135294d9568e8305f6b38c4f13a7e02546b51e6e6f5a42f304",
+  "signature": "be8337bd925b7d75fbeb23852a1162134fd62cc95d238d591492fc23fd39a4105ec5cf33748a54f8ff27212fc522df41ce69a9b3c9b93f06392161e9e8270b00"
 }
