@@ -1,8 +1,8 @@
 {
-  "version": "1.23.0.0",
-  "notes": "La météo de la feuille de route trouve votre ville par son code postal : « Nogent sur Marne », en majuscules, sans tirets ou abrégé, est reconnu, et entre deux communes qui partagent un code postal, c'est celle dont le nom correspond. Une adresse écrite sur une seule ligne est bien découpée : seul le code postal part sur Internet, jamais la rue.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.23.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.23.0.0.exe",
-  "sha256": "2a889b6943f83116b841ee414d4142e29c023ea098db01e91d9584cc769b0136",
-  "signature": "7ad9bb5d3f9947a263ec40d293381236b46f425bc3730f8ab05a78aec352571607403c604995cfca0492826f3e95364a3e488f8687cb25200dc073de4a4e150b"
+  "version": "1.24.0.0",
+  "notes": "La feuille de route du jour s'enrichit : la fête du jour, le lever et le coucher du soleil, l'indice UV et les rafales, la qualité de l'air et les pollens, vos traitements en cours, les loyers et le budget du mois, votre portefeuille, les carburants les moins chers à 5 km et les titres de franceinfo. L'agenda n'annonce plus de loyer après la fin d'un bail.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.24.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.24.0.0.exe",
+  "sha256": "b1fac6d30e6e166ad2877bda6b5c2acac394becb3f4a57d7267ae5d1e89c69ac",
+  "signature": "6e4001c33c20d98037454eaf57b8f771bed6bcbd3b6a4633c55a2a7102c6db21214c9daf5609abc44f044a92d27484f0bebb02e2c3ed67f3b05cda0ee1fa3c05"
 }
