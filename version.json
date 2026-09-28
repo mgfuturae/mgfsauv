@@ -1,8 +1,8 @@
 {
-  "version": "1.16.0.0",
-  "notes": "La liste « Mon Entreprise (Salarié) » n'affiche plus les stock-options ni les actions gratuites : ce sont des détails de la fiche, inutiles pour choisir une ligne. Ils restent dans la fiche, rien n'est effacé ; leur place dans la liste revient aux champs qui servent à reconnaître un emploi — l'employeur, le poste, la date d'entrée.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.16.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.16.0.0.exe",
-  "sha256": "b619cdbdcb1d82f241bf913b8b24996fa750a14fed66f5e31c6880d7a9e4008c",
-  "signature": "b63806d31d3443c7e544ddb48c8ade143ccbd1b337773acaa8e5c292e704bf34442fcd0daecd0dcea690a870db49368d0adb204c5be3cf84a2fcda0e61b50805"
+  "version": "1.17.0.0",
+  "notes": "La fermeture automatique ne fait plus perdre de saisie. Avant de se fermer, l'application enregistre la fiche ouverte — sans intitulé, elle est gardée sous « À compléter — date heure » plutôt que perdue — et si une autre fenêtre de saisie est ouverte, elle attend au lieu de fermer. Les dix minutes se comptent désormais depuis la dernière touche ou le dernier mouvement de souris sur tout l'ordinateur : travailler dans une autre fenêtre, lire un bulletin de paie par exemple, ne compte plus comme une absence.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.17.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.17.0.0.exe",
+  "sha256": "56174236ffc91a463f3ac90f1cd96edeaa27590e508f529f0ae09e0c5cafc801",
+  "signature": "cc36edbd93378047ae6493456b08219fd4a805a81fae923b8d27fb32324ea0a9dbcb0d597c72cae69556d48c4b4baf9101b82b6c243d713469f236790beb6a0b"
 }
