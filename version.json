@@ -1,8 +1,8 @@
 {
-  "version": "1.27.0.0",
-  "notes": "Gestion des éditions montre tous les formulaires, dont Mes Véhicules, Mes Assurances et Mes Impôts. Un formulaire sans fiche est grisé : il se coche dès sa première fiche.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.27.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.27.0.0.exe",
-  "sha256": "6f4574529dab80f77f7f1b8ae60e838e711a3cf50984f266bd62243455dcd942",
-  "signature": "2b4c653c42c96975022c46c34173ae66b2f28b9c208ac9593baadcc5232162c6f67733a308cefe695a45ea373fb9922616101ddae0c7a0697ded6e308766720d"
+  "version": "1.28.0.0",
+  "notes": "La feuille de route se règle dans Paramètres : chaque carte peut être retirée. Elle se prépare toute seule à la première ouverture du jour, et se publie sur le téléphone comme le tableau de bord.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.28.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.28.0.0.exe",
+  "sha256": "ca9e8ae455f0f1b1e851f5fd753a76def2df729e89535a4d4c5c2eae2e660251",
+  "signature": "7a6ccc2e3707e9706b835eb5863c310acc5a90bfaefba989d7bef25504eed1de0bb5618ed80c0e86083b8b62cd9b825bf0d3634d47cd444bf688fa26dcd5250c"
 }
