@@ -1,8 +1,8 @@
 {
-  "version": "1.45.0.0",
-  "notes": "Le trombone 📎 en couleur, au bout de la ligne. « Mes Proches » avant Mes Contacts. « Déplacer… » propose le dernier formulaire et la dernière fiche choisis. Le lieu de naissance ne propose plus de date.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.45.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.45.0.0.exe",
-  "sha256": "6edcbd2e31d89e99dedf2f9e30b46956881606641c26d63f74bc471a56210fb8",
-  "signature": "d442dc2f9e6858f58bb0de78c0db44348e61572c1fdac24622aeb751b90a2bee46598ea97ab3fc9b0a906b74031ff5dbac0b4fc035327f5924bfb532c6fb890d"
+  "version": "1.46.0.0",
+  "notes": "« Compté dans le patrimoine » quitte les formulaires : la case « Fiche ignorée » le remplace. Les fiches qui répondaient Non deviennent des fiches ignorées.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.46.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.46.0.0.exe",
+  "sha256": "03984705f9c49d365f891925d8490419c306283e6fc193e4720e08d8183e9518",
+  "signature": "50c23050bcea6fabe9ed677f2424e40f7e23a52bec05b2957603e2dfae9afc77e031c1a5f8d49056770afd514b92a67066b9ccbfc7250b2e068b15eeb20df802"
 }
