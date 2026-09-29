@@ -1,8 +1,8 @@
 {
-  "version": "1.44.0.0",
-  "notes": "Nouveau formulaire « Mes Proches » (Ma Vie), qui reçoit ses documents. Une pièce jointe se déplace d'une fiche à une autre (« Déplacer… »). Le trombone 📎 signale les fiches qui ont des documents.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.44.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.44.0.0.exe",
-  "sha256": "b585760ba13350d3cff2a6ae5d743ae53735851bce06fd473ce4aefe20ef09c0",
-  "signature": "fa35e9b383d4f71323df5c0be4867d6ccc86b05f0f2dacb666a08a000a8d30e6965bf6d174618062261ef087069841c38b61c14043d33ac2ceaf67d283bf8600"
+  "version": "1.45.0.0",
+  "notes": "Le trombone 📎 en couleur, au bout de la ligne. « Mes Proches » avant Mes Contacts. « Déplacer… » propose le dernier formulaire et la dernière fiche choisis. Le lieu de naissance ne propose plus de date.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.45.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.45.0.0.exe",
+  "sha256": "6edcbd2e31d89e99dedf2f9e30b46956881606641c26d63f74bc471a56210fb8",
+  "signature": "d442dc2f9e6858f58bb0de78c0db44348e61572c1fdac24622aeb751b90a2bee46598ea97ab3fc9b0a906b74031ff5dbac0b4fc035327f5924bfb532c6fb890d"
 }
