@@ -1,8 +1,8 @@
 {
-  "version": "1.39.0.0",
-  "notes": "Mes documents : l'intitulé de la fiche se modifie, et ne prend plus le nom de la catégorie à l'enregistrement.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.39.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.39.0.0.exe",
-  "sha256": "ab8e35a5031945dc16fe648ac96a586c930efe55cd47d6e7e5456cfd196aa6a7",
-  "signature": "f1cc064536ca3fe9f32a423716e8deabd71720ac9ee08c446a4f6639355ebe7eaa49f58854202b53b15d502b4ac0f30ec7d5517f4747aaeaab9da2708d61fc0c"
+  "version": "1.40.0.0",
+  "notes": "Un billet de spectacle va à la sortie de sa date, ou crée la sienne. Mes documents : « Affecter aux fiches » relit les documents et les envoie dans leurs fiches.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.40.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.40.0.0.exe",
+  "sha256": "71acafecd21c07ae24e64a5027f12fea60283423987c52914dac996f7d15b8f0",
+  "signature": "d5805b6b650a4fdc43fdea110f761cdbc2a7f8986e045a26dbae10f7fc63ce5e5bf7214c5dcdcd26c430f2179a558980bcc7a24912d13fc8560d64d0b7ae5a0a"
 }
