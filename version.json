@@ -1,8 +1,8 @@
 {
-  "version": "1.32.0.0",
-  "notes": "Un document ouvert depuis une fiche ne laisse plus de copie lisible sur l'ordinateur : même s'il était encore ouvert à la fermeture, sa copie est effacée à l'ouverture suivante de l'application.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.32.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.32.0.0.exe",
-  "sha256": "081326b0ec2bdd1a17feb15991f7a94e2375f645752fb0a3aa6d6b6c5d4a7fd6",
-  "signature": "7a16b19559e28803fbd4675ea026c2a991479847355029a782f015e284ed6fdf32380d5aae5113dc5e97082d86dcad68aa37acaa3c8df4f4a92579d7454d790f"
+  "version": "1.33.0.0",
+  "notes": "L'application retrouve sa rapidité : depuis la 1.31, chaque enregistrement la figeait environ une seconde, le temps de tout rechiffrer.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.33.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.33.0.0.exe",
+  "sha256": "c5e25ca47170fa06054ecc3dee6a7d15d8436502e0f1f1ace7b9613525d0dd23",
+  "signature": "eb166ca5e6da4a25632c8d9f966e959d4366d1f67a6d4ca326057fdfed707cd917cb05fa6eecd1bae60608cae67d2c025c927ae968e623feb6eb0b509a1d9a0d"
 }
