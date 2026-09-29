@@ -1,8 +1,8 @@
 {
-  "version": "1.47.0.0",
-  "notes": "« Envoyer ma sauvegarde » : une barre d'avancement montre la préparation, le chiffrement puis l'envoi.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.47.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.47.0.0.exe",
-  "sha256": "88928eb80709565a7ba938a726409048fbf0d7214a7b156d4b8b5ca4f96ba09e",
-  "signature": "e8656a9adae38b5410303548f5e08b4dcc749419490362e27c4bfeb6e5d917dd36ea47939222f99683d8b27ab122c8435ceddde7eef3d7914b5943455828a009"
+  "version": "1.48.0.0",
+  "notes": "Plus de fenêtre après l'envoi de la sauvegarde : la barre suffit. Le bouton « Synchroniser avec mon téléphone » quitte la barre du haut : l'échange se fait tout seul.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.48.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.48.0.0.exe",
+  "sha256": "e69452760fb8bbefe1cc9a6a8686bd46e58ac17d47dd153fba8afced2dd0521b",
+  "signature": "ae9e9749a35632fb0606846284f1a2dddf8f760734d0f0bec003cbe248417cce0a0f0103a8ebbc7b115c0128f9a54c601dddcf1426ad4f5edeb69bfda870bd0c"
 }
