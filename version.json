@@ -1,8 +1,8 @@
 {
-  "version": "1.35.0.0",
-  "notes": "La sauvegarde reçue de votre serveur ne reste plus sur l'autre ordinateur une fois installée.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.35.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.35.0.0.exe",
-  "sha256": "bc682f82aa9cc5e712e534abe0a9638214ced11265a53842a7160df8f13dc8fd",
-  "signature": "397b035735e718206548bdeceb8301ca0ddf29db371bbae085a5527401984a9ea977e4aaab8d053502a65961f04229cb41edc3cc212ee3a52ad8e5ec81fc7905"
+  "version": "1.36.0.0",
+  "notes": "Quand une sauvegarde arrive de votre serveur, une fenêtre montre où en est son installation : téléchargement, déchiffrement, documents.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.36.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.36.0.0.exe",
+  "sha256": "9969e13549013f8ef601f8e9209023c4b240f6239937e6ea0789a4eeaf09f17d",
+  "signature": "3b30f3eb0d0118d2df64011123fa36b9ca28866f3489ff4b420c49bb41e0cb591583bdce5e4e0e1680612d7a5e7bdcda431557cabf66166582aebff0c591b60a"
 }
