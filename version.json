@@ -1,8 +1,8 @@
 {
-  "version": "1.43.0.0",
-  "notes": "Le trombone 📎 : dans chaque liste, devant les fiches qui ont des documents joints ; dans la fiche, sous son intitulé, avec leur nombre.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.43.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.43.0.0.exe",
-  "sha256": "b74d9aafb5adeee55c363e8af0c90a68b06b72438a87b8c38ee06ce5f412a1d2",
-  "signature": "1816b204c9a26e6ddde584d8bf39ff4008967cfee914cf576b6c0c4374819446cd25e865a007132ffe7aa9ae3f978f092c1c9b83555b4e176703201e96474407"
+  "version": "1.44.0.0",
+  "notes": "Nouveau formulaire « Mes Proches » (Ma Vie), qui reçoit ses documents. Une pièce jointe se déplace d'une fiche à une autre (« Déplacer… »). Le trombone 📎 signale les fiches qui ont des documents.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.44.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.44.0.0.exe",
+  "sha256": "b585760ba13350d3cff2a6ae5d743ae53735851bce06fd473ce4aefe20ef09c0",
+  "signature": "fa35e9b383d4f71323df5c0be4867d6ccc86b05f0f2dacb666a08a000a8d30e6965bf6d174618062261ef087069841c38b61c14043d33ac2ceaf67d283bf8600"
 }
