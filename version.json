@@ -1,8 +1,8 @@
 {
-  "version": "1.42.0.0",
-  "notes": "« Fiche ignorée » : une case sous l'en-tête de chaque fiche. Cochée, la fiche reste visible et modifiable, mais n'entre plus dans les calculs ni dans les éditions.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.42.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.42.0.0.exe",
-  "sha256": "1b02ea8829c406df874583cd9a7670a89cacff84798816ad32760590f9a66d05",
-  "signature": "3717a41d2956612da706c086eaa0b2b717ed1b14426ac5494b39fbb6fb83bdaa804e048062c76855fbe8ac2dca968c8a14cb00bdddd340d5574ead9a69ade307"
+  "version": "1.43.0.0",
+  "notes": "Le trombone 📎 : dans chaque liste, devant les fiches qui ont des documents joints ; dans la fiche, sous son intitulé, avec leur nombre.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.43.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.43.0.0.exe",
+  "sha256": "b74d9aafb5adeee55c363e8af0c90a68b06b72438a87b8c38ee06ce5f412a1d2",
+  "signature": "1816b204c9a26e6ddde584d8bf39ff4008967cfee914cf576b6c0c4374819446cd25e865a007132ffe7aa9ae3f978f092c1c9b83555b4e176703201e96474407"
 }
