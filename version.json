@@ -1,8 +1,8 @@
 {
-  "version": "1.38.0.0",
-  "notes": "Joindre plusieurs documents d'un coup (Ctrl + clic). Mes documents : ranger tout un dossier dans les bonnes fiches, le reste dans Mes documents. Un document déjà présent n'est jamais joint deux fois.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.38.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.38.0.0.exe",
-  "sha256": "41b1081218e16c61c6526de0dfbc26ce209f945bde4e7a8f9d0201578e5920c0",
-  "signature": "e47c7a455181f669e444d442804b3fe2c5996e78ff8a9f329e4662f9ae78523503322abd8a81529f4daed05ea5772c3f72f489aae6f7b5a1590972a4de6f4a03"
+  "version": "1.39.0.0",
+  "notes": "Mes documents : l'intitulé de la fiche se modifie, et ne prend plus le nom de la catégorie à l'enregistrement.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.39.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.39.0.0.exe",
+  "sha256": "ab8e35a5031945dc16fe648ac96a586c930efe55cd47d6e7e5456cfd196aa6a7",
+  "signature": "f1cc064536ca3fe9f32a423716e8deabd71720ac9ee08c446a4f6639355ebe7eaa49f58854202b53b15d502b4ac0f30ec7d5517f4747aaeaab9da2708d61fc0c"
 }
