@@ -1,8 +1,8 @@
 {
-  "version": "1.46.0.0",
-  "notes": "« Compté dans le patrimoine » quitte les formulaires : la case « Fiche ignorée » le remplace. Les fiches qui répondaient Non deviennent des fiches ignorées.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.46.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.46.0.0.exe",
-  "sha256": "03984705f9c49d365f891925d8490419c306283e6fc193e4720e08d8183e9518",
-  "signature": "50c23050bcea6fabe9ed677f2424e40f7e23a52bec05b2957603e2dfae9afc77e031c1a5f8d49056770afd514b92a67066b9ccbfc7250b2e068b15eeb20df802"
+  "version": "1.47.0.0",
+  "notes": "« Envoyer ma sauvegarde » : une barre d'avancement montre la préparation, le chiffrement puis l'envoi.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.47.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.47.0.0.exe",
+  "sha256": "88928eb80709565a7ba938a726409048fbf0d7214a7b156d4b8b5ca4f96ba09e",
+  "signature": "e8656a9adae38b5410303548f5e08b4dcc749419490362e27c4bfeb6e5d917dd36ea47939222f99683d8b27ab122c8435ceddde7eef3d7914b5943455828a009"
 }
