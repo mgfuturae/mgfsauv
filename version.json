@@ -1,8 +1,8 @@
 {
-  "version": "1.37.0.0",
-  "notes": "Après une reprise depuis votre serveur, plus de message à l'entrée : la fenêtre d'avancement suffit.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.37.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.37.0.0.exe",
-  "sha256": "d418c5175221c6bf7717935156479b33ffd1da91274c2432d76c5b768f716663",
-  "signature": "05d5f6005bc1be8fe830b5a30f7b7b53618cf172491009c932a9dd2bec2eefc1bfbe88d8adcc3465dad64b37a80e6945bfb69669d0def607c45cb1c2158aa309"
+  "version": "1.38.0.0",
+  "notes": "Joindre plusieurs documents d'un coup (Ctrl + clic). Mes documents : ranger tout un dossier dans les bonnes fiches, le reste dans Mes documents. Un document déjà présent n'est jamais joint deux fois.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.38.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.38.0.0.exe",
+  "sha256": "41b1081218e16c61c6526de0dfbc26ce209f945bde4e7a8f9d0201578e5920c0",
+  "signature": "e47c7a455181f669e444d442804b3fe2c5996e78ff8a9f329e4662f9ae78523503322abd8a81529f4daed05ea5772c3f72f489aae6f7b5a1590972a4de6f4a03"
 }
