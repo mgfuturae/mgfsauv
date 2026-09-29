@@ -1,8 +1,8 @@
 {
-  "version": "1.31.0.0",
-  "notes": "Mes Impôts : « Importer des avis d'impôt… » lit les avis d'un dossier, montre ce qu'il va écrire, puis remplit les fiches de chaque année et joint les documents. Rien n'est remplacé sans votre accord.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.31.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.31.0.0.exe",
-  "sha256": "3e0fea0e7e8799119326058f166e1073219ae71cf2ed2d67bba5ea5e8cb085fb",
-  "signature": "25a1f445e30d6a61c835e4451d7e2783d2e5edfadb084f1f23852635f57d38082f91e4c5b733c2df883129b0d64932997828e92aebfc92e399ae2e4dbb3c610f"
+  "version": "1.32.0.0",
+  "notes": "Un document ouvert depuis une fiche ne laisse plus de copie lisible sur l'ordinateur : même s'il était encore ouvert à la fermeture, sa copie est effacée à l'ouverture suivante de l'application.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.32.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.32.0.0.exe",
+  "sha256": "081326b0ec2bdd1a17feb15991f7a94e2375f645752fb0a3aa6d6b6c5d4a7fd6",
+  "signature": "7a16b19559e28803fbd4675ea026c2a991479847355029a782f015e284ed6fdf32380d5aae5113dc5e97082d86dcad68aa37acaa3c8df4f4a92579d7454d790f"
 }
