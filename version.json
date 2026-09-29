@@ -1,8 +1,8 @@
 {
-  "version": "1.29.0.0",
-  "notes": "Dans l'agenda, les jours du mois prennent la couleur qui était celle des jours des mois voisins, et inversement.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.29.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.29.0.0.exe",
-  "sha256": "03d9e30960a86332118f3d27c06bfca4a2b8cc9828245056626cebaab7f8ace9",
-  "signature": "4f123d88c977dfbc6288d156bce44f55c749797d8dc1bd9143263b7a5742edccee4005ac4b93da2fd91356e0fb47358f681ca73a8ca8a7564c820e990a07dc0d"
+  "version": "1.30.0.0",
+  "notes": "Le PDF d'un bien loué porte sa rentabilité, comme l'écran — par la fiche, la liste et Gestion des éditions. L'avertissement de fermeture disparaît dès que vous bougez la souris.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.30.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.30.0.0.exe",
+  "sha256": "657dabcde0d1cbf0a7f84f87dab388f6455d5c9586d7beaceac7c6e4efc453c5",
+  "signature": "9ad45cd86cf1120619356c44acfb515b1b700f0bde4b8fc3b8ab34ab2096d556cb976fa621651823857443b3326c5be3ae2972f7ff5b1dd806db463cf6952e08"
 }
