@@ -1,8 +1,8 @@
 {
-  "version": "1.30.0.0",
-  "notes": "Le PDF d'un bien loué porte sa rentabilité, comme l'écran — par la fiche, la liste et Gestion des éditions. L'avertissement de fermeture disparaît dès que vous bougez la souris.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.30.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.30.0.0.exe",
-  "sha256": "657dabcde0d1cbf0a7f84f87dab388f6455d5c9586d7beaceac7c6e4efc453c5",
-  "signature": "9ad45cd86cf1120619356c44acfb515b1b700f0bde4b8fc3b8ab34ab2096d556cb976fa621651823857443b3326c5be3ae2972f7ff5b1dd806db463cf6952e08"
+  "version": "1.31.0.0",
+  "notes": "Mes Impôts : « Importer des avis d'impôt… » lit les avis d'un dossier, montre ce qu'il va écrire, puis remplit les fiches de chaque année et joint les documents. Rien n'est remplacé sans votre accord.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.31.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.31.0.0.exe",
+  "sha256": "3e0fea0e7e8799119326058f166e1073219ae71cf2ed2d67bba5ea5e8cb085fb",
+  "signature": "25a1f445e30d6a61c835e4451d7e2783d2e5edfadb084f1f23852635f57d38082f91e4c5b733c2df883129b0d64932997828e92aebfc92e399ae2e4dbb3c610f"
 }
