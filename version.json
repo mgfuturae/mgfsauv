@@ -1,8 +1,8 @@
 {
-  "version": "1.34.0.0",
-  "notes": "La sauvegarde reçue de votre serveur est effacée dès qu'elle est installée sur l'autre ordinateur, avec celles des reprises précédentes.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.34.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.34.0.0.exe",
-  "sha256": "82114a5745b75342d9d18eb7cfeeae0951b3c635c18214555c8957693c2191cf",
-  "signature": "6afe48508c107ab2bfedffa6b9df6bd08015f58b63deb5e1d54ae82ee65004af70cf390adfb2003caa967926e02262ee9a4c390b7dd5ef3cc53c073c3a4ae406"
+  "version": "1.33.0.0",
+  "notes": "L'application retrouve sa rapidité : depuis la 1.31, chaque enregistrement la figeait environ une seconde, le temps de tout rechiffrer.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.33.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.33.0.0.exe",
+  "sha256": "c5e25ca47170fa06054ecc3dee6a7d15d8436502e0f1f1ace7b9613525d0dd23",
+  "signature": "eb166ca5e6da4a25632c8d9f966e959d4366d1f67a6d4ca326057fdfed707cd917cb05fa6eecd1bae60608cae67d2c025c927ae968e623feb6eb0b509a1d9a0d"
 }
