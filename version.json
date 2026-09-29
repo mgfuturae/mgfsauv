@@ -1,8 +1,8 @@
 {
-  "version": "1.40.0.0",
-  "notes": "Un billet de spectacle va à la sortie de sa date, ou crée la sienne. Mes documents : « Affecter aux fiches » relit les documents et les envoie dans leurs fiches.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.40.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.40.0.0.exe",
-  "sha256": "71acafecd21c07ae24e64a5027f12fea60283423987c52914dac996f7d15b8f0",
-  "signature": "d5805b6b650a4fdc43fdea110f761cdbc2a7f8986e045a26dbae10f7fc63ce5e5bf7214c5dcdcd26c430f2179a558980bcc7a24912d13fc8560d64d0b7ae5a0a"
+  "version": "1.41.0.0",
+  "notes": "Ranger et affecter des documents : une rubrique reconnue sans fiche crée la fiche — assurance, compte, caisse, impôts, résidence, sortie — remplie d'après le document.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.41.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.41.0.0.exe",
+  "sha256": "d60c518fb144a60c4a33c13a18bc0ceef297954d8107528ccd7e271416eb016c",
+  "signature": "97c5c520c43697999e1fe72b53dfe63696e893245ace9b5080095721fadfe0ebddae4a3fd6485653134025918fbc29b897b0c8c6b07285b0122555c1ef6b0601"
 }
