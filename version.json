@@ -1,8 +1,8 @@
 {
-  "version": "1.48.0.0",
-  "notes": "Plus de fenêtre après l'envoi de la sauvegarde : la barre suffit. Le bouton « Synchroniser avec mon téléphone » quitte la barre du haut : l'échange se fait tout seul.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.48.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.48.0.0.exe",
-  "sha256": "e69452760fb8bbefe1cc9a6a8686bd46e58ac17d47dd153fba8afced2dd0521b",
-  "signature": "ae9e9749a35632fb0606846284f1a2dddf8f760734d0f0bec003cbe248417cce0a0f0103a8ebbc7b115c0128f9a54c601dddcf1426ad4f5edeb69bfda870bd0c"
+  "version": "1.49.0.0",
+  "notes": "Connexion : un clavier à l'écran (⌨), aux touches placées au hasard, contre les enregistreurs de frappe. Graphes du patrimoine : « Loyers quittancés » s'arrête à la fin du bail et ne compte que les loyers payés.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.49.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.49.0.0.exe",
+  "sha256": "6b1ec3283e8edf83691f93daa926f11bc381d19c2ce83cb8a57746e3900bfcec",
+  "signature": "a5cd86907f9016a5681cbfcc0665533406b0a2b18b3af7ea3b8058d8f59f348197f974c49779f604238e7db132cbe57aee3a100c16cda0efb8a62fe43e78d10c"
 }
