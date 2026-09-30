@@ -1,8 +1,8 @@
 {
-  "version": "1.58.0.0",
-  "notes": "Mon Budget : en thème clair, l'écart positif se lit de nouveau. Démonstration : les numéros de sécurité sociale de Mes Proches ne sont plus remplis de zéros.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.58.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.58.0.0.exe",
-  "sha256": "32090b816ec9cd451f5e0a8a02260d54d21442024e07b7db65513a8e60afa74f",
-  "signature": "583de701e7e631a9f7ff2fff00f520a2823aae2f888be35c253d8d985f7cd1e8bd703c14b6450a2bdf2f90f44bb24caf6c956da45ad870164b8416c0cca0e40a"
+  "version": "1.59.0.0",
+  "notes": "Le mot de passe des PDF se règle dans Paramètres, sous « PDF avec mot de passe » : masqué, avec un œil pour le voir.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.59.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.59.0.0.exe",
+  "sha256": "475b7f0af3b20f4ea08fd6415cd141b20122caa15833844159ebe40734c4cb60",
+  "signature": "1f8bd4aba592e53db85f146cdf31eaebbab84fb1789b9ec50f45e35fc208a066787e153b6cae3e1b52a4ab2a1ab08d718c1429ed222c8faa6691c5fc8008b40a"
 }
