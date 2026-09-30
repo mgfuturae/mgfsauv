@@ -1,8 +1,8 @@
 {
-  "version": "1.64.0.0",
-  "notes": "Le PDF des photos s'ouvre sur la page de garde. En cas de décès : les documents sortent sans mot de passe, et la fenêtre des courriers tient à l'écran, en largeur.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.64.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.64.0.0.exe",
-  "sha256": "98c3ae6693e96e968dab6579365fcf246c1410a0efcddd3ae9de15de9eb8314c",
-  "signature": "d48f745579ae244b04883461d31472c62a231d6a95637c88986a26109055d629d5c725557f603ed3fa0960ab25a1a054db044876b56c53b924c5ed984c2f9504"
+  "version": "1.65.0.0",
+  "notes": "Ma Dernière Lettre et Premières Démarches sortent aussi sans mot de passe, comme les documents en cas de décès.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.65.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.65.0.0.exe",
+  "sha256": "358b80fb411aaec1c7d6788c2445415b7f36bb870bc5f9049528e61efb9695fa",
+  "signature": "9fc119803c5d36ca5aa835d2978ed3bd8c8f78cff652eb2e00990138db64c53959222964eab97cc136bc0401a02ce1f45690bddcbb424d8cbb100d9ea21c4301"
 }
