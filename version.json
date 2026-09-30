@@ -1,8 +1,8 @@
 {
-  "version": "1.56.0.0",
-  "notes": "Le bandeau du bas ne ralentit plus quand la souris passe près de lui : il ne s'arrête que si elle s'y pose.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.56.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.56.0.0.exe",
-  "sha256": "42c223887787a1f60884dc8d175b5723a665faa46ea1baf2eb7eaed9eb6611ed",
-  "signature": "aa9ad997eed534c55edb457675149bd665d5b844dc551c8834c9f435d5631c0b6f5486a0cfa460e69be8b62664e466f10cd823d5944d9df2e7c472133f837509"
+  "version": "1.57.0.0",
+  "notes": "L'utilitaire des PDF s'appelle désormais « Gestion des PDF ».",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.57.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.57.0.0.exe",
+  "sha256": "9b69d7fc28070625998592950c6b06a92d1eb676631fa779af0e1bfddac4d38d",
+  "signature": "6a8d07c5cee8a13aaea7ce841f43dbaa57ec3ed6c33d0c7c7bd8bc77c72594f19d224b4fdcfaf9730b1f4fbe553c4298b14a954a40c549bfdf58a0c518ef4f05"
 }
