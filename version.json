@@ -1,8 +1,8 @@
 {
-  "version": "1.52.0.0",
-  "notes": "« 🔍 Lire » sur chaque document joint : il propose de remplir la fiche (adresse, téléphone, n°, montants…), et n'écrit que ce que vous cochez. Fiche retraite : nouveau champ « Pension mensuelle versée ».",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.52.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.52.0.0.exe",
-  "sha256": "05239f28dc1126fe64209b4b5ada09c25115dc628febecce804042c53024e53f",
-  "signature": "6048ecf41b8045631fffadca763f9c404287670b1a2c6cdf49f3069858fd7ec22c4ee03c693d3f6258b5b0e3754fba0ffa4cea5983991835c8e773780a5e4003"
+  "version": "1.53.0.0",
+  "notes": "Ma Santé (et les autres fiches uniques) garde son nom à l'enregistrement. Un titre écrit sur plusieurs lignes n'abîme plus le PDF.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.53.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.53.0.0.exe",
+  "sha256": "b5feef1e08686cd47cc6d5d2d63b4a10e75165a6cdfa892dafad1d01c73e1ad3",
+  "signature": "f5d5166f496d8f185747934710fc157e2ce678fb1c66592e2f41c35e4937eebcff9cb9b588511156a30cb7d2c7fef3b8a9376d72735e3ddef77e37006b734a05"
 }
