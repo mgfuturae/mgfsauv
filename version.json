@@ -1,8 +1,8 @@
 {
-  "version": "1.63.0.0",
-  "notes": "Mes Souvenirs, vue Photos : « 📄 PDF des photos » met les photos affichées en petit, quatre par ligne, avec leur titre et leur date.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.63.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.63.0.0.exe",
-  "sha256": "242729184a6d8ea624e287e02ba71a933ebea6abfbef0bc3e9deeafdbad09878",
-  "signature": "b43d5f65289a9a6e981f7e996224363bf31cebf0422f1313e3f106fa9faea9f0ff95989a9ead175b8f24a82cc347d6dcc1856d938fe9d57d7ca45a5e39dc9e0b"
+  "version": "1.64.0.0",
+  "notes": "Le PDF des photos s'ouvre sur la page de garde. En cas de décès : les documents sortent sans mot de passe, et la fenêtre des courriers tient à l'écran, en largeur.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.64.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.64.0.0.exe",
+  "sha256": "98c3ae6693e96e968dab6579365fcf246c1410a0efcddd3ae9de15de9eb8314c",
+  "signature": "d48f745579ae244b04883461d31472c62a231d6a95637c88986a26109055d629d5c725557f603ed3fa0960ab25a1a054db044876b56c53b924c5ed984c2f9504"
 }
