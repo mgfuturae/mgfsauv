@@ -1,8 +1,8 @@
 {
-  "version": "1.54.0.0",
-  "notes": "Les PDF s'écrivent avec un mot de passe (réglage dans Paramètres, case dans Gestion des éditions). Nouvel utilitaire « PDF sans mot de passe » pour les retrouver, les protéger ou les supprimer. Un bandeau en bas de l'écran fait défiler les rendez-vous, échéances, tâches en retard et anniversaires de la semaine.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.54.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.54.0.0.exe",
-  "sha256": "14fedde1c058a9f32c4ac26fa2eec6527f920b86236ee860fe626cda20489fbc",
-  "signature": "729e313eff03bcc8d9a3d87363e83ca1eed437a541e3348e9df79a3cb74bab20f4f716fd7b7fdf97bd6ffd12db2eb5916cd97a90cf5b0d18ca98e94df633e10e"
+  "version": "1.55.0.0",
+  "notes": "Le bandeau du bas défile plus vite, et ne montre plus que la journée et le lendemain.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.55.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.55.0.0.exe",
+  "sha256": "abf21dcba4e92a6ddee92a3de2c30862635a02fb840ee076841eac507e8c91fa",
+  "signature": "8adaf88931e4ca8d4ce8438d1210b105131e22144fa07c449cc06179e807ba78e20dcbe3b8b7736ed35e90c4f9cb7a4603ad354e47a13593eb8ba0f6cb2f210e"
 }
