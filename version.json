@@ -1,8 +1,8 @@
 {
-  "version": "1.60.0.0",
-  "notes": "Le mot de passe des PDF se règle dans Paramètres, sous « PDF avec mot de passe » : masqué, avec un œil pour le voir.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.60.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.60.0.0.exe",
-  "sha256": "411cdad9d05ced395f3d1f46ec959e6e8b13b84a315f6c5270861ec7a8eea0cc",
-  "signature": "48095173779fefaa1e4036c7763a51c9bc0e175e97e9d0a5854264b32f63eaa6247786c2ecabbbbfcbd31a20ba97fe2d6f1523c45d5902c34c8995d95ac20e06"
+  "version": "1.61.0.0",
+  "notes": "Gestion des PDF et bandeau : les simulations de quittances et les feuilles de route ne sont plus comptées parmi les PDF sans mot de passe.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.61.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.61.0.0.exe",
+  "sha256": "ead9ff1a123129eb7e8025aeb192538b83547fc602f7478da261ebda173c7ca4",
+  "signature": "624b300fbbd13c88f70b0a1eed13b304d1b78d2524be4747fd4735a2437040e8d004749fa4543f03d194bb1380e83c61c45c769057d25cfa7a9c69735ea07e05"
 }
