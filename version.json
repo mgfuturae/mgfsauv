@@ -1,8 +1,8 @@
 {
-  "version": "1.49.0.0",
-  "notes": "Connexion : un clavier à l'écran (⌨), aux touches placées au hasard, contre les enregistreurs de frappe. Graphes du patrimoine : « Loyers quittancés » s'arrête à la fin du bail et ne compte que les loyers payés.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.49.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.49.0.0.exe",
-  "sha256": "6b1ec3283e8edf83691f93daa926f11bc381d19c2ce83cb8a57746e3900bfcec",
-  "signature": "a5cd86907f9016a5681cbfcc0665533406b0a2b18b3af7ea3b8058d8f59f348197f974c49779f604238e7db132cbe57aee3a100c16cda0efb8a62fe43e78d10c"
+  "version": "1.50.0.0",
+  "notes": "Nouvelle entrée « Sécurité » dans Gestion des utilitaires : le guide de sécurité de votre ordinateur, en PDF.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.50.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.50.0.0.exe",
+  "sha256": "f8939a850fdd332df40a7f5ed451750a814f13cad69d1596f70495edcfe6da72",
+  "signature": "9b5b5f7e2f01e1d6805740839db4b36c8e33a19484be2fd5f1e720020d8093abec65e6b8402b5f54b0063d50c0c22f2f9810320bc834d71f37074d507a44bd06"
 }
