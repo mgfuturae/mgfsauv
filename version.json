@@ -1,8 +1,8 @@
 {
-  "version": "1.51.0.0",
-  "notes": "Mes Tâches triées par catégorie, et le tri de chaque liste retenu. L'agenda s'arrête au départ saisi dans la dernière quittance. « Documentation » remplace « Mode d'emploi ». « Envoyer ma sauvegarde » n'apparaît que si tout est conforme.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.51.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.51.0.0.exe",
-  "sha256": "0d051d31c12a5712a3a541cc3b8ffd2a4b94a7c57d4381e0c9f6fff5beb3a010",
-  "signature": "190877e6659d0377d51ee1dc7bc4369d1054118ff0eefcfc0f7db015b62328e0f650a8cf5a53d3364531020d71aa079ef9323b7db7ed080ab8dacebf7bc5e005"
+  "version": "1.52.0.0",
+  "notes": "« 🔍 Lire » sur chaque document joint : il propose de remplir la fiche (adresse, téléphone, n°, montants…), et n'écrit que ce que vous cochez. Fiche retraite : nouveau champ « Pension mensuelle versée ».",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.52.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.52.0.0.exe",
+  "sha256": "05239f28dc1126fe64209b4b5ada09c25115dc628febecce804042c53024e53f",
+  "signature": "6048ecf41b8045631fffadca763f9c404287670b1a2c6cdf49f3069858fd7ec22c4ee03c693d3f6258b5b0e3754fba0ffa4cea5983991835c8e773780a5e4003"
 }
