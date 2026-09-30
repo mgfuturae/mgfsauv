@@ -1,8 +1,8 @@
 {
-  "version": "1.53.0.0",
-  "notes": "Ma Santé (et les autres fiches uniques) garde son nom à l'enregistrement. Un titre écrit sur plusieurs lignes n'abîme plus le PDF.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.53.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.53.0.0.exe",
-  "sha256": "b5feef1e08686cd47cc6d5d2d63b4a10e75165a6cdfa892dafad1d01c73e1ad3",
-  "signature": "f5d5166f496d8f185747934710fc157e2ce678fb1c66592e2f41c35e4937eebcff9cb9b588511156a30cb7d2c7fef3b8a9376d72735e3ddef77e37006b734a05"
+  "version": "1.54.0.0",
+  "notes": "Les PDF s'écrivent avec un mot de passe (réglage dans Paramètres, case dans Gestion des éditions). Nouvel utilitaire « PDF sans mot de passe » pour les retrouver, les protéger ou les supprimer. Un bandeau en bas de l'écran fait défiler les rendez-vous, échéances, tâches en retard et anniversaires de la semaine.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.54.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.54.0.0.exe",
+  "sha256": "14fedde1c058a9f32c4ac26fa2eec6527f920b86236ee860fe626cda20489fbc",
+  "signature": "729e313eff03bcc8d9a3d87363e83ca1eed437a541e3348e9df79a3cb74bab20f4f716fd7b7fdf97bd6ffd12db2eb5916cd97a90cf5b0d18ca98e94df633e10e"
 }
