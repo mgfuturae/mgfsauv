@@ -1,8 +1,8 @@
 {
-  "version": "1.61.0.0",
-  "notes": "Gestion des PDF et bandeau : les simulations de quittances et les feuilles de route ne sont plus comptées parmi les PDF sans mot de passe.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.61.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.61.0.0.exe",
-  "sha256": "ead9ff1a123129eb7e8025aeb192538b83547fc602f7478da261ebda173c7ca4",
-  "signature": "624b300fbbd13c88f70b0a1eed13b304d1b78d2524be4747fd4735a2437040e8d004749fa4543f03d194bb1380e83c61c45c769057d25cfa7a9c69735ea07e05"
+  "version": "1.62.0.0",
+  "notes": "Mes Souvenirs se regarde aussi en photos : « 🖼 Photos » à côté du titre. Un clic agrandit la photo, ← → pour passer aux suivantes.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.62.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.62.0.0.exe",
+  "sha256": "604a72c12e167ab27e09d08b6ea898adaba2c34b374158584dc0a44f5dfd5d9e",
+  "signature": "2584535ad2367d661ec6ea894c32c70fe87db5a83d25ce19e0e20d8c098dd9b79d7c376195d9d4d98866b3fb41a8fecfd08c82a2045477622c9ec8e4ee5ecc0b"
 }
