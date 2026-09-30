@@ -1,8 +1,8 @@
 {
-  "version": "1.50.0.0",
-  "notes": "Nouvelle entrée « Sécurité » dans Gestion des utilitaires : le guide de sécurité de votre ordinateur, en PDF.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.50.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.50.0.0.exe",
-  "sha256": "f8939a850fdd332df40a7f5ed451750a814f13cad69d1596f70495edcfe6da72",
-  "signature": "9b5b5f7e2f01e1d6805740839db4b36c8e33a19484be2fd5f1e720020d8093abec65e6b8402b5f54b0063d50c0c22f2f9810320bc834d71f37074d507a44bd06"
+  "version": "1.51.0.0",
+  "notes": "Mes Tâches triées par catégorie, et le tri de chaque liste retenu. L'agenda s'arrête au départ saisi dans la dernière quittance. « Documentation » remplace « Mode d'emploi ». « Envoyer ma sauvegarde » n'apparaît que si tout est conforme.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.51.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.51.0.0.exe",
+  "sha256": "0d051d31c12a5712a3a541cc3b8ffd2a4b94a7c57d4381e0c9f6fff5beb3a010",
+  "signature": "190877e6659d0377d51ee1dc7bc4369d1054118ff0eefcfc0f7db015b62328e0f650a8cf5a53d3364531020d71aa079ef9323b7db7ed080ab8dacebf7bc5e005"
 }
