@@ -1,8 +1,8 @@
 {
-  "version": "1.62.0.0",
-  "notes": "Mes Souvenirs se regarde aussi en photos : « 🖼 Photos » à côté du titre. Un clic agrandit la photo, ← → pour passer aux suivantes.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.62.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.62.0.0.exe",
-  "sha256": "604a72c12e167ab27e09d08b6ea898adaba2c34b374158584dc0a44f5dfd5d9e",
-  "signature": "2584535ad2367d661ec6ea894c32c70fe87db5a83d25ce19e0e20d8c098dd9b79d7c376195d9d4d98866b3fb41a8fecfd08c82a2045477622c9ec8e4ee5ecc0b"
+  "version": "1.63.0.0",
+  "notes": "Mes Souvenirs, vue Photos : « 📄 PDF des photos » met les photos affichées en petit, quatre par ligne, avec leur titre et leur date.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.63.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.63.0.0.exe",
+  "sha256": "242729184a6d8ea624e287e02ba71a933ebea6abfbef0bc3e9deeafdbad09878",
+  "signature": "b43d5f65289a9a6e981f7e996224363bf31cebf0422f1313e3f106fa9faea9f0ff95989a9ead175b8f24a82cc347d6dcc1856d938fe9d57d7ca45a5e39dc9e0b"
 }
