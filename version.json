@@ -1,8 +1,8 @@
 {
-  "version": "1.76.0.0",
-  "notes": "Agenda : « Mois précédent », « Aujourd'hui » et « Mois suivant ».",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.76.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.76.0.0.exe",
-  "sha256": "36743277a447515a53832d395878218fcccfed63f0d629b0c7789256835788b3",
-  "signature": "754d97c5792e7fd9a9ef2ce1a4133ac87db20ba3b29f9308cbd9883096a23f0e4e093bbc9b86d7a84fef3c1485225492a9f5ebb5dbb0e28d919bc7c72bd42c0e"
+  "version": "1.77.0.0",
+  "notes": "Téléphone : l'agenda en ligne montre les mêmes échéances que le PC (loyers, dernier loyer, entretiens…), mises à jour à chaque changement.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.77.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.77.0.0.exe",
+  "sha256": "2c01e887a8295121a2ad70b8dcf36e1aec44ab6c86f9a9a0a1874517efbb57a3",
+  "signature": "960801502f062d807a9430222e8ce9afc3deadc1dd7841d98d44447b8ed477d689bfec2a20d69a2cfa52cb82931f2c6afe75bf85e304fdee24c67af37498bb0c"
 }
