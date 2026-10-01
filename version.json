@@ -1,8 +1,8 @@
 {
-  "version": "1.73.0.0",
-  "notes": "Disque formaté ou nouvel ordinateur : reprendre ses données depuis une sauvegarde dès la première ouverture. Gestion des éditions : le dossier complet aussi en page web (HTML).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.73.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.73.0.0.exe",
-  "sha256": "777dc49eb70934d8560d72f3b6d2a97ee8d0e7e8f9780b7fb11911629df4c21c",
-  "signature": "2a1e2a40437574cd31d864f7284be1bbd979677c460550469d8f01cc79f0bffc8bbf84a1c1c2da158324caedc8557746a4f5e846a8e22731af0581296db4960a"
+  "version": "1.74.0.0",
+  "notes": "Les écrans s'affichent d'un seul coup, l'agenda sans saccade. Le dossier HTML prend les couleurs de l'application. « Suivi des Fichiers PDF » ; la Documentation réunit le guide d'utilisation et les conseils en sécurité.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.74.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.74.0.0.exe",
+  "sha256": "164da27edc936f717c88fbcc739e7b651f4f6acea0f6ad7223da1f061872fce5",
+  "signature": "a06387c38ecb1d3c63bcecfb6b5ca5d00bfbe769b4710f5d360cc64384c45277883694f9c5360e2a1d2122e5855fc2d68b320ca34578f0180154d86a9b24160c"
 }
