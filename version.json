@@ -1,8 +1,8 @@
 {
-  "version": "1.69.0.0",
-  "notes": "Nouveau mot de passe pour la démonstration.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.69.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.69.0.0.exe",
-  "sha256": "1a12cd6dc9cef7f776392b8afdc4ef585edffcc13373eebd7ccda393d63c4c57",
-  "signature": "9b19d220b0e7d0c35039a7574ae7fca35cb218d97e0e39135054daac118caf8a14a8792049cdfac5eb32e12c851e5db6dfe6da62e0627152af0429f4813a860f"
+  "version": "1.70.0.0",
+  "notes": "Le bandeau défile plus lentement. « 🔍 Analyser » remplace « 🔍 Lire » à côté des documents joints.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.70.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.70.0.0.exe",
+  "sha256": "81d0bd2fe70b5978ae8019391610cb27d63dcadc06c60366edabd7bb8afed522",
+  "signature": "2d4863bcb0835790849421828cd6f15679e53009027fe18dc65d591af8d397a8f2d7adc8a0ec44d19e20d3c9147a02c7028e5e47462b1740cc68cc0810e0ad0a"
 }
