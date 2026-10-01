@@ -1,8 +1,8 @@
 {
-  "version": "1.65.0.0",
-  "notes": "Ma Dernière Lettre et Premières Démarches sortent aussi sans mot de passe, comme les documents en cas de décès.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.65.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.65.0.0.exe",
-  "sha256": "358b80fb411aaec1c7d6788c2445415b7f36bb870bc5f9049528e61efb9695fa",
-  "signature": "9fc119803c5d36ca5aa835d2978ed3bd8c8f78cff652eb2e00990138db64c53959222964eab97cc136bc0401a02ce1f45690bddcbb424d8cbb100d9ea21c4301"
+  "version": "1.66.0.0",
+  "notes": "En cas de décès : le régime matrimonial, la donation au dernier vivant et le logement ne se saisissent plus ; le guide expose les cas, en généralités, et renvoie au notaire.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.66.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.66.0.0.exe",
+  "sha256": "a8aa0191ec8b72fb00e8fa53cb6078b3c4e792601299882e427412092d539339",
+  "signature": "40dc4418b6399db8ea31f5eb3b91bc3a53fc926549355ec5ed3454963879a7899408bc2fba5c52927b53de2868130126618f09da39beed8f31bd4a60a999870d"
 }
