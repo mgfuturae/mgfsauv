@@ -1,8 +1,8 @@
 {
-  "version": "1.66.0.0",
-  "notes": "En cas de décès : le régime matrimonial, la donation au dernier vivant et le logement ne se saisissent plus ; le guide expose les cas, en généralités, et renvoie au notaire.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.66.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.66.0.0.exe",
-  "sha256": "a8aa0191ec8b72fb00e8fa53cb6078b3c4e792601299882e427412092d539339",
-  "signature": "40dc4418b6399db8ea31f5eb3b91bc3a53fc926549355ec5ed3454963879a7899408bc2fba5c52927b53de2868130126618f09da39beed8f31bd4a60a999870d"
+  "version": "1.67.0.0",
+  "notes": "En cas de décès : « Mon conjoint (qui me survit) » et « Qui signe les courriers (ex. un enfant) » remplacent les anciens intitulés.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.67.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.67.0.0.exe",
+  "sha256": "5fe9bd6728fb143c65e0d9deed5d747dd2c7f68b4b73fbf04a37c32ac5f04edc",
+  "signature": "9afef9f5515ec046a2a47dbd4bac6a45cd28eb03c3767e7ce88498ebc208d07e80a88c96ff586e5b8fddbec81f0e377cdced9806f97c4b4cf8325614b60f3b08"
 }
