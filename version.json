@@ -1,8 +1,8 @@
 {
-  "version": "1.78.0.0",
-  "notes": "Agenda : le « +2 » d'une journée trop pleine devient une pastille rouge ; un clic dessus ouvre la journée.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.78.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.78.0.0.exe",
-  "sha256": "79c8c5de76c78c0f5493013da002bb0fce9e70f89515817d9e7f13f59d2a4978",
-  "signature": "dfe6144f470e0dd22c266c6f300778c2211f3c14c17ce56f1833c237c8db989c8e386e90c24543873f7fca0b721a3077d25f2a49695c5fd26ee70774a77cd605"
+  "version": "1.79.0.0",
+  "notes": "Biens et biens loués : le type et la ville composent le nom (« Maison de Verneuil ») ; l'agenda l'abrège (« M. de Verneuil »).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.79.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.79.0.0.exe",
+  "sha256": "ee86c2f5aa62dcafc2d6fa4611512da6631794592a5f8c22438dc699758ac400",
+  "signature": "cbc46a9245b32b4a2a997997b9f7af9daef40189383002107220390027320dfc5ba7c362adf8eca7e08a2211d2b8a407e4d7a5cd9a0ce15c348785edc795740d"
 }
