@@ -1,8 +1,8 @@
 {
-  "version": "1.79.0.0",
-  "notes": "Biens et biens loués : le type et la ville composent le nom (« Maison de Verneuil ») ; l'agenda l'abrège (« M. de Verneuil »).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.79.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.79.0.0.exe",
-  "sha256": "ee86c2f5aa62dcafc2d6fa4611512da6631794592a5f8c22438dc699758ac400",
-  "signature": "cbc46a9245b32b4a2a997997b9f7af9daef40189383002107220390027320dfc5ba7c362adf8eca7e08a2211d2b8a407e4d7a5cd9a0ce15c348785edc795740d"
+  "version": "1.80.0.0",
+  "notes": "Agenda : chaque case montre toujours au moins deux rendez-vous ; le « +n » rouge n'apparaît qu'à partir de trois.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.80.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.80.0.0.exe",
+  "sha256": "ddbd4ab58bb25080c272c7deed82fe19bb3e7e291b834b092cdf8cfea3b66f7f",
+  "signature": "26059040468606d7b3009d70d5e0d322a70549bd989339f559a5d364ff5f94c1e6046f4f9a1ce28ea9ffe4448b709381d67288b2b6ccc5357de85381701c0407"
 }
