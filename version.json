@@ -1,8 +1,8 @@
 {
-  "version": "1.71.0.0",
-  "notes": "Mes Souvenirs : des onglets Fiches, Photos et Messages ; on écoute un message dans l'application, on en enregistre un au micro ou on joint un fichier son.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.71.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.71.0.0.exe",
-  "sha256": "5c48f4e27d7cd0ecfd6342fbe2883d7333705d494d1df0ea7f866403e14cec97",
-  "signature": "033012113545a13555cc48ec6bc469ae10de4e180ba95c453b402e05aa79455ff6c4487688eb1719ce920409571a37f6e1f477a028aaf9e8927c6c1358816c0e"
+  "version": "1.72.0.0",
+  "notes": "Passer de la démonstration à la version réelle : l'empreinte de l'ordinateur est affichée dans la démonstration, et un mot de passe provisoire de l'éditeur ouvre ses propres données.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.72.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.72.0.0.exe",
+  "sha256": "7835872411ac9955cef7c32e75b50808c889ffe7201eea342818775ddf47eb53",
+  "signature": "b68435f0b1c6c4d0dc24ee5414e291f139cb4bd67a430a8db6f6042027e6372b9d7a32bd59816ce12d06a85fbe77199fef96bf4cfd79eb55afec8b25c94f9401"
 }
