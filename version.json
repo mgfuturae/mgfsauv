@@ -1,8 +1,8 @@
 {
-  "version": "1.75.0.0",
-  "notes": "Bien loué : « Montant du dernier loyer » à côté de la date de fin du bail ; l'agenda reprend ce montant pour le dernier mois.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.75.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.75.0.0.exe",
-  "sha256": "b64bb7d37b6d44357c22621032521eb839e50a7dd8c09eb511433700071e0ae2",
-  "signature": "c205558cdfe66bd3771e81363be251ecf0a61050020d354bcaf288500764cf63788c6aa50a5543fe80a6b1c9873a4abe51150b23f85bee8d069feee90b14b405"
+  "version": "1.76.0.0",
+  "notes": "Agenda : « Mois précédent », « Aujourd'hui » et « Mois suivant ».",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.76.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.76.0.0.exe",
+  "sha256": "36743277a447515a53832d395878218fcccfed63f0d629b0c7789256835788b3",
+  "signature": "754d97c5792e7fd9a9ef2ce1a4133ac87db20ba3b29f9308cbd9883096a23f0e4e093bbc9b86d7a84fef3c1485225492a9f5ebb5dbb0e28d919bc7c72bd42c0e"
 }
