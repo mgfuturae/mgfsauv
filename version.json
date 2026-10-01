@@ -1,8 +1,8 @@
 {
-  "version": "1.80.0.0",
-  "notes": "Agenda : chaque case montre toujours au moins deux rendez-vous ; le « +n » rouge n'apparaît qu'à partir de trois.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.80.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.80.0.0.exe",
-  "sha256": "ddbd4ab58bb25080c272c7deed82fe19bb3e7e291b834b092cdf8cfea3b66f7f",
-  "signature": "26059040468606d7b3009d70d5e0d322a70549bd989339f559a5d364ff5f94c1e6046f4f9a1ce28ea9ffe4448b709381d67288b2b6ccc5357de85381701c0407"
+  "version": "1.81.0.0",
+  "notes": "Un bien renommé l'est aussi dans les entretiens, opérations et la domotique qui le citent ; l'agenda suit.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.81.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.81.0.0.exe",
+  "sha256": "f77941c2aa9b69881df58befaeaa8a05919968f6da6eb7e1fc7b8d63b4629e26",
+  "signature": "f5c5785e5e4627a1314b9c8c74c765fa3dc4a67d617a7196644405c40911e41e00bf10d60f356b4fe23ca88be8f652004d0483e12e7433c72a50e161f1eef400"
 }
