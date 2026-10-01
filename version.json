@@ -1,8 +1,8 @@
 {
-  "version": "1.68.0.0",
-  "notes": "Démonstration à jour : photos dans Mes Souvenirs, documents joints partout. Le bandeau du bas consomme deux fois moins. Une tâche « Non clôturée » apparaît bien en retard.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.68.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.68.0.0.exe",
-  "sha256": "13c9a9f3c0028228485654ad3ac38fd3e00b943fa969e3d26bd12f2b6a76cc16",
-  "signature": "d769bdf6b2495bc6cbe538ad201a5b38742d831aa464dcb1c1f4b8cc743345a87ab1272fc02b5b568158e0d1f64b2ebebafbe2b88c928b210d5f6fa03e89ad01"
+  "version": "1.69.0.0",
+  "notes": "Nouveau mot de passe pour la démonstration.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.69.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.69.0.0.exe",
+  "sha256": "1a12cd6dc9cef7f776392b8afdc4ef585edffcc13373eebd7ccda393d63c4c57",
+  "signature": "9b19d220b0e7d0c35039a7574ae7fca35cb218d97e0e39135054daac118caf8a14a8792049cdfac5eb32e12c851e5db6dfe6da62e0627152af0429f4813a860f"
 }
