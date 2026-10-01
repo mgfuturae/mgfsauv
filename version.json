@@ -1,8 +1,8 @@
 {
-  "version": "1.70.0.0",
-  "notes": "Le bandeau défile plus lentement. « 🔍 Analyser » remplace « 🔍 Lire » à côté des documents joints.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.70.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.70.0.0.exe",
-  "sha256": "81d0bd2fe70b5978ae8019391610cb27d63dcadc06c60366edabd7bb8afed522",
-  "signature": "2d4863bcb0835790849421828cd6f15679e53009027fe18dc65d591af8d397a8f2d7adc8a0ec44d19e20d3c9147a02c7028e5e47462b1740cc68cc0810e0ad0a"
+  "version": "1.71.0.0",
+  "notes": "Mes Souvenirs : des onglets Fiches, Photos et Messages ; on écoute un message dans l'application, on en enregistre un au micro ou on joint un fichier son.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.71.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.71.0.0.exe",
+  "sha256": "5c48f4e27d7cd0ecfd6342fbe2883d7333705d494d1df0ea7f866403e14cec97",
+  "signature": "033012113545a13555cc48ec6bc469ae10de4e180ba95c453b402e05aa79455ff6c4487688eb1719ce920409571a37f6e1f477a028aaf9e8927c6c1358816c0e"
 }
