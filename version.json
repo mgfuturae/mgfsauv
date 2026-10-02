@@ -1,8 +1,8 @@
 {
-  "version": "1.82.0.0",
-  "notes": "Bandeau du bas : un message seul passe une fois, au lieu d'être répété tout le long de l'écran.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.82.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.82.0.0.exe",
-  "sha256": "b6fa3b1dcb0c87ca3614b912da362f40acfe3ff819e8e74acdc6cae72820850f",
-  "signature": "483c84738e98372d6ea38b78b213c29c50654262c6cd636d8b02c33b1ec5fdd461241e5cbb394e7b56328b4174344a6bb8ea7e272becc9fe7b44180733e9af0e"
+  "version": "1.83.0.0",
+  "notes": "Mes Souvenirs : sous chaque photo, un texte à vous — un clic pour l'écrire. Il paraît aussi dans la visionneuse et dans le PDF des photos.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.83.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.83.0.0.exe",
+  "sha256": "e39e2b1d491c6dc1fddb8f92fdb6732d28fe6dee25361a90bc4889966f5c73a4",
+  "signature": "a0d4d140e1d51014910ce867b508130f75910326b0075d20c6180f256878ea09c92df266e12a31bcd6dbb720fa48df45045d7b3713c687487c67e0ee03e27a06"
 }
