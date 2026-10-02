@@ -1,8 +1,8 @@
 {
-  "version": "1.85.0.0",
-  "notes": "Gestion de mes documents : un clic choisit un document, et un panneau montre ses informations et ses boutons — Lire, Renommer, Déplacer, Ouvrir la fiche, Supprimer. Double-clic pour le lire.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.85.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.85.0.0.exe",
-  "sha256": "5cb2362f54579606c9726763dd32d01ad3fd1b4683e6fabae8b12f280aaa9419",
-  "signature": "5b71483a009beaba35879637b1b9d006816191d445b141a4b4d6aadd571d5d5abf0ece593b93e31ff3db7d0b9689392017694b1f885027c19c71bd133ce9e309"
+  "version": "1.84.0.0",
+  "notes": "Gestion de mes documents : tous les documents de vos fiches en un seul écran — les lire, les déplacer vers une autre fiche, les supprimer. Les PDF sans mot de passe sont dans le second onglet.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.84.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.84.0.0.exe",
+  "sha256": "f0f960ddde39b6d1ce7f9e2f707383683dffe39533cd23b75af3430e163d29d8",
+  "signature": "2a55e7d688a8a00f6cdaa590410b4ec7bcf520fdd8a33b098f7eed14f0e0dcb99b277ef34e8de3f87d4839dc8abc219d8b242eff8e4acd07d654144ce4d8a906"
 }
