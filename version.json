@@ -1,8 +1,8 @@
 {
-  "version": "1.83.0.0",
-  "notes": "Mes Souvenirs : sous chaque photo, un texte à vous — un clic pour l'écrire. Il paraît aussi dans la visionneuse et dans le PDF des photos.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.83.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.83.0.0.exe",
-  "sha256": "e39e2b1d491c6dc1fddb8f92fdb6732d28fe6dee25361a90bc4889966f5c73a4",
-  "signature": "a0d4d140e1d51014910ce867b508130f75910326b0075d20c6180f256878ea09c92df266e12a31bcd6dbb720fa48df45045d7b3713c687487c67e0ee03e27a06"
+  "version": "1.84.0.0",
+  "notes": "Gestion de mes documents : tous les documents de vos fiches en un seul écran — les lire, les déplacer vers une autre fiche, les supprimer. Les PDF sans mot de passe sont dans le second onglet.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.84.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.84.0.0.exe",
+  "sha256": "f0f960ddde39b6d1ce7f9e2f707383683dffe39533cd23b75af3430e163d29d8",
+  "signature": "2a55e7d688a8a00f6cdaa590410b4ec7bcf520fdd8a33b098f7eed14f0e0dcb99b277ef34e8de3f87d4839dc8abc219d8b242eff8e4acd07d654144ce4d8a906"
 }
