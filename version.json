@@ -1,8 +1,8 @@
 {
-  "version": "1.81.0.0",
-  "notes": "Un bien renommé l'est aussi dans les entretiens, opérations et la domotique qui le citent ; l'agenda suit.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.81.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.81.0.0.exe",
-  "sha256": "f77941c2aa9b69881df58befaeaa8a05919968f6da6eb7e1fc7b8d63b4629e26",
-  "signature": "f5c5785e5e4627a1314b9c8c74c765fa3dc4a67d617a7196644405c40911e41e00bf10d60f356b4fe23ca88be8f652004d0483e12e7433c72a50e161f1eef400"
+  "version": "1.82.0.0",
+  "notes": "Bandeau du bas : un message seul passe une fois, au lieu d'être répété tout le long de l'écran.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.82.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.82.0.0.exe",
+  "sha256": "b6fa3b1dcb0c87ca3614b912da362f40acfe3ff819e8e74acdc6cae72820850f",
+  "signature": "483c84738e98372d6ea38b78b213c29c50654262c6cd636d8b02c33b1ec5fdd461241e5cbb394e7b56328b4174344a6bb8ea7e272becc9fe7b44180733e9af0e"
 }
