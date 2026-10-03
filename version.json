@@ -1,8 +1,8 @@
 {
-  "version": "1.86.0.0",
-  "notes": "Gestion de mes documents : un clic choisit un document, et un panneau montre ses informations et ses boutons — Lire, Renommer, Déplacer, Ouvrir la fiche, Supprimer. Double-clic pour le lire.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.86.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.86.0.0.exe",
-  "sha256": "e558200841f8d13bda478d0e809b78f29041fd797e088bb686f57866d84a1677",
-  "signature": "738acac0eed6ec2ca7c5f763baf5eddd7233d94656edce36af56a8dccd69e037fe12e8928c55f33fa0b5795cc1f8ab271b1dd4fcddcbb222b0bd05c73a8e5808"
+  "version": "1.87.0.0",
+  "notes": "Ma Comptabilité Personnelle s'affiche bien plus vite : les 100 opérations les plus récentes d'abord, le reste d'un clic. Toutes les listes raccourcissent leurs libellés plus vite.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.87.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.87.0.0.exe",
+  "sha256": "82d3a38cc5273485001acc9bf5f28c0733a4d114a78443c9dc01de90266539f7",
+  "signature": "80cd9a318ae65d8ebe8f480e7a6385a54b303fce5da3493e45d8a1b2bf6681dce397b3aae09dcebf947c0b5af4a24c7569380b90ef98ad9e8b860aae8a294901"
 }
