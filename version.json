@@ -1,8 +1,8 @@
 {
-  "version": "1.93.0.0",
-  "notes": "Cette version est plus lourde (environ 90 Mo) : son téléchargement prend un peu plus de temps. Rien ne change dans l'utilisation.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.93.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.93.0.0.exe",
-  "sha256": "5d0def37219d81ecc18fa103adcafc2d832fa83a545703cf7b9a155f2b3b1475",
-  "signature": "b8f94bd627c46524d9a7615247cf3172b01ed4dcf800685eba0b6292c50efbd59e729e25d8888574585a8074b5a51b012c840bd4ffc9d3f52d0e419372770a0b"
+  "version": "1.92.0.0",
+  "notes": "L'application démarre désormais sur tous les ordinateurs, y compris ceux dont le processeur a quelques années. Rappel : réglez votre second ordinateur sur « Poste esclave » (Paramètres).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.92.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.92.0.0.exe",
+  "sha256": "3c127f531ad07ce5fd649904174b12d632bfaf1eb9bdbf78dbb4a44b949c3ed0",
+  "signature": "0a9f94141e1004c40745121f5a1be5066c594fb9d8b210e09da8288d0693db6488e3effb16c8ec8f28ab7cfc22a54ac5a187870d4a9c0cf107f653025774110f"
 }
