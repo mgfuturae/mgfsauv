@@ -1,8 +1,8 @@
 {
-  "version": "1.91.0.0",
-  "notes": "L'application démarre désormais sur tous les ordinateurs, y compris ceux dont le processeur a quelques années. Rappel : réglez votre second ordinateur sur « Poste esclave » (Paramètres).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.91.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.91.0.0.exe",
-  "sha256": "c72bc2608ee94f9265977388f6a7cb915fe92cd5383d8fcceb3e320ad5e0ddfd",
-  "signature": "ebf73382be37ce499e5fbb8e0cc16fbf4fa4e842c465d0b3a7398b7e7078da35413c95d0aa414fc7d75d62db96d690dc3aa3ae6f25b3a297a1c6b1acdd03f60f"
+  "version": "1.89.0.0",
+  "notes": "Sauvegarder tout montre une barre d'avancement. Paramètres : « Ce poste », maître ou esclave — le maître seul envoie la sauvegarde, les esclaves la reprennent à l'ouverture. Réglez votre second ordinateur sur « Poste esclave ».",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.89.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.89.0.0.exe",
+  "sha256": "f00765fa30f55e96424a912b75338aff90b6349652e89ce76ccd63c6aef9a379",
+  "signature": "d62887872fdb9dff79250e9ca10a6793c26095b84404954e939c9985201f9bf8736fa7e02d05677193601c42cd92d6a3e1fbe67fea326870108a5f70a27fa00f"
 }
