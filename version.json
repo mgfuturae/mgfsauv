@@ -1,8 +1,8 @@
 {
-  "version": "1.87.0.0",
-  "notes": "Ma Comptabilité Personnelle s'affiche bien plus vite : les 100 opérations les plus récentes d'abord, le reste d'un clic. Toutes les listes raccourcissent leurs libellés plus vite.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.87.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.87.0.0.exe",
-  "sha256": "82d3a38cc5273485001acc9bf5f28c0733a4d114a78443c9dc01de90266539f7",
-  "signature": "80cd9a318ae65d8ebe8f480e7a6385a54b303fce5da3493e45d8a1b2bf6681dce397b3aae09dcebf947c0b5af4a24c7569380b90ef98ad9e8b860aae8a294901"
+  "version": "1.89.0.0",
+  "notes": "Sauvegarder tout montre une barre d'avancement. Paramètres : « Ce poste », maître ou esclave — le maître seul envoie la sauvegarde, les esclaves la reprennent à l'ouverture. Réglez votre second ordinateur sur « Poste esclave ».",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.89.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.89.0.0.exe",
+  "sha256": "f00765fa30f55e96424a912b75338aff90b6349652e89ce76ccd63c6aef9a379",
+  "signature": "d62887872fdb9dff79250e9ca10a6793c26095b84404954e939c9985201f9bf8736fa7e02d05677193601c42cd92d6a3e1fbe67fea326870108a5f70a27fa00f"
 }
