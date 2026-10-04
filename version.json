@@ -1,8 +1,8 @@
 {
-  "version": "1.95.0.0",
-  "notes": "Nouvelle page « Sécurité » : les bons réflexes pour protéger votre ordinateur, chapitre par chapitre. Et plus de sûreté pour l'échange avec le téléphone.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.95.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.95.0.0.exe",
-  "sha256": "26f8c13d180d59f88b7ffa3a83812ccb2da6614a1e163b05a7e2e3593b437e46",
-  "signature": "242e466b3a142dc52715569f8d66464f7ed6d508a88ef7eb758b5124211363bec960239cdf2f6540e9bc17ca80b0c2eed9f8e13ad0c4edc8e9c4c29c755e6b0f"
+  "version": "1.96.0.0",
+  "notes": "Agenda : une heure de fin pour vos rendez-vous. Deux séjours qui s'enchaînent le même jour se partagent la case, chacun sa moitié.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.96.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.96.0.0.exe",
+  "sha256": "53d7b810ef417e3c4f4c5d3e12034357cec048a2d2b704622d61353f2af1e429",
+  "signature": "0fc08b5d0555d76d3fd486fc227e75f909a25c8911f170d4a6b5325a83dd1a9c6f1b67dd657ccf30d97bbde8f79486d09e78e06bb6ddf827df189e721138b103"
 }
