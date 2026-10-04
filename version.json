@@ -1,8 +1,8 @@
 {
-  "version": "1.96.0.0",
-  "notes": "Agenda : une heure de fin pour vos rendez-vous. Deux séjours qui s'enchaînent le même jour se partagent la case, chacun sa moitié.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.96.0.0.exe",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.96.0.0.exe",
-  "sha256": "53d7b810ef417e3c4f4c5d3e12034357cec048a2d2b704622d61353f2af1e429",
-  "signature": "0fc08b5d0555d76d3fd486fc227e75f909a25c8911f170d4a6b5325a83dd1a9c6f1b67dd657ccf30d97bbde8f79486d09e78e06bb6ddf827df189e721138b103"
+  "version": "1.97.0.0",
+  "notes": "Sur un nouvel ordinateur, la première fenêtre propose « Je veux utiliser l'application » : l'empreinte à envoyer, en un clic.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-1.97.0.0.exe",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-1.97.0.0.exe",
+  "sha256": "35bdda776eb4c8f16555db7379fe6795987d670e7c0b4ea153162f4239a16415",
+  "signature": "a5ffbb08aab979619912ebd46cd9fec25d9caf1309732c8198c43ee4bbac75a0c158e7020c06473e5fca202da359b2b6d55b6fa64d608eca9f1120215bee010d"
 }
