@@ -1,8 +1,8 @@
 {
-  "version": "2.1.7.0",
-  "notes": "Plans d'entreprise : les zones Déblocage sont des dates (calendrier), et chaque date de déblocage remplie apparaît dans l'agenda.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.1.7.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.1.7.0.apk",
-  "sha256": "a7701a2bc8494dd7ac45a9c4065a8d9eb9ae6d0f74fa6c7c8ae73f7fb6c94f45",
-  "signature": "60cf04daeb196e058af067cc35834bfc0a30464b4a7490279e3bb83f52f88d3399a964f02b99f118b42fc19f15a4742926062801c340c7cc0511c2a95186040b"
+  "version": "2.1.8.0",
+  "notes": "Correction : les intitulés des listes (Mes Tâches et les autres rubriques) disparaissaient après le curseur d'avancement. Sur téléphone, les colonnes des listes restent lisibles et le tableau défile de côté.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.1.8.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.1.8.0.apk",
+  "sha256": "d094c7d7bcd3040771bcb8d78e02a848d415c25458b720e70e24048ca0ad98f3",
+  "signature": "7a7a6c9c5bb75b297f086e8d4883700ea6e281cb41b40f68013ab2f7b45d5272589d4008a31fe308be9651e8b75b538c8d1a445053146d1abd0b4650b7d6e70f"
 }
