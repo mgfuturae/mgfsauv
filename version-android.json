@@ -1,0 +1,8 @@
+{
+  "version": "2.0.0.6",
+  "notes": "Le téléphone se met à jour par le serveur : bandeau « Installer la mise à jour » sur le tableau de bord.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.0.0.6.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.0.0.6.apk",
+  "sha256": "ea2e9dec0c8417c5dbc2a5ff4a37460eedf91f0ce3b0e1a36ea598757856e95c",
+  "signature": "39314ad97d9edc11ff0c348e7e17d3e6dc46b7aa06d22b6eb1468150b5ab9f69de60baab75c689accc1a520f291ee50123592a3ddefacb6845a48d6a2af4a103"
+}
