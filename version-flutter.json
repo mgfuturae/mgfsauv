@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0.5",
-  "notes": "Grosses sauvegardes : téléchargement et restauration par morceaux, sans saturer la mémoire (plus de plantage sur téléphone). Connexion : l'adresse mail est vérifiée, et confirmée à la première connexion.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.0.0.5.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.0.0.5.zip",
-  "sha256": "d21718ab93ba06bf975dda190ae0d7723ad41ff04ebb69ddefa1652dcdb7def2",
-  "signature": "d2acf6c4a1762f96821dbc1ab48f06cd54907be32fe21f65aa2f11be9eb9ff34b131325d77c625082e5056f468cc72a32bd16a91e4594d32c4072f5bdd98b706"
+  "version": "2.0.0.8",
+  "notes": "Agenda : les vacances toujours en première ligne de la case, puis les séjours et autres événements sur plusieurs jours.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.0.0.8.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.0.0.8.zip",
+  "sha256": "77c9fe3793156de2ec4d64398df61b84a7bf63841c835348539294f661686bc3",
+  "signature": "e8e845bd05d2a4ce92c647c6101951972350b3fe520a6bb44ca9ba81441349ed7a1872bf7d5561df462fc344b9b8693579207d1c2f035e3622851356c0fdf70a"
 }
