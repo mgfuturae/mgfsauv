@@ -1,8 +1,8 @@
 {
-  "version": "2.1.2.0",
-  "notes": "Le style « Moderne » devient l'apparence par défaut (fenêtres, menu, listes arrondis). « Classique » reste au choix dans Couleurs des formulaires.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.1.2.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.1.2.0.zip",
-  "sha256": "7b40af7044092a71b6822f082618c9f56abc9890dec6e5f2e3215794539ec351",
-  "signature": "56ef966b34f1b069b29c68abaa314a510f14c32d3589e4469b12a95454f327947b610673cb51ab6a59d7a9ee1c9f691121b92d5937acc4621f9b5503b0894000"
+  "version": "2.1.3.0",
+  "notes": "Premier démarrage : la question devient simplement « Souhaitez-vous repartir d'une sauvegarde ? ».",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.1.3.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.1.3.0.zip",
+  "sha256": "a00a81b854332b2fe2c832c0d24295078087dba6d91e3538c0ca66996b547b29",
+  "signature": "099f1ae4e7940f3e484ee706c9395b431c3e6cf249d3450b1ca5f02cd1eb185723dc705c49de69f8bd0e81381adfb65a4c7d99de5439f72bc3e0049f851ee40b"
 }
