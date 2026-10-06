@@ -1,8 +1,8 @@
 {
-  "version": "2.1.9.0",
-  "notes": "Mots de passe masqués dans les fiches (👁 pour voir, 📋 pour copier sans afficher). Mes sites favoris : les mots de passe ne se voient, ne se copient et ne s'impriment qu'après le mot de passe de l'application.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.1.9.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.1.9.0.zip",
-  "sha256": "986a1adda534380c4b0058b373a3945b5b0ab9d63a5794fc24153cdc13e9b811",
-  "signature": "e7ee8edf23a828ce35fe8e311018b59de95467520164b551ed34a1c1cfff95b4994cc9d8d85b3d8c4b41c4d9f349de4117669067d18139d4dbe3200747ac7508"
+  "version": "2.2.0.0",
+  "notes": "Mes Contacts : « Anniversaires de l'agenda » reprend les anniversaires saisis à la main en contacts avec leur date de naissance. Mode de paiement, Paiement le, Afficher l'échéance et Mois avant expiration ne sont plus pris pour des dates.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.2.0.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.2.0.0.zip",
+  "sha256": "478ae015d6fe5b4740f8cf99deeb5f51c85b1dbcab7911bbadb6eac60320846e",
+  "signature": "3cac409f3fcf6f1ad4c470152954f23c5185163c3b3afac8fb59de1ab169fe4dc74cea0e7d2f84cee28a4c96d526544f28ba39dea8df6f4ee5d4c63a58bbfd06"
 }
