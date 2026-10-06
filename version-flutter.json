@@ -1,8 +1,8 @@
 {
-  "version": "2.1.7.0",
-  "notes": "Plans d'entreprise : les zones Déblocage sont des dates (calendrier), et chaque date de déblocage remplie apparaît dans l'agenda.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.1.7.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.1.7.0.zip",
-  "sha256": "2782b00589bcfd973d3987efff3ea53c8848beb77366acf91913fe2499db20be",
-  "signature": "7d1ec1072b2dfbc051464fc94d2bee819262d9dd494e341e3f71101099efa48654668149576e47184959eacc7a0a039242a3ffb6df0bf92a09c5a7eaf7fd7a0f"
+  "version": "2.1.8.0",
+  "notes": "Correction : les intitulés des listes (Mes Tâches et les autres rubriques) disparaissaient après le curseur d'avancement. Sur téléphone, les colonnes des listes restent lisibles et le tableau défile de côté.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.1.8.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.1.8.0.zip",
+  "sha256": "3ca631fd2937cf24c2ee6b278b90432e6b9536e438bfb621fb99c28aef92b250",
+  "signature": "5e129397d0e8a50232d6e98e79da2fa5ce4eebace195c1f5d7a7b06eb0712a4c034d78de810f176212bbe59c87e2d145759fb06f949cb2234f93b388ce99000a"
 }
