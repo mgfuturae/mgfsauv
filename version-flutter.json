@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0.0",
-  "notes": "Version Flutter 2.0 : nouvelle application (agenda plein écran sur téléphone, couleur des rendez-vous, carte des biens, recherche Ctrl+K…)",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.0.0.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.0.0.0.zip",
-  "sha256": "d14e45c728013bd2c3318e8f259da4ebe93cc461fe12a7f9127377b3dcb2a447",
-  "signature": "ba4f8dde780b4a21613c4ee587c90aabff32c9c360af3f84e7e7af8fdf1494a78de70a1b4769da172f347b26437bb9dc3d868a7abf210af26faa2da889e79501"
+  "version": "2.0.0.1",
+  "notes": "Fenêtre « Mise à jour depuis votre serveur » plus basse : le logo reste visible pendant le téléchargement.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.0.0.1.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.0.0.1.zip",
+  "sha256": "907b90665e2d7a72ebaec97aa7b4e8a234a948fc7c5d89a2926e7847cb84f289",
+  "signature": "0b33c0016774c02ff0a9f9f4ad09b4c175d723f0789a2da9dc2938f650f2238460223259825156ca5a3557acc0bc5c5b1319b0d82f5bf1c709c131e4c1d01b01"
 }
