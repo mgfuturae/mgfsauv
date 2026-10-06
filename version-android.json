@@ -1,8 +1,8 @@
 {
-  "version": "2.2.0.0",
-  "notes": "Mes Contacts : « Anniversaires de l'agenda » reprend les anniversaires saisis à la main en contacts avec leur date de naissance. Mode de paiement, Paiement le, Afficher l'échéance et Mois avant expiration ne sont plus pris pour des dates.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.2.0.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.2.0.0.apk",
-  "sha256": "05d13c7e89042e8fdd5aa2b75855c08131ed4702a8cafc3447272cdf1a1e9926",
-  "signature": "0eea0492ea6783159466fa52badf8f939c681746d01e921eed3823f997168edad5b23e70d340270e88697d99b640c4e3a1d3a0c3e904a00054d851c04664b602"
+  "version": "2.2.1.0",
+  "notes": "Mes Contacts : le bouton « Anniversaires de l'agenda », qui a fait son travail, est retiré.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.2.1.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.2.1.0.apk",
+  "sha256": "2d1fdf1243b40dd479ac45cfd156478224d7cf1e109749675dc3af08c1bfb372",
+  "signature": "55acdbdafa16fde87afccf4fdfe92482fcf6a851223ef5ee53d587447171d4c629f29b6a4ab74a514792ae5f3156f818a2128bc5db6fe552142cde518c7cfb00"
 }
