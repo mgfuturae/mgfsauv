@@ -1,8 +1,8 @@
 {
-  "version": "2.1.5.0",
-  "notes": "Atelier des champs (largeur des zones de saisie, poste de l'éditeur). Toutes les adresses mail à la même largeur. Zones notaire et garage plus larges. Maintenance, opérations et domotique : le bien est choisi parmi mes biens et biens loués, et contrôlé. Menu : Gestion des utilitaires toujours déplié.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.1.5.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.1.5.0.apk",
-  "sha256": "06c927d54bf91d48d19feeb7eb54c03828c125ec038d1d92b65e69b8feda8ca7",
-  "signature": "6b7216ba8770f1f76241d3530748e03c586d61fd9e7aca90457c20349b365e4ed42ee933df0b20cbc279a98d04a552ac1580f07d38344a7d5be6858bd2a70600"
+  "version": "2.1.6.0",
+  "notes": "Nom du bien (maintenance, opérations, domotique) : plus de ligne vide, et un choix « Autre… » pour autre chose qu'un bien. Un nom tapé qui désigne un bien prend son nom exact. Proposer des entretiens : même liste. Un bien renommé dans sa liste met aussi à jour ses fiches.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.1.6.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.1.6.0.apk",
+  "sha256": "99159e5085c7fd2075db623b2c12f459e2da1b96dc0200fba01f29e8f0983c4c",
+  "signature": "3e347f6692886c5f38f58b7c70e08ab934a16ec45d1e1baf0f66afb090a475db4570e0a85030fceb8f6fc44278030a39ddb8f731575f77c65daef8d219d96c0c"
 }
