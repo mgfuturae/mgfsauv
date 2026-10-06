@@ -1,8 +1,8 @@
 {
-  "version": "2.1.4.0",
-  "notes": "PDF sans mot de passe par défaut (question à la première demande). Feuille de route : plus d'ouverture automatique le matin. Agenda pour une personne par défaut. 10 nouveaux thèmes prêts.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.1.4.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.1.4.0.zip",
-  "sha256": "c792b868d22c37a398386569da7a7a12e75cbbf01e0c295805848788eb934db1",
-  "signature": "d0f8f179befa1053ce68c74dd1346549deb378888af5ba71323783a2c489ebc2273bf24f7001957e0a264266d49285ab1871ad1b4f69ec0b72ea398ed1a72b0a"
+  "version": "2.1.5.0",
+  "notes": "Atelier des champs (largeur des zones de saisie, poste de l'éditeur). Toutes les adresses mail à la même largeur. Zones notaire et garage plus larges. Maintenance, opérations et domotique : le bien est choisi parmi mes biens et biens loués, et contrôlé. Menu : Gestion des utilitaires toujours déplié.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.1.5.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.1.5.0.zip",
+  "sha256": "8d39f0bd49d3f802838599bdcd7ccb5c3fec52d79c288e9d2f4449b58eab43dc",
+  "signature": "9710c1a640fa7bd98b1ad890bf0136413c41a86d4fdde9fbd7f767b55de6c57a7bfcded03c27014415ac25a2cdea0e287893a8f36c70912498f38d9370fc090c"
 }
