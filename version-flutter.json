@@ -1,8 +1,8 @@
 {
-  "version": "2.1.8.0",
-  "notes": "Correction : les intitulés des listes (Mes Tâches et les autres rubriques) disparaissaient après le curseur d'avancement. Sur téléphone, les colonnes des listes restent lisibles et le tableau défile de côté.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.1.8.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.1.8.0.zip",
-  "sha256": "3ca631fd2937cf24c2ee6b278b90432e6b9536e438bfb621fb99c28aef92b250",
-  "signature": "5e129397d0e8a50232d6e98e79da2fa5ce4eebace195c1f5d7a7b06eb0712a4c034d78de810f176212bbe59c87e2d145759fb06f949cb2234f93b388ce99000a"
+  "version": "2.1.9.0",
+  "notes": "Mots de passe masqués dans les fiches (👁 pour voir, 📋 pour copier sans afficher). Mes sites favoris : les mots de passe ne se voient, ne se copient et ne s'impriment qu'après le mot de passe de l'application.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.1.9.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.1.9.0.zip",
+  "sha256": "986a1adda534380c4b0058b373a3945b5b0ab9d63a5794fc24153cdc13e9b811",
+  "signature": "e7ee8edf23a828ce35fe8e311018b59de95467520164b551ed34a1c1cfff95b4994cc9d8d85b3d8c4b41c4d9f349de4117669067d18139d4dbe3200747ac7508"
 }
