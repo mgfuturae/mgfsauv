@@ -1,8 +1,8 @@
 {
-  "version": "2.2.0.0",
-  "notes": "Mes Contacts : « Anniversaires de l'agenda » reprend les anniversaires saisis à la main en contacts avec leur date de naissance. Mode de paiement, Paiement le, Afficher l'échéance et Mois avant expiration ne sont plus pris pour des dates.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.2.0.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.2.0.0.zip",
-  "sha256": "478ae015d6fe5b4740f8cf99deeb5f51c85b1dbcab7911bbadb6eac60320846e",
-  "signature": "3cac409f3fcf6f1ad4c470152954f23c5185163c3b3afac8fb59de1ab169fe4dc74cea0e7d2f84cee28a4c96d526544f28ba39dea8df6f4ee5d4c63a58bbfd06"
+  "version": "2.2.1.0",
+  "notes": "Mes Contacts : le bouton « Anniversaires de l'agenda », qui a fait son travail, est retiré.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.2.1.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.2.1.0.zip",
+  "sha256": "2ee83765bcc5730a5766c912084b0517014d3cf65f92ea01730b34b88eafb721",
+  "signature": "3c6580827ff5f16e1f07a8903e90f91b8f16806d49db60d0e02daddf56f7ac26d876f38685c9443eea0391f9572c05f120dd221c7922039969a3faf61c7afd04"
 }
