@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0.1",
-  "notes": "Fenêtre « Mise à jour depuis votre serveur » plus basse : le logo reste visible pendant le téléchargement.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.0.0.1.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.0.0.1.zip",
-  "sha256": "907b90665e2d7a72ebaec97aa7b4e8a234a948fc7c5d89a2926e7847cb84f289",
-  "signature": "0b33c0016774c02ff0a9f9f4ad09b4c175d723f0789a2da9dc2938f650f2238460223259825156ca5a3557acc0bc5c5b1319b0d82f5bf1c709c131e4c1d01b01"
+  "version": "2.0.0.2",
+  "notes": "Sauvegardes et restaurations : nouveau bouton « Reprendre ma sauvegarde depuis mon serveur ». Connexion : une croix efface l'adresse proposée.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.0.0.2.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.0.0.2.zip",
+  "sha256": "c80211bface05aef2ed0f7d9ad4f2b44e59a72c6fd3bac50b8d1bc5c8c54ed55",
+  "signature": "1890dcea9b78575814f5774d8ca5141f18745f95becd792e9954963a23e9b207a2a91087ad8bd2ee7bc8573ea1ecb05bd7959084d7c5deda9b6e02f2d159cf01"
 }
