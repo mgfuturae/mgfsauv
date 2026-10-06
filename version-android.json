@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0.7",
-  "notes": "Le bouton Retour du téléphone revient en arrière (fiche, page précédente, tableau de bord) au lieu de quitter l'application.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.0.0.7.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.0.0.7.apk",
-  "sha256": "1f20b6d465a6747525e685a259adfbfa5c31f0bb8b34503b0e06b5cb08425d2a",
-  "signature": "a54c5db9ab56cf8d7e0ba4ce8eaff0a93d48b6b2ef6fc5bae98b67b2444198feb6f2ade31fb2d800d47592946227675092dc03012ec408278eba325b56d4710f"
+  "version": "2.0.0.8",
+  "notes": "Agenda : les vacances toujours en première ligne de la case, puis les séjours et autres événements sur plusieurs jours.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.0.0.8.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.0.0.8.apk",
+  "sha256": "1ee2fcfb9af8864dd4e47d53a84810bd7d00d6cb921ca6234405aaaa65e71bd6",
+  "signature": "96bc0925fa1040f36aef7f4913ae3efc4ef9d6553436c65bfdef5b405107fc17aa19e0d3ef93b6b02715b63f5e9026bf0ccd2e8b51aba985f2351b7718c8a80b"
 }
