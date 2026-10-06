@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0.3",
-  "notes": "Reprise de la sauvegarde depuis votre serveur : on attend la réponse plus longtemps, et le message dit clairement s'il n'y a rien ou si le serveur ne répond pas.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.0.0.3.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.0.0.3.zip",
-  "sha256": "2b589201d97bd3f2d056eb3a6e67c1df40068f7aee60e9b9f433f4f1a75a2e32",
-  "signature": "3a681fee9249c15cc1ec91200a6856c385ec8911e5a249ea2948b0446be64fbea1ebe621a0728f9d4e0acab716c1f82ef4e938c7bd78c5fb86ecf7ea3e28d40a"
+  "version": "2.0.0.4",
+  "notes": "Taille du texte réglable sur chaque appareil (Couleurs des formulaires). Agenda : plus de matchs de football par défaut, équipe au choix dans Paramètres. Reprise de la sauvegarde : l'adresse du compte se vérifie et se corrige.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.0.0.4.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.0.0.4.zip",
+  "sha256": "22fdc79d5a7ce4ccd0311583e79519b2d1c927dd3a1be657e0bf8de74015615c",
+  "signature": "8b1907b94210a9823a3585225d9baf00d97e566d78c8d17ec1a44039e9f0129b83c7f94e377d3c8d3a9b7b7b04069e34e09213a14ec677eefda740dcf9426709"
 }
