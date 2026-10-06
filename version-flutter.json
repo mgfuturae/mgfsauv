@@ -1,8 +1,8 @@
 {
-  "version": "2.1.6.0",
-  "notes": "Nom du bien (maintenance, opérations, domotique) : plus de ligne vide, et un choix « Autre… » pour autre chose qu'un bien. Un nom tapé qui désigne un bien prend son nom exact. Proposer des entretiens : même liste. Un bien renommé dans sa liste met aussi à jour ses fiches.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.1.6.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.1.6.0.zip",
-  "sha256": "0413ffd3f8a1fd1f5d7cf043ee87c6564bcc05701b73ea33e181400e4483769c",
-  "signature": "72f56dd95911609ac82454878be1f51da2016b6a5ec2e88c66b5a8f7a857a06fb9e79667131752fce5df2408e215139a18b6ab85244b4adb378b77e2655c7e02"
+  "version": "2.1.7.0",
+  "notes": "Plans d'entreprise : les zones Déblocage sont des dates (calendrier), et chaque date de déblocage remplie apparaît dans l'agenda.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.1.7.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.1.7.0.zip",
+  "sha256": "2782b00589bcfd973d3987efff3ea53c8848beb77366acf91913fe2499db20be",
+  "signature": "7d1ec1072b2dfbc051464fc94d2bee819262d9dd494e341e3f71101099efa48654668149576e47184959eacc7a0a039242a3ffb6df0bf92a09c5a7eaf7fd7a0f"
 }
