@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0.8",
-  "notes": "Agenda : les vacances toujours en première ligne de la case, puis les séjours et autres événements sur plusieurs jours.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.0.0.8.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.0.0.8.apk",
-  "sha256": "1ee2fcfb9af8864dd4e47d53a84810bd7d00d6cb921ca6234405aaaa65e71bd6",
-  "signature": "96bc0925fa1040f36aef7f4913ae3efc4ef9d6553436c65bfdef5b405107fc17aa19e0d3ef93b6b02715b63f5e9026bf0ccd2e8b51aba985f2351b7718c8a80b"
+  "version": "2.1.1.0",
+  "notes": "Nouveau : style « Moderne » au choix (Couleurs des formulaires) — coins arrondis, ombres, et sur le téléphone une barre de navigation en bas avec un bouton « + ».",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.1.1.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.1.1.0.apk",
+  "sha256": "213e7b72323da7ecca84a076df64dbc867c476c4eed3352a1a91ef70666a84cf",
+  "signature": "bbe07db8504537e0fab3ccb8a73c92411df8a91cea9c967c7959261327bad4c5b9dcd2d8fcdb9894abd84d1988ce2117c4911b8c0441592719a55b212204cd0a"
 }
