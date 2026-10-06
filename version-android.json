@@ -1,8 +1,8 @@
 {
-  "version": "2.1.9.0",
-  "notes": "Mots de passe masqués dans les fiches (👁 pour voir, 📋 pour copier sans afficher). Mes sites favoris : les mots de passe ne se voient, ne se copient et ne s'impriment qu'après le mot de passe de l'application.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.1.9.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.1.9.0.apk",
-  "sha256": "1f425a5f8684547aef2630c629bfc01f250b592839dafab981ec28c4392fe9dc",
-  "signature": "17f2ebfc5bf1055cbf4167bf7d69e8f4edb789e47cf87cd88454cc48f11e9870a3a1664e5f3765e47343a60686b4f266b9024a9c25fc1ec5a3e797717a4c980e"
+  "version": "2.2.0.0",
+  "notes": "Mes Contacts : « Anniversaires de l'agenda » reprend les anniversaires saisis à la main en contacts avec leur date de naissance. Mode de paiement, Paiement le, Afficher l'échéance et Mois avant expiration ne sont plus pris pour des dates.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.2.0.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.2.0.0.apk",
+  "sha256": "05d13c7e89042e8fdd5aa2b75855c08131ed4702a8cafc3447272cdf1a1e9926",
+  "signature": "0eea0492ea6783159466fa52badf8f939c681746d01e921eed3823f997168edad5b23e70d340270e88697d99b640c4e3a1d3a0c3e904a00054d851c04664b602"
 }
