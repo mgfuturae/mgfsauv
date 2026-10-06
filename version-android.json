@@ -1,8 +1,8 @@
 {
-  "version": "2.1.4.0",
-  "notes": "PDF sans mot de passe par défaut (question à la première demande). Feuille de route : plus d'ouverture automatique le matin. Agenda pour une personne par défaut. 10 nouveaux thèmes prêts.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.1.4.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.1.4.0.apk",
-  "sha256": "a3e3a7916e00681083271723a832ba7e4bf3a9b35c477ed7f5d1696a4f3f87ab",
-  "signature": "4d623e8d8913fbf8b07d3ab35b3307013e8b4bf2a58d0f737346eb9baf471286db8d4115c2942b20ff59523d6136a9018b5b40a47b0555e058440a7d5fc88b04"
+  "version": "2.1.5.0",
+  "notes": "Atelier des champs (largeur des zones de saisie, poste de l'éditeur). Toutes les adresses mail à la même largeur. Zones notaire et garage plus larges. Maintenance, opérations et domotique : le bien est choisi parmi mes biens et biens loués, et contrôlé. Menu : Gestion des utilitaires toujours déplié.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.1.5.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.1.5.0.apk",
+  "sha256": "06c927d54bf91d48d19feeb7eb54c03828c125ec038d1d92b65e69b8feda8ca7",
+  "signature": "6b7216ba8770f1f76241d3530748e03c586d61fd9e7aca90457c20349b365e4ed42ee933df0b20cbc279a98d04a552ac1580f07d38344a7d5be6858bd2a70600"
 }
