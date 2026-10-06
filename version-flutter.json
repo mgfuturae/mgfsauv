@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0.2",
-  "notes": "Sauvegardes et restaurations : nouveau bouton « Reprendre ma sauvegarde depuis mon serveur ». Connexion : une croix efface l'adresse proposée.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.0.0.2.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.0.0.2.zip",
-  "sha256": "c80211bface05aef2ed0f7d9ad4f2b44e59a72c6fd3bac50b8d1bc5c8c54ed55",
-  "signature": "1890dcea9b78575814f5774d8ca5141f18745f95becd792e9954963a23e9b207a2a91087ad8bd2ee7bc8573ea1ecb05bd7959084d7c5deda9b6e02f2d159cf01"
+  "version": "2.0.0.3",
+  "notes": "Reprise de la sauvegarde depuis votre serveur : on attend la réponse plus longtemps, et le message dit clairement s'il n'y a rien ou si le serveur ne répond pas.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.0.0.3.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.0.0.3.zip",
+  "sha256": "2b589201d97bd3f2d056eb3a6e67c1df40068f7aee60e9b9f433f4f1a75a2e32",
+  "signature": "3a681fee9249c15cc1ec91200a6856c385ec8911e5a249ea2948b0446be64fbea1ebe621a0728f9d4e0acab716c1f82ef4e938c7bd78c5fb86ecf7ea3e28d40a"
 }
