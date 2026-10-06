@@ -1,8 +1,8 @@
 {
-  "version": "2.1.5.0",
-  "notes": "Atelier des champs (largeur des zones de saisie, poste de l'éditeur). Toutes les adresses mail à la même largeur. Zones notaire et garage plus larges. Maintenance, opérations et domotique : le bien est choisi parmi mes biens et biens loués, et contrôlé. Menu : Gestion des utilitaires toujours déplié.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.1.5.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.1.5.0.zip",
-  "sha256": "8d39f0bd49d3f802838599bdcd7ccb5c3fec52d79c288e9d2f4449b58eab43dc",
-  "signature": "9710c1a640fa7bd98b1ad890bf0136413c41a86d4fdde9fbd7f767b55de6c57a7bfcded03c27014415ac25a2cdea0e287893a8f36c70912498f38d9370fc090c"
+  "version": "2.1.6.0",
+  "notes": "Nom du bien (maintenance, opérations, domotique) : plus de ligne vide, et un choix « Autre… » pour autre chose qu'un bien. Un nom tapé qui désigne un bien prend son nom exact. Proposer des entretiens : même liste. Un bien renommé dans sa liste met aussi à jour ses fiches.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.1.6.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.1.6.0.zip",
+  "sha256": "0413ffd3f8a1fd1f5d7cf043ee87c6564bcc05701b73ea33e181400e4483769c",
+  "signature": "72f56dd95911609ac82454878be1f51da2016b6a5ec2e88c66b5a8f7a857a06fb9e79667131752fce5df2408e215139a18b6ab85244b4adb378b77e2655c7e02"
 }
