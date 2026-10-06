@@ -1,8 +1,8 @@
 {
-  "version": "2.1.1.0",
-  "notes": "Nouveau : style « Moderne » au choix (Couleurs des formulaires) — coins arrondis, ombres, et sur le téléphone une barre de navigation en bas avec un bouton « + ».",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.1.1.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.1.1.0.zip",
-  "sha256": "241443767adbfc5c1eab08ef4fac9f56eeb4c7fa132d0c137b2300f11c5724c4",
-  "signature": "cfc6fd9775b3dadac4a0048975a51c8793c3a66a9f12d5a7e7c6bdf5637e5e43e4bdc56a76aa18bd39207ee07f6cd3f23ce59a2a47187680e29790bdc184e10f"
+  "version": "2.1.2.0",
+  "notes": "Le style « Moderne » devient l'apparence par défaut (fenêtres, menu, listes arrondis). « Classique » reste au choix dans Couleurs des formulaires.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.1.2.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.1.2.0.zip",
+  "sha256": "7b40af7044092a71b6822f082618c9f56abc9890dec6e5f2e3215794539ec351",
+  "signature": "56ef966b34f1b069b29c68abaa314a510f14c32d3589e4469b12a95454f327947b610673cb51ab6a59d7a9ee1c9f691121b92d5937acc4621f9b5503b0894000"
 }
