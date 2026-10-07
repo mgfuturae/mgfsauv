@@ -1,8 +1,8 @@
 {
-  "version": "2.3.1.0",
-  "notes": "Loyers : après « Éditer le document » de régularisation, l'application propose de l'inscrire à l'historique si ce n'est pas encore fait.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.3.1.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.3.1.0.apk",
-  "sha256": "17ba1831ec193897b17f6850876eb98ee91ca8d70b02bcbd9d128572700d2e30",
-  "signature": "f6e680a355aa820a4ee4a4d81a5bb010031c8cf4bc88fb705b539633aaa8ae29044285d9bc505aa5d566eb7bb5d31f9132143051aa190ffafcbb217c67edfd02"
+  "version": "2.3.2.0",
+  "notes": "Loyers, départ du locataire : après le document de départ, la régularisation de départ peut s'inscrire à l'historique ; son fichier se nomme « Régularisation départ… » et se range avec les régularisations.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.3.2.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.3.2.0.apk",
+  "sha256": "9667f6a76b243ccadc0e9a092daafd4b70375a8e7cfbbf6d5a01ed543917f07f",
+  "signature": "84b27c7db210ffe935f6ef42099855416e16b827f901c430baa94b3daa53786225547e265e8c4d3a279dd80c14c8878bfe420fbffd51ee96b946a5eefe559c06"
 }
