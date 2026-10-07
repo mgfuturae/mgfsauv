@@ -1,8 +1,8 @@
 {
-  "version": "2.2.1.0",
-  "notes": "Mes Contacts : le bouton « Anniversaires de l'agenda », qui a fait son travail, est retiré.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.2.1.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.2.1.0.apk",
-  "sha256": "2d1fdf1243b40dd479ac45cfd156478224d7cf1e109749675dc3af08c1bfb372",
-  "signature": "55acdbdafa16fde87afccf4fdfe92482fcf6a851223ef5ee53d587447171d4c629f29b6a4ab74a514792ae5f3156f818a2128bc5db6fe552142cde518c7cfb00"
+  "version": "2.2.2.0",
+  "notes": "Paramètres : « Rubriques du menu » — décochez les rubriques que vous n'utilisez pas, elles disparaissent du menu, de la recherche et des éditions (biens, comptes, En cas de décès et utilitaires restent toujours).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.2.2.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.2.2.0.apk",
+  "sha256": "072c22fb687b80c401bc544c29c70483cc4b553754155c00b141ed522ad3c363",
+  "signature": "aeb5a5e83f340e9746329defefd6546bd0f97a8bd4fa775acb5c4121dcf6e6ad1d51a0503ddd769eab0e0fdb1fd96179a5e4ca541810f9fd6bab49ae545d2a0a"
 }
