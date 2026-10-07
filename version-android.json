@@ -1,8 +1,8 @@
 {
-  "version": "2.2.3.0",
-  "notes": "Paramètres : le mot de passe des PDF ne se voit et ne se copie qu'après le mot de passe de l'application, comme ceux des favoris.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.2.3.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.2.3.0.apk",
-  "sha256": "2c9176e3cacf9a878b03f02e87dc0e2a598c26f036c560d8b293c74e19983599",
-  "signature": "3f8ee70e876973f95e9c6122801bf8519f7b7408021e53bd2b36486b9c2ba887ac7cfcc12dbc4a66c4de6ae26a17c6a585a1489916be7444ca6086be2699020e"
+  "version": "2.2.4.0",
+  "notes": "Mots de passe protégés aussi dans Gestion des éditions, le PDF d'une liste et la copie lisible. Hauteurs égales des zones (listes, dates, fichiers). Loyers : chaque PDF (quittance, régularisation, départ, historique) peut être conservé dans les pièces jointes du bien loué. Bien loué : type de location, surface, année de construction, DPE, zone tendue, loyer du locataire précédent.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.2.4.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.2.4.0.apk",
+  "sha256": "4b52a0ff61bc11b0d024c0f05ed80e647a5fcfec46e6afbe3f955f28b98f8969",
+  "signature": "77d2b00379c6d4b5e26f29ea3c2bf5257bed77d670e57fc7fa1c819b3bb1de3aa60f4e6c8ec9154f50710bf2c33c972e10d03122f2cd09f6ec4331c74b6f9f0c"
 }
