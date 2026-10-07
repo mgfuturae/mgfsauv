@@ -1,8 +1,8 @@
 {
-  "version": "2.3.2.0",
-  "notes": "Loyers, départ du locataire : après le document de départ, la régularisation de départ peut s'inscrire à l'historique ; son fichier se nomme « Régularisation départ… » et se range avec les régularisations.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.3.2.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.3.2.0.zip",
-  "sha256": "b8b9de8db8934f4a5f42bcc6f4eac67a8c3c857960071b91b3e3774e30b0ac55",
-  "signature": "0eb40c5451ef585942e6a85bd1f2764249f6a95da8849f3407a708ea59679184fd9557d8c48cd3f2c81aba8e88ec5ace03514c607b63a7e72188cd945a23130e"
+  "version": "2.3.3.0",
+  "notes": "Loyers, départ du locataire : la régularisation inscrite à l'historique a le bon sens (positif : le locataire doit), et la question reprend la conclusion du document (caution imputée ou restituée).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.3.3.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.3.3.0.zip",
+  "sha256": "2f1405c6cc24b023a7477892324d64b3b51771b2bad8f178a4519ad933caf2ce",
+  "signature": "60279547190167ef9556b06c73d7beb863bf812778a89fe18bd1d2e5f5fe0516e1d99fcba5c02e65fbb0af217551bfca0336e94051314a596282b45ce48a4e01"
 }
