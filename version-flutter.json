@@ -1,8 +1,8 @@
 {
-  "version": "2.2.7.0",
-  "notes": "Une adresse web dans un champ mail n'est plus signalée comme adresse incomplète. Loyers : l'icône 📄 d'une régularisation ouvre son document (et non une quittance).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.2.7.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.2.7.0.zip",
-  "sha256": "9a28fa871c5b4b5f36544cbe93e4ec6e5cec6505a9c806ea55700440642d2d7b",
-  "signature": "bf4dd2ed2f06b2139b3f76da7b2d829e53d5d1ea085067560ac39ea6af295bd1e34f6e4d88a1f5d02668dd33c93854ea95619b00783e4156a81f545e73fea809"
+  "version": "2.2.8.0",
+  "notes": "Loyers : une régularisation saisie à la main (statut ou référence « Régul. ») est reconnue comme telle : plus de demande de mois de quittance, et l'icône 📄 ouvre son document.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.2.8.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.2.8.0.zip",
+  "sha256": "5e1faa91f7f43f7cbe0aeb7ad2a6d6ed3dc0d2b83363f2ebfef9341a0542c05c",
+  "signature": "f773e2f5be3f68ce42d4dbbe160b72039b05760c842beee63e528d8fb2684f80f376b1409f70fc6d139eb6e9e9ec1ca434601e365c603ff923167515c3c78305"
 }
