@@ -1,8 +1,8 @@
 {
-  "version": "2.2.2.0",
-  "notes": "Paramètres : « Rubriques du menu » — décochez les rubriques que vous n'utilisez pas, elles disparaissent du menu, de la recherche et des éditions (biens, comptes, En cas de décès et utilitaires restent toujours).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.2.2.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.2.2.0.zip",
-  "sha256": "c4d0d09c4a606672588033c852c2b691a1538ebc655df81f6cf70b4dff230f95",
-  "signature": "722e1a80d48d08166fd99fa3e649fe3df6d367f1bb74b683d2c07a6aecfb7ad8d4aef9711e98187d1ab0be2bbf420b63f8600b09eac61a108c31aa3c654d7703"
+  "version": "2.2.3.0",
+  "notes": "Paramètres : le mot de passe des PDF ne se voit et ne se copie qu'après le mot de passe de l'application, comme ceux des favoris.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.2.3.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.2.3.0.zip",
+  "sha256": "fcfe7c12b797de07ee57f32bd52ce5d3d97cb96a5074b0ba84538039b1b614d4",
+  "signature": "b0348ddd5d17ef1352f07c6ca3c5b5ca321fc060f9236fd8659b34acf45d8e9900064bfef93b697f5f69dd63a333450d5452a7a61287ea9039daa60f9a84f308"
 }
