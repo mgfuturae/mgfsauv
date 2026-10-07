@@ -1,8 +1,8 @@
 {
-  "version": "2.3.3.0",
-  "notes": "Loyers, départ du locataire : la régularisation inscrite à l'historique a le bon sens (positif : le locataire doit), et la question reprend la conclusion du document (caution imputée ou restituée).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.3.3.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.3.3.0.zip",
-  "sha256": "2f1405c6cc24b023a7477892324d64b3b51771b2bad8f178a4519ad933caf2ce",
-  "signature": "60279547190167ef9556b06c73d7beb863bf812778a89fe18bd1d2e5f5fe0516e1d99fcba5c02e65fbb0af217551bfca0336e94051314a596282b45ce48a4e01"
+  "version": "2.3.4.0",
+  "notes": "Six thèmes bleus, du bleu ciel au bleu nuit (Azur, Bleuet, Horizon, Saphir, Marine, Minuit). Listes déroulantes : menu compact, une longue liste (clubs de football) ne couvre plus l'écran. Paramètres : la zone Langue est retirée. Sauvegardes : le nombre de fiches ne compte plus la liste des courses habituelles, les réglages ni le questionnaire En cas de décès. Premiers pas : les pièces jointes sont toujours chiffrées ; le réglage ne concerne que les PDF fabriqués. Atelier des champs : jamais dans la version du Microsoft Store.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.3.4.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.3.4.0.zip",
+  "sha256": "704c7dd4d240f076cd233c8144ed5fef630420d2953578cc4bba5aa05a0c3045",
+  "signature": "ad2f170e86def8672990ecefcc10bff9d13d6038d3815c6bd005108446d7257aae7c5bf623c8e5df7c76a32241f862025539f952bc4d5a1cd800de536442a504"
 }
