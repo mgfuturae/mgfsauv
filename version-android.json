@@ -1,8 +1,8 @@
 {
-  "version": "2.3.4.0",
-  "notes": "Six thèmes bleus, du bleu ciel au bleu nuit (Azur, Bleuet, Horizon, Saphir, Marine, Minuit). Listes déroulantes : menu compact, une longue liste (clubs de football) ne couvre plus l'écran. Paramètres : la zone Langue est retirée. Sauvegardes : le nombre de fiches ne compte plus la liste des courses habituelles, les réglages ni le questionnaire En cas de décès. Premiers pas : les pièces jointes sont toujours chiffrées ; le réglage ne concerne que les PDF fabriqués. Atelier des champs : jamais dans la version du Microsoft Store.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.3.4.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.3.4.0.apk",
-  "sha256": "6c16940a8a2cda820ea835757dbe9843fae531dd0cdbdc8ba5d19ed126a0704e",
-  "signature": "9d258d26464bf6f8521ef331746cca632c0ca5fcafa0497d117cf3a7018d1af9aca7638c5df5298b2a9cb8452db4a2152d03f03e19bb5422f3e0e9392a8ec107"
+  "version": "2.3.5.0",
+  "notes": "Paramètres : une aide à la saisie dans chaque zone. Les réglages Oui / Non (jours fériés, vacances scolaires), la zone de vacances (A, B, C), les mois d'alerte et la page d'accueil sur téléphone se choisissent dans une liste qui dit la valeur par défaut. La page d'accueil sur téléphone fonctionne. La zone Logo, qui ne servait à rien, est retirée.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.3.5.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.3.5.0.apk",
+  "sha256": "8baa09b8264446b0dd5b1c0028dc2e340d23987313637f342d98c443aa0a8279",
+  "signature": "18386e191a76ca5d3d1a74f9be84f21a33f24114439aec522544b23b33a1639265caa2e8b31413da8a3313f1175598ac2597670951b9c275f9c893f0c200b50a"
 }
