@@ -1,8 +1,8 @@
 {
-  "version": "2.2.3.0",
-  "notes": "Paramètres : le mot de passe des PDF ne se voit et ne se copie qu'après le mot de passe de l'application, comme ceux des favoris.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.2.3.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.2.3.0.zip",
-  "sha256": "fcfe7c12b797de07ee57f32bd52ce5d3d97cb96a5074b0ba84538039b1b614d4",
-  "signature": "b0348ddd5d17ef1352f07c6ca3c5b5ca321fc060f9236fd8659b34acf45d8e9900064bfef93b697f5f69dd63a333450d5452a7a61287ea9039daa60f9a84f308"
+  "version": "2.2.4.0",
+  "notes": "Mots de passe protégés aussi dans Gestion des éditions, le PDF d'une liste et la copie lisible. Hauteurs égales des zones (listes, dates, fichiers). Loyers : chaque PDF (quittance, régularisation, départ, historique) peut être conservé dans les pièces jointes du bien loué. Bien loué : type de location, surface, année de construction, DPE, zone tendue, loyer du locataire précédent.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.2.4.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.2.4.0.zip",
+  "sha256": "a3b3a530a793dae604a33d0e3269f469b3b3e175e148d1b232e413e5a61c406f",
+  "signature": "4e2f36a32bff8aa0c68f93e26000c3f9b46552d329502b290a7edac8a6b579620da255dc7fdb51f0e490dd86c71aa6c964508372def0054f315fb5c94a214809"
 }
