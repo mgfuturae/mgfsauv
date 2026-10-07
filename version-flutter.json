@@ -1,8 +1,8 @@
 {
-  "version": "2.2.5.0",
-  "notes": "Nouveau premier démarrage : démonstration sans mot de passe, ou enregistrement (coordonnées, numéro de série, mot de passe) et page des premiers pas. Loyers : quittances, régularisations et départ du locataire sans mot de passe PDF (la copie de la fiche reste chiffrée) ; pièces jointes rangées en Régularisations, Quittances et autres ; rappel de déduire l'eau des charges du syndic.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.2.5.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.2.5.0.zip",
-  "sha256": "de9e93474b98b639a196e8b39278f3a35dc8ce406c87d6c468747404edb71b87",
-  "signature": "4ecad984cf119396934c5fe22685a84755a7365d23b64e4efa462f9c4962b3e74f4d1e9668a2cabf9fe7df338a7de582c15d3817212a95f578511e1bd0ee0301"
+  "version": "2.2.6.0",
+  "notes": "Loyers : une régularisation enregistrée s'ouvre comme une régularisation (et non comme une quittance), avec un bouton vers l'onglet Régularisation.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.2.6.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.2.6.0.zip",
+  "sha256": "fdd75d7dc315d96d19892817f5dc37ec2a7d54ac57de35c7c18cbc720e8d1b35",
+  "signature": "1eced2197f8e103674d1b1ca86477c58bce70a2a9f462ca9f0c2fc15793b634dab32485bc6388dc107f1b8db4489958ad0a58803d1318c6f191352f2a33e960e"
 }
