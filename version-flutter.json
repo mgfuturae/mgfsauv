@@ -1,8 +1,8 @@
 {
-  "version": "2.2.1.0",
-  "notes": "Mes Contacts : le bouton « Anniversaires de l'agenda », qui a fait son travail, est retiré.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.2.1.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.2.1.0.zip",
-  "sha256": "2ee83765bcc5730a5766c912084b0517014d3cf65f92ea01730b34b88eafb721",
-  "signature": "3c6580827ff5f16e1f07a8903e90f91b8f16806d49db60d0e02daddf56f7ac26d876f38685c9443eea0391f9572c05f120dd221c7922039969a3faf61c7afd04"
+  "version": "2.2.2.0",
+  "notes": "Paramètres : « Rubriques du menu » — décochez les rubriques que vous n'utilisez pas, elles disparaissent du menu, de la recherche et des éditions (biens, comptes, En cas de décès et utilitaires restent toujours).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.2.2.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.2.2.0.zip",
+  "sha256": "c4d0d09c4a606672588033c852c2b691a1538ebc655df81f6cf70b4dff230f95",
+  "signature": "722e1a80d48d08166fd99fa3e649fe3df6d367f1bb74b683d2c07a6aecfb7ad8d4aef9711e98187d1ab0be2bbf420b63f8600b09eac61a108c31aa3c654d7703"
 }
