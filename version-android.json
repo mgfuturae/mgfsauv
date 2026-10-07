@@ -1,8 +1,8 @@
 {
-  "version": "2.3.0.0",
-  "notes": "Loyers : dans la liste des régularisations proposées, un document conservé dans la fiche et resté dans le dossier PDF n'apparaît plus qu'une fois.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.3.0.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.3.0.0.apk",
-  "sha256": "ac08754ab8feaffbf4c6d7e1c930010e008e83ae1812226520c3a423d9333c59",
-  "signature": "e4ac0a0d55d7890f765bcfdd1399bc792920fd3c98501e2f4fd5be9e6fca88900addb3e33a6a801e69a5e8d054bcf647e3750fd24f91a7a5fb7ceb6592983407"
+  "version": "2.3.1.0",
+  "notes": "Loyers : après « Éditer le document » de régularisation, l'application propose de l'inscrire à l'historique si ce n'est pas encore fait.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.3.1.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.3.1.0.apk",
+  "sha256": "17ba1831ec193897b17f6850876eb98ee91ca8d70b02bcbd9d128572700d2e30",
+  "signature": "f6e680a355aa820a4ee4a4d81a5bb010031c8cf4bc88fb705b539633aaa8ae29044285d9bc505aa5d566eb7bb5d31f9132143051aa190ffafcbb217c67edfd02"
 }
