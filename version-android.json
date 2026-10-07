@@ -1,8 +1,8 @@
 {
-  "version": "2.2.6.0",
-  "notes": "Loyers : une régularisation enregistrée s'ouvre comme une régularisation (et non comme une quittance), avec un bouton vers l'onglet Régularisation.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.2.6.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.2.6.0.apk",
-  "sha256": "116d971c1475bc0c0c65465918ef5741398f7188cf8bfcf851b0277689f50373",
-  "signature": "74b19b68fa1f5108595f09816a2fa077bcad895cbc6d2f460bc06c01c6e188ea2b8a27fcba39c8391b0d95b28fdab7e4f761c90789cfc6fd92b11fda5e6e4d0c"
+  "version": "2.2.7.0",
+  "notes": "Une adresse web dans un champ mail n'est plus signalée comme adresse incomplète. Loyers : l'icône 📄 d'une régularisation ouvre son document (et non une quittance).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.2.7.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.2.7.0.apk",
+  "sha256": "f3d445edeee5c44bc72a15fa82751515b46884d054e9c18d1acdbd5fdd7660bb",
+  "signature": "200d528e48e15a3535fca2085afe18cfd540d497f3001c699c210da24ebcf00a84c867dc13c7fc825189cce9f14d09c72687b5e67b723731d90279fff87e9407"
 }
