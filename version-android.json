@@ -1,8 +1,8 @@
 {
-  "version": "2.2.8.0",
-  "notes": "Loyers : une régularisation saisie à la main (statut ou référence « Régul. ») est reconnue comme telle : plus de demande de mois de quittance, et l'icône 📄 ouvre son document.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.2.8.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.2.8.0.apk",
-  "sha256": "dd75e80d7fc23c66917a5ca97c2575413958e6d4b4a2b7a9336979dadc81923a",
-  "signature": "ddc6ddc122842374d5d07a24d47414c22d950120abc5fbeb8c331c1b70a2e8cea6cb05fb5cc58de5105d24df5025e9385e44132653b7cc809654297cee29d009"
+  "version": "2.2.9.0",
+  "notes": "Loyers : les documents de régularisation aux anciens noms (MF_Regularisation_…) sont reconnus ; l'icône 📄 les retrouve, ou propose la liste des régularisations du bien.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.2.9.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.2.9.0.apk",
+  "sha256": "9569d3b71914963f68ad6b5189952164d193b80ae0b0011f8da09bab02a46628",
+  "signature": "885e3af1a9ec4edaf1ebc79754c53c99c761e28522c2280920db435b611752efa3cb268d9c9b2cbddc12fe286df10aae4d9c5b1fdcedca00fd3402f1e3704605"
 }
