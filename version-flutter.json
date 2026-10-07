@@ -1,8 +1,8 @@
 {
-  "version": "2.2.9.0",
-  "notes": "Loyers : les documents de régularisation aux anciens noms (MF_Regularisation_…) sont reconnus ; l'icône 📄 les retrouve, ou propose la liste des régularisations du bien.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.2.9.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.2.9.0.zip",
-  "sha256": "0ff7fac10962d4915f2edbfb5150444ea71e9e4131b3314b3be91017303c2858",
-  "signature": "5f3f3829f5a6ac342fcdbcd5498a8ef1ff38b4f55ecf690f235f39695e668d5f77ce50ade1f5a2b1f577982a292229068411294526020cd387d43fd32d0b8708"
+  "version": "2.3.0.0",
+  "notes": "Loyers : dans la liste des régularisations proposées, un document conservé dans la fiche et resté dans le dossier PDF n'apparaît plus qu'une fois.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.3.0.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.3.0.0.zip",
+  "sha256": "f4c800cceeb97fa044591408b745b5341413eae59f2c24ec17f9a823820ddba8",
+  "signature": "a6c636f9243dd38c652f2a15cca03559c9702cd94f2b6c8e3a96b9f2f2576f90a05bb36bd3de2fc0fe42c258a722a29c3a86a0e174b1c04a9633dee84cec7d03"
 }
