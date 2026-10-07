@@ -1,8 +1,8 @@
 {
-  "version": "2.2.5.0",
-  "notes": "Nouveau premier démarrage : démonstration sans mot de passe, ou enregistrement (coordonnées, numéro de série, mot de passe) et page des premiers pas. Loyers : quittances, régularisations et départ du locataire sans mot de passe PDF (la copie de la fiche reste chiffrée) ; pièces jointes rangées en Régularisations, Quittances et autres ; rappel de déduire l'eau des charges du syndic.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.2.5.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.2.5.0.apk",
-  "sha256": "8c0628e7f0b3e9a6579a73c4186e45edbc72e04541379c4a11ba1ea1a2bf62df",
-  "signature": "689ab3d244c22e0cb0a3bfdfe611ec51bf65438d7ce48c458a98273da204d6c342c0c12552734e039c9d078539afcb5d9624f56762a71e566c9350cea2b4a701"
+  "version": "2.2.6.0",
+  "notes": "Loyers : une régularisation enregistrée s'ouvre comme une régularisation (et non comme une quittance), avec un bouton vers l'onglet Régularisation.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.2.6.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.2.6.0.apk",
+  "sha256": "116d971c1475bc0c0c65465918ef5741398f7188cf8bfcf851b0277689f50373",
+  "signature": "74b19b68fa1f5108595f09816a2fa077bcad895cbc6d2f460bc06c01c6e188ea2b8a27fcba39c8391b0d95b28fdab7e4f761c90789cfc6fd92b11fda5e6e4d0c"
 }
