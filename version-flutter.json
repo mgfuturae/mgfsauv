@@ -1,8 +1,8 @@
 {
-  "version": "2.2.4.0",
-  "notes": "Mots de passe protégés aussi dans Gestion des éditions, le PDF d'une liste et la copie lisible. Hauteurs égales des zones (listes, dates, fichiers). Loyers : chaque PDF (quittance, régularisation, départ, historique) peut être conservé dans les pièces jointes du bien loué. Bien loué : type de location, surface, année de construction, DPE, zone tendue, loyer du locataire précédent.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.2.4.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.2.4.0.zip",
-  "sha256": "a3b3a530a793dae604a33d0e3269f469b3b3e175e148d1b232e413e5a61c406f",
-  "signature": "4e2f36a32bff8aa0c68f93e26000c3f9b46552d329502b290a7edac8a6b579620da255dc7fdb51f0e490dd86c71aa6c964508372def0054f315fb5c94a214809"
+  "version": "2.2.5.0",
+  "notes": "Nouveau premier démarrage : démonstration sans mot de passe, ou enregistrement (coordonnées, numéro de série, mot de passe) et page des premiers pas. Loyers : quittances, régularisations et départ du locataire sans mot de passe PDF (la copie de la fiche reste chiffrée) ; pièces jointes rangées en Régularisations, Quittances et autres ; rappel de déduire l'eau des charges du syndic.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.2.5.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.2.5.0.zip",
+  "sha256": "de9e93474b98b639a196e8b39278f3a35dc8ce406c87d6c468747404edb71b87",
+  "signature": "4ecad984cf119396934c5fe22685a84755a7365d23b64e4efa462f9c4962b3e74f4d1e9668a2cabf9fe7df338a7de582c15d3817212a95f578511e1bd0ee0301"
 }
