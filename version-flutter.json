@@ -1,8 +1,8 @@
 {
-  "version": "2.2.8.0",
-  "notes": "Loyers : une régularisation saisie à la main (statut ou référence « Régul. ») est reconnue comme telle : plus de demande de mois de quittance, et l'icône 📄 ouvre son document.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.2.8.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.2.8.0.zip",
-  "sha256": "5e1faa91f7f43f7cbe0aeb7ad2a6d6ed3dc0d2b83363f2ebfef9341a0542c05c",
-  "signature": "f773e2f5be3f68ce42d4dbbe160b72039b05760c842beee63e528d8fb2684f80f376b1409f70fc6d139eb6e9e9ec1ca434601e365c603ff923167515c3c78305"
+  "version": "2.2.9.0",
+  "notes": "Loyers : les documents de régularisation aux anciens noms (MF_Regularisation_…) sont reconnus ; l'icône 📄 les retrouve, ou propose la liste des régularisations du bien.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.2.9.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.2.9.0.zip",
+  "sha256": "0ff7fac10962d4915f2edbfb5150444ea71e9e4131b3314b3be91017303c2858",
+  "signature": "5f3f3829f5a6ac342fcdbcd5498a8ef1ff38b4f55ecf690f235f39695e668d5f77ce50ade1f5a2b1f577982a292229068411294526020cd387d43fd32d0b8708"
 }
