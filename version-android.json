@@ -1,8 +1,8 @@
 {
-  "version": "2.2.2.0",
-  "notes": "Paramètres : « Rubriques du menu » — décochez les rubriques que vous n'utilisez pas, elles disparaissent du menu, de la recherche et des éditions (biens, comptes, En cas de décès et utilitaires restent toujours).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.2.2.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.2.2.0.apk",
-  "sha256": "072c22fb687b80c401bc544c29c70483cc4b553754155c00b141ed522ad3c363",
-  "signature": "aeb5a5e83f340e9746329defefd6546bd0f97a8bd4fa775acb5c4121dcf6e6ad1d51a0503ddd769eab0e0fdb1fd96179a5e4ca541810f9fd6bab49ae545d2a0a"
+  "version": "2.2.3.0",
+  "notes": "Paramètres : le mot de passe des PDF ne se voit et ne se copie qu'après le mot de passe de l'application, comme ceux des favoris.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.2.3.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.2.3.0.apk",
+  "sha256": "2c9176e3cacf9a878b03f02e87dc0e2a598c26f036c560d8b293c74e19983599",
+  "signature": "3f8ee70e876973f95e9c6122801bf8519f7b7408021e53bd2b36486b9c2ba887ac7cfcc12dbc4a66c4de6ae26a17c6a585a1489916be7444ca6086be2699020e"
 }
