@@ -1,8 +1,8 @@
 {
-  "version": "2.3.3.0",
-  "notes": "Loyers, départ du locataire : la régularisation inscrite à l'historique a le bon sens (positif : le locataire doit), et la question reprend la conclusion du document (caution imputée ou restituée).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.3.3.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.3.3.0.apk",
-  "sha256": "fa841bb8cf078f6edf2dadc572f80d930e28dfd34457fd6eb92a4cf178385e34",
-  "signature": "6109288bad9e42ac468456e438bc519698d6647f861477e1f8c66cac5e1b0fab9221d76c49df179f2930b105419e626a559d340e9fdfd5367c68886a47919f09"
+  "version": "2.3.4.0",
+  "notes": "Six thèmes bleus, du bleu ciel au bleu nuit (Azur, Bleuet, Horizon, Saphir, Marine, Minuit). Listes déroulantes : menu compact, une longue liste (clubs de football) ne couvre plus l'écran. Paramètres : la zone Langue est retirée. Sauvegardes : le nombre de fiches ne compte plus la liste des courses habituelles, les réglages ni le questionnaire En cas de décès. Premiers pas : les pièces jointes sont toujours chiffrées ; le réglage ne concerne que les PDF fabriqués. Atelier des champs : jamais dans la version du Microsoft Store.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.3.4.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.3.4.0.apk",
+  "sha256": "6c16940a8a2cda820ea835757dbe9843fae531dd0cdbdc8ba5d19ed126a0704e",
+  "signature": "9d258d26464bf6f8521ef331746cca632c0ca5fcafa0497d117cf3a7018d1af9aca7638c5df5298b2a9cb8452db4a2152d03f03e19bb5422f3e0e9392a8ec107"
 }
