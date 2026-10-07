@@ -1,8 +1,8 @@
 {
-  "version": "2.3.4.0",
-  "notes": "Six thèmes bleus, du bleu ciel au bleu nuit (Azur, Bleuet, Horizon, Saphir, Marine, Minuit). Listes déroulantes : menu compact, une longue liste (clubs de football) ne couvre plus l'écran. Paramètres : la zone Langue est retirée. Sauvegardes : le nombre de fiches ne compte plus la liste des courses habituelles, les réglages ni le questionnaire En cas de décès. Premiers pas : les pièces jointes sont toujours chiffrées ; le réglage ne concerne que les PDF fabriqués. Atelier des champs : jamais dans la version du Microsoft Store.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.3.4.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.3.4.0.zip",
-  "sha256": "704c7dd4d240f076cd233c8144ed5fef630420d2953578cc4bba5aa05a0c3045",
-  "signature": "ad2f170e86def8672990ecefcc10bff9d13d6038d3815c6bd005108446d7257aae7c5bf623c8e5df7c76a32241f862025539f952bc4d5a1cd800de536442a504"
+  "version": "2.3.5.0",
+  "notes": "Paramètres : une aide à la saisie dans chaque zone. Les réglages Oui / Non (jours fériés, vacances scolaires), la zone de vacances (A, B, C), les mois d'alerte et la page d'accueil sur téléphone se choisissent dans une liste qui dit la valeur par défaut. La page d'accueil sur téléphone fonctionne. La zone Logo, qui ne servait à rien, est retirée.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.3.5.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.3.5.0.zip",
+  "sha256": "ca1f75b416f5a3d1320b2165a7fced39d365e0397116a061c5c00aba29aa18f3",
+  "signature": "2f8e35bf7018b69b4871f0ec2b4e5bff31a18d38d139eb8f05335414dca114bfbca1445b197247f4d5210921468320d73346f35f3d6861bfdbd79ae736c5fa0e"
 }
