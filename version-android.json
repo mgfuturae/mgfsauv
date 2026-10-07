@@ -1,8 +1,8 @@
 {
-  "version": "2.2.4.0",
-  "notes": "Mots de passe protégés aussi dans Gestion des éditions, le PDF d'une liste et la copie lisible. Hauteurs égales des zones (listes, dates, fichiers). Loyers : chaque PDF (quittance, régularisation, départ, historique) peut être conservé dans les pièces jointes du bien loué. Bien loué : type de location, surface, année de construction, DPE, zone tendue, loyer du locataire précédent.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.2.4.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.2.4.0.apk",
-  "sha256": "4b52a0ff61bc11b0d024c0f05ed80e647a5fcfec46e6afbe3f955f28b98f8969",
-  "signature": "77d2b00379c6d4b5e26f29ea3c2bf5257bed77d670e57fc7fa1c819b3bb1de3aa60f4e6c8ec9154f50710bf2c33c972e10d03122f2cd09f6ec4331c74b6f9f0c"
+  "version": "2.2.5.0",
+  "notes": "Nouveau premier démarrage : démonstration sans mot de passe, ou enregistrement (coordonnées, numéro de série, mot de passe) et page des premiers pas. Loyers : quittances, régularisations et départ du locataire sans mot de passe PDF (la copie de la fiche reste chiffrée) ; pièces jointes rangées en Régularisations, Quittances et autres ; rappel de déduire l'eau des charges du syndic.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.2.5.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.2.5.0.apk",
+  "sha256": "8c0628e7f0b3e9a6579a73c4186e45edbc72e04541379c4a11ba1ea1a2bf62df",
+  "signature": "689ab3d244c22e0cb0a3bfdfe611ec51bf65438d7ce48c458a98273da204d6c342c0c12552734e039c9d078539afcb5d9624f56762a71e566c9350cea2b4a701"
 }
