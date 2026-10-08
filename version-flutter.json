@@ -1,8 +1,8 @@
 {
-  "version": "2.4.2.0",
-  "notes": "La taille du texte des rendez-vous de l'agenda se règle maintenant dans Gestion des couleurs, à côté de la taille du texte de l'appareil (elle n'est plus dans Paramètres).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.4.2.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.4.2.0.zip",
-  "sha256": "0f6a2b9fb3248fcf0647a97b60ea8ba42b5e2d78e7d70ef1297d84ebde4f1185",
-  "signature": "70a89ff93962392a6a0b51c7a4ac522cfd50ea4f5d1d408583807cbc9ec4480a0ae57f77a8aba023da906d35c0a9e80e0eb620112a461263e5f844e6117dab0c"
+  "version": "2.4.3.0",
+  "notes": "Téléphone : au réveil, le même écran d'entrée qu'à l'ouverture (œil pour voir le mot de passe, clavier à l'écran, « Voir la démonstration ») ; avec son mot de passe, on reprend où l'on était. Les listes vont jusqu'en bas de l'écran même avec une seule fiche. Bandeau déroulant : les messages ne se chevauchent plus, même avec un texte agrandi.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.4.3.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.4.3.0.zip",
+  "sha256": "fe5db1ed9fefd096ff281c5b11cdeab83f9f8d87d05bf6099e58f86d2b5c474e",
+  "signature": "b03939e036668b881041e1c60a0e7abe0113885f4c88bc258a6103106311f34457c66ba75452b947e97527a84f54ea386bf1571e9196794f2b90885b2519b908"
 }
