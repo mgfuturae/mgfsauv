@@ -1,8 +1,8 @@
 {
-  "version": "2.4.0.0",
-  "notes": "Démonstration complète : toutes les zones des fiches sont remplies (sauf celles qui resteraient vides dans la vie). Portefeuille de démonstration : six valeurs, un ETF acheté chaque trimestre, une valeur américaine, une valeur vendue en 2025, des dividendes sur trois ans. Une valeur entièrement vendue n'est plus signalée comme oubliée dans le patrimoine.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.4.0.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.4.0.0.apk",
-  "sha256": "6c516731782bff49ea99fdb507b46227221a20e0a3d82199b25a43bf1695518f",
-  "signature": "b08186242f0543e415f50bd90904cc5587c032aa09eaba11fb0633af7ae9a9d87e3e13c3e5f6c3e8c63fc0618967ce206dd6cb350e60a2f44e72f1d8fa7c2c0e"
+  "version": "2.4.1.0",
+  "notes": "Téléphone : sans réglage, il reçoit la sauvegarde (poste esclave). Dès que vous entrez avec votre adresse et votre mot de passe, une sauvegarde plus récente sur votre serveur est reprise automatiquement, si le mot de passe l'ouvre.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.4.1.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.4.1.0.apk",
+  "sha256": "87209899276dc9ed69f6951b4ca5572b37a4b4ab7995deeb5b7ac9e53f343637",
+  "signature": "2516ad1d15e412efd9bed0489c7f3a795c561ddaddde21260198074b40de2278584b733d1fcb02dfe8abe68622f9fc121854b3583c741fcd79d1e555a2614d08"
 }
