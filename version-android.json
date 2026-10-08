@@ -1,8 +1,8 @@
 {
-  "version": "2.4.3.0",
-  "notes": "Téléphone : au réveil, le même écran d'entrée qu'à l'ouverture (œil pour voir le mot de passe, clavier à l'écran, « Voir la démonstration ») ; avec son mot de passe, on reprend où l'on était. Les listes vont jusqu'en bas de l'écran même avec une seule fiche. Bandeau déroulant : les messages ne se chevauchent plus, même avec un texte agrandi.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.4.3.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.4.3.0.apk",
-  "sha256": "162cd383bfa3cad59da26753e2e88f0379751a64f98e2eeca5574389ea782bd6",
-  "signature": "c858393f9cb0d5922b1a36f486df2ce11aa12446fdee2db0d0be55d8a22ae5755bf026e0fed6ce1a4ec2742213417d085e4f11bb136921391c576adc755c6505"
+  "version": "2.4.4.0",
+  "notes": "Téléphone (poste qui reçoit) : il sait quand une sauvegarde plus récente attend sur votre serveur. Au réveil, après votre mot de passe, elle se met en place toute seule. Pendant l'utilisation, un bouton « Nouvelle sauvegarde » clignote à côté de la feuille de route, et le bandeau le dit : un toucher, votre mot de passe, et elle est reprise. La saisie d'un mot de passe a maintenant son œil partout.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.4.4.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.4.4.0.apk",
+  "sha256": "132911eac8209499baf6e11ddc1237a6c39e6e6381835b7545a78bae0e1b6654",
+  "signature": "4966ad30b6f08568c121e74349b34f6c8e9dbe5bacad42068b28bd9f41332b9f7baaca5e5c13802369c049a984fd4a9fc6864f0cee4a411d024be7c15ba88e0f"
 }
