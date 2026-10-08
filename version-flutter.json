@@ -1,8 +1,8 @@
 {
-  "version": "2.3.7.0",
-  "notes": "Paramètres : Rubriques du menu, Mise en ligne et Numéro de série rejoignent PDF, Enregistrer, Joindre et Supprimer, sur la même ligne. Le menu dit « Gestion des couleurs » et « Conseils de sécurité ».",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.3.7.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.3.7.0.zip",
-  "sha256": "03955f7fa13e314ae81daa00deee8dfaf285b2905bab4ce2cfb494e9c158fa1a",
-  "signature": "bdecf41487308fbc9d9257ccc1fe4cf6370312ca4d5f568b462b721f1243abb11727b610487e4e8d34e4e9e8db9744dc3fd74a7bb4905368e82d5a0c9d6d470b"
+  "version": "2.3.8.0",
+  "notes": "Nouveau Portefeuille boursier : un journal d'achats, de ventes et de dividendes par valeur ; prix de revient moyen pondéré frais compris, plus-values latentes et réalisées, dividendes ; tuiles, positions colorées, alertes objectif et stop, détail de chaque valeur avec ses documents ; onglets Opérations, Plus-values et dividendes par année, Répartition ; PDF du portefeuille, des plus-values de l'année, du journal et d'une valeur. Les fiches existantes sont reprises automatiquement.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.3.8.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.3.8.0.zip",
+  "sha256": "fab92d5bc857c85681380a5fcb08fccf1ddf205db1dfbd70521a1b90a3380fae",
+  "signature": "d0f51fe71f0d63f6db9af2521f716469e94817842bfed9d5e1b306a4a17899400009e5812665b1e4362b2c85de7c14568fa2d2437579910670d125f1ca2d2605"
 }
