@@ -1,8 +1,8 @@
 {
-  "version": "2.3.8.0",
-  "notes": "Nouveau Portefeuille boursier : un journal d'achats, de ventes et de dividendes par valeur ; prix de revient moyen pondéré frais compris, plus-values latentes et réalisées, dividendes ; tuiles, positions colorées, alertes objectif et stop, détail de chaque valeur avec ses documents ; onglets Opérations, Plus-values et dividendes par année, Répartition ; PDF du portefeuille, des plus-values de l'année, du journal et d'une valeur. Les fiches existantes sont reprises automatiquement.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.3.8.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.3.8.0.zip",
-  "sha256": "fab92d5bc857c85681380a5fcb08fccf1ddf205db1dfbd70521a1b90a3380fae",
-  "signature": "d0f51fe71f0d63f6db9af2521f716469e94817842bfed9d5e1b306a4a17899400009e5812665b1e4362b2c85de7c14568fa2d2437579910670d125f1ca2d2605"
+  "version": "2.3.9.0",
+  "notes": "Démonstration : un portefeuille boursier complet (trois valeurs, deux enveloppes, une vente et des dividendes) et un bien loué au DPE renseigné. Portefeuille : prix de revient à deux décimales, couleurs plus sobres pour les cours et les frais.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.3.9.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.3.9.0.zip",
+  "sha256": "74235d1cbdfb103cd0fd98154fefe0dbed51106996040fb23d2aff73c21b24f7",
+  "signature": "cc06a2ec00471798520b32aabbc5cae6ccaf848fc71dfc8d791f6109428183614cb0f8d18cbdfd6cdd7223169daed3e6840734c4f5341c7a333b6fe829baa50f"
 }
