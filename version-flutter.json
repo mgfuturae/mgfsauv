@@ -1,8 +1,8 @@
 {
-  "version": "2.4.4.0",
-  "notes": "Téléphone (poste qui reçoit) : il sait quand une sauvegarde plus récente attend sur votre serveur. Au réveil, après votre mot de passe, elle se met en place toute seule. Pendant l'utilisation, un bouton « Nouvelle sauvegarde » clignote à côté de la feuille de route, et le bandeau le dit : un toucher, votre mot de passe, et elle est reprise. La saisie d'un mot de passe a maintenant son œil partout.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.4.4.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.4.4.0.zip",
-  "sha256": "62df74eeefb9fe60c5e947e9d096ff5aa3a4964909906d95473822c4b8ac3221",
-  "signature": "02d9b9e6756c3a65bcaaf38275e00e57c4d72daadbee2ddce5ef321fad3cfbf8ddc21748578694200edd39034518954c86e31744d585c2a6c5d35b7033c3db06"
+  "version": "2.4.5.0",
+  "notes": "Portefeuille boursier sur téléphone : un résumé compact au lieu des grosses tuiles, une carte par valeur (valeur, plus-value colorée, quantité × cours, PRU, poids, objectif), une carte par opération dans le journal, les ventes et les dividendes, et des barres pleine largeur dans la répartition.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.4.5.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.4.5.0.zip",
+  "sha256": "692f0c0bb4f9b41478733c5bf80a47fb231ad33a3d0027f074265cd2adf46927",
+  "signature": "160627a0335687825d1f3bebf354e27610efe13b537ea7c5cb914e85c552af7f33aa32e9e7edd26acc49bbf302e8530cbcf5dac1467bf02db393050737396d0d"
 }
