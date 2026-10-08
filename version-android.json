@@ -1,8 +1,8 @@
 {
-  "version": "2.3.7.0",
-  "notes": "Paramètres : Rubriques du menu, Mise en ligne et Numéro de série rejoignent PDF, Enregistrer, Joindre et Supprimer, sur la même ligne. Le menu dit « Gestion des couleurs » et « Conseils de sécurité ».",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.3.7.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.3.7.0.apk",
-  "sha256": "80773323670e3efe6b613b34f2d331694bf233553c63063bc48b310beab6640a",
-  "signature": "bac8f84e16f1b85941c851944d74fa1ae6e997912d5e36b668b076d2ddad6ec5910373cb47cb86b15e437cc52b54363fa6611189a69ab6536eccc04437bbea04"
+  "version": "2.3.8.0",
+  "notes": "Nouveau Portefeuille boursier : un journal d'achats, de ventes et de dividendes par valeur ; prix de revient moyen pondéré frais compris, plus-values latentes et réalisées, dividendes ; tuiles, positions colorées, alertes objectif et stop, détail de chaque valeur avec ses documents ; onglets Opérations, Plus-values et dividendes par année, Répartition ; PDF du portefeuille, des plus-values de l'année, du journal et d'une valeur. Les fiches existantes sont reprises automatiquement.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.3.8.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.3.8.0.apk",
+  "sha256": "3b949f23e696ee105908dd0ac3939d32c4fe96dbd83494572973e814fccbcba9",
+  "signature": "9f414011c949e71658edf9adae9c0fadc889787ac1b75da8e71bd125f3d482ff7c85f665b002c0673be779a46620f2f8f0d4f35a315136c45998fbafb88bdf07"
 }
