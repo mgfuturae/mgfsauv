@@ -1,8 +1,8 @@
 {
-  "version": "2.4.1.0",
-  "notes": "Téléphone : sans réglage, il reçoit la sauvegarde (poste esclave). Dès que vous entrez avec votre adresse et votre mot de passe, une sauvegarde plus récente sur votre serveur est reprise automatiquement, si le mot de passe l'ouvre.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.4.1.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.4.1.0.apk",
-  "sha256": "87209899276dc9ed69f6951b4ca5572b37a4b4ab7995deeb5b7ac9e53f343637",
-  "signature": "2516ad1d15e412efd9bed0489c7f3a795c561ddaddde21260198074b40de2278584b733d1fcb02dfe8abe68622f9fc121854b3583c741fcd79d1e555a2614d08"
+  "version": "2.4.2.0",
+  "notes": "La taille du texte des rendez-vous de l'agenda se règle maintenant dans Gestion des couleurs, à côté de la taille du texte de l'appareil (elle n'est plus dans Paramètres).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.4.2.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.4.2.0.apk",
+  "sha256": "82e5406056fcf0cace08eb060d258fa95bf41a59ff9282b462dd1ba693eca234",
+  "signature": "1e576b5eae3a51f29617d1816ffea96e59b6eac08e0b2eb96fe2c13e3334e99490cef3e3be65f72c72862b2e1315fd1a70245672a4839fc20b409d704b45b50f"
 }
