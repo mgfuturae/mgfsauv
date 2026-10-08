@@ -1,8 +1,8 @@
 {
-  "version": "2.3.8.0",
-  "notes": "Nouveau Portefeuille boursier : un journal d'achats, de ventes et de dividendes par valeur ; prix de revient moyen pondéré frais compris, plus-values latentes et réalisées, dividendes ; tuiles, positions colorées, alertes objectif et stop, détail de chaque valeur avec ses documents ; onglets Opérations, Plus-values et dividendes par année, Répartition ; PDF du portefeuille, des plus-values de l'année, du journal et d'une valeur. Les fiches existantes sont reprises automatiquement.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.3.8.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.3.8.0.apk",
-  "sha256": "3b949f23e696ee105908dd0ac3939d32c4fe96dbd83494572973e814fccbcba9",
-  "signature": "9f414011c949e71658edf9adae9c0fadc889787ac1b75da8e71bd125f3d482ff7c85f665b002c0673be779a46620f2f8f0d4f35a315136c45998fbafb88bdf07"
+  "version": "2.3.9.0",
+  "notes": "Démonstration : un portefeuille boursier complet (trois valeurs, deux enveloppes, une vente et des dividendes) et un bien loué au DPE renseigné. Portefeuille : prix de revient à deux décimales, couleurs plus sobres pour les cours et les frais.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.3.9.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.3.9.0.apk",
+  "sha256": "4073452c9df419b809b3556cdb18591e2be0afe93560aef976d4af6b983860d2",
+  "signature": "4b9ad30939089c4546af9c85ba7ea211cd868516aa2080c9943dbe9e26d58dd4b1a08a0d2fa2844c7260b1d59e996780876a99a58359d9dc6a69084bd5d0240a"
 }
