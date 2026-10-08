@@ -1,8 +1,8 @@
 {
-  "version": "2.3.9.0",
-  "notes": "Démonstration : un portefeuille boursier complet (trois valeurs, deux enveloppes, une vente et des dividendes) et un bien loué au DPE renseigné. Portefeuille : prix de revient à deux décimales, couleurs plus sobres pour les cours et les frais.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.3.9.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.3.9.0.zip",
-  "sha256": "74235d1cbdfb103cd0fd98154fefe0dbed51106996040fb23d2aff73c21b24f7",
-  "signature": "cc06a2ec00471798520b32aabbc5cae6ccaf848fc71dfc8d791f6109428183614cb0f8d18cbdfd6cdd7223169daed3e6840734c4f5341c7a333b6fe829baa50f"
+  "version": "2.4.0.0",
+  "notes": "Démonstration complète : toutes les zones des fiches sont remplies (sauf celles qui resteraient vides dans la vie). Portefeuille de démonstration : six valeurs, un ETF acheté chaque trimestre, une valeur américaine, une valeur vendue en 2025, des dividendes sur trois ans. Une valeur entièrement vendue n'est plus signalée comme oubliée dans le patrimoine.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.4.0.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.4.0.0.zip",
+  "sha256": "e5d14136b17c6d0345b2e142a5700d3a2cc4352cc63dfd66b8050e1ea901ae74",
+  "signature": "b81040554e776ac5b755165f0cdf7df8d50020a736ba490c6f7df69f54a2fcb46a65ed116a142e84202cb374ef60e042008c5a6e71e165cde4d29d3087ab3d05"
 }
