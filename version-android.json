@@ -1,8 +1,8 @@
 {
-  "version": "2.4.2.0",
-  "notes": "La taille du texte des rendez-vous de l'agenda se règle maintenant dans Gestion des couleurs, à côté de la taille du texte de l'appareil (elle n'est plus dans Paramètres).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.4.2.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.4.2.0.apk",
-  "sha256": "82e5406056fcf0cace08eb060d258fa95bf41a59ff9282b462dd1ba693eca234",
-  "signature": "1e576b5eae3a51f29617d1816ffea96e59b6eac08e0b2eb96fe2c13e3334e99490cef3e3be65f72c72862b2e1315fd1a70245672a4839fc20b409d704b45b50f"
+  "version": "2.4.3.0",
+  "notes": "Téléphone : au réveil, le même écran d'entrée qu'à l'ouverture (œil pour voir le mot de passe, clavier à l'écran, « Voir la démonstration ») ; avec son mot de passe, on reprend où l'on était. Les listes vont jusqu'en bas de l'écran même avec une seule fiche. Bandeau déroulant : les messages ne se chevauchent plus, même avec un texte agrandi.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.4.3.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.4.3.0.apk",
+  "sha256": "162cd383bfa3cad59da26753e2e88f0379751a64f98e2eeca5574389ea782bd6",
+  "signature": "c858393f9cb0d5922b1a36f486df2ce11aa12446fdee2db0d0be55d8a22ae5755bf026e0fed6ce1a4ec2742213417d085e4f11bb136921391c576adc755c6505"
 }
