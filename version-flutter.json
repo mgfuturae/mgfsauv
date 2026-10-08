@@ -1,8 +1,8 @@
 {
-  "version": "2.3.6.0",
-  "notes": "Paramètres en deux écrans : « Mes informations personnelles » (coordonnées, pièces d'identité) et « Réglages de l'application » (PDF, agenda, alertes, page d'accueil, feuille de route). Les réponses Oui / Non, A / B / C et les durées sont dans des zones à leur taille ; la valeur par défaut s'affiche en gris dans la zone, « par défaut » et l'unité (mois) à côté.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.3.6.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.3.6.0.zip",
-  "sha256": "1a3e60ef64820352583a544ecb44f3667054920070c0fe0cf708d9575149e278",
-  "signature": "b794a5a446b525b520cdbdc1082852ff719227907a26caf7859b954bd25ff5a8032a276168d45da6079492b5348d46ef5efa7c26153c27602465c77283146d02"
+  "version": "2.3.7.0",
+  "notes": "Paramètres : Rubriques du menu, Mise en ligne et Numéro de série rejoignent PDF, Enregistrer, Joindre et Supprimer, sur la même ligne. Le menu dit « Gestion des couleurs » et « Conseils de sécurité ».",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.3.7.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.3.7.0.zip",
+  "sha256": "03955f7fa13e314ae81daa00deee8dfaf285b2905bab4ce2cfb494e9c158fa1a",
+  "signature": "bdecf41487308fbc9d9257ccc1fe4cf6370312ca4d5f568b462b721f1243abb11727b610487e4e8d34e4e9e8db9744dc3fd74a7bb4905368e82d5a0c9d6d470b"
 }
