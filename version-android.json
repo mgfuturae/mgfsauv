@@ -1,8 +1,8 @@
 {
-  "version": "2.3.5.0",
-  "notes": "Paramètres : une aide à la saisie dans chaque zone. Les réglages Oui / Non (jours fériés, vacances scolaires), la zone de vacances (A, B, C), les mois d'alerte et la page d'accueil sur téléphone se choisissent dans une liste qui dit la valeur par défaut. La page d'accueil sur téléphone fonctionne. La zone Logo, qui ne servait à rien, est retirée.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.3.5.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.3.5.0.apk",
-  "sha256": "8baa09b8264446b0dd5b1c0028dc2e340d23987313637f342d98c443aa0a8279",
-  "signature": "18386e191a76ca5d3d1a74f9be84f21a33f24114439aec522544b23b33a1639265caa2e8b31413da8a3313f1175598ac2597670951b9c275f9c893f0c200b50a"
+  "version": "2.3.6.0",
+  "notes": "Paramètres en deux écrans : « Mes informations personnelles » (coordonnées, pièces d'identité) et « Réglages de l'application » (PDF, agenda, alertes, page d'accueil, feuille de route). Les réponses Oui / Non, A / B / C et les durées sont dans des zones à leur taille ; la valeur par défaut s'affiche en gris dans la zone, « par défaut » et l'unité (mois) à côté.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.3.6.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.3.6.0.apk",
+  "sha256": "13cb5739fa02842d7fd6a3fb41367b27d3c4232d98e47a667d06675c681f0949",
+  "signature": "8e3a702a2a09ab11783d41f9bba2f980080715da0dd41df8aadbb62f1db1a92f4d9bffe7281b9904675ff1e7fc3b7b964f9b7cb13c8222d54f32cf5669a22a05"
 }
