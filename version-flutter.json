@@ -1,8 +1,8 @@
 {
-  "version": "2.4.1.0",
-  "notes": "Téléphone : sans réglage, il reçoit la sauvegarde (poste esclave). Dès que vous entrez avec votre adresse et votre mot de passe, une sauvegarde plus récente sur votre serveur est reprise automatiquement, si le mot de passe l'ouvre.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.4.1.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.4.1.0.zip",
-  "sha256": "920dac222a26117f72a9a09b8c2773ebaee7ddcea38cac69d64d70bc6b1033dc",
-  "signature": "f3de1a2c2ba575f45b35abe2c368cf9f5c002c7c4546bf4d84cebd5701978a478c1c7a0d0b6cca0c301cbbb99d333d9be1d6d58c53b268119528eb29b5153601"
+  "version": "2.4.2.0",
+  "notes": "La taille du texte des rendez-vous de l'agenda se règle maintenant dans Gestion des couleurs, à côté de la taille du texte de l'appareil (elle n'est plus dans Paramètres).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.4.2.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.4.2.0.zip",
+  "sha256": "0f6a2b9fb3248fcf0647a97b60ea8ba42b5e2d78e7d70ef1297d84ebde4f1185",
+  "signature": "70a89ff93962392a6a0b51c7a4ac522cfd50ea4f5d1d408583807cbc9ec4480a0ae57f77a8aba023da906d35c0a9e80e0eb620112a461263e5f844e6117dab0c"
 }
