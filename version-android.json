@@ -1,8 +1,8 @@
 {
-  "version": "2.3.9.0",
-  "notes": "Démonstration : un portefeuille boursier complet (trois valeurs, deux enveloppes, une vente et des dividendes) et un bien loué au DPE renseigné. Portefeuille : prix de revient à deux décimales, couleurs plus sobres pour les cours et les frais.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.3.9.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.3.9.0.apk",
-  "sha256": "4073452c9df419b809b3556cdb18591e2be0afe93560aef976d4af6b983860d2",
-  "signature": "4b9ad30939089c4546af9c85ba7ea211cd868516aa2080c9943dbe9e26d58dd4b1a08a0d2fa2844c7260b1d59e996780876a99a58359d9dc6a69084bd5d0240a"
+  "version": "2.4.0.0",
+  "notes": "Démonstration complète : toutes les zones des fiches sont remplies (sauf celles qui resteraient vides dans la vie). Portefeuille de démonstration : six valeurs, un ETF acheté chaque trimestre, une valeur américaine, une valeur vendue en 2025, des dividendes sur trois ans. Une valeur entièrement vendue n'est plus signalée comme oubliée dans le patrimoine.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.4.0.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.4.0.0.apk",
+  "sha256": "6c516731782bff49ea99fdb507b46227221a20e0a3d82199b25a43bf1695518f",
+  "signature": "b08186242f0543e415f50bd90904cc5587c032aa09eaba11fb0633af7ae9a9d87e3e13c3e5f6c3e8c63fc0618967ce206dd6cb350e60a2f44e72f1d8fa7c2c0e"
 }
