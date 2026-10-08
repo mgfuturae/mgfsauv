@@ -1,8 +1,8 @@
 {
-  "version": "2.4.4.0",
-  "notes": "Téléphone (poste qui reçoit) : il sait quand une sauvegarde plus récente attend sur votre serveur. Au réveil, après votre mot de passe, elle se met en place toute seule. Pendant l'utilisation, un bouton « Nouvelle sauvegarde » clignote à côté de la feuille de route, et le bandeau le dit : un toucher, votre mot de passe, et elle est reprise. La saisie d'un mot de passe a maintenant son œil partout.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.4.4.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.4.4.0.apk",
-  "sha256": "132911eac8209499baf6e11ddc1237a6c39e6e6381835b7545a78bae0e1b6654",
-  "signature": "4966ad30b6f08568c121e74349b34f6c8e9dbe5bacad42068b28bd9f41332b9f7baaca5e5c13802369c049a984fd4a9fc6864f0cee4a411d024be7c15ba88e0f"
+  "version": "2.4.5.0",
+  "notes": "Portefeuille boursier sur téléphone : un résumé compact au lieu des grosses tuiles, une carte par valeur (valeur, plus-value colorée, quantité × cours, PRU, poids, objectif), une carte par opération dans le journal, les ventes et les dividendes, et des barres pleine largeur dans la répartition.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.4.5.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.4.5.0.apk",
+  "sha256": "62acc9011058002939c99bb5dad5a0ec3f0fd5bd1c94d2008b2e286e7a6a4d8b",
+  "signature": "6983300588ee15edae002b1f27a9429402d820f1824ef698c4adbe3be7ffb7e345af41e099e51cc92f9ac7b3d773f1abf1f87d9fa1b5916f74768892e87bf201"
 }
