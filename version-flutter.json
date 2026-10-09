@@ -1,8 +1,8 @@
 {
-  "version": "2.4.7.0",
-  "notes": "Agenda : à la reprise de la sauvegarde du PC, les rendez-vous saisis ou modifiés sur le téléphone sont gardés (le plus récent l'emporte) et repartent vers le site. Les échanges avec le site rattrapent aussi les rendez-vous envoyés en retard.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.4.7.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.4.7.0.zip",
-  "sha256": "8446d8297096a85f0eb8ab4077e4b6f71c77096f8b339d2db8cfcc1aa603a94a",
-  "signature": "7d26468d4ac3b98246beb31b10104b9692840dfa5d6bf90a8d3e388cf352d64ea23d55777b04ebafd9b100202c1537b0f6979efa5351056345a626114ecca005"
+  "version": "2.4.8.0",
+  "notes": "Agenda : les échanges avec le site demandent au plus juste ; le rattrapage des rendez-vous envoyés en retard ne se fait plus qu'à l'ouverture (le site les trie désormais sur leur heure de réception).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.4.8.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.4.8.0.zip",
+  "sha256": "e0f3173365108e990808be9d3c60f5ea3a82edfa61d396dadb735adbf88275e0",
+  "signature": "96126447275aabc3c084fa45526effd566d3f8e61b3fda635e501d3388cd37fea3e50adc4ca9f74c8fd14c7c96ab65eb3a491f78ab335673e4315ede83c66b01"
 }
