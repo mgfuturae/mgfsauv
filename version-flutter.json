@@ -1,8 +1,8 @@
 {
-  "version": "2.4.5.0",
-  "notes": "Portefeuille boursier sur téléphone : un résumé compact au lieu des grosses tuiles, une carte par valeur (valeur, plus-value colorée, quantité × cours, PRU, poids, objectif), une carte par opération dans le journal, les ventes et les dividendes, et des barres pleine largeur dans la répartition.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.4.5.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.4.5.0.zip",
-  "sha256": "692f0c0bb4f9b41478733c5bf80a47fb231ad33a3d0027f074265cd2adf46927",
-  "signature": "160627a0335687825d1f3bebf354e27610efe13b537ea7c5cb914e85c552af7f33aa32e9e7edd26acc49bbf302e8530cbcf5dac1467bf02db393050737396d0d"
+  "version": "2.4.6.0",
+  "notes": "Menu : Paramètres devient « Mes informations personnelles » et « Réglages de l'application », sans onglets. Bandeau : le numéro de version seul ; couleurs du bandeau et du menu réglables dans Gestion des couleurs. La mise à jour est proposée dès l'ouverture, avant le mot de passe.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.4.6.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.4.6.0.zip",
+  "sha256": "fd459dd94e12187a73fbff6df7fc44124fcc41a6f94fbac067df6530322af345",
+  "signature": "bd68c4f8519184a43295b174c07179e815dfb189b45c60a4b91d6d2f84649351903e9f5f0346888952f29210c45cb22bad8701d45643dee42e031b02141e2c03"
 }
