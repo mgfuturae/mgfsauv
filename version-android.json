@@ -1,8 +1,8 @@
 {
-  "version": "2.4.6.0",
-  "notes": "Menu : Paramètres devient « Mes informations personnelles » et « Réglages de l'application », sans onglets. Bandeau : le numéro de version seul ; couleurs du bandeau et du menu réglables dans Gestion des couleurs. La mise à jour est proposée dès l'ouverture, avant le mot de passe.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.4.6.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.4.6.0.apk",
-  "sha256": "dcf6aed06ce1246f5d71ba855282b5cc46b8844cfb9d74e655f399db3b9b5796",
-  "signature": "a144071b0544a335862b691b2f0577e12f061b78ce4c77ad224a4a60ed5bc833aa70b048eb2ec4b697f0debba5845c454bacf4dd08b5cdd73b6e5384ef22a50a"
+  "version": "2.4.7.0",
+  "notes": "Agenda : à la reprise de la sauvegarde du PC, les rendez-vous saisis ou modifiés sur le téléphone sont gardés (le plus récent l'emporte) et repartent vers le site. Les échanges avec le site rattrapent aussi les rendez-vous envoyés en retard.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.4.7.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.4.7.0.apk",
+  "sha256": "76d917a3493d71e3cec7a7c628914483d57ff2822467e42705bb73d25936c2bb",
+  "signature": "4cf186f210e2471ef4b81ec683f21e27178a1b7fc876af0129d0d591f8418292a379e1b5d230c45590507b8963493af58833e8643a6b8ceacd474f9ba271a507"
 }
