@@ -1,8 +1,8 @@
 {
-  "version": "2.5.1.0",
-  "notes": "Gestion des couleurs : choisir un thème prêt remet aussi le bandeau du haut et le menu (fond et texte) aux couleurs du thème ; on peut ensuite les changer.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.5.1.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.5.1.0.apk",
-  "sha256": "9e438dd7d34ffd6222b4dc17d7aa03983eaec5bc4a4268da17b4948367ca40a3",
-  "signature": "712b3ef8085fe526cb007d0439b0a349ba29ba80254640a664087a00e4ec9ee6ef68b4d4545ee989dea30f79d4defd48a86985ac25b44ac3b5894c3237ca8a08"
+  "version": "2.5.2.0",
+  "notes": "Documentation : le livre à remplir — chaque formulaire en 10 fiches vierges, à imprimer ou en PDF modifiable (zones de saisie et cases à cocher), avec la licence et le numéro de série au bas de chaque page. La Documentation est aussi dans la version du Store.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.5.2.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.5.2.0.apk",
+  "sha256": "82373b1ff42c7126967a5b2ee5a68fb1f72b5f6cd48d098f380715c92c791c1c",
+  "signature": "4b05e17331ed60e637615da03c167d994646b749cf1c1d4bff82d788f973d6ad68bc4c1850b0a3150a23a60e11797edbd18e62d9f8e338af100411602bed0d09"
 }
