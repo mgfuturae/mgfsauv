@@ -1,8 +1,8 @@
 {
-  "version": "2.5.0.0",
-  "notes": "Android : sur l'icône, FUTURAE passe dans un vert plus franc, plus lisible.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.5.0.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.5.0.0.zip",
-  "sha256": "12ff46301be131c435c7c71beadb64b6f16e22b8c5567471e3e72397c61df8ee",
-  "signature": "3b53ee906e6685db16a9d2fe239aae72c088181f095acab8986767e1720d3733b227449830ddd21e423d2fb68d48d0236de5c5f6d65930f725f143c409c39b03"
+  "version": "2.5.1.0",
+  "notes": "Gestion des couleurs : choisir un thème prêt remet aussi le bandeau du haut et le menu (fond et texte) aux couleurs du thème ; on peut ensuite les changer.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.5.1.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.5.1.0.zip",
+  "sha256": "6a883f5f45f8c468a465852efda865328ad1912e578d0ea17bea443004679c83",
+  "signature": "a4ad4184c619d4a5ab94ae31b20d3ba553254feaad1513be74b1bd25ef7f8f66c815bd1e0429af94e9eca82ce81c733d356a02415dde29e25121232a77344c00"
 }
