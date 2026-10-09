@@ -1,8 +1,8 @@
 {
-  "version": "2.5.0.0",
-  "notes": "Android : sur l'icône, FUTURAE passe dans un vert plus franc, plus lisible.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.5.0.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.5.0.0.apk",
-  "sha256": "6da2d93c96ef7315bbd8c91319609874647e46136f80717db7c08bf4b8eec1b1",
-  "signature": "f50ebfa1ce63c6c1250afed91c8a75a06110c86399a72e8505f7dc0678a5aceb8a367bd2469a07490127680718d04b833eba2bdc6eb6ff349e27e7912a6d9b07"
+  "version": "2.5.1.0",
+  "notes": "Gestion des couleurs : choisir un thème prêt remet aussi le bandeau du haut et le menu (fond et texte) aux couleurs du thème ; on peut ensuite les changer.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.5.1.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.5.1.0.apk",
+  "sha256": "9e438dd7d34ffd6222b4dc17d7aa03983eaec5bc4a4268da17b4948367ca40a3",
+  "signature": "712b3ef8085fe526cb007d0439b0a349ba29ba80254640a664087a00e4ec9ee6ef68b4d4545ee989dea30f79d4defd48a86985ac25b44ac3b5894c3237ca8a08"
 }
