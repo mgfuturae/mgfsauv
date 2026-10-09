@@ -1,8 +1,8 @@
 {
-  "version": "2.4.7.0",
-  "notes": "Agenda : à la reprise de la sauvegarde du PC, les rendez-vous saisis ou modifiés sur le téléphone sont gardés (le plus récent l'emporte) et repartent vers le site. Les échanges avec le site rattrapent aussi les rendez-vous envoyés en retard.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.4.7.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.4.7.0.apk",
-  "sha256": "76d917a3493d71e3cec7a7c628914483d57ff2822467e42705bb73d25936c2bb",
-  "signature": "4cf186f210e2471ef4b81ec683f21e27178a1b7fc876af0129d0d591f8418292a379e1b5d230c45590507b8963493af58833e8643a6b8ceacd474f9ba271a507"
+  "version": "2.4.8.0",
+  "notes": "Agenda : les échanges avec le site demandent au plus juste ; le rattrapage des rendez-vous envoyés en retard ne se fait plus qu'à l'ouverture (le site les trie désormais sur leur heure de réception).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.4.8.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.4.8.0.apk",
+  "sha256": "f7e1ce0880defe5e70390b98206baa4434cf627f780a005d52ecfc98dc3b467d",
+  "signature": "b755514d7982b022c8280fb1bb153b30099b8fe92ff414c0879da1d21847bd7909baafe8b79886cfa180c0fc5c9daedcf1162a104079ca27cca87774852b1204"
 }
