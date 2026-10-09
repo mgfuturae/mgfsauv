@@ -1,8 +1,8 @@
 {
-  "version": "2.5.5.0",
-  "notes": "Documentation : « Le livre de mes données », un PDF modifiable de toutes vos fiches, déjà remplies, formulaire par formulaire, avec une fiche vierge après chacun, à compléter à l'écran ou à imprimer.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.5.5.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.5.5.0.zip",
-  "sha256": "6f1e53b5aaac4ac847b547c6c70b1ca02850fea42dc32aa4c86133d4bb8a0dcc",
-  "signature": "a8ea8ef15c565536f94dde7ccfc5695814af0c011ce24b6fc5e01d10199be12e1eef1acb6815a3300a488c7dbb61099367cec933db623f048dad8c9069961101"
+  "version": "2.5.6.0",
+  "notes": "La demande du mot de passe des mots de passe protégés ne porte plus d'explication : « Votre mot de passe ».",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.5.6.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.5.6.0.zip",
+  "sha256": "364dd10fba14122075f1586d8894334b457a9289209644b7a9ed54d7c4aa15a8",
+  "signature": "90a40f53a141e9c421afa37867b5ce8a9e9cef8c7c2a84b5b19c2069053c0c14e7e59d6840e516cf62df9e99aac2298985f671441e8912766ffb9f4ba708cd0b"
 }
