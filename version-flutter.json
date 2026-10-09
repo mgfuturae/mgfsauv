@@ -1,8 +1,8 @@
 {
-  "version": "2.5.3.0",
-  "notes": "Livre à remplir (à imprimer et PDF modifiable) : les rendez-vous, les loyers de chaque bien sur 12 mois, le journal du portefeuille, la comptabilité (une page par mois) et le bloc-notes y sont ajoutés en tableaux et pages lignées ; plus aucune zone de document rattaché.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.5.3.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.5.3.0.zip",
-  "sha256": "fa08b9506d1844a64fa3820d250a36bf4aab86b0c941cfc66a0801654fdbe259",
-  "signature": "ab785fe359748b528a0274ec2623dfbbc32c9a00e2c15ed6b09e77f57a559879329e8dbdeea397a669b04b355686f5af3beb33ae99d517d9ebe0c0050713cc09"
+  "version": "2.5.4.0",
+  "notes": "Le livre à remplir n'est plus dans l'application : il devient un outil de l'éditeur, à part. Documentation revient au guide seul.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.5.4.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.5.4.0.zip",
+  "sha256": "2d6f07f8d01d339121af4215bd10e9b2bee429d1e5010c10d603dd1c715c2cf4",
+  "signature": "6b4fc22dbeb7c9f5926ec3b214e387afc1b71e471e799d96966b9341e7f29310bbe8d854a4f01679d0d7555ce80483f04b8a3ae2d1e5bc2451ce3ba1cbcebd0a"
 }
