@@ -1,8 +1,8 @@
 {
-  "version": "2.4.8.0",
-  "notes": "Agenda : les échanges avec le site demandent au plus juste ; le rattrapage des rendez-vous envoyés en retard ne se fait plus qu'à l'ouverture (le site les trie désormais sur leur heure de réception).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.4.8.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.4.8.0.zip",
-  "sha256": "e0f3173365108e990808be9d3c60f5ea3a82edfa61d396dadb735adbf88275e0",
-  "signature": "96126447275aabc3c084fa45526effd566d3f8e61b3fda635e501d3388cd37fea3e50adc4ca9f74c8fd14c7c96ab65eb3a491f78ab335673e4315ede83c66b01"
+  "version": "2.4.9.0",
+  "notes": "Android : nouvelle icône, le logo MANAGE FUTURAE redessiné en haute définition et agrandi au maximum.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.4.9.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.4.9.0.zip",
+  "sha256": "6264b1cad56a2f4bc0964e9b4801764bd6fe5fbcfb38145fd82085dbf599341a",
+  "signature": "50ab97df4f587bffc9d921dbeab50fb0478c1cc59f764a41f4dff0f3229c8b17a35e36bfc785644a45c5f4a33692b2378bc1fa3349d61c8f824ff5c2b7fe3603"
 }
