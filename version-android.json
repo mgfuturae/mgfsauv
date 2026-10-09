@@ -1,8 +1,8 @@
 {
-  "version": "2.5.3.0",
-  "notes": "Livre à remplir (à imprimer et PDF modifiable) : les rendez-vous, les loyers de chaque bien sur 12 mois, le journal du portefeuille, la comptabilité (une page par mois) et le bloc-notes y sont ajoutés en tableaux et pages lignées ; plus aucune zone de document rattaché.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.5.3.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.5.3.0.apk",
-  "sha256": "f7956cf94d97616894caec25d68e48166511bf96d5d7be0855509a81714f6c6a",
-  "signature": "50b1c723289aa6230109e884a23aeaa50b072f0bac150327cd28bacf6d61a1f321dba4bfff9d885c8f839cf6d798a5b353c4d672d1c50560f388a81be3c72403"
+  "version": "2.5.4.0",
+  "notes": "Le livre à remplir n'est plus dans l'application : il devient un outil de l'éditeur, à part. Documentation revient au guide seul.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.5.4.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.5.4.0.apk",
+  "sha256": "b7d4bb6a42e455c769186b8b30d7b4eb0097f844eef325743f40ac783a2ab0bd",
+  "signature": "2064afdc9bf3ae534625e76924efc91fc0b275142d9bc2068e3aa783f242003e87d684cbd009d199c3a127efc227d1bf43a96c74e0062e63f0d44944f040180d"
 }
