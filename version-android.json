@@ -1,8 +1,8 @@
 {
-  "version": "2.5.4.0",
-  "notes": "Le livre à remplir n'est plus dans l'application : il devient un outil de l'éditeur, à part. Documentation revient au guide seul.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.5.4.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.5.4.0.apk",
-  "sha256": "b7d4bb6a42e455c769186b8b30d7b4eb0097f844eef325743f40ac783a2ab0bd",
-  "signature": "2064afdc9bf3ae534625e76924efc91fc0b275142d9bc2068e3aa783f242003e87d684cbd009d199c3a127efc227d1bf43a96c74e0062e63f0d44944f040180d"
+  "version": "2.5.5.0",
+  "notes": "Documentation : « Le livre de mes données », un PDF modifiable de toutes vos fiches, déjà remplies, formulaire par formulaire, avec une fiche vierge après chacun, à compléter à l'écran ou à imprimer.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.5.5.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.5.5.0.apk",
+  "sha256": "0b253599384073241185ab4ba5735a5d2888afe0f66c620746818491a3501396",
+  "signature": "86a3eaa6c8f1339b927f9db619d2de6021b924e23b8002e51dfb761f82e9a63bbd40a8d7dcdd00634af6630101a464f0d8a4cab95a1c483208c3dd562d8c430e"
 }
