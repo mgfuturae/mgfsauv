@@ -1,8 +1,8 @@
 {
-  "version": "2.4.8.0",
-  "notes": "Agenda : les échanges avec le site demandent au plus juste ; le rattrapage des rendez-vous envoyés en retard ne se fait plus qu'à l'ouverture (le site les trie désormais sur leur heure de réception).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.4.8.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.4.8.0.apk",
-  "sha256": "f7e1ce0880defe5e70390b98206baa4434cf627f780a005d52ecfc98dc3b467d",
-  "signature": "b755514d7982b022c8280fb1bb153b30099b8fe92ff414c0879da1d21847bd7909baafe8b79886cfa180c0fc5c9daedcf1162a104079ca27cca87774852b1204"
+  "version": "2.4.9.0",
+  "notes": "Android : nouvelle icône, le logo MANAGE FUTURAE redessiné en haute définition et agrandi au maximum.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.4.9.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.4.9.0.apk",
+  "sha256": "136ff63a79eeec858774e31b1ce776d52e6a22f44d8722e7d4f5c9f8ea005658",
+  "signature": "09b306006a23aa90fae1d769b229c71d6dfa539d97ad4e01c293c254fb61c33759cd093a1c15c16a876f93f8dd85962441e9127a7040ee0a36d3a1aec535a207"
 }
