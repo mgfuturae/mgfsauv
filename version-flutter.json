@@ -1,8 +1,8 @@
 {
-  "version": "2.5.2.0",
-  "notes": "Documentation : le livre à remplir — chaque formulaire en 10 fiches vierges, à imprimer ou en PDF modifiable (zones de saisie et cases à cocher), avec la licence et le numéro de série au bas de chaque page. La Documentation est aussi dans la version du Store.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.5.2.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.5.2.0.zip",
-  "sha256": "6c9b90bcda5f49726b954d8652fa08d9b6f02a45a400d5d14cf803c0488406eb",
-  "signature": "a5953a858df47fc1b7fc6da3cb700a26838a79e72327368aae10f381085aa1541b4318098ab52fdb4a7111db8464726b6715a02439e8d07f27f34a24817c070c"
+  "version": "2.5.3.0",
+  "notes": "Livre à remplir (à imprimer et PDF modifiable) : les rendez-vous, les loyers de chaque bien sur 12 mois, le journal du portefeuille, la comptabilité (une page par mois) et le bloc-notes y sont ajoutés en tableaux et pages lignées ; plus aucune zone de document rattaché.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.5.3.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.5.3.0.zip",
+  "sha256": "fa08b9506d1844a64fa3820d250a36bf4aab86b0c941cfc66a0801654fdbe259",
+  "signature": "ab785fe359748b528a0274ec2623dfbbc32c9a00e2c15ed6b09e77f57a559879329e8dbdeea397a669b04b355686f5af3beb33ae99d517d9ebe0c0050713cc09"
 }
