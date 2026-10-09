@@ -1,8 +1,8 @@
 {
-  "version": "2.5.6.0",
-  "notes": "La demande du mot de passe des mots de passe protégés ne porte plus d'explication : « Votre mot de passe ».",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.5.6.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.5.6.0.zip",
-  "sha256": "364dd10fba14122075f1586d8894334b457a9289209644b7a9ed54d7c4aa15a8",
-  "signature": "90a40f53a141e9c421afa37867b5ce8a9e9cef8c7c2a84b5b19c2069053c0c14e7e59d6840e516cf62df9e99aac2298985f671441e8912766ffb9f4ba708cd0b"
+  "version": "2.5.7.0",
+  "notes": "Tableau de bord : l'épargne mensuelle est calculée sur la comptabilité (recettes moins dépenses, moyenne des trois derniers mois, sans les virements entre vos comptes ni l'argent mis de côté), avec l'objectif à côté.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.5.7.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.5.7.0.zip",
+  "sha256": "d594bdd7140411e5203e31b550a725253099da1a7d5c6ca3d424195ebb74b6ac",
+  "signature": "6eef9090df2790aa0f92b878e14e0fd5fa3e4e7e03f8e535999134f8909d82d0fa4527c9948bd8ad8afaf6967d8776d8729abc06ca4be323c294d1066c563f0e"
 }
