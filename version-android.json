@@ -1,8 +1,8 @@
 {
-  "version": "2.5.5.0",
-  "notes": "Documentation : « Le livre de mes données », un PDF modifiable de toutes vos fiches, déjà remplies, formulaire par formulaire, avec une fiche vierge après chacun, à compléter à l'écran ou à imprimer.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.5.5.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.5.5.0.apk",
-  "sha256": "0b253599384073241185ab4ba5735a5d2888afe0f66c620746818491a3501396",
-  "signature": "86a3eaa6c8f1339b927f9db619d2de6021b924e23b8002e51dfb761f82e9a63bbd40a8d7dcdd00634af6630101a464f0d8a4cab95a1c483208c3dd562d8c430e"
+  "version": "2.5.6.0",
+  "notes": "La demande du mot de passe des mots de passe protégés ne porte plus d'explication : « Votre mot de passe ».",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.5.6.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.5.6.0.apk",
+  "sha256": "4710d13f4648d3d49df426f6ed9a381f5c0e1b666af4859c627f04098f5ba0f8",
+  "signature": "23ca36d3a1900d28a2513a91325b91491d97b463023e42a1af7721af321add5446768e636f0ec1a63fc58894f7f6b75eb26f291f7472f96a44d79c460e77280f"
 }
