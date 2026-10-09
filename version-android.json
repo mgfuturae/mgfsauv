@@ -1,8 +1,8 @@
 {
-  "version": "2.4.9.0",
-  "notes": "Android : nouvelle icône, le logo MANAGE FUTURAE redessiné en haute définition et agrandi au maximum.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.4.9.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.4.9.0.apk",
-  "sha256": "136ff63a79eeec858774e31b1ce776d52e6a22f44d8722e7d4f5c9f8ea005658",
-  "signature": "09b306006a23aa90fae1d769b229c71d6dfa539d97ad4e01c293c254fb61c33759cd093a1c15c16a876f93f8dd85962441e9127a7040ee0a36d3a1aec535a207"
+  "version": "2.5.0.0",
+  "notes": "Android : sur l'icône, FUTURAE passe dans un vert plus franc, plus lisible.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.5.0.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.5.0.0.apk",
+  "sha256": "6da2d93c96ef7315bbd8c91319609874647e46136f80717db7c08bf4b8eec1b1",
+  "signature": "f50ebfa1ce63c6c1250afed91c8a75a06110c86399a72e8505f7dc0678a5aceb8a367bd2469a07490127680718d04b833eba2bdc6eb6ff349e27e7912a6d9b07"
 }
