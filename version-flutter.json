@@ -1,8 +1,8 @@
 {
-  "version": "2.4.6.0",
-  "notes": "Menu : Paramètres devient « Mes informations personnelles » et « Réglages de l'application », sans onglets. Bandeau : le numéro de version seul ; couleurs du bandeau et du menu réglables dans Gestion des couleurs. La mise à jour est proposée dès l'ouverture, avant le mot de passe.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.4.6.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.4.6.0.zip",
-  "sha256": "fd459dd94e12187a73fbff6df7fc44124fcc41a6f94fbac067df6530322af345",
-  "signature": "bd68c4f8519184a43295b174c07179e815dfb189b45c60a4b91d6d2f84649351903e9f5f0346888952f29210c45cb22bad8701d45643dee42e031b02141e2c03"
+  "version": "2.4.7.0",
+  "notes": "Agenda : à la reprise de la sauvegarde du PC, les rendez-vous saisis ou modifiés sur le téléphone sont gardés (le plus récent l'emporte) et repartent vers le site. Les échanges avec le site rattrapent aussi les rendez-vous envoyés en retard.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.4.7.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.4.7.0.zip",
+  "sha256": "8446d8297096a85f0eb8ab4077e4b6f71c77096f8b339d2db8cfcc1aa603a94a",
+  "signature": "7d26468d4ac3b98246beb31b10104b9692840dfa5d6bf90a8d3e388cf352d64ea23d55777b04ebafd9b100202c1537b0f6979efa5351056345a626114ecca005"
 }
