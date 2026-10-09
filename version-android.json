@@ -1,8 +1,8 @@
 {
-  "version": "2.4.5.0",
-  "notes": "Portefeuille boursier sur téléphone : un résumé compact au lieu des grosses tuiles, une carte par valeur (valeur, plus-value colorée, quantité × cours, PRU, poids, objectif), une carte par opération dans le journal, les ventes et les dividendes, et des barres pleine largeur dans la répartition.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.4.5.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.4.5.0.apk",
-  "sha256": "62acc9011058002939c99bb5dad5a0ec3f0fd5bd1c94d2008b2e286e7a6a4d8b",
-  "signature": "6983300588ee15edae002b1f27a9429402d820f1824ef698c4adbe3be7ffb7e345af41e099e51cc92f9ac7b3d773f1abf1f87d9fa1b5916f74768892e87bf201"
+  "version": "2.4.6.0",
+  "notes": "Menu : Paramètres devient « Mes informations personnelles » et « Réglages de l'application », sans onglets. Bandeau : le numéro de version seul ; couleurs du bandeau et du menu réglables dans Gestion des couleurs. La mise à jour est proposée dès l'ouverture, avant le mot de passe.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.4.6.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.4.6.0.apk",
+  "sha256": "dcf6aed06ce1246f5d71ba855282b5cc46b8844cfb9d74e655f399db3b9b5796",
+  "signature": "a144071b0544a335862b691b2f0577e12f061b78ce4c77ad224a4a60ed5bc833aa70b048eb2ec4b697f0debba5845c454bacf4dd08b5cdd73b6e5384ef22a50a"
 }
