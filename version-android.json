@@ -1,8 +1,8 @@
 {
-  "version": "2.5.2.0",
-  "notes": "Documentation : le livre à remplir — chaque formulaire en 10 fiches vierges, à imprimer ou en PDF modifiable (zones de saisie et cases à cocher), avec la licence et le numéro de série au bas de chaque page. La Documentation est aussi dans la version du Store.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.5.2.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.5.2.0.apk",
-  "sha256": "82373b1ff42c7126967a5b2ee5a68fb1f72b5f6cd48d098f380715c92c791c1c",
-  "signature": "4b05e17331ed60e637615da03c167d994646b749cf1c1d4bff82d788f973d6ad68bc4c1850b0a3150a23a60e11797edbd18e62d9f8e338af100411602bed0d09"
+  "version": "2.5.3.0",
+  "notes": "Livre à remplir (à imprimer et PDF modifiable) : les rendez-vous, les loyers de chaque bien sur 12 mois, le journal du portefeuille, la comptabilité (une page par mois) et le bloc-notes y sont ajoutés en tableaux et pages lignées ; plus aucune zone de document rattaché.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.5.3.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.5.3.0.apk",
+  "sha256": "f7956cf94d97616894caec25d68e48166511bf96d5d7be0855509a81714f6c6a",
+  "signature": "50b1c723289aa6230109e884a23aeaa50b072f0bac150327cd28bacf6d61a1f321dba4bfff9d885c8f839cf6d798a5b353c4d672d1c50560f388a81be3c72403"
 }
