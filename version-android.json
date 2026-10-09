@@ -1,8 +1,8 @@
 {
-  "version": "2.5.6.0",
-  "notes": "La demande du mot de passe des mots de passe protégés ne porte plus d'explication : « Votre mot de passe ».",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.5.6.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.5.6.0.apk",
-  "sha256": "4710d13f4648d3d49df426f6ed9a381f5c0e1b666af4859c627f04098f5ba0f8",
-  "signature": "23ca36d3a1900d28a2513a91325b91491d97b463023e42a1af7721af321add5446768e636f0ec1a63fc58894f7f6b75eb26f291f7472f96a44d79c460e77280f"
+  "version": "2.5.7.0",
+  "notes": "Tableau de bord : l'épargne mensuelle est calculée sur la comptabilité (recettes moins dépenses, moyenne des trois derniers mois, sans les virements entre vos comptes ni l'argent mis de côté), avec l'objectif à côté.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.5.7.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.5.7.0.apk",
+  "sha256": "8aa52f32b224a519508c1902193d0b3447e964e5d289e3ab8a1dd03bf401473b",
+  "signature": "0f98e5913ebe2fe0d2e3cc767f0b403be507b9bf4e30fef574ee2a79df2ede8bd40cce074d56d656c1cd297682b9b3a1ef0200fb5b323b7c7962374b36f5a40d"
 }
