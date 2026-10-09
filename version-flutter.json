@@ -1,8 +1,8 @@
 {
-  "version": "2.5.4.0",
-  "notes": "Le livre à remplir n'est plus dans l'application : il devient un outil de l'éditeur, à part. Documentation revient au guide seul.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.5.4.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.5.4.0.zip",
-  "sha256": "2d6f07f8d01d339121af4215bd10e9b2bee429d1e5010c10d603dd1c715c2cf4",
-  "signature": "6b4fc22dbeb7c9f5926ec3b214e387afc1b71e471e799d96966b9341e7f29310bbe8d854a4f01679d0d7555ce80483f04b8a3ae2d1e5bc2451ce3ba1cbcebd0a"
+  "version": "2.5.5.0",
+  "notes": "Documentation : « Le livre de mes données », un PDF modifiable de toutes vos fiches, déjà remplies, formulaire par formulaire, avec une fiche vierge après chacun, à compléter à l'écran ou à imprimer.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.5.5.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.5.5.0.zip",
+  "sha256": "6f1e53b5aaac4ac847b547c6c70b1ca02850fea42dc32aa4c86133d4bb8a0dcc",
+  "signature": "a8ea8ef15c565536f94dde7ccfc5695814af0c011ce24b6fc5e01d10199be12e1eef1acb6815a3300a488c7dbb61099367cec933db623f048dad8c9069961101"
 }
