@@ -1,8 +1,8 @@
 {
-  "version": "2.6.3.0",
-  "notes": "L'écran du mot de passe prend les couleurs de votre thème, au lancement comme au réveil du téléphone.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.6.3.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.6.3.0.zip",
-  "sha256": "385572570dc81237573f8cc2f60ae5bc603bada278d77a2474bf79811fd1119d",
-  "signature": "8ee92ce076e18c53e060e71d9d7938d07a19d54c6224dceff42c05dad0f5479e2acbafce947e170742e637bb9e9584d61b98da96218621e0e1b313865f145b01"
+  "version": "2.6.4.0",
+  "notes": "Téléphone : l'agenda peut se tourner en paysage (il suit le téléphone, ou bouton « Paysage ») et prend alors tout l'écran.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.6.4.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.6.4.0.zip",
+  "sha256": "f86ab8f5a8c492f698627157778822f5aa03cb7285056a4cb9022102aad429b8",
+  "signature": "46f055662dc312eac06c989c4f16ea42a0b280968ee4f7e0d85a32b35ecc62bbf6edc442f47950d48259164f6c1bf733bf5310297d4bf65c053e13ee2a75a10d"
 }
