@@ -1,8 +1,8 @@
 {
-  "version": "2.6.2.0",
-  "notes": "PC : à l'ouverture, la zone du mot de passe reçoit le clavier tout de suite, sans avoir à cliquer dedans (après une mise à jour aussi).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.6.2.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.6.2.0.apk",
-  "sha256": "3a69cdda1762e04b54ee10b03209538ce1a0f00c12c87931ef84150794a6bdf9",
-  "signature": "daf2066e985eeacf6af2844ac410d3295b7e2f5e368d6f80ee0074c3bd123146ed187edc61d3779e7de0d4ea3bfe0fe896434af0ff20731a8fdc8490c59f5905"
+  "version": "2.6.3.0",
+  "notes": "L'écran du mot de passe prend les couleurs de votre thème, au lancement comme au réveil du téléphone.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.6.3.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.6.3.0.apk",
+  "sha256": "27e25b4e436d7bccce1a6a6795107b0bc6c156f4742d79e3647357b97d18afaa",
+  "signature": "0ca1bb7353a598f981b617f51e467b255d15fb431987eaf6d9f7574abb086f7fd5ef1b986bb0a78f81df425804e50ce21e2e36781e5efa8e0512020732022206"
 }
