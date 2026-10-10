@@ -1,8 +1,8 @@
 {
-  "version": "2.6.0.0",
-  "notes": "Téléphone : cette version s'installe par-dessus la vôtre. La 2.5.9.0 était signée avec une mauvaise clé et le téléphone la refusait.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.6.0.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.6.0.0.apk",
-  "sha256": "4559152400676920fc0165e3c578453047a0d768df6474ba361010400c8837c2",
-  "signature": "1b0f51f42676820375f5a1263ab09ef48887c5a91d6223d26d1318da406f43128ca083c03824dc193b5384eb44c000239d57a39f4ac2ef1eecb4fd6d576f9701"
+  "version": "2.6.1.0",
+  "notes": "Préparation du changement de nom du dossier du projet (« managefuturae ») : l'Atelier des champs reste visible sur le poste de l'éditeur.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.6.1.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.6.1.0.apk",
+  "sha256": "87d15e24cdc8a90a843c764d70224917e1ab0b499cfa9d85f117dcce1d004733",
+  "signature": "41beb94ea9b21991a577e3c1a2de04116bb4fa2fca8109857f9c2abceeaede44f1bbd6b76a3b3a0f67c5b0a1f4caa1fb6690270127e593d18439108cdaa8330e"
 }
