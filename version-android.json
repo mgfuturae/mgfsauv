@@ -1,8 +1,8 @@
 {
-  "version": "2.5.7.0",
-  "notes": "Tableau de bord : l'épargne mensuelle est calculée sur la comptabilité (recettes moins dépenses, moyenne des trois derniers mois, sans les virements entre vos comptes ni l'argent mis de côté), avec l'objectif à côté.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.5.7.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.5.7.0.apk",
-  "sha256": "8aa52f32b224a519508c1902193d0b3447e964e5d289e3ab8a1dd03bf401473b",
-  "signature": "0f98e5913ebe2fe0d2e3cc767f0b403be507b9bf4e30fef574ee2a79df2ede8bd40cce074d56d656c1cd297682b9b3a1ef0200fb5b323b7c7962374b36f5a40d"
+  "version": "2.5.8.0",
+  "notes": "Téléphone : les messages du bandeau défilant ne se chevauchent plus ; les tuiles de résumé (nombre de fiches, valeur estimée, dates…) sont deux fois moins hautes. Bandeau du haut : « sans limite de date » retiré.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.5.8.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.5.8.0.apk",
+  "sha256": "5938cd9fff3847325fde11f0a5d12706489d4583678a8021be9c79a9e9369088",
+  "signature": "326643ab041b700d844cb4a7c2d87ed105b5424f20a5d6c414f6b96f837931f098a504b635af0bf495ec745bdfe8b766c2c1dd69c17b7486c81b4e76bba4920c"
 }
