@@ -1,8 +1,8 @@
 {
-  "version": "2.6.3.0",
-  "notes": "L'écran du mot de passe prend les couleurs de votre thème, au lancement comme au réveil du téléphone.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.6.3.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.6.3.0.apk",
-  "sha256": "27e25b4e436d7bccce1a6a6795107b0bc6c156f4742d79e3647357b97d18afaa",
-  "signature": "0ca1bb7353a598f981b617f51e467b255d15fb431987eaf6d9f7574abb086f7fd5ef1b986bb0a78f81df425804e50ce21e2e36781e5efa8e0512020732022206"
+  "version": "2.6.4.0",
+  "notes": "Téléphone : l'agenda peut se tourner en paysage (il suit le téléphone, ou bouton « Paysage ») et prend alors tout l'écran.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.6.4.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.6.4.0.apk",
+  "sha256": "69fd074f7579291a395d3291b075b1f9b88097124b125edbf68896d3700a48ed",
+  "signature": "f5cdb6017a629f7623a1fdf91e559559837c4eb1dde2142da86324ab9e43748a47e79110c0ff0f4765af06eec58ca63a046ffb06febed3037b52474fc907fe07"
 }
