@@ -1,8 +1,8 @@
 {
-  "version": "2.6.0.0",
-  "notes": "Téléphone : cette version s'installe par-dessus la vôtre. La 2.5.9.0 était signée avec une mauvaise clé et le téléphone la refusait.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.6.0.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.6.0.0.zip",
-  "sha256": "d77625a21bd3d228a162000c8dfc0244dc6552ad5b822de37677839b0ec44037",
-  "signature": "7a85a4da5e8ff8daf2f13985fced3ca7c49ba8201ed97339c11d77510a0d317cd9ae7986649a411bb56c5e1fc1e23ed3d0add84110643235ee549a34018f5f08"
+  "version": "2.6.1.0",
+  "notes": "Préparation du changement de nom du dossier du projet (« managefuturae ») : l'Atelier des champs reste visible sur le poste de l'éditeur.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.6.1.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.6.1.0.zip",
+  "sha256": "b1629354139195fc5ef9a52f6700b2ecf7ad08a312f4bc9ad5c235d33eeb7f1e",
+  "signature": "9e6eccd7e05a9e6fcf966e69323c17a53be3c7374977ba4c57152bef69d0e5a97d444994adef19c7c9360a12f51042114b57a98659b04bf2b3844cf88a3a9d0f"
 }
