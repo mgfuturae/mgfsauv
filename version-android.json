@@ -1,8 +1,8 @@
 {
-  "version": "2.6.1.0",
-  "notes": "Préparation du changement de nom du dossier du projet (« managefuturae ») : l'Atelier des champs reste visible sur le poste de l'éditeur.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.6.1.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.6.1.0.apk",
-  "sha256": "87d15e24cdc8a90a843c764d70224917e1ab0b499cfa9d85f117dcce1d004733",
-  "signature": "41beb94ea9b21991a577e3c1a2de04116bb4fa2fca8109857f9c2abceeaede44f1bbd6b76a3b3a0f67c5b0a1f4caa1fb6690270127e593d18439108cdaa8330e"
+  "version": "2.6.2.0",
+  "notes": "PC : à l'ouverture, la zone du mot de passe reçoit le clavier tout de suite, sans avoir à cliquer dedans (après une mise à jour aussi).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.6.2.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.6.2.0.apk",
+  "sha256": "3a69cdda1762e04b54ee10b03209538ce1a0f00c12c87931ef84150794a6bdf9",
+  "signature": "daf2066e985eeacf6af2844ac410d3295b7e2f5e368d6f80ee0074c3bd123146ed187edc61d3779e7de0d4ea3bfe0fe896434af0ff20731a8fdc8490c59f5905"
 }
