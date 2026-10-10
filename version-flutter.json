@@ -1,8 +1,8 @@
 {
-  "version": "2.6.1.0",
-  "notes": "Préparation du changement de nom du dossier du projet (« managefuturae ») : l'Atelier des champs reste visible sur le poste de l'éditeur.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.6.1.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.6.1.0.zip",
-  "sha256": "b1629354139195fc5ef9a52f6700b2ecf7ad08a312f4bc9ad5c235d33eeb7f1e",
-  "signature": "9e6eccd7e05a9e6fcf966e69323c17a53be3c7374977ba4c57152bef69d0e5a97d444994adef19c7c9360a12f51042114b57a98659b04bf2b3844cf88a3a9d0f"
+  "version": "2.6.2.0",
+  "notes": "PC : à l'ouverture, la zone du mot de passe reçoit le clavier tout de suite, sans avoir à cliquer dedans (après une mise à jour aussi).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.6.2.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.6.2.0.zip",
+  "sha256": "e1f8db0f19f1080cf7d533f3955c6c2236fd1dd5a27ff2fc9843eb7a16742cc7",
+  "signature": "06e569fe830ed2ef1ecb97703b48ef1e7462ef986552f3b0e5090037e23101dbc92b0b3156f0f69daef9a32a520d6a3c16b6c81448529e7a4da32b04ee02fb02"
 }
