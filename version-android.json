@@ -1,8 +1,8 @@
 {
-  "version": "2.5.8.0",
-  "notes": "Téléphone : les messages du bandeau défilant ne se chevauchent plus ; les tuiles de résumé (nombre de fiches, valeur estimée, dates…) sont deux fois moins hautes. Bandeau du haut : « sans limite de date » retiré.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.5.8.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.5.8.0.apk",
-  "sha256": "5938cd9fff3847325fde11f0a5d12706489d4583678a8021be9c79a9e9369088",
-  "signature": "326643ab041b700d844cb4a7c2d87ed105b5424f20a5d6c414f6b96f837931f098a504b635af0bf495ec745bdfe8b766c2c1dd69c17b7486c81b4e76bba4920c"
+  "version": "2.5.9.0",
+  "notes": "Fiches : les zones de saisie retrouvent leur cadre, avec un contour bien visible de la couleur des titres ; sa couleur se choisit dans Gestion des couleurs (« Contour des zones de saisie »).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.5.9.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.5.9.0.apk",
+  "sha256": "b785043160cfe80ad2b7977aab8f10d812a46286aef06bd0c23284871af385d1",
+  "signature": "6b2af601f70cfd82bf0c3bb0195b4890c8f45ad5af613c7188b59a64296fe6198393bc93e107d7c03307c09de42467ba1dad23ee7bddb5f8941705adf8f6f106"
 }
