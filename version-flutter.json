@@ -1,8 +1,8 @@
 {
-  "version": "2.5.8.0",
-  "notes": "Téléphone : les messages du bandeau défilant ne se chevauchent plus ; les tuiles de résumé (nombre de fiches, valeur estimée, dates…) sont deux fois moins hautes. Bandeau du haut : « sans limite de date » retiré.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.5.8.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.5.8.0.zip",
-  "sha256": "ecf3b43d803318a142ec605c9a6b4ed73696495f00b630b089b51d1183d3808e",
-  "signature": "b042692cc39d07d226ef8abee4f1da0b26622639e7f937a681d10da69abd5214a34d2c03e8397c4c51d99f5283b2125f0caa8117ed4307cdbe17e77c31bd600a"
+  "version": "2.5.9.0",
+  "notes": "Fiches : les zones de saisie retrouvent leur cadre, avec un contour bien visible de la couleur des titres ; sa couleur se choisit dans Gestion des couleurs (« Contour des zones de saisie »).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.5.9.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.5.9.0.zip",
+  "sha256": "4f456ffb9160a3ac1689ae9cd0b2c96715dccdfb87add44529af8316ca9d6ae6",
+  "signature": "acb559b8a7aeb5c665b211f23f164a5f651341cde2d6caaac5fdd9773b82887e2afc6643296584f3335458d0730915a3be9a4ca3eb5d31b9a1daa30f4422f10d"
 }
