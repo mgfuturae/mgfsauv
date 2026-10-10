@@ -1,8 +1,8 @@
 {
-  "version": "2.5.9.0",
-  "notes": "Fiches : les zones de saisie retrouvent leur cadre, avec un contour bien visible de la couleur des titres ; sa couleur se choisit dans Gestion des couleurs (« Contour des zones de saisie »).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.5.9.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.5.9.0.zip",
-  "sha256": "4f456ffb9160a3ac1689ae9cd0b2c96715dccdfb87add44529af8316ca9d6ae6",
-  "signature": "acb559b8a7aeb5c665b211f23f164a5f651341cde2d6caaac5fdd9773b82887e2afc6643296584f3335458d0730915a3be9a4ca3eb5d31b9a1daa30f4422f10d"
+  "version": "2.6.0.0",
+  "notes": "Téléphone : cette version s'installe par-dessus la vôtre. La 2.5.9.0 était signée avec une mauvaise clé et le téléphone la refusait.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.6.0.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.6.0.0.zip",
+  "sha256": "d77625a21bd3d228a162000c8dfc0244dc6552ad5b822de37677839b0ec44037",
+  "signature": "7a85a4da5e8ff8daf2f13985fced3ca7c49ba8201ed97339c11d77510a0d317cd9ae7986649a411bb56c5e1fc1e23ed3d0add84110643235ee549a34018f5f08"
 }
