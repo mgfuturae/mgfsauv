@@ -1,8 +1,8 @@
 {
-  "version": "2.5.7.0",
-  "notes": "Tableau de bord : l'épargne mensuelle est calculée sur la comptabilité (recettes moins dépenses, moyenne des trois derniers mois, sans les virements entre vos comptes ni l'argent mis de côté), avec l'objectif à côté.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.5.7.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.5.7.0.zip",
-  "sha256": "d594bdd7140411e5203e31b550a725253099da1a7d5c6ca3d424195ebb74b6ac",
-  "signature": "6eef9090df2790aa0f92b878e14e0fd5fa3e4e7e03f8e535999134f8909d82d0fa4527c9948bd8ad8afaf6967d8776d8729abc06ca4be323c294d1066c563f0e"
+  "version": "2.5.8.0",
+  "notes": "Téléphone : les messages du bandeau défilant ne se chevauchent plus ; les tuiles de résumé (nombre de fiches, valeur estimée, dates…) sont deux fois moins hautes. Bandeau du haut : « sans limite de date » retiré.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.5.8.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.5.8.0.zip",
+  "sha256": "ecf3b43d803318a142ec605c9a6b4ed73696495f00b630b089b51d1183d3808e",
+  "signature": "b042692cc39d07d226ef8abee4f1da0b26622639e7f937a681d10da69abd5214a34d2c03e8397c4c51d99f5283b2125f0caa8117ed4307cdbe17e77c31bd600a"
 }
