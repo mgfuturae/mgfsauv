@@ -1,8 +1,8 @@
 {
-  "version": "2.7.8.0",
-  "notes": "Livre à imprimer : plus de titre en double sur une page — le bandeau d'une fiche ne répète plus le nom du formulaire (sa page de titre le donne), un groupe d'un seul formulaire du même nom n'a qu'une page de titre, et le sommaire écrit chaque groupe une fois.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.7.8.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.7.8.0.apk",
-  "sha256": "890fbbe282756469b0120fffb67a70c515c850045bed4e6853004ef64190717a",
-  "signature": "6230aa2d61776137bb77ce8dde220e787850aad4bd8abfc1deadebe4f3ea7c9d84986db535d31a77acb755f897194930c52d83b2909b7f9faec77ac2c27b2105"
+  "version": "2.7.9.0",
+  "notes": "Livre à imprimer : la page « Mon livre à remplir » est retirée ; le livre s'ouvre sur sa page de garde illustrée, puis le mode d'emploi.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.7.9.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.7.9.0.apk",
+  "sha256": "659500e3b9ad5ba03045dd9ed7982b61e20b8f0237ba31cb575710fb571bddf8",
+  "signature": "2a9dd2689f0935fbac25168bf385a81c12879c6551356f05eab2eee96b3dc1caa554ac4272f344a14c87412cfa463728d8bae2538a5234169021f460860d9f06"
 }
