@@ -1,8 +1,8 @@
 {
-  "version": "2.7.3.0",
-  "notes": "Plus de doublon « intitulé » : dans les fiches, la case grisée « Intitulé de la fiche » a disparu — le nom se change dans le champ qui nomme la fiche (Nom du véhicule, Nom du contrat…) ; dans les listes sur Windows, la colonne qui répétait le nom est retirée et la première colonne porte son nom ; dans les PDF, le nom n'est plus imprimé deux fois. « Renommer » depuis une liste met aussi le champ à jour.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.7.3.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.7.3.0.zip",
-  "sha256": "85462ad2db7f6ecab92fee7227dec2ae2c6e7431930762ada65be113917a36b9",
-  "signature": "4144779719e3e7dd1fb4f73e89a5f353b272614d911810ef7c3ea0c8751e01575a6c8923f1e2cec780764b6807864d67b44e1c9adcc30fca69905dee36c30e09"
+  "version": "2.7.4.0",
+  "notes": "Fiches : le nom de la fiche est le titre de son bandeau (il suit la saisie du nom). Tâches : sur téléphone, chaque tâche a son curseur d'avancement ; les tâches sont regroupées par catégorie (un titre par catégorie), sur téléphone comme sur PC. Tableau de bord : les revenus locatifs s'arrêtent après le mois de « Date fin bail ». Les listes déroulantes et les fenêtres ont un contour.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.7.4.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.7.4.0.zip",
+  "sha256": "023dcf4f554bf515d15b22a57411421e81e68003679358e0b06252aca5f60d35",
+  "signature": "fe961201b7f191bf6751fd36a68f0ec39a17f077ab287ff6a63e6fb9306aa956c7ecdf1367a7ef46b0eed8770e8337b40cd01af0541fa3cfa7e6295acffdf905"
 }
