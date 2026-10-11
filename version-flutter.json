@@ -1,8 +1,8 @@
 {
-  "version": "2.6.7.0",
-  "notes": "Téléphone : les mises à jour arrivent même quand l'application reste ouverte en arrière-plan. En revenant dans l'application, elle regarde s'il y a une nouvelle version (au plus une fois par heure) et la propose ; une version refusée reste annoncée sur le tableau de bord.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.6.7.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.6.7.0.zip",
-  "sha256": "cc879ba3dc8a7838d40f4a9d89118376d773ffbc644bb6ae7bc6bd5e0cb1b641",
-  "signature": "95a9eee6a5f850fa4a1e14fc39a0a8b5d172e2fd05d0f9d9e7ddd495d9fa1e10fd105393239358f6430e39f1cf27d38d84335d9568b0a2787652c05dd7d3300e"
+  "version": "2.6.8.0",
+  "notes": "Téléphone : chaque fiche est une carte, avec l'intitulé en gras (le montant à droite) et dessous, en petit, le reste des colonnes. Plus besoin de faire glisser la liste de côté, et une valeur identique à l'intitulé (le nom du bien) n'est plus répétée. Le tri se choisit avec « Trier ». Les chiffres inutiles sur téléphone (nombre de fiches, champs remplis, dernière date) ne s'affichent plus. La comptabilité aussi passe en cartes.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.6.8.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.6.8.0.zip",
+  "sha256": "1232635b7935c62bb88a9764a76439dd96a0ec8bfb5364f2e1b934426968e92f",
+  "signature": "b22bdc10452f318402f1f9cb84efd671b709d60be69d0fd661cacf2d199843dbc399725a50a5cbfd2b8488568ba49b0781159cad276c6164bd8f09dbb6d7ef09"
 }
