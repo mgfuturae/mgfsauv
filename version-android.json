@@ -1,8 +1,8 @@
 {
-  "version": "2.8.1.0",
-  "notes": "Téléphone : rien ne défile plus de côté. Comptabilité : les quatre chiffres sur deux rangées, les cinq filtres (compte, catégorie, sens, vue, année) tous visibles en deux colonnes, avec les Outils. Même règle pour les chiffres des autres pages et les onglets de Mes souvenirs.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.8.1.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.8.1.0.apk",
-  "sha256": "4f0136a9283c42ba26dcd7c0c490118838f0c89bf2c8fb3d43c517352c8ffe1c",
-  "signature": "3f59586eb7e57ebc70b511b159752e925a5d58276bec2cb4a0ee54084e7f02cac97da931a57d6a0b59c6e82b0e0fb9460178e25be10f1d531dcdb65b55ef780e"
+  "version": "2.8.2.0",
+  "notes": "Comptabilité sur téléphone : les quatre chiffres tiennent sur une bande basse, les filtres s'ouvrent dans une petite fenêtre (bouton Filtres), et la liste des opérations prend presque tout l'écran.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.8.2.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.8.2.0.apk",
+  "sha256": "4325589ea0f178353dd55d83ac0fca623c67d21c7da2d4977245948cfe8a5acd",
+  "signature": "3bc82478c0f22ad4fe169911cefaea06ac75bfbe25927694b9dd9add97e9c720c182b227604d8c1760803cab3bb2cb723c7eb51a8d6e575dc65cafe9f38d7e04"
 }
