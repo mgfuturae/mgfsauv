@@ -1,8 +1,8 @@
 {
-  "version": "2.7.4.0",
-  "notes": "Fiches : le nom de la fiche est le titre de son bandeau (il suit la saisie du nom). Tâches : sur téléphone, chaque tâche a son curseur d'avancement ; les tâches sont regroupées par catégorie (un titre par catégorie), sur téléphone comme sur PC. Tableau de bord : les revenus locatifs s'arrêtent après le mois de « Date fin bail ». Les listes déroulantes et les fenêtres ont un contour.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.7.4.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.7.4.0.zip",
-  "sha256": "023dcf4f554bf515d15b22a57411421e81e68003679358e0b06252aca5f60d35",
-  "signature": "fe961201b7f191bf6751fd36a68f0ec39a17f077ab287ff6a63e6fb9306aa956c7ecdf1367a7ef46b0eed8770e8337b40cd01af0541fa3cfa7e6295acffdf905"
+  "version": "2.7.5.0",
+  "notes": "Listes sur téléphone : la bande au-dessus des fiches porte le titre de la colonne des noms (Nom du véhicule, Nom de la tâche…) au lieu d'un blanc.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.7.5.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.7.5.0.zip",
+  "sha256": "c42896bd09ec33a34392fa68576803888cc3e543217e65577d99e504e279c005",
+  "signature": "9c3a573767aab455c7f92f7f2d098a90119b924c70e91486797fa807825887805d0cb2c2eac06ffd10ba291af0981f22e49cd3f98d2b30020e0962a56d41c709"
 }
