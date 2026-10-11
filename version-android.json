@@ -1,8 +1,8 @@
 {
-  "version": "2.6.5.0",
-  "notes": "Téléphone : après 5 heures sans servir, un code rapide de 4 chiffres suffit pour reprendre (à choisir dans Sauvegardes, Mot de passe et protection) ; après 48 heures, ou 3 erreurs, l'adresse et le mot de passe sont demandés. Sur le PC, rien ne change : fermeture après 10 minutes.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.6.5.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.6.5.0.apk",
-  "sha256": "29eb0423ec5454ab1426ee801667dc62f1a7d7fe469cb6626b00b9339c5714d4",
-  "signature": "4129422ddba3ad1a2452896c0949292974d794918fb441844d616d11f82c47796074153cfa25cb8e97166299454c57fb248bcd414713aab9d6406256031a5803"
+  "version": "2.6.6.0",
+  "notes": "Téléphone : les fiches passent avant les chiffres. Dans chaque liste, les chiffres tiennent sur une bande basse qui glisse de côté, et la consigne de la souris a disparu : la liste commence dans le haut de l'écran. Même chose pour la comptabilité (listes de choix sur une rangée) et les loyers.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.6.6.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.6.6.0.apk",
+  "sha256": "c3dbb86f0246c9e1eb1f81a62aa1d8d3a1359de09e439786e2ca6d0ee7b64e80",
+  "signature": "f73f9710f190af6e5632c3fbbc0a4dd033a42ea9d3fcfb46c1b0cc4aaead1dfc3020d09d6b72dd410c71050ff58cb956578b9bac158b6813336be7bc002f2401"
 }
