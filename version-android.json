@@ -1,8 +1,8 @@
 {
-  "version": "2.6.6.0",
-  "notes": "Téléphone : les fiches passent avant les chiffres. Dans chaque liste, les chiffres tiennent sur une bande basse qui glisse de côté, et la consigne de la souris a disparu : la liste commence dans le haut de l'écran. Même chose pour la comptabilité (listes de choix sur une rangée) et les loyers.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.6.6.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.6.6.0.apk",
-  "sha256": "c3dbb86f0246c9e1eb1f81a62aa1d8d3a1359de09e439786e2ca6d0ee7b64e80",
-  "signature": "f73f9710f190af6e5632c3fbbc0a4dd033a42ea9d3fcfb46c1b0cc4aaead1dfc3020d09d6b72dd410c71050ff58cb956578b9bac158b6813336be7bc002f2401"
+  "version": "2.6.7.0",
+  "notes": "Téléphone : les mises à jour arrivent même quand l'application reste ouverte en arrière-plan. En revenant dans l'application, elle regarde s'il y a une nouvelle version (au plus une fois par heure) et la propose ; une version refusée reste annoncée sur le tableau de bord.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.6.7.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.6.7.0.apk",
+  "sha256": "c9b2b18c078d38698eb2564e6baf3a7a125e476d0d2264e86a5ea0a1423e5a75",
+  "signature": "768c26e665314bb4f4a75de8087471d5f8aee7c4f6c861f74949827ec1df4716ca208e03a9b20572a2c85c11128f0205885c7d5e61f7838b67080fa615d25509"
 }
