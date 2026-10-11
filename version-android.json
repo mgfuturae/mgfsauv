@@ -1,8 +1,8 @@
 {
-  "version": "2.7.5.0",
-  "notes": "Listes sur téléphone : la bande au-dessus des fiches porte le titre de la colonne des noms (Nom du véhicule, Nom de la tâche…) au lieu d'un blanc.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.7.5.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.7.5.0.apk",
-  "sha256": "218659d8e8a1321f180b405e9207696adf8841f4348ae1e78b08398023059c38",
-  "signature": "2572db42fa8c438e713ecac813373359e746e83d24ef6a3177edb4c3e243033a2ccfb2c18eab0b67f0e38fab05641f4f7718c15823b4fd0cd5b54397dccafd05"
+  "version": "2.7.6.0",
+  "notes": "Plus jamais « Intitulé » : chaque liste porte le nom de ce qui nomme ses fiches (Nom du bien pour les biens loués, Type d'impôt, Nom du site, Titre, Libellé…). Impôts, favoris et quotidien gagnent un champ qui nomme la fiche (Type d'impôt en liste, Nom du site, Titre) ; les fiches existantes y reprennent leur nom. Livre à imprimer : plus de barres en frise (perles pour le style Classique), le titre de chaque formulaire au milieu de sa page, sans nombre de fiches.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.7.6.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.7.6.0.apk",
+  "sha256": "74461bdeb50b43fe298f3527c1049961e505bf32882de849765ff5a7ac893940",
+  "signature": "06cd0ecbf7353493101eadf567e65f40b7c5dd3292075034f6f32b8c636009958367cafb65964ce77874920afe97db16c04e79531c674ead299e55b6045bee0b"
 }
