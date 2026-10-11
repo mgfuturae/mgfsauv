@@ -1,8 +1,8 @@
 {
-  "version": "2.6.4.0",
-  "notes": "Téléphone : l'agenda peut se tourner en paysage (il suit le téléphone, ou bouton « Paysage ») et prend alors tout l'écran.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.6.4.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.6.4.0.apk",
-  "sha256": "69fd074f7579291a395d3291b075b1f9b88097124b125edbf68896d3700a48ed",
-  "signature": "f5cdb6017a629f7623a1fdf91e559559837c4eb1dde2142da86324ab9e43748a47e79110c0ff0f4765af06eec58ca63a046ffb06febed3037b52474fc907fe07"
+  "version": "2.6.5.0",
+  "notes": "Téléphone : après 5 heures sans servir, un code rapide de 4 chiffres suffit pour reprendre (à choisir dans Sauvegardes, Mot de passe et protection) ; après 48 heures, ou 3 erreurs, l'adresse et le mot de passe sont demandés. Sur le PC, rien ne change : fermeture après 10 minutes.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.6.5.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.6.5.0.apk",
+  "sha256": "29eb0423ec5454ab1426ee801667dc62f1a7d7fe469cb6626b00b9339c5714d4",
+  "signature": "4129422ddba3ad1a2452896c0949292974d794918fb441844d616d11f82c47796074153cfa25cb8e97166299454c57fb248bcd414713aab9d6406256031a5803"
 }
