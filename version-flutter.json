@@ -1,8 +1,8 @@
 {
-  "version": "2.7.5.0",
-  "notes": "Listes sur téléphone : la bande au-dessus des fiches porte le titre de la colonne des noms (Nom du véhicule, Nom de la tâche…) au lieu d'un blanc.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.7.5.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.7.5.0.zip",
-  "sha256": "c42896bd09ec33a34392fa68576803888cc3e543217e65577d99e504e279c005",
-  "signature": "9c3a573767aab455c7f92f7f2d098a90119b924c70e91486797fa807825887805d0cb2c2eac06ffd10ba291af0981f22e49cd3f98d2b30020e0962a56d41c709"
+  "version": "2.7.6.0",
+  "notes": "Plus jamais « Intitulé » : chaque liste porte le nom de ce qui nomme ses fiches (Nom du bien pour les biens loués, Type d'impôt, Nom du site, Titre, Libellé…). Impôts, favoris et quotidien gagnent un champ qui nomme la fiche (Type d'impôt en liste, Nom du site, Titre) ; les fiches existantes y reprennent leur nom. Livre à imprimer : plus de barres en frise (perles pour le style Classique), le titre de chaque formulaire au milieu de sa page, sans nombre de fiches.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.7.6.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.7.6.0.zip",
+  "sha256": "7991d72cdbfed9bff89fbd9665abc6808c71ae75040b91d0538ab4bc2cc07214",
+  "signature": "f435dded978d7263cb440784fbfacbf8f3c2a1809262abb6f51b648dcc5f37d37bdb72ae06968e9a1337c03bfc0fef60668bc4304b6cd0f341d7b09b83115c04"
 }
