@@ -1,8 +1,8 @@
 {
-  "version": "2.7.7.0",
-  "notes": "Impôts : le champ qui nomme la fiche s'appelle « Impôt ». Livre à imprimer : le titre de chaque groupe et de chaque formulaire au milieu de sa page ; plus aucun nombre de fiches (intercalaires, sommaire, couverture).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.7.7.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.7.7.0.apk",
-  "sha256": "17e1f3d9c010f9ccec73b50fa2481c2fa7ba2959dc90132d8e51ad7050558f4e",
-  "signature": "277a95c2b564de901993fa8048502379f706a23a003eeb9ff05e3efe5451b682c0623af9ace4f2a186612c8503c65ee0e619d8b5688a596a965b0d3f9c8f6801"
+  "version": "2.7.8.0",
+  "notes": "Livre à imprimer : plus de titre en double sur une page — le bandeau d'une fiche ne répète plus le nom du formulaire (sa page de titre le donne), un groupe d'un seul formulaire du même nom n'a qu'une page de titre, et le sommaire écrit chaque groupe une fois.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.7.8.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.7.8.0.apk",
+  "sha256": "890fbbe282756469b0120fffb67a70c515c850045bed4e6853004ef64190717a",
+  "signature": "6230aa2d61776137bb77ce8dde220e787850aad4bd8abfc1deadebe4f3ea7c9d84986db535d31a77acb755f897194930c52d83b2909b7f9faec77ac2c27b2105"
 }
