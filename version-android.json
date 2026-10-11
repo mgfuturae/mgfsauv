@@ -1,8 +1,8 @@
 {
-  "version": "2.6.7.0",
-  "notes": "Téléphone : les mises à jour arrivent même quand l'application reste ouverte en arrière-plan. En revenant dans l'application, elle regarde s'il y a une nouvelle version (au plus une fois par heure) et la propose ; une version refusée reste annoncée sur le tableau de bord.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.6.7.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.6.7.0.apk",
-  "sha256": "c9b2b18c078d38698eb2564e6baf3a7a125e476d0d2264e86a5ea0a1423e5a75",
-  "signature": "768c26e665314bb4f4a75de8087471d5f8aee7c4f6c861f74949827ec1df4716ca208e03a9b20572a2c85c11128f0205885c7d5e61f7838b67080fa615d25509"
+  "version": "2.6.8.0",
+  "notes": "Téléphone : chaque fiche est une carte, avec l'intitulé en gras (le montant à droite) et dessous, en petit, le reste des colonnes. Plus besoin de faire glisser la liste de côté, et une valeur identique à l'intitulé (le nom du bien) n'est plus répétée. Le tri se choisit avec « Trier ». Les chiffres inutiles sur téléphone (nombre de fiches, champs remplis, dernière date) ne s'affichent plus. La comptabilité aussi passe en cartes.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.6.8.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.6.8.0.apk",
+  "sha256": "d800eb503778d1a105f61e7e5cbd27f08404b936a0d408a429b8513d2e907068",
+  "signature": "a3e628864deaae3fa33c86e205059e53d0be70f728a80e3ee7cdbc2a98a0d713a7762f53da387123ac8fd8c8b11d362002e114754a4a9e0a217b22b9d6e10e00"
 }
