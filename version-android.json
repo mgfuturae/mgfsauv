@@ -1,8 +1,8 @@
 {
-  "version": "2.7.0.0",
-  "notes": "Mes courses : dans une liste, « ＋ Ajouter un article » ouvre une petite fenêtre : on choisit le type d'aliment, puis on touche les aliments voulus (un autre aliment se tape). Une nouvelle liste l'ouvre d'elle-même. Les fenêtres : un ✕ pour les fermer, et sur téléphone les grandes (« Affecter les catégories »…) prennent tout l'écran. Bourse : les cours se trouvent aussi d'après un code ISIN ou le nom de la société ; ce qui n'est pas trouvé se dit (« Voir »).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.7.0.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.7.0.0.apk",
-  "sha256": "d7667b5c00d3a8f1ca8c6399f50dd07b9477a8894a77d4e577c5f116120762d5",
-  "signature": "5cd1001d7d487208ec3660185c182bc1368ef9293244fb057161c0b4fa6ab466ceeb77f9dce2eee47ac0ecdb716a873cc98acdf5c47170f46ba65bc559682c05"
+  "version": "2.7.1.0",
+  "notes": "Mes courses : le choix du type d'aliment ouvre un petit menu (sept types à la fois, le reste défile) au lieu d'une liste qui couvrait tout l'écran.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.7.1.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.7.1.0.apk",
+  "sha256": "0ee41437941803904f1fe2deadd7b5819443af993ae90b96bf4f67ca46c09ad7",
+  "signature": "c4c9fdb061495fd7d9e14b8d917efb2e3b11fe3147be635f24906cb2661bbe9ea09b0cc0a06aea5eab7a98cee8a472f8dc7e38689183c7ecb8324573ed549702"
 }
