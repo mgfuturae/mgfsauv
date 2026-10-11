@@ -1,8 +1,8 @@
 {
-  "version": "2.7.6.0",
-  "notes": "Plus jamais « Intitulé » : chaque liste porte le nom de ce qui nomme ses fiches (Nom du bien pour les biens loués, Type d'impôt, Nom du site, Titre, Libellé…). Impôts, favoris et quotidien gagnent un champ qui nomme la fiche (Type d'impôt en liste, Nom du site, Titre) ; les fiches existantes y reprennent leur nom. Livre à imprimer : plus de barres en frise (perles pour le style Classique), le titre de chaque formulaire au milieu de sa page, sans nombre de fiches.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.7.6.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.7.6.0.apk",
-  "sha256": "74461bdeb50b43fe298f3527c1049961e505bf32882de849765ff5a7ac893940",
-  "signature": "06cd0ecbf7353493101eadf567e65f40b7c5dd3292075034f6f32b8c636009958367cafb65964ce77874920afe97db16c04e79531c674ead299e55b6045bee0b"
+  "version": "2.7.7.0",
+  "notes": "Impôts : le champ qui nomme la fiche s'appelle « Impôt ». Livre à imprimer : le titre de chaque groupe et de chaque formulaire au milieu de sa page ; plus aucun nombre de fiches (intercalaires, sommaire, couverture).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.7.7.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.7.7.0.apk",
+  "sha256": "17e1f3d9c010f9ccec73b50fa2481c2fa7ba2959dc90132d8e51ad7050558f4e",
+  "signature": "277a95c2b564de901993fa8048502379f706a23a003eeb9ff05e3efe5451b682c0623af9ace4f2a186612c8503c65ee0e619d8b5688a596a965b0d3f9c8f6801"
 }
