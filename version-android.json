@@ -1,8 +1,8 @@
 {
-  "version": "2.7.3.0",
-  "notes": "Plus de doublon « intitulé » : dans les fiches, la case grisée « Intitulé de la fiche » a disparu — le nom se change dans le champ qui nomme la fiche (Nom du véhicule, Nom du contrat…) ; dans les listes sur Windows, la colonne qui répétait le nom est retirée et la première colonne porte son nom ; dans les PDF, le nom n'est plus imprimé deux fois. « Renommer » depuis une liste met aussi le champ à jour.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.7.3.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.7.3.0.apk",
-  "sha256": "402aa2d174577c7713d59471ac81bfc35b594c6c93feba5d8c1ce3bfb726ece2",
-  "signature": "197cf2b03a787bdd44f4f9107d90898ae953d5828b54354b0c3b01f0a20990278d9ed747376374bccc15d24e4609f6cc89bac9304d192ed1e5f28a5e9ab93502"
+  "version": "2.7.4.0",
+  "notes": "Fiches : le nom de la fiche est le titre de son bandeau (il suit la saisie du nom). Tâches : sur téléphone, chaque tâche a son curseur d'avancement ; les tâches sont regroupées par catégorie (un titre par catégorie), sur téléphone comme sur PC. Tableau de bord : les revenus locatifs s'arrêtent après le mois de « Date fin bail ». Les listes déroulantes et les fenêtres ont un contour.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.7.4.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.7.4.0.apk",
+  "sha256": "1b77d1941ffed0192054edd69a8f7e396b0cfb69ebd763867d0a3c51eb04e984",
+  "signature": "baeb040d13e792f82e91ad1b945f1f9be9381162d934fd10d593bff3734e2e00c960007d69d18bf433c6b85e2c128c48815dbbe6c6e7490c14764d53aa060903"
 }
