@@ -1,8 +1,8 @@
 {
-  "version": "2.6.9.0",
-  "notes": "Mes courses refait : une fiche par liste. « ＋ Nouvelle liste » ouvre le catalogue : on cherche un article par son nom (lait, pain…) ou on ouvre un rayon, un toucher l'ajoute ; au magasin, on coche ce qu'on prend. Une liste se refait d'un geste. Ma mutuelle : une zone « Mes bénéficiaires » (jusqu'à 5 personnes). Budget sur téléphone : plus rien ne défile de côté, un mois à la fois, les outils dans un menu.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.6.9.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.6.9.0.zip",
-  "sha256": "8913c869fb5514c68c1aead4fb6d84264939978c66b77e9efb065aebc3e2fe8c",
-  "signature": "3e7abc533b0d08294b039fef1516167eec419d37df1c7989a7a1f11c0356dbef1ed92e5a4cf482ab666e997021079f45a66cdae074380af86160d813448dda01"
+  "version": "2.7.0.0",
+  "notes": "Mes courses : dans une liste, « ＋ Ajouter un article » ouvre une petite fenêtre : on choisit le type d'aliment, puis on touche les aliments voulus (un autre aliment se tape). Une nouvelle liste l'ouvre d'elle-même. Les fenêtres : un ✕ pour les fermer, et sur téléphone les grandes (« Affecter les catégories »…) prennent tout l'écran. Bourse : les cours se trouvent aussi d'après un code ISIN ou le nom de la société ; ce qui n'est pas trouvé se dit (« Voir »).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.7.0.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.7.0.0.zip",
+  "sha256": "05513c19bb5daa3e6d8bbe27200a7cd3a0a78885e536d25f38941e74e53f0c7b",
+  "signature": "884c3896e77c62542799bbc510708dbca945a158229cf0bb982439eef29b7bb86e00483d71cd48447dd8867267b34c792ef5b24bf14c4d155a9f08f6bf1c9a02"
 }
