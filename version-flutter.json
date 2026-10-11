@@ -1,8 +1,8 @@
 {
-  "version": "2.6.4.0",
-  "notes": "Téléphone : l'agenda peut se tourner en paysage (il suit le téléphone, ou bouton « Paysage ») et prend alors tout l'écran.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.6.4.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.6.4.0.zip",
-  "sha256": "f86ab8f5a8c492f698627157778822f5aa03cb7285056a4cb9022102aad429b8",
-  "signature": "46f055662dc312eac06c989c4f16ea42a0b280968ee4f7e0d85a32b35ecc62bbf6edc442f47950d48259164f6c1bf733bf5310297d4bf65c053e13ee2a75a10d"
+  "version": "2.6.5.0",
+  "notes": "Téléphone : après 5 heures sans servir, un code rapide de 4 chiffres suffit pour reprendre (à choisir dans Sauvegardes, Mot de passe et protection) ; après 48 heures, ou 3 erreurs, l'adresse et le mot de passe sont demandés. Sur le PC, rien ne change : fermeture après 10 minutes.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.6.5.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.6.5.0.zip",
+  "sha256": "32c0cca08f428a44f1a09480d04f5fac319c672b1779ffc45afdab5647efa028",
+  "signature": "c515fad71e3be9fd828e03e82d09f4ff3bc3938a68a66d6946084bbdc6a597ee2738f93af0b64e69392127122e2e0e966b580cbed151e089fdf835077a0cde08"
 }
