@@ -1,8 +1,8 @@
 {
-  "version": "2.6.8.0",
-  "notes": "Téléphone : chaque fiche est une carte, avec l'intitulé en gras (le montant à droite) et dessous, en petit, le reste des colonnes. Plus besoin de faire glisser la liste de côté, et une valeur identique à l'intitulé (le nom du bien) n'est plus répétée. Le tri se choisit avec « Trier ». Les chiffres inutiles sur téléphone (nombre de fiches, champs remplis, dernière date) ne s'affichent plus. La comptabilité aussi passe en cartes.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.6.8.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.6.8.0.apk",
-  "sha256": "d800eb503778d1a105f61e7e5cbd27f08404b936a0d408a429b8513d2e907068",
-  "signature": "a3e628864deaae3fa33c86e205059e53d0be70f728a80e3ee7cdbc2a98a0d713a7762f53da387123ac8fd8c8b11d362002e114754a4a9e0a217b22b9d6e10e00"
+  "version": "2.6.9.0",
+  "notes": "Mes courses refait : une fiche par liste. « ＋ Nouvelle liste » ouvre le catalogue : on cherche un article par son nom (lait, pain…) ou on ouvre un rayon, un toucher l'ajoute ; au magasin, on coche ce qu'on prend. Une liste se refait d'un geste. Ma mutuelle : une zone « Mes bénéficiaires » (jusqu'à 5 personnes). Budget sur téléphone : plus rien ne défile de côté, un mois à la fois, les outils dans un menu.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.6.9.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.6.9.0.apk",
+  "sha256": "e957832c8b461e940041f5bdf21fc18864000c1d5506900abc9f0ee4f1f885c5",
+  "signature": "88764ad5f1e9671cf785ff4b69cebf3cc1b791366145d0243dd6d1e26b8c644f5aa819f57532378d243fac82ee9ee3ca6fc5f033d352c627ad43a7516785e707"
 }
