@@ -1,8 +1,8 @@
 {
-  "version": "2.7.0.0",
-  "notes": "Mes courses : dans une liste, « ＋ Ajouter un article » ouvre une petite fenêtre : on choisit le type d'aliment, puis on touche les aliments voulus (un autre aliment se tape). Une nouvelle liste l'ouvre d'elle-même. Les fenêtres : un ✕ pour les fermer, et sur téléphone les grandes (« Affecter les catégories »…) prennent tout l'écran. Bourse : les cours se trouvent aussi d'après un code ISIN ou le nom de la société ; ce qui n'est pas trouvé se dit (« Voir »).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.7.0.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.7.0.0.zip",
-  "sha256": "05513c19bb5daa3e6d8bbe27200a7cd3a0a78885e536d25f38941e74e53f0c7b",
-  "signature": "884c3896e77c62542799bbc510708dbca945a158229cf0bb982439eef29b7bb86e00483d71cd48447dd8867267b34c792ef5b24bf14c4d155a9f08f6bf1c9a02"
+  "version": "2.7.1.0",
+  "notes": "Mes courses : le choix du type d'aliment ouvre un petit menu (sept types à la fois, le reste défile) au lieu d'une liste qui couvrait tout l'écran.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.7.1.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.7.1.0.zip",
+  "sha256": "54ddfd341b45ab3a62b604b82e44603ed4b86439d8a3dff4369ba845b50def28",
+  "signature": "664f58a6dd42857b67ad6e79bcc623278fc8aa4aba08258794642833cc90f458f4d16e57307d46109924169af72d1dfeaeeb4115a7b582e61421b4fa8d04380c"
 }
