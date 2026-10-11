@@ -1,8 +1,8 @@
 {
-  "version": "2.6.8.0",
-  "notes": "Téléphone : chaque fiche est une carte, avec l'intitulé en gras (le montant à droite) et dessous, en petit, le reste des colonnes. Plus besoin de faire glisser la liste de côté, et une valeur identique à l'intitulé (le nom du bien) n'est plus répétée. Le tri se choisit avec « Trier ». Les chiffres inutiles sur téléphone (nombre de fiches, champs remplis, dernière date) ne s'affichent plus. La comptabilité aussi passe en cartes.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.6.8.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.6.8.0.zip",
-  "sha256": "1232635b7935c62bb88a9764a76439dd96a0ec8bfb5364f2e1b934426968e92f",
-  "signature": "b22bdc10452f318402f1f9cb84efd671b709d60be69d0fd661cacf2d199843dbc399725a50a5cbfd2b8488568ba49b0781159cad276c6164bd8f09dbb6d7ef09"
+  "version": "2.6.9.0",
+  "notes": "Mes courses refait : une fiche par liste. « ＋ Nouvelle liste » ouvre le catalogue : on cherche un article par son nom (lait, pain…) ou on ouvre un rayon, un toucher l'ajoute ; au magasin, on coche ce qu'on prend. Une liste se refait d'un geste. Ma mutuelle : une zone « Mes bénéficiaires » (jusqu'à 5 personnes). Budget sur téléphone : plus rien ne défile de côté, un mois à la fois, les outils dans un menu.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.6.9.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.6.9.0.zip",
+  "sha256": "8913c869fb5514c68c1aead4fb6d84264939978c66b77e9efb065aebc3e2fe8c",
+  "signature": "3e7abc533b0d08294b039fef1516167eec419d37df1c7989a7a1f11c0356dbef1ed92e5a4cf482ab666e997021079f45a66cdae074380af86160d813448dda01"
 }
