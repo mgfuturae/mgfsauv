@@ -1,8 +1,8 @@
 {
-  "version": "2.7.9.0",
-  "notes": "Livre à imprimer : la page « Mon livre à remplir » est retirée ; le livre s'ouvre sur sa page de garde illustrée, puis le mode d'emploi.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.7.9.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.7.9.0.apk",
-  "sha256": "659500e3b9ad5ba03045dd9ed7982b61e20b8f0237ba31cb575710fb571bddf8",
-  "signature": "2a9dd2689f0935fbac25168bf385a81c12879c6551356f05eab2eee96b3dc1caa554ac4272f344a14c87412cfa463728d8bae2538a5234169021f460860d9f06"
+  "version": "2.8.0.0",
+  "notes": "Outil des livres : la licence indiquée au bas des pages (nom, n° de série) et le nombre de fiches pour tous sont retenus d'une fois sur l'autre, comme le contenu du livre et son habillage.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.8.0.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.8.0.0.apk",
+  "sha256": "f0732e71a0f0e5da3eff6c798586250077ed4d084a592328327b799e06da1aef",
+  "signature": "e5eb0922f2e0164e27b0a6b4bc643d270baac82526a0dc9852ed64026081035a902a2971a81546892e837870554b76a7db082c52d0254925f97c56124bd1560a"
 }
