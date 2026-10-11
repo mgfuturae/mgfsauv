@@ -1,8 +1,8 @@
 {
-  "version": "2.8.0.0",
-  "notes": "Outil des livres : la licence indiquée au bas des pages (nom, n° de série) et le nombre de fiches pour tous sont retenus d'une fois sur l'autre, comme le contenu du livre et son habillage.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.8.0.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.8.0.0.zip",
-  "sha256": "1dc15f24e9a8a64ddc66eb9cbaac5dea1bd46cc5d3dbd7923ef433702e745ed6",
-  "signature": "58a9805d028b2492ca7df840bf3c4a642e7527bdbdfe1c1a0681f54eab529cd32fcc2583faf3f36c4fa4b55d7cfe9307724a4ceace91fe942f58bcc7607c3b05"
+  "version": "2.8.1.0",
+  "notes": "Téléphone : rien ne défile plus de côté. Comptabilité : les quatre chiffres sur deux rangées, les cinq filtres (compte, catégorie, sens, vue, année) tous visibles en deux colonnes, avec les Outils. Même règle pour les chiffres des autres pages et les onglets de Mes souvenirs.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.8.1.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.8.1.0.zip",
+  "sha256": "6108f825e74e700135755d994c41f07e9e1bfaaa3559c47d97b0b6298acc4098",
+  "signature": "fff09bc45ba88a5ce6708251ac18ac4f000b98570a748e2f4996e55d7a90fe477fa4accb1beffb12d345e4c9c259577f952045f7bfebb5360e87f630af948b0e"
 }
