@@ -1,8 +1,8 @@
 {
-  "version": "2.7.2.0",
-  "notes": "Bourse : « 🔎 Chercher » (fenêtre d'achat) trouve aussi un titre d'après son code ISIN (FR0000120073) ou le nom de la société ; un ISIN tapé sans « FR » (0000120073) ou avec des espaces est reconnu. Les PDF du portefeuille et de la comptabilité par catégorie ont leur page de garde.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.7.2.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.7.2.0.apk",
-  "sha256": "92b4f3bef29c5707512ca71b087b22564a9506efc7a7e5c75d0e9f5f97a73fee",
-  "signature": "2a519bee34781be76aa93a7cd42585267732421c584d1515f7aafac566bb8116654e46aae2dc7db60b10e3f562a126e161c5301925303821dad2651c04f3fd0a"
+  "version": "2.7.3.0",
+  "notes": "Plus de doublon « intitulé » : dans les fiches, la case grisée « Intitulé de la fiche » a disparu — le nom se change dans le champ qui nomme la fiche (Nom du véhicule, Nom du contrat…) ; dans les listes sur Windows, la colonne qui répétait le nom est retirée et la première colonne porte son nom ; dans les PDF, le nom n'est plus imprimé deux fois. « Renommer » depuis une liste met aussi le champ à jour.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.7.3.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.7.3.0.apk",
+  "sha256": "402aa2d174577c7713d59471ac81bfc35b594c6c93feba5d8c1ce3bfb726ece2",
+  "signature": "197cf2b03a787bdd44f4f9107d90898ae953d5828b54354b0c3b01f0a20990278d9ed747376374bccc15d24e4609f6cc89bac9304d192ed1e5f28a5e9ab93502"
 }
