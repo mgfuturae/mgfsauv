@@ -1,8 +1,8 @@
 {
-  "version": "2.7.8.0",
-  "notes": "Livre à imprimer : plus de titre en double sur une page — le bandeau d'une fiche ne répète plus le nom du formulaire (sa page de titre le donne), un groupe d'un seul formulaire du même nom n'a qu'une page de titre, et le sommaire écrit chaque groupe une fois.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.7.8.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.7.8.0.zip",
-  "sha256": "00443b2016200051b84f943637795b2b8f43b321cb7e68a512fbc113c4c659d1",
-  "signature": "ce5168918f72858ef2d8021e8eb70305be0021aa8ab7e02d144d0d72b85016d11ed11901f8397c2e09cbbeb01e748e2230e41d95e6133eaa8ae3256a678c540f"
+  "version": "2.7.9.0",
+  "notes": "Livre à imprimer : la page « Mon livre à remplir » est retirée ; le livre s'ouvre sur sa page de garde illustrée, puis le mode d'emploi.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.7.9.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.7.9.0.zip",
+  "sha256": "e8ab9c52466771c81e42f11780c2e9f816478be6293227e539ca3fe63954e506",
+  "signature": "e85afcd3cc6ef7e6cb32b625cb36854660cae4e9e5d741dd5f3d694a2b3488db3dd6e69ae1de143e2e05ca8cc5e0e0d4c30a1c30059eddc83140db7591414707"
 }
