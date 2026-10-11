@@ -1,8 +1,8 @@
 {
-  "version": "2.7.1.0",
-  "notes": "Mes courses : le choix du type d'aliment ouvre un petit menu (sept types à la fois, le reste défile) au lieu d'une liste qui couvrait tout l'écran.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.7.1.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.7.1.0.zip",
-  "sha256": "54ddfd341b45ab3a62b604b82e44603ed4b86439d8a3dff4369ba845b50def28",
-  "signature": "664f58a6dd42857b67ad6e79bcc623278fc8aa4aba08258794642833cc90f458f4d16e57307d46109924169af72d1dfeaeeb4115a7b582e61421b4fa8d04380c"
+  "version": "2.7.2.0",
+  "notes": "Bourse : « 🔎 Chercher » (fenêtre d'achat) trouve aussi un titre d'après son code ISIN (FR0000120073) ou le nom de la société ; un ISIN tapé sans « FR » (0000120073) ou avec des espaces est reconnu. Les PDF du portefeuille et de la comptabilité par catégorie ont leur page de garde.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.7.2.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.7.2.0.zip",
+  "sha256": "196cdf58e562dbfc6120003e630d8f0990a854961eee5705b1fa2e3494b1dd58",
+  "signature": "449c1d04273ec0bb875c439b3bbf6d2cfd3b834e6175fbb84d097517f887195fcc1a19a3cee188a76f926d006d80344dd92aebdab3baf081d5e11f3ec4780601"
 }
