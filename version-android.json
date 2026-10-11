@@ -1,8 +1,8 @@
 {
-  "version": "2.7.4.0",
-  "notes": "Fiches : le nom de la fiche est le titre de son bandeau (il suit la saisie du nom). Tâches : sur téléphone, chaque tâche a son curseur d'avancement ; les tâches sont regroupées par catégorie (un titre par catégorie), sur téléphone comme sur PC. Tableau de bord : les revenus locatifs s'arrêtent après le mois de « Date fin bail ». Les listes déroulantes et les fenêtres ont un contour.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.7.4.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.7.4.0.apk",
-  "sha256": "1b77d1941ffed0192054edd69a8f7e396b0cfb69ebd763867d0a3c51eb04e984",
-  "signature": "baeb040d13e792f82e91ad1b945f1f9be9381162d934fd10d593bff3734e2e00c960007d69d18bf433c6b85e2c128c48815dbbe6c6e7490c14764d53aa060903"
+  "version": "2.7.5.0",
+  "notes": "Listes sur téléphone : la bande au-dessus des fiches porte le titre de la colonne des noms (Nom du véhicule, Nom de la tâche…) au lieu d'un blanc.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.7.5.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.7.5.0.apk",
+  "sha256": "218659d8e8a1321f180b405e9207696adf8841f4348ae1e78b08398023059c38",
+  "signature": "2572db42fa8c438e713ecac813373359e746e83d24ef6a3177edb4c3e243033a2ccfb2c18eab0b67f0e38fab05641f4f7718c15823b4fd0cd5b54397dccafd05"
 }
