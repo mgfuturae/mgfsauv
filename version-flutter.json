@@ -1,8 +1,8 @@
 {
-  "version": "2.7.9.0",
-  "notes": "Livre à imprimer : la page « Mon livre à remplir » est retirée ; le livre s'ouvre sur sa page de garde illustrée, puis le mode d'emploi.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.7.9.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.7.9.0.zip",
-  "sha256": "e8ab9c52466771c81e42f11780c2e9f816478be6293227e539ca3fe63954e506",
-  "signature": "e85afcd3cc6ef7e6cb32b625cb36854660cae4e9e5d741dd5f3d694a2b3488db3dd6e69ae1de143e2e05ca8cc5e0e0d4c30a1c30059eddc83140db7591414707"
+  "version": "2.8.0.0",
+  "notes": "Outil des livres : la licence indiquée au bas des pages (nom, n° de série) et le nombre de fiches pour tous sont retenus d'une fois sur l'autre, comme le contenu du livre et son habillage.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.8.0.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.8.0.0.zip",
+  "sha256": "1dc15f24e9a8a64ddc66eb9cbaac5dea1bd46cc5d3dbd7923ef433702e745ed6",
+  "signature": "58a9805d028b2492ca7df840bf3c4a642e7527bdbdfe1c1a0681f54eab529cd32fcc2583faf3f36c4fa4b55d7cfe9307724a4ceace91fe942f58bcc7607c3b05"
 }
