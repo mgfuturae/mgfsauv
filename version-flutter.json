@@ -1,8 +1,8 @@
 {
-  "version": "2.7.7.0",
-  "notes": "Impôts : le champ qui nomme la fiche s'appelle « Impôt ». Livre à imprimer : le titre de chaque groupe et de chaque formulaire au milieu de sa page ; plus aucun nombre de fiches (intercalaires, sommaire, couverture).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.7.7.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.7.7.0.zip",
-  "sha256": "7f3c61ab85d031add70c419b0592ca8dcfb9b46b6e9753c2d5aec7441041f644",
-  "signature": "92d226be9a4ebba4d6c9d7c728f82b9267b2c1866462b7d3cb5d394f160b536c9695a338438b2ace5e1fc2a8c026162d71b044ce0eadafed2a5aa787cc3db60a"
+  "version": "2.7.8.0",
+  "notes": "Livre à imprimer : plus de titre en double sur une page — le bandeau d'une fiche ne répète plus le nom du formulaire (sa page de titre le donne), un groupe d'un seul formulaire du même nom n'a qu'une page de titre, et le sommaire écrit chaque groupe une fois.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.7.8.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.7.8.0.zip",
+  "sha256": "00443b2016200051b84f943637795b2b8f43b321cb7e68a512fbc113c4c659d1",
+  "signature": "ce5168918f72858ef2d8021e8eb70305be0021aa8ab7e02d144d0d72b85016d11ed11901f8397c2e09cbbeb01e748e2230e41d95e6133eaa8ae3256a678c540f"
 }
