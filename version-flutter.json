@@ -1,8 +1,8 @@
 {
-  "version": "2.6.6.0",
-  "notes": "Téléphone : les fiches passent avant les chiffres. Dans chaque liste, les chiffres tiennent sur une bande basse qui glisse de côté, et la consigne de la souris a disparu : la liste commence dans le haut de l'écran. Même chose pour la comptabilité (listes de choix sur une rangée) et les loyers.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.6.6.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.6.6.0.zip",
-  "sha256": "58e7a3016f08c62ee976b76032e7d758607a2d2a2cae0fa1e5db6e795a57f931",
-  "signature": "bec05a4d628547a82afab5c8604222093dc95fe214e0e4357385edd6bad6a6707a24de7482c89a77d2fce349780f131d109b3d0c6c56ff0d7cff7895a0f7eb02"
+  "version": "2.6.7.0",
+  "notes": "Téléphone : les mises à jour arrivent même quand l'application reste ouverte en arrière-plan. En revenant dans l'application, elle regarde s'il y a une nouvelle version (au plus une fois par heure) et la propose ; une version refusée reste annoncée sur le tableau de bord.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.6.7.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.6.7.0.zip",
+  "sha256": "cc879ba3dc8a7838d40f4a9d89118376d773ffbc644bb6ae7bc6bd5e0cb1b641",
+  "signature": "95a9eee6a5f850fa4a1e14fc39a0a8b5d172e2fd05d0f9d9e7ddd495d9fa1e10fd105393239358f6430e39f1cf27d38d84335d9568b0a2787652c05dd7d3300e"
 }
