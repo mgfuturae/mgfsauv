@@ -1,8 +1,8 @@
 {
-  "version": "2.8.6.0",
-  "notes": "Définitions des champs : plus aucune mention du décès dans les formulaires de tous les jours (assurances de biens, comptes, biens, caisses, impôts, crédits).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.8.6.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.8.6.0.apk",
-  "sha256": "b239b7ff7abd08c94121d91f7248dedc9e15d44de5d5cec53da43253ffdd7b47",
-  "signature": "33d85789b023e1545a6d3a38821353debf7cc10a9f0181a74feab1c51549eaba2bb282d3aeb96f3e2f52722b8f2f2e1730c0a8c71bc692c48224f54182991c03"
+  "version": "2.8.7.0",
+  "notes": "Contacts : un anniversaire sans année (12/05 ou 12 mai) s'affiche dans l'agenda sans âge. Nouveau champ « Décédé(e) » : l'anniversaire reste, avec « décédé » à la place de l'âge.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.8.7.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.8.7.0.apk",
+  "sha256": "6706e9a2ea54f2340309be764a02c3da10fa28ecb1e3dce048dbb530a0171338",
+  "signature": "3a566cc74254ac1b98d5bbe0acc31f55a8cfb0b6f7081efda54895ceba15837838c298faae23305baf128492b4baef8a7ebd73809b04c3b798a0c33e28bc8a04"
 }
