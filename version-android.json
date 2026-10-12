@@ -1,8 +1,8 @@
 {
-  "version": "2.8.4.0",
-  "notes": "Mes comptes : la Détention se choisit maintenant dans une liste (Personnel, Compte joint, Indivision, Compte d'un enfant, Professionnel, Autre). Ce qui était déjà tapé reste.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.8.4.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.8.4.0.apk",
-  "sha256": "d04d7076baaf7495d2b06640eebc7d8230968fc6152454cbdb08a30737056d25",
-  "signature": "725088d5d830ee27251428d1f00a9a45e954e23a63d25287da2e7be2607bc51d34f0706badb160720009161f246aaec847c59a653a1e1a7a648de916da0c8908"
+  "version": "2.8.5.0",
+  "notes": "Un petit « ? » à côté des zones de saisie : un clic donne la définition du champ (653 définitions dans les 41 formulaires, ex. DCA / investissement programmé). Et l'alerte « carte bancaire qui expire » de l'agenda revient.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.8.5.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.8.5.0.apk",
+  "sha256": "7fcc60058e3a9b2243e276ce35ff9d8ea0c3003d541b0de7bbccb3a7dc9f9062",
+  "signature": "1268c84b07702714f7b0e18dd0086049671ed49f6ed2bb179eac236e3041b17658a7bd01fc94a39dc266dd29b361155e96c04cfea58eee9d31447803f9ba4007"
 }
