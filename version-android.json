@@ -1,8 +1,8 @@
 {
-  "version": "2.8.3.0",
-  "notes": "Bourse : les cours ne se mettent plus à jour tout seuls au démarrage, et plus aucun bandeau. Le bouton « Mettre les cours à jour » du portefeuille les demande, et le résultat s'affiche juste en dessous.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.8.3.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.8.3.0.apk",
-  "sha256": "95cbb88956859a2aaa186afbe2913d88599703f89384f166c5f371a3fc3a94c8",
-  "signature": "aa1be932911156c2267711e04568b9cacdfec5c9f0c47a29ada26010e22b6c43145a31c900170af06d1b940d0ab2378aed224984ce660f00d01b2a6304c51100"
+  "version": "2.8.4.0",
+  "notes": "Mes comptes : la Détention se choisit maintenant dans une liste (Personnel, Compte joint, Indivision, Compte d'un enfant, Professionnel, Autre). Ce qui était déjà tapé reste.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.8.4.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.8.4.0.apk",
+  "sha256": "d04d7076baaf7495d2b06640eebc7d8230968fc6152454cbdb08a30737056d25",
+  "signature": "725088d5d830ee27251428d1f00a9a45e954e23a63d25287da2e7be2607bc51d34f0706badb160720009161f246aaec847c59a653a1e1a7a648de916da0c8908"
 }
