@@ -1,8 +1,8 @@
 {
-  "version": "2.8.6.0",
-  "notes": "Définitions des champs : plus aucune mention du décès dans les formulaires de tous les jours (assurances de biens, comptes, biens, caisses, impôts, crédits).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.8.6.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.8.6.0.zip",
-  "sha256": "ceea05e8b35b02e6d68fc3ceae6734077cf0ec5e603ccd51e2f1a9c0b930def9",
-  "signature": "38268bfd515bb11339e0821c7f9dd5ef25451a74e3ca1dab221bae8f4946397a3895508eeb9859aea50ec7d512073674fca2736bd6ed08eb7c197131c9887d0b"
+  "version": "2.8.7.0",
+  "notes": "Contacts : un anniversaire sans année (12/05 ou 12 mai) s'affiche dans l'agenda sans âge. Nouveau champ « Décédé(e) » : l'anniversaire reste, avec « décédé » à la place de l'âge.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.8.7.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.8.7.0.zip",
+  "sha256": "2d8089431074be4027faba37957ac361ef7276b53a533adcfeb6c8efd24c0265",
+  "signature": "b45c1fbecc9fde62297111d752e5419e6a7995741f5280fd030b1a25ee4f4d27136b33c5a10cc790c085a9bd865a0b4115cbae84209725506e4037099ae66e05"
 }
