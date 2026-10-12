@@ -1,8 +1,8 @@
 {
-  "version": "2.8.4.0",
-  "notes": "Mes comptes : la Détention se choisit maintenant dans une liste (Personnel, Compte joint, Indivision, Compte d'un enfant, Professionnel, Autre). Ce qui était déjà tapé reste.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.8.4.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.8.4.0.zip",
-  "sha256": "1151d27e91cf09eb5644466940a41e2ae89c3fe6d7b7dc87d88a704778780d22",
-  "signature": "6da49646d31fb242094d716be403c3178d2b4515cff71ad91d317ffe9c3c78acdd38daf6a355d3dcb91ddcba942ebeb1d24f12fdfb35606d9c24309947300407"
+  "version": "2.8.5.0",
+  "notes": "Un petit « ? » à côté des zones de saisie : un clic donne la définition du champ (653 définitions dans les 41 formulaires, ex. DCA / investissement programmé). Et l'alerte « carte bancaire qui expire » de l'agenda revient.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.8.5.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.8.5.0.zip",
+  "sha256": "646bf0b44fe63b3e4b0942792f76150b45e4a267ace417bf23a88dd2793d715e",
+  "signature": "23120376dee42565b4b008737bc0635a66ae534ad85e9815936b0c8ad058cd74f181c62aab0ef913c604c6511aeeab3d8c4a86d596d0a5709c8402008ed7a70b"
 }
