@@ -1,8 +1,8 @@
 {
-  "version": "2.8.5.0",
-  "notes": "Un petit « ? » à côté des zones de saisie : un clic donne la définition du champ (653 définitions dans les 41 formulaires, ex. DCA / investissement programmé). Et l'alerte « carte bancaire qui expire » de l'agenda revient.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.8.5.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.8.5.0.apk",
-  "sha256": "7fcc60058e3a9b2243e276ce35ff9d8ea0c3003d541b0de7bbccb3a7dc9f9062",
-  "signature": "1268c84b07702714f7b0e18dd0086049671ed49f6ed2bb179eac236e3041b17658a7bd01fc94a39dc266dd29b361155e96c04cfea58eee9d31447803f9ba4007"
+  "version": "2.8.6.0",
+  "notes": "Définitions des champs : plus aucune mention du décès dans les formulaires de tous les jours (assurances de biens, comptes, biens, caisses, impôts, crédits).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.8.6.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.8.6.0.apk",
+  "sha256": "b239b7ff7abd08c94121d91f7248dedc9e15d44de5d5cec53da43253ffdd7b47",
+  "signature": "33d85789b023e1545a6d3a38821353debf7cc10a9f0181a74feab1c51549eaba2bb282d3aeb96f3e2f52722b8f2f2e1730c0a8c71bc692c48224f54182991c03"
 }
