@@ -1,8 +1,8 @@
 {
-  "version": "2.8.2.0",
-  "notes": "Comptabilité sur téléphone : les quatre chiffres tiennent sur une bande basse, les filtres s'ouvrent dans une petite fenêtre (bouton Filtres), et la liste des opérations prend presque tout l'écran.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.8.2.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.8.2.0.zip",
-  "sha256": "9b1815a4f813db93bc526b80edddeae290b063b3d7724ecc6a270a0966985324",
-  "signature": "7e0daff34cb88b80fb604484a4091013e383833b79653af9041a1a404fb3f1e1aed60479d4d7630cea3588c3f76310b91876d8bb6c9be5a2aa57c9dc1def6f00"
+  "version": "2.8.3.0",
+  "notes": "Bourse : les cours ne se mettent plus à jour tout seuls au démarrage, et plus aucun bandeau. Le bouton « Mettre les cours à jour » du portefeuille les demande, et le résultat s'affiche juste en dessous.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.8.3.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.8.3.0.zip",
+  "sha256": "d1d31b0bfa68260c6b491b1c6b56ae30c8e395ab922a765ff8a6d64f0b19bd46",
+  "signature": "229507afdae891f0fefd98083bf03a73fb8efc86395b57d5465fa52d030d5f9893d3443fea89d8f9fbf176d5b4e387913c7d0fd8bd014bacbf2a3d5ac1123a0b"
 }
