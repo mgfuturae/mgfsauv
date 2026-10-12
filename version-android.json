@@ -1,8 +1,8 @@
 {
-  "version": "2.8.2.0",
-  "notes": "Comptabilité sur téléphone : les quatre chiffres tiennent sur une bande basse, les filtres s'ouvrent dans une petite fenêtre (bouton Filtres), et la liste des opérations prend presque tout l'écran.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.8.2.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.8.2.0.apk",
-  "sha256": "4325589ea0f178353dd55d83ac0fca623c67d21c7da2d4977245948cfe8a5acd",
-  "signature": "3bc82478c0f22ad4fe169911cefaea06ac75bfbe25927694b9dd9add97e9c720c182b227604d8c1760803cab3bb2cb723c7eb51a8d6e575dc65cafe9f38d7e04"
+  "version": "2.8.3.0",
+  "notes": "Bourse : les cours ne se mettent plus à jour tout seuls au démarrage, et plus aucun bandeau. Le bouton « Mettre les cours à jour » du portefeuille les demande, et le résultat s'affiche juste en dessous.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.8.3.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.8.3.0.apk",
+  "sha256": "95cbb88956859a2aaa186afbe2913d88599703f89384f166c5f371a3fc3a94c8",
+  "signature": "aa1be932911156c2267711e04568b9cacdfec5c9f0c47a29ada26010e22b6c43145a31c900170af06d1b940d0ab2378aed224984ce660f00d01b2a6304c51100"
 }
