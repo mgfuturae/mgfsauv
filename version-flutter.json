@@ -1,8 +1,8 @@
 {
-  "version": "2.8.3.0",
-  "notes": "Bourse : les cours ne se mettent plus à jour tout seuls au démarrage, et plus aucun bandeau. Le bouton « Mettre les cours à jour » du portefeuille les demande, et le résultat s'affiche juste en dessous.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.8.3.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.8.3.0.zip",
-  "sha256": "d1d31b0bfa68260c6b491b1c6b56ae30c8e395ab922a765ff8a6d64f0b19bd46",
-  "signature": "229507afdae891f0fefd98083bf03a73fb8efc86395b57d5465fa52d030d5f9893d3443fea89d8f9fbf176d5b4e387913c7d0fd8bd014bacbf2a3d5ac1123a0b"
+  "version": "2.8.4.0",
+  "notes": "Mes comptes : la Détention se choisit maintenant dans une liste (Personnel, Compte joint, Indivision, Compte d'un enfant, Professionnel, Autre). Ce qui était déjà tapé reste.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.8.4.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.8.4.0.zip",
+  "sha256": "1151d27e91cf09eb5644466940a41e2ae89c3fe6d7b7dc87d88a704778780d22",
+  "signature": "6da49646d31fb242094d716be403c3178d2b4515cff71ad91d317ffe9c3c78acdd38daf6a355d3dcb91ddcba942ebeb1d24f12fdfb35606d9c24309947300407"
 }
