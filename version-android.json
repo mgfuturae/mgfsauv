@@ -1,8 +1,8 @@
 {
-  "version": "3.0.6.0",
-  "notes": "Démonstration : elle repart de zéro à chaque ouverture. On peut tout y essayer, mais rien n'est conservé : elle ne peut pas servir de vraie installation.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.0.6.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.0.6.0.apk",
-  "sha256": "58bb84d5b1220f602677fdf4a925e0af6d3e934783d9b38c269d5384ed3d28c6",
-  "signature": "afab8d63d4f55d883fbbbe46addc021f3805124efa5bf443a6bd17656e0d1131959ead6803fa3147157d33bf510958a0cadaf53a3370530118613473069ece03"
+  "version": "3.0.7.0",
+  "notes": "Démonstration enrichie : un portrait pour chaque contact (dont une photo prise de loin, pour essayer « Recadrer »), un grand-père disparu et une amie sans année de naissance pour l'agenda, un Livret Jeune, et les zones encore vides remplies (rentabilité, contrats, mutuelle). Dans les listes, les noms de fichiers ne prennent plus de colonne.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.0.7.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.0.7.0.apk",
+  "sha256": "1a44f6ec2dd4dfe0d79fb6d1b5e2c655ba459e2f520dfa71980d25cf8452a2a1",
+  "signature": "f2aa457e92a4d477a52889e4e6e0e801a3539fac97f5eafb8fac39feba64a5fabe03ae03d36d4363544117826635c6da439d277bd15482b8867bbb744e959300"
 }
