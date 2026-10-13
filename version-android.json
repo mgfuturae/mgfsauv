@@ -1,8 +1,8 @@
 {
-  "version": "2.9.6.0",
-  "notes": "Le bouton « Un problème ? Une idée ? » quitte la barre du haut : « Problème ou suggestion » reste en bas du menu.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.9.6.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.9.6.0.apk",
-  "sha256": "86444105929ff5197405cb01fa16c43a24420b6b517b2a75dffd17e7d1e5ad3e",
-  "signature": "6272fdb05ad9e0c4196a54234463c4df918d01cf985b02026cee260a4a829b4cd7b47131bd5ba795c1aa76b19f31a3afc9ace098fe91f22e4321385e99f0fb08"
+  "version": "2.9.7.0",
+  "notes": "Les pavés chiffrés des pages sont moins hauts sur PC (72 points au lieu de 116) : plus de lignes visibles, par exemple dans Mes tâches.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.9.7.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.9.7.0.apk",
+  "sha256": "afef754e7274c5dcb07cab6d6a606fb883d0b4325e37fce61cc590041e69db8e",
+  "signature": "2261fd168654e9ee09e9177b532a74892586a2849dd2f25fb1f4a3bdf08b58e5e378a4411d696c9399aeb4a707c4599f7081c312ed4295102979df678ffe6007"
 }
