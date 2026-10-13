@@ -1,8 +1,8 @@
 {
-  "version": "2.9.0.0",
-  "notes": "Biens loués : nouveau PDF « Fiche de rentabilité » (bouton sous la rentabilité de la fiche) — synthèse, calcul pas à pas, fiscalité par tranche, hypothèses.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.9.0.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.9.0.0.zip",
-  "sha256": "10465b73f0ba330ebce0c14bb487a46e87969ae6e49f7ad17697a9db48d0eaa3",
-  "signature": "df5549d678f60008b1b6179b0a25abe4b4714ad61ce80c128187d754b82637506d13893cfa1012af78ab811df55aaaa0ec18762b3f9954fff7a24b7267a77f08"
+  "version": "2.9.1.0",
+  "notes": "Portefeuille : supprimer la seule opération d'une valeur supprime la ligne (elle ne reste plus « vendue pour 0 »). Une valeur sans action détenue n'est plus signalée « sans valeur » au tableau de bord.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.9.1.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.9.1.0.zip",
+  "sha256": "9c8e738518ca502cd87142581c5239aeacf41db3f81c775a22807e083d215d5d",
+  "signature": "e86b2ad27f17a1d62df749c6c2387dcbe759e2707740f8021bcbb267e4be4e44b181f248493cf847d9f608f960ff494b656aecac3f2669b6497010d227d18303"
 }
