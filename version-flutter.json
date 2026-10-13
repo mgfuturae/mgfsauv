@@ -1,8 +1,8 @@
 {
-  "version": "3.0.5.0",
-  "notes": "Courriers de notification de décès : le numéro de contrat figure dans le courrier à l'assureur ; deux contrats du même genre chez le même assureur font un seul courrier avec les deux numéros.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.0.5.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.0.5.0.zip",
-  "sha256": "e55d587aac94682b3b02f97c85daf21d17348c56b33e4ef367b0db22b6b6afb0",
-  "signature": "1beb46c2a200695290b7ca1d94e0fb3217eba7ca218b94d7ba3123324a58e8b98c075c86adbaee6fbafefbf4f157472d303091243c75855990f98f01a1db6d08"
+  "version": "3.0.6.0",
+  "notes": "Démonstration : elle repart de zéro à chaque ouverture. On peut tout y essayer, mais rien n'est conservé : elle ne peut pas servir de vraie installation.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.0.6.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.0.6.0.zip",
+  "sha256": "7da446127c0ad1f1f2598af662fc2781ab2f7cb7924dfbfda56fb5054fcc0790",
+  "signature": "137bf30993372be1a850f268d6a64ac17cc8527ffbb65adca7a67f589c8b16b678efcdc4540ef99cb1d8d45155ae2c01286c90203726fc1554b8f0e0d71da006"
 }
