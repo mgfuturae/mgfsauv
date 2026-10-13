@@ -1,8 +1,8 @@
 {
-  "version": "2.9.8.0",
-  "notes": "Agenda : un séjour de plusieurs jours ne repousse plus les rendez-vous des autres jours sur la seconde ligne — ils montent au niveau de la barre.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.9.8.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.9.8.0.apk",
-  "sha256": "314f19676c0805f58d19f27b0d7172991e67aeed9773ad20c91ef0bc6517b14a",
-  "signature": "0300a3726486997359cfdd9165d7545f182dcec7e47494c39343603c90c7ceca7e671efe4ae9a66e7d5dbc2fdc73e771d6e540e4f75f459f5e17a9b298ee7506"
+  "version": "2.9.9.0",
+  "notes": "Téléphone : le rond « + » (ajouter une fiche, un rendez-vous) est soulevé d'un centimètre et ne recouvre plus le bandeau d'information du bas.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.9.9.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.9.9.0.apk",
+  "sha256": "a4961dcde43b6249e9f6fda2408142b519d8f1e9285343a25e9d127b8583ea6d",
+  "signature": "445aa335d16e131389f6bb11655cc3b62e83ef40559f9c188c1a6a456c675d5c7749a860c32508076795fc6e01c4da01bff94f4f7ac8c5cc9c916756246bf60f"
 }
