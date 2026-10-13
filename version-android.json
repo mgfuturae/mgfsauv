@@ -1,8 +1,8 @@
 {
-  "version": "2.9.2.0",
-  "notes": "PDF : plus de nombre de fiches ni de sommaire des champs (PDF d'une rubrique, dossier complet) — la date, puis les fiches.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.9.2.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.9.2.0.apk",
-  "sha256": "bb3c8eca6fc05f31f6be3f4cf7631ba751c2a9db86669bbab5df5250930c2747",
-  "signature": "d65cb57646235396389d784b93dd2a2d4a3c8583df268ab64de562de94211708a5dd4544e29f3c1564b7c3f45f8967e0bdade68d5b7af385b899bfb085cee606"
+  "version": "2.9.3.0",
+  "notes": "PDF déjà ouvert dans le lecteur : plus de message en anglais — une fenêtre en français propose Réessayer (après l'avoir fermé) ou Ouvrir une copie.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.9.3.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.9.3.0.apk",
+  "sha256": "8c1cad0bc2e4ae7e1d46c6beeddb313461988110c1a1e972fc4f262cc5b058ac",
+  "signature": "a5031b3e56f1c0ed4ee00232faa34d85bd227f2086dc9d563887079a0b11d6173988f1aa5ea16c9af9c4014a854fbb237f32f1cb752d12599102c2874f5c130e"
 }
