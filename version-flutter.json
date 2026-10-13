@@ -1,8 +1,8 @@
 {
-  "version": "2.9.2.0",
-  "notes": "PDF : plus de nombre de fiches ni de sommaire des champs (PDF d'une rubrique, dossier complet) — la date, puis les fiches.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.9.2.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.9.2.0.zip",
-  "sha256": "038f9f5495d340ff8f15a5f5f00879d41a4d4d78a7debc4c297a112d496c665e",
-  "signature": "8e8298eac47e8bea23c8243bbfb8c18b6a15b42cd426a03bbd73fa4cf1172914475c1c4534facb8c9c3e60359c14b62cfdcb33b5a6ee1b6ddd9dd61d16f1d30d"
+  "version": "2.9.3.0",
+  "notes": "PDF déjà ouvert dans le lecteur : plus de message en anglais — une fenêtre en français propose Réessayer (après l'avoir fermé) ou Ouvrir une copie.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.9.3.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.9.3.0.zip",
+  "sha256": "ff6a56eca0af5eebb4a11d1202f0f00a5a3b6d6bcc2ddf5fb731a98f535e6b80",
+  "signature": "22b58f9c90615358593fffc831412367edcd9f917aa618297ccb09fcd264de9673f4930607af83bf65254eebfa1d11e6123cb1c9c3e58d2389ed2a9f8573b808"
 }
