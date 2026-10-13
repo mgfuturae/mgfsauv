@@ -1,8 +1,8 @@
 {
-  "version": "3.0.8.0",
-  "notes": "Reprendre ma sauvegarde depuis le serveur (téléphone) : plus de message « Bad state: the database is already closed » pendant la reprise ; elle se fait dans la base ouverte.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.0.8.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.0.8.0.zip",
-  "sha256": "6775b4bfdf4cf03f20514c6fbe8c20469b078a975cde36b828dbe782d3bfe1bd",
-  "signature": "3e27d6593c0faa8bd019d5dadce7fe70a4641beaef0e41825bdf1052984935c32d56046c4a49392dfc8eaf4b48a6a03f2e73d75fc20a73798865b33f63da4003"
+  "version": "3.0.9.0",
+  "notes": "Gestion des couleurs : chaque couleur choisie s'applique aussitôt, il n'y a plus de bouton « Appliquer » à ne pas oublier.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.0.9.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.0.9.0.zip",
+  "sha256": "e18e35fe63df62e85739ac5510682fb1d39c2cc527a3507eee342e68ee9e9e2f",
+  "signature": "4968ce986cb2834098abf11da413bcd8c14c03ee6a5093ce3b76a02a7b453bc70e5468bbb3c561273765bda11ab33bff63a9ee6798ebbfc714a59876a7722204"
 }
