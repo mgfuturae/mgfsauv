@@ -1,8 +1,8 @@
 {
-  "version": "3.0.2.0",
-  "notes": "Courriers de notification de décès : la mutuelle, les organismes de crédit (un courrier par prêteur, avec chaque crédit) et l'employeur (et l'organisme de sa garantie prévoyance) sont maintenant proposés.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.0.2.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.0.2.0.zip",
-  "sha256": "16d52cc7a75c4308dbc40dce83c654d596f3a78be873ea0c95f2c08f3d04ea38",
-  "signature": "f961f40921a985527cfb12ed08ad72009e5e9958bfd37a24c66dbd971768ebf69cc5a2087ebddea0d3d64e478cbfe09f33a8f0d4aca3312e1556bfa6821afc03"
+  "version": "3.0.3.0",
+  "notes": "Gestion des couleurs : le choix Sombre / Clair / Automatique est supprimé, seuls les thèmes restent (le thème Clair se choisit parmi eux). Ceux qui étaient en Clair gardent un écran clair.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.0.3.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.0.3.0.zip",
+  "sha256": "6b66dd354f71effe0543d2a6d3e3970e8af6c2660fcd5e1122ff6495d209b220",
+  "signature": "1c40f03dc3caac0bae78727eec963537c8337c24d039928e4ee9f122e8af88535e720dd64bf69ca668c06807dcc08377c132aa13ff9a2a9191ce9b5eb1215b0b"
 }
