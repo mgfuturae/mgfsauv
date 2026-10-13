@@ -1,8 +1,8 @@
 {
-  "version": "2.9.0.0",
-  "notes": "Biens loués : nouveau PDF « Fiche de rentabilité » (bouton sous la rentabilité de la fiche) — synthèse, calcul pas à pas, fiscalité par tranche, hypothèses.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.9.0.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.9.0.0.apk",
-  "sha256": "5af617d954d911c3096744ba576beb852782d25fc2d0b09618d5b9ae357522c7",
-  "signature": "741d5b0e76021a2142c7fe119c48e8a578dbafaf39e3ff98e2164cd4e2379a2c1cccb613b26cbd70466df8a4540b5accc870dbfd0dafbf6bf832c8402862a009"
+  "version": "2.9.1.0",
+  "notes": "Portefeuille : supprimer la seule opération d'une valeur supprime la ligne (elle ne reste plus « vendue pour 0 »). Une valeur sans action détenue n'est plus signalée « sans valeur » au tableau de bord.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.9.1.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.9.1.0.apk",
+  "sha256": "3958b4c6a5bdb6355e97e8e9a3fa50fe8bb83e2535aac0a9d73c78de7e7816b5",
+  "signature": "6b98dbda093e33354a44e5a7f331a2d32e69e95e448de6bbf524debe428595e20d034d3d9e7e137c6933824bb74811b51e6053c79822b63768becf64ec90fa01"
 }
