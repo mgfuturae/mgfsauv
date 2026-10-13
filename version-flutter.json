@@ -1,8 +1,8 @@
 {
-  "version": "3.1.1.0",
-  "notes": "Agenda : supprimer un rendez-vous emporte aussi ses copies identiques (un rendez-vous en double ne demande plus deux suppressions) ; la confirmation le signale.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.1.1.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.1.1.0.zip",
-  "sha256": "59a3b2f5b8d5a713cb584c1f3ad67a0547ae255d81d9b1308795edb4f468808d",
-  "signature": "b8cb5655be24cf7124f6538b884b9cb039de0a1dcc698538970b6698b5b5e304f79e0007ceccdcfd79646f9e589ba7f463ccf462ed2dc74442a17773440f5d08"
+  "version": "3.1.2.0",
+  "notes": "Mes Courses : le catalogue des articles n'affiche plus la colonne « À acheter » (elle ne sert qu'aux listes) ; son PDF ne parle plus d'articles cochés.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.1.2.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.1.2.0.zip",
+  "sha256": "19fdf3c70363c815c6b60a8760bde799a08624439bb88c862e643a0dade5dd59",
+  "signature": "1dc6ed5209636ca04e748829adeab37e151c4853331d6d6bc0be1419abac3dff83be2a4b0e76e145913d4bf412d976a04cdac60f44936de35c5e5ce94290b801"
 }
