@@ -1,8 +1,8 @@
 {
-  "version": "3.0.3.0",
-  "notes": "Gestion des couleurs : le choix Sombre / Clair / Automatique est supprimé, seuls les thèmes restent (le thème Clair se choisit parmi eux). Ceux qui étaient en Clair gardent un écran clair.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.0.3.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.0.3.0.apk",
-  "sha256": "2b82db412e91a2af620b01028f6971f360c18e56a6e618c078468baf0b226f08",
-  "signature": "cd017feb516357893ae8d010d96a4bb2454737be7a1c39a5372cfcea57770866ba9db9988169c65cb30dfa61869d0c4013470c6b5b11a90ad97ab66d6f217704"
+  "version": "3.0.4.0",
+  "notes": "Photo d'un contact ou d'un animal : en la joignant, un cadre s'ouvre pour rapprocher la personne (molette, deux doigts ou curseur) et la placer au centre ; « Recadrer » permet d'y revenir. La photo recadrée est aussi beaucoup plus légère.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.0.4.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.0.4.0.apk",
+  "sha256": "d46ca612170785fbb70a8b0af07622f56d47d067f8cf6ea34ec920d69d591b7b",
+  "signature": "43e9a8a4ce9fe26ef94533b8d58d9b952002049daca4470f41cef8d99956ebce29b8566cd425964fb11bb6daad25a269694e88278896b8e3970f913fd2914607"
 }
