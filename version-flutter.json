@@ -1,8 +1,8 @@
 {
-  "version": "2.9.7.0",
-  "notes": "Les pavés chiffrés des pages sont moins hauts sur PC (72 points au lieu de 116) : plus de lignes visibles, par exemple dans Mes tâches.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.9.7.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.9.7.0.zip",
-  "sha256": "e2ddd700dadd8906d925e5f05b7c8ccd56fbf5a57db89d3c19d465b8ab008e94",
-  "signature": "314e6e89e55519c8984fb37a7a055220d89e509093c303dfc715ac6396bed7fe2e8d426fac71b14a3793cddefbcf6a16970cae4a870ade82d8678838814a0808"
+  "version": "2.9.8.0",
+  "notes": "Agenda : un séjour de plusieurs jours ne repousse plus les rendez-vous des autres jours sur la seconde ligne — ils montent au niveau de la barre.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.9.8.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.9.8.0.zip",
+  "sha256": "78e1e9c5b6ec18b36c78ade91ac5f546bc057c8e601b2853316f7d605ca05345",
+  "signature": "2b5f42380ef31324d0302a7722599b7e60b5967fc96d23c7e6958693ca42a4b483a982fbb5cccc0d8f40247109a3968a9cc68b50404a4e073f0d408db6a5d907"
 }
