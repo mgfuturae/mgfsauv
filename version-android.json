@@ -1,8 +1,8 @@
 {
-  "version": "3.0.1.0",
-  "notes": "Contacts : la photo en grand dans le coin de la fiche, et en vignette devant chaque nom de la liste. Courses : le catalogue n'a plus « À acheter ». Mon Quotidien : plus de PDF par note (celui de la liste reste).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.0.1.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.0.1.0.apk",
-  "sha256": "22ade46800f1da4e7ecb08ecfb1554b0516c41e2176dfddb43fc79a00b738670",
-  "signature": "6095bc9949bc1b862072b004bd4cc66e34fbffaf2de37c226cbfd30a1c7c3ad8a1664cd32b0acb33d48ebb175934f1fc775d05b217e33f0e9da7439e35258e0a"
+  "version": "3.0.2.0",
+  "notes": "Courriers de notification de décès : la mutuelle, les organismes de crédit (un courrier par prêteur, avec chaque crédit) et l'employeur (et l'organisme de sa garantie prévoyance) sont maintenant proposés.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.0.2.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.0.2.0.apk",
+  "sha256": "06630d4d3a94ab8c5a4577e8f484745a1421f594384a43da4237113ba000cb32",
+  "signature": "05825721d6f7842f644699ecb85274780e34786677135ed2db985721135137fb14f5c53ed719be375d59cdbfe18f2661f86c16ac774cbed755ef641411e32a06"
 }
