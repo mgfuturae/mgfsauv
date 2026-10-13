@@ -1,8 +1,8 @@
 {
-  "version": "3.1.2.0",
-  "notes": "Mes Courses : le catalogue des articles n'affiche plus la colonne « À acheter » (elle ne sert qu'aux listes) ; son PDF ne parle plus d'articles cochés.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.1.2.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.1.2.0.zip",
-  "sha256": "19fdf3c70363c815c6b60a8760bde799a08624439bb88c862e643a0dade5dd59",
-  "signature": "1dc6ed5209636ca04e748829adeab37e151c4853331d6d6bc0be1419abac3dff83be2a4b0e76e145913d4bf412d976a04cdac60f44936de35c5e5ce94290b801"
+  "version": "3.1.3.0",
+  "notes": "Ma Santé : la zone « Consentement recueilli le » est retirée.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.1.3.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.1.3.0.zip",
+  "sha256": "779ad8f9130cfe2448f8b1c6e71abe27bb111a7ca5cc3e3bc3cfc2c09f5240d1",
+  "signature": "7386e850a2071efa7a33f3582b2fb7e941579dbce3647b75725d1a66a4f0ff86ecb139ee90803fb1d17dc9b55aac254c98dbba2d206e16133738daab07524009"
 }
