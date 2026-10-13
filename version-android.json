@@ -1,8 +1,8 @@
 {
-  "version": "2.9.5.0",
-  "notes": "« Problème ou suggestion » bien en vue : un bouton « Un problème ? Une idée ? » dans la barre du haut, et une ligne en bas du menu.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.9.5.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.9.5.0.apk",
-  "sha256": "471b40dc3efcc1a9839b7d0b08472bf5072309b94adba8aa07ec68f262a23cda",
-  "signature": "07835e9ef5bbb4e982717367e429fe067d46e24d5f00e310b4bf271e7e43573e9acd3f387315b2fe29922649ced9dbe2beef106497c4386a2723dc8fa0767f09"
+  "version": "2.9.6.0",
+  "notes": "Le bouton « Un problème ? Une idée ? » quitte la barre du haut : « Problème ou suggestion » reste en bas du menu.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.9.6.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.9.6.0.apk",
+  "sha256": "86444105929ff5197405cb01fa16c43a24420b6b517b2a75dffd17e7d1e5ad3e",
+  "signature": "6272fdb05ad9e0c4196a54234463c4df918d01cf985b02026cee260a4a829b4cd7b47131bd5ba795c1aa76b19f31a3afc9ace098fe91f22e4321385e99f0fb08"
 }
