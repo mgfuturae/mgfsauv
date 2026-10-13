@@ -1,8 +1,8 @@
 {
-  "version": "2.9.9.0",
-  "notes": "Téléphone : le rond « + » (ajouter une fiche, un rendez-vous) est soulevé d'un centimètre et ne recouvre plus le bandeau d'information du bas.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.9.9.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.9.9.0.zip",
-  "sha256": "e8b0147883603779e92786ce48fb4e18a775ad14f00156336976c761fef3c677",
-  "signature": "e5630ef04539764584ac4ffff8c8e620aade0b41a8492e702f31abfb4f5668174ea6aba74f010fcb289bc6efa26373e75096c6162b5b890929058c512a224002"
+  "version": "3.0.0.0",
+  "notes": "Agenda : tous les rendez-vous d'un jour sont dans sa case (la semaine s'agrandit s'il le faut) — plus de « +1 » ou « +2 » dans le coin.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.0.0.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.0.0.0.zip",
+  "sha256": "224d6628d01fa5e30ccb2c2e2f3142c7ba8565e0a9b18c1238141c28f6f2bede",
+  "signature": "d7c4c4514eaedc4164839f8fb90e7e5fcc5c806eff4b20fd6743bfdd3851c58b9efbd0cfdfa8c8eb10a3ed50e96631246c7839cb7d9f399807a9157aa7fb9a02"
 }
