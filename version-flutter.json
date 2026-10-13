@@ -1,8 +1,8 @@
 {
-  "version": "2.9.8.0",
-  "notes": "Agenda : un séjour de plusieurs jours ne repousse plus les rendez-vous des autres jours sur la seconde ligne — ils montent au niveau de la barre.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.9.8.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.9.8.0.zip",
-  "sha256": "78e1e9c5b6ec18b36c78ade91ac5f546bc057c8e601b2853316f7d605ca05345",
-  "signature": "2b5f42380ef31324d0302a7722599b7e60b5967fc96d23c7e6958693ca42a4b483a982fbb5cccc0d8f40247109a3968a9cc68b50404a4e073f0d408db6a5d907"
+  "version": "2.9.9.0",
+  "notes": "Téléphone : le rond « + » (ajouter une fiche, un rendez-vous) est soulevé d'un centimètre et ne recouvre plus le bandeau d'information du bas.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.9.9.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.9.9.0.zip",
+  "sha256": "e8b0147883603779e92786ce48fb4e18a775ad14f00156336976c761fef3c677",
+  "signature": "e5630ef04539764584ac4ffff8c8e620aade0b41a8492e702f31abfb4f5668174ea6aba74f010fcb289bc6efa26373e75096c6162b5b890929058c512a224002"
 }
