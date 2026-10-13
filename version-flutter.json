@@ -1,8 +1,8 @@
 {
-  "version": "3.0.6.0",
-  "notes": "Démonstration : elle repart de zéro à chaque ouverture. On peut tout y essayer, mais rien n'est conservé : elle ne peut pas servir de vraie installation.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.0.6.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.0.6.0.zip",
-  "sha256": "7da446127c0ad1f1f2598af662fc2781ab2f7cb7924dfbfda56fb5054fcc0790",
-  "signature": "137bf30993372be1a850f268d6a64ac17cc8527ffbb65adca7a67f589c8b16b678efcdc4540ef99cb1d8d45155ae2c01286c90203726fc1554b8f0e0d71da006"
+  "version": "3.0.7.0",
+  "notes": "Démonstration enrichie : un portrait pour chaque contact (dont une photo prise de loin, pour essayer « Recadrer »), un grand-père disparu et une amie sans année de naissance pour l'agenda, un Livret Jeune, et les zones encore vides remplies (rentabilité, contrats, mutuelle). Dans les listes, les noms de fichiers ne prennent plus de colonne.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.0.7.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.0.7.0.zip",
+  "sha256": "b463b77a5217acf56219dcb5e30b66e727ec9e2734ea0d957615de85dc660b1a",
+  "signature": "35d20a5ec4d5a8263c9cfca197a075cf0bb48f4a0ca19003fb45affba11bab36cdec58fd1c19850bf16235e683f90f1d8e4eeb805c2cdc2b7006422a539ac70e"
 }
