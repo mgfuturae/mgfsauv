@@ -1,8 +1,8 @@
 {
-  "version": "3.0.1.0",
-  "notes": "Contacts : la photo en grand dans le coin de la fiche, et en vignette devant chaque nom de la liste. Courses : le catalogue n'a plus « À acheter ». Mon Quotidien : plus de PDF par note (celui de la liste reste).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.0.1.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.0.1.0.zip",
-  "sha256": "9fdf3fa0ed77da88b0d4fdc6dcd93d198b4e0a62039e993a341eaf1826d556d3",
-  "signature": "492113d6f8f7dbb6368829697d87257d7c5acb55a956d4ed6c6b0005cedacf74aa6cfb8e9a2483e1a88b952b42bd101059ff9e3a25a6cc5b3b180761bdea8d0b"
+  "version": "3.0.2.0",
+  "notes": "Courriers de notification de décès : la mutuelle, les organismes de crédit (un courrier par prêteur, avec chaque crédit) et l'employeur (et l'organisme de sa garantie prévoyance) sont maintenant proposés.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.0.2.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.0.2.0.zip",
+  "sha256": "16d52cc7a75c4308dbc40dce83c654d596f3a78be873ea0c95f2c08f3d04ea38",
+  "signature": "f961f40921a985527cfb12ed08ad72009e5e9958bfd37a24c66dbd971768ebf69cc5a2087ebddea0d3d64e478cbfe09f33a8f0d4aca3312e1556bfa6821afc03"
 }
