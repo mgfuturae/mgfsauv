@@ -1,8 +1,8 @@
 {
-  "version": "2.9.4.0",
-  "notes": "Nouveau : bulle « Problème ou suggestion » dans la barre du haut — signaler un souci ou proposer une idée par un e-mail tout prêt, version et système compris.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.9.4.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.9.4.0.zip",
-  "sha256": "8be408cd8f692869e52221882d40d8eceb79441d50acda97a4f0fd2ccd242c8f",
-  "signature": "f311b03088b0653b24ed3bbf6c9dec0d34d652524bfee9f3c8283ce30c4392b390a1bf0c7e1b6ff46406f31876abc8c8a63f1e08463acf0ed85925600997040d"
+  "version": "2.9.5.0",
+  "notes": "« Problème ou suggestion » bien en vue : un bouton « Un problème ? Une idée ? » dans la barre du haut, et une ligne en bas du menu.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.9.5.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.9.5.0.zip",
+  "sha256": "2c7ac8799e5c46a0ec30d41958832030add07254f991217b72f5ad4a211b378c",
+  "signature": "21642fef5f16add8d40530c6a2c98b078c8c6fff8be086055c9e5fc98a825cae7c31ebc8fc880a562320110f2125f0c113eccb14993b9a8e987fa6fbcf6fac00"
 }
