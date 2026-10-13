@@ -1,8 +1,8 @@
 {
-  "version": "3.0.3.0",
-  "notes": "Gestion des couleurs : le choix Sombre / Clair / Automatique est supprimé, seuls les thèmes restent (le thème Clair se choisit parmi eux). Ceux qui étaient en Clair gardent un écran clair.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.0.3.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.0.3.0.zip",
-  "sha256": "6b66dd354f71effe0543d2a6d3e3970e8af6c2660fcd5e1122ff6495d209b220",
-  "signature": "1c40f03dc3caac0bae78727eec963537c8337c24d039928e4ee9f122e8af88535e720dd64bf69ca668c06807dcc08377c132aa13ff9a2a9191ce9b5eb1215b0b"
+  "version": "3.0.4.0",
+  "notes": "Photo d'un contact ou d'un animal : en la joignant, un cadre s'ouvre pour rapprocher la personne (molette, deux doigts ou curseur) et la placer au centre ; « Recadrer » permet d'y revenir. La photo recadrée est aussi beaucoup plus légère.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.0.4.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.0.4.0.zip",
+  "sha256": "f7a3efbce6a207a25b03a7c19f98a5b43c88267a37ac7638170a699c7f992cfb",
+  "signature": "baa468a5b024a2518b0949188e2915df0cf9ab666f6d99871b8f96a7a6eb8b194d7f78151d8e5bf3538f44f55f814ac27955ffb529b6688c092d7b2748878104"
 }
