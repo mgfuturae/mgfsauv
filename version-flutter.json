@@ -1,8 +1,8 @@
 {
-  "version": "3.0.4.0",
-  "notes": "Photo d'un contact ou d'un animal : en la joignant, un cadre s'ouvre pour rapprocher la personne (molette, deux doigts ou curseur) et la placer au centre ; « Recadrer » permet d'y revenir. La photo recadrée est aussi beaucoup plus légère.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.0.4.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.0.4.0.zip",
-  "sha256": "f7a3efbce6a207a25b03a7c19f98a5b43c88267a37ac7638170a699c7f992cfb",
-  "signature": "baa468a5b024a2518b0949188e2915df0cf9ab666f6d99871b8f96a7a6eb8b194d7f78151d8e5bf3538f44f55f814ac27955ffb529b6688c092d7b2748878104"
+  "version": "3.0.5.0",
+  "notes": "Courriers de notification de décès : le numéro de contrat figure dans le courrier à l'assureur ; deux contrats du même genre chez le même assureur font un seul courrier avec les deux numéros.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.0.5.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.0.5.0.zip",
+  "sha256": "e55d587aac94682b3b02f97c85daf21d17348c56b33e4ef367b0db22b6b6afb0",
+  "signature": "1beb46c2a200695290b7ca1d94e0fb3217eba7ca218b94d7ba3123324a58e8b98c075c86adbaee6fbafefbf4f157472d303091243c75855990f98f01a1db6d08"
 }
