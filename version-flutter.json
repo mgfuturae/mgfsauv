@@ -1,8 +1,8 @@
 {
-  "version": "3.0.0.0",
-  "notes": "Agenda : tous les rendez-vous d'un jour sont dans sa case (la semaine s'agrandit s'il le faut) — plus de « +1 » ou « +2 » dans le coin.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.0.0.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.0.0.0.zip",
-  "sha256": "224d6628d01fa5e30ccb2c2e2f3142c7ba8565e0a9b18c1238141c28f6f2bede",
-  "signature": "d7c4c4514eaedc4164839f8fb90e7e5fcc5c806eff4b20fd6743bfdd3851c58b9efbd0cfdfa8c8eb10a3ed50e96631246c7839cb7d9f399807a9157aa7fb9a02"
+  "version": "3.0.1.0",
+  "notes": "Contacts : la photo en grand dans le coin de la fiche, et en vignette devant chaque nom de la liste. Courses : le catalogue n'a plus « À acheter ». Mon Quotidien : plus de PDF par note (celui de la liste reste).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.0.1.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.0.1.0.zip",
+  "sha256": "9fdf3fa0ed77da88b0d4fdc6dcd93d198b4e0a62039e993a341eaf1826d556d3",
+  "signature": "492113d6f8f7dbb6368829697d87257d7c5acb55a956d4ed6c6b0005cedacf74aa6cfb8e9a2483e1a88b952b42bd101059ff9e3a25a6cc5b3b180761bdea8d0b"
 }
