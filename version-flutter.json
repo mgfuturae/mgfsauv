@@ -1,8 +1,8 @@
 {
-  "version": "2.9.6.0",
-  "notes": "Le bouton « Un problème ? Une idée ? » quitte la barre du haut : « Problème ou suggestion » reste en bas du menu.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.9.6.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.9.6.0.zip",
-  "sha256": "262dd8b4a64953eb813539811b6ba41efef9ee852cf42c011c050ed64c4797e4",
-  "signature": "356f6d712133d0c2c32016739f19e847f936867290de845c135ca411128afe33bc9d762927cb62052f7625a408e171085fc37015c9cee61c1fe12f956b9bb802"
+  "version": "2.9.7.0",
+  "notes": "Les pavés chiffrés des pages sont moins hauts sur PC (72 points au lieu de 116) : plus de lignes visibles, par exemple dans Mes tâches.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.9.7.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.9.7.0.zip",
+  "sha256": "e2ddd700dadd8906d925e5f05b7c8ccd56fbf5a57db89d3c19d465b8ab008e94",
+  "signature": "314e6e89e55519c8984fb37a7a055220d89e509093c303dfc715ac6396bed7fe2e8d426fac71b14a3793cddefbcf6a16970cae4a870ade82d8678838814a0808"
 }
