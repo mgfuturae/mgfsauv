@@ -1,8 +1,8 @@
 {
-  "version": "3.0.9.0",
-  "notes": "Gestion des couleurs : chaque couleur choisie s'applique aussitôt, il n'y a plus de bouton « Appliquer » à ne pas oublier.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.0.9.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.0.9.0.apk",
-  "sha256": "0324b1c3f979757e96822e53a8e860462f4e5d79b0e0e90520e7bee21d8928c7",
-  "signature": "1ad2ccefea370ec6b90d587aca5efe6a87e143e43d0acf32efb1f641f597db4494d4b2eb8b7a4591b0f139002ce58ac0b6620304c894eecb33df40a274c5c508"
+  "version": "3.1.0.0",
+  "notes": "Menu : le champ de recherche s'appelle simplement « Recherche ».",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.1.0.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.1.0.0.apk",
+  "sha256": "f5564af27142b36f155596137c53aecabe3d17318e2618365a37dddf9906fa46",
+  "signature": "9fceb47f9e73e65bdacd31f7aeb593d38f67212aadbc5bcf52aa7d6cc37ad117e4ca9f0cb5370d8f17b07f5fe2c8335b72d462bccef56639b141e5aaa29dab00"
 }
