@@ -1,8 +1,8 @@
 {
-  "version": "2.9.5.0",
-  "notes": "« Problème ou suggestion » bien en vue : un bouton « Un problème ? Une idée ? » dans la barre du haut, et une ligne en bas du menu.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.9.5.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.9.5.0.zip",
-  "sha256": "2c7ac8799e5c46a0ec30d41958832030add07254f991217b72f5ad4a211b378c",
-  "signature": "21642fef5f16add8d40530c6a2c98b078c8c6fff8be086055c9e5fc98a825cae7c31ebc8fc880a562320110f2125f0c113eccb14993b9a8e987fa6fbcf6fac00"
+  "version": "2.9.6.0",
+  "notes": "Le bouton « Un problème ? Une idée ? » quitte la barre du haut : « Problème ou suggestion » reste en bas du menu.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.9.6.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.9.6.0.zip",
+  "sha256": "262dd8b4a64953eb813539811b6ba41efef9ee852cf42c011c050ed64c4797e4",
+  "signature": "356f6d712133d0c2c32016739f19e847f936867290de845c135ca411128afe33bc9d762927cb62052f7625a408e171085fc37015c9cee61c1fe12f956b9bb802"
 }
