@@ -1,8 +1,8 @@
 {
-  "version": "3.1.2.0",
-  "notes": "Mes Courses : le catalogue des articles n'affiche plus la colonne « À acheter » (elle ne sert qu'aux listes) ; son PDF ne parle plus d'articles cochés.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.1.2.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.1.2.0.apk",
-  "sha256": "f3738bc93813f9a0dbad3304a4bc8d92cb15ac14ba5e515f811c290fb78501b5",
-  "signature": "b801ef20d2c187e84639117310adbb2c9a12defd9d338391d95f51a423c3f33ed715a9228e169b72d4e46f6274f8457c721c25b17b5355d6e902ed6c13e49e0f"
+  "version": "3.1.3.0",
+  "notes": "Ma Santé : la zone « Consentement recueilli le » est retirée.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.1.3.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.1.3.0.apk",
+  "sha256": "fe1934fceb06360df269b4e98ba5e9bbaf383b2ec0a80f02e30c4b48536b0f50",
+  "signature": "1de3b9b81ed779fe63d10a35a22171133f39472834ff316d8dceb7e866275d426a7db8cc1e0866e587efbdfb9df415f37108a56086a8da90dc736c48bc52a90d"
 }
