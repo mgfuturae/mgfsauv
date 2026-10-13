@@ -1,8 +1,8 @@
 {
-  "version": "2.9.3.0",
-  "notes": "PDF déjà ouvert dans le lecteur : plus de message en anglais — une fenêtre en français propose Réessayer (après l'avoir fermé) ou Ouvrir une copie.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.9.3.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.9.3.0.zip",
-  "sha256": "ff6a56eca0af5eebb4a11d1202f0f00a5a3b6d6bcc2ddf5fb731a98f535e6b80",
-  "signature": "22b58f9c90615358593fffc831412367edcd9f917aa618297ccb09fcd264de9673f4930607af83bf65254eebfa1d11e6123cb1c9c3e58d2389ed2a9f8573b808"
+  "version": "2.9.4.0",
+  "notes": "Nouveau : bulle « Problème ou suggestion » dans la barre du haut — signaler un souci ou proposer une idée par un e-mail tout prêt, version et système compris.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.9.4.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.9.4.0.zip",
+  "sha256": "8be408cd8f692869e52221882d40d8eceb79441d50acda97a4f0fd2ccd242c8f",
+  "signature": "f311b03088b0653b24ed3bbf6c9dec0d34d652524bfee9f3c8283ce30c4392b390a1bf0c7e1b6ff46406f31876abc8c8a63f1e08463acf0ed85925600997040d"
 }
