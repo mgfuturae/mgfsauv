@@ -1,8 +1,8 @@
 {
-  "version": "2.9.7.0",
-  "notes": "Les pavés chiffrés des pages sont moins hauts sur PC (72 points au lieu de 116) : plus de lignes visibles, par exemple dans Mes tâches.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.9.7.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.9.7.0.apk",
-  "sha256": "afef754e7274c5dcb07cab6d6a606fb883d0b4325e37fce61cc590041e69db8e",
-  "signature": "2261fd168654e9ee09e9177b532a74892586a2849dd2f25fb1f4a3bdf08b58e5e378a4411d696c9399aeb4a707c4599f7081c312ed4295102979df678ffe6007"
+  "version": "2.9.8.0",
+  "notes": "Agenda : un séjour de plusieurs jours ne repousse plus les rendez-vous des autres jours sur la seconde ligne — ils montent au niveau de la barre.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.9.8.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.9.8.0.apk",
+  "sha256": "314f19676c0805f58d19f27b0d7172991e67aeed9773ad20c91ef0bc6517b14a",
+  "signature": "0300a3726486997359cfdd9165d7545f182dcec7e47494c39343603c90c7ceca7e671efe4ae9a66e7d5dbc2fdc73e771d6e540e4f75f459f5e17a9b298ee7506"
 }
