@@ -1,8 +1,8 @@
 {
-  "version": "3.1.1.0",
-  "notes": "Agenda : supprimer un rendez-vous emporte aussi ses copies identiques (un rendez-vous en double ne demande plus deux suppressions) ; la confirmation le signale.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.1.1.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.1.1.0.apk",
-  "sha256": "49d310a11a42ac3cbe83ab23539ba96b087334812b7e814702f481f5e30fc7af",
-  "signature": "012980f696cf4d706a00aebdc35955fb725cd0d05fe060fc9cafb7ce43788de16677065cf151947632f67da1b5072760b44314c03b5a862980fd3111662a4103"
+  "version": "3.1.2.0",
+  "notes": "Mes Courses : le catalogue des articles n'affiche plus la colonne « À acheter » (elle ne sert qu'aux listes) ; son PDF ne parle plus d'articles cochés.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.1.2.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.1.2.0.apk",
+  "sha256": "f3738bc93813f9a0dbad3304a4bc8d92cb15ac14ba5e515f811c290fb78501b5",
+  "signature": "b801ef20d2c187e84639117310adbb2c9a12defd9d338391d95f51a423c3f33ed715a9228e169b72d4e46f6274f8457c721c25b17b5355d6e902ed6c13e49e0f"
 }
