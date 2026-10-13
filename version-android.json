@@ -1,8 +1,8 @@
 {
-  "version": "3.0.4.0",
-  "notes": "Photo d'un contact ou d'un animal : en la joignant, un cadre s'ouvre pour rapprocher la personne (molette, deux doigts ou curseur) et la placer au centre ; « Recadrer » permet d'y revenir. La photo recadrée est aussi beaucoup plus légère.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.0.4.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.0.4.0.apk",
-  "sha256": "d46ca612170785fbb70a8b0af07622f56d47d067f8cf6ea34ec920d69d591b7b",
-  "signature": "43e9a8a4ce9fe26ef94533b8d58d9b952002049daca4470f41cef8d99956ebce29b8566cd425964fb11bb6daad25a269694e88278896b8e3970f913fd2914607"
+  "version": "3.0.5.0",
+  "notes": "Courriers de notification de décès : le numéro de contrat figure dans le courrier à l'assureur ; deux contrats du même genre chez le même assureur font un seul courrier avec les deux numéros.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.0.5.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.0.5.0.apk",
+  "sha256": "4a6c335315d9a9799bab4d7c83ec492a39e04a87db861db42b894728fafbfafe",
+  "signature": "66958edd477f1de2e89875dc615fc7d7b4b0f072f1370447b9e25f410b445c6aaf500b4fe87b398de19cc387c31506b324ef94e9514ec6851e894a2578d1060e"
 }
