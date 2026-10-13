@@ -1,8 +1,8 @@
 {
-  "version": "2.8.8.0",
-  "notes": "Agenda sur téléphone : les titres des rendez-vous ne sont plus coupés, et la cloche des rappels est petite, au bout de la ligne des boutons (un toucher coupe ou rétablit les rappels).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.8.8.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.8.8.0.apk",
-  "sha256": "e2d63db12d4cfe3936ac62428c0dff553032eb696e637b851df0fabab813d1e9",
-  "signature": "bafaca5552a76a1c348a06916c0eb89b40b5c7e4ad9141a598e58e9a2f2ab0fb4b0cd47af4cd0d0f8ebcee4b9134180074cb27a9b8a9848d0696ea24319aa305"
+  "version": "2.8.9.0",
+  "notes": "Rentabilité des biens loués plus juste : taxe d'ordures ménagères refacturée déduite, revenu net de charges, régime fiscal (micro-foncier, réel, micro-BIC) et rentabilité nette-nette selon la TMI de Mon Organisation Financière.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.8.9.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.8.9.0.apk",
+  "sha256": "c38e8257acc52970463780ace9c3c8351b2136bd8fdf5b08ae4f417cc4eb63de",
+  "signature": "5a1ce7008581201acd8a01a101924f5a4c4820a070f40461bd5d8e8af4260fd48ed01261e2d82714d7107201e025dc0fa96a297fdb8a0d47a899b13d426ff100"
 }
