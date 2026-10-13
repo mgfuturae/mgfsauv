@@ -1,8 +1,8 @@
 {
-  "version": "3.0.5.0",
-  "notes": "Courriers de notification de décès : le numéro de contrat figure dans le courrier à l'assureur ; deux contrats du même genre chez le même assureur font un seul courrier avec les deux numéros.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.0.5.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.0.5.0.apk",
-  "sha256": "4a6c335315d9a9799bab4d7c83ec492a39e04a87db861db42b894728fafbfafe",
-  "signature": "66958edd477f1de2e89875dc615fc7d7b4b0f072f1370447b9e25f410b445c6aaf500b4fe87b398de19cc387c31506b324ef94e9514ec6851e894a2578d1060e"
+  "version": "3.0.6.0",
+  "notes": "Démonstration : elle repart de zéro à chaque ouverture. On peut tout y essayer, mais rien n'est conservé : elle ne peut pas servir de vraie installation.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.0.6.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.0.6.0.apk",
+  "sha256": "58bb84d5b1220f602677fdf4a925e0af6d3e934783d9b38c269d5384ed3d28c6",
+  "signature": "afab8d63d4f55d883fbbbe46addc021f3805124efa5bf443a6bd17656e0d1131959ead6803fa3147157d33bf510958a0cadaf53a3370530118613473069ece03"
 }
