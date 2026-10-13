@@ -1,8 +1,8 @@
 {
-  "version": "2.9.1.0",
-  "notes": "Portefeuille : supprimer la seule opération d'une valeur supprime la ligne (elle ne reste plus « vendue pour 0 »). Une valeur sans action détenue n'est plus signalée « sans valeur » au tableau de bord.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.9.1.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.9.1.0.apk",
-  "sha256": "3958b4c6a5bdb6355e97e8e9a3fa50fe8bb83e2535aac0a9d73c78de7e7816b5",
-  "signature": "6b98dbda093e33354a44e5a7f331a2d32e69e95e448de6bbf524debe428595e20d034d3d9e7e137c6933824bb74811b51e6053c79822b63768becf64ec90fa01"
+  "version": "2.9.2.0",
+  "notes": "PDF : plus de nombre de fiches ni de sommaire des champs (PDF d'une rubrique, dossier complet) — la date, puis les fiches.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.9.2.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.9.2.0.apk",
+  "sha256": "bb3c8eca6fc05f31f6be3f4cf7631ba751c2a9db86669bbab5df5250930c2747",
+  "signature": "d65cb57646235396389d784b93dd2a2d4a3c8583df268ab64de562de94211708a5dd4544e29f3c1564b7c3f45f8967e0bdade68d5b7af385b899bfb085cee606"
 }
