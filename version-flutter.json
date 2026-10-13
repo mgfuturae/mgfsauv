@@ -1,8 +1,8 @@
 {
-  "version": "2.8.8.0",
-  "notes": "Agenda sur téléphone : les titres des rendez-vous ne sont plus coupés, et la cloche des rappels est petite, au bout de la ligne des boutons (un toucher coupe ou rétablit les rappels).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.8.8.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.8.8.0.zip",
-  "sha256": "53af5db0150ea86fe76442373d0749a7a9a5d09b5f22ab6588bd30eb8d655291",
-  "signature": "fea5acf889fa327fb43699ed8bc18707044de4057a7dbf939b70e6ba05f14c3d8313683dd9f3d7d6e8f67e5f00514e94436e615d288756a6b77fa1c4651ea60f"
+  "version": "2.8.9.0",
+  "notes": "Rentabilité des biens loués plus juste : taxe d'ordures ménagères refacturée déduite, revenu net de charges, régime fiscal (micro-foncier, réel, micro-BIC) et rentabilité nette-nette selon la TMI de Mon Organisation Financière.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.8.9.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.8.9.0.zip",
+  "sha256": "aebb8dd31a08ce0f065e38aaf883dfe0c886b88224d7c34e0297d591c5cf168c",
+  "signature": "5e5cf21591f6cc9532741323fa05bf85d2749216198bd73497732368f6ff64cac08ec9544eb912a3558405fd4d3d0fd989c5ea300d3f6ef52aca71be5757c702"
 }
