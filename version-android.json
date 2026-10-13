@@ -1,8 +1,8 @@
 {
-  "version": "3.0.8.0",
-  "notes": "Reprendre ma sauvegarde depuis le serveur (téléphone) : plus de message « Bad state: the database is already closed » pendant la reprise ; elle se fait dans la base ouverte.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.0.8.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.0.8.0.apk",
-  "sha256": "c0be725e6ba50c061debf6bd2f07414f2f57e254d21490a16a7b626f7dfaa86a",
-  "signature": "c77570a2a6eb43314460c2643704576a7edf531d54f4f179fc1dc4dc9f135ae77f19c756ecfc422926027265b3099c79cd5a51c4cb136cf0e12f2a0496880d0c"
+  "version": "3.0.9.0",
+  "notes": "Gestion des couleurs : chaque couleur choisie s'applique aussitôt, il n'y a plus de bouton « Appliquer » à ne pas oublier.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.0.9.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.0.9.0.apk",
+  "sha256": "0324b1c3f979757e96822e53a8e860462f4e5d79b0e0e90520e7bee21d8928c7",
+  "signature": "1ad2ccefea370ec6b90d587aca5efe6a87e143e43d0acf32efb1f641f597db4494d4b2eb8b7a4591b0f139002ce58ac0b6620304c894eecb33df40a274c5c508"
 }
