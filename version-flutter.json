@@ -1,8 +1,8 @@
 {
-  "version": "2.9.1.0",
-  "notes": "Portefeuille : supprimer la seule opération d'une valeur supprime la ligne (elle ne reste plus « vendue pour 0 »). Une valeur sans action détenue n'est plus signalée « sans valeur » au tableau de bord.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.9.1.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.9.1.0.zip",
-  "sha256": "9c8e738518ca502cd87142581c5239aeacf41db3f81c775a22807e083d215d5d",
-  "signature": "e86b2ad27f17a1d62df749c6c2387dcbe759e2707740f8021bcbb267e4be4e44b181f248493cf847d9f608f960ff494b656aecac3f2669b6497010d227d18303"
+  "version": "2.9.2.0",
+  "notes": "PDF : plus de nombre de fiches ni de sommaire des champs (PDF d'une rubrique, dossier complet) — la date, puis les fiches.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-2.9.2.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-2.9.2.0.zip",
+  "sha256": "038f9f5495d340ff8f15a5f5f00879d41a4d4d78a7debc4c297a112d496c665e",
+  "signature": "8e8298eac47e8bea23c8243bbfb8c18b6a15b42cd426a03bbd73fa4cf1172914475c1c4534facb8c9c3e60359c14b62cfdcb33b5a6ee1b6ddd9dd61d16f1d30d"
 }
