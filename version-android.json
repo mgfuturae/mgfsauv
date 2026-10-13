@@ -1,8 +1,8 @@
 {
-  "version": "3.0.2.0",
-  "notes": "Courriers de notification de décès : la mutuelle, les organismes de crédit (un courrier par prêteur, avec chaque crédit) et l'employeur (et l'organisme de sa garantie prévoyance) sont maintenant proposés.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.0.2.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.0.2.0.apk",
-  "sha256": "06630d4d3a94ab8c5a4577e8f484745a1421f594384a43da4237113ba000cb32",
-  "signature": "05825721d6f7842f644699ecb85274780e34786677135ed2db985721135137fb14f5c53ed719be375d59cdbfe18f2661f86c16ac774cbed755ef641411e32a06"
+  "version": "3.0.3.0",
+  "notes": "Gestion des couleurs : le choix Sombre / Clair / Automatique est supprimé, seuls les thèmes restent (le thème Clair se choisit parmi eux). Ceux qui étaient en Clair gardent un écran clair.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.0.3.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.0.3.0.apk",
+  "sha256": "2b82db412e91a2af620b01028f6971f360c18e56a6e618c078468baf0b226f08",
+  "signature": "cd017feb516357893ae8d010d96a4bb2454737be7a1c39a5372cfcea57770866ba9db9988169c65cb30dfa61869d0c4013470c6b5b11a90ad97ab66d6f217704"
 }
