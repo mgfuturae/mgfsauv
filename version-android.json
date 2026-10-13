@@ -1,8 +1,8 @@
 {
-  "version": "2.9.3.0",
-  "notes": "PDF déjà ouvert dans le lecteur : plus de message en anglais — une fenêtre en français propose Réessayer (après l'avoir fermé) ou Ouvrir une copie.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.9.3.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.9.3.0.apk",
-  "sha256": "8c1cad0bc2e4ae7e1d46c6beeddb313461988110c1a1e972fc4f262cc5b058ac",
-  "signature": "a5031b3e56f1c0ed4ee00232faa34d85bd227f2086dc9d563887079a0b11d6173988f1aa5ea16c9af9c4014a854fbb237f32f1cb752d12599102c2874f5c130e"
+  "version": "2.9.4.0",
+  "notes": "Nouveau : bulle « Problème ou suggestion » dans la barre du haut — signaler un souci ou proposer une idée par un e-mail tout prêt, version et système compris.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.9.4.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.9.4.0.apk",
+  "sha256": "444fb989f10298a8ab81f85a2a8b802728781ee2e9474d0188e47db690799e2a",
+  "signature": "4b66f7bc8e28f6e636c3b489bf40fe9a256de3f24a2d0eefbb8a3fed25833332e8b2a979fbdd4b349b3306de40834af571f059783141dcb78640d860a0f89801"
 }
