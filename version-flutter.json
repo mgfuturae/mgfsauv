@@ -1,8 +1,8 @@
 {
-  "version": "3.1.0.0",
-  "notes": "Menu : le champ de recherche s'appelle simplement « Recherche ».",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.1.0.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.1.0.0.zip",
-  "sha256": "a4a3f5f7a6a10ce0c379c5a730860fa25b88a5c19e11a81966733e5988083919",
-  "signature": "4d9237a1ee2ab83ba905c3d2519d81d7a249116ee00d1307f7e94cac27a46a7bcd3a2ed590352cbcc8ef444602b8404d3a68324c9ce5588cdf4c41d881ff590d"
+  "version": "3.1.1.0",
+  "notes": "Agenda : supprimer un rendez-vous emporte aussi ses copies identiques (un rendez-vous en double ne demande plus deux suppressions) ; la confirmation le signale.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.1.1.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.1.1.0.zip",
+  "sha256": "59a3b2f5b8d5a713cb584c1f3ad67a0547ae255d81d9b1308795edb4f468808d",
+  "signature": "b8cb5655be24cf7124f6538b884b9cb039de0a1dcc698538970b6698b5b5e304f79e0007ceccdcfd79646f9e589ba7f463ccf462ed2dc74442a17773440f5d08"
 }
