@@ -1,8 +1,8 @@
 {
-  "version": "2.9.9.0",
-  "notes": "Téléphone : le rond « + » (ajouter une fiche, un rendez-vous) est soulevé d'un centimètre et ne recouvre plus le bandeau d'information du bas.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-2.9.9.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-2.9.9.0.apk",
-  "sha256": "a4961dcde43b6249e9f6fda2408142b519d8f1e9285343a25e9d127b8583ea6d",
-  "signature": "445aa335d16e131389f6bb11655cc3b62e83ef40559f9c188c1a6a456c675d5c7749a860c32508076795fc6e01c4da01bff94f4f7ac8c5cc9c916756246bf60f"
+  "version": "3.0.0.0",
+  "notes": "Agenda : tous les rendez-vous d'un jour sont dans sa case (la semaine s'agrandit s'il le faut) — plus de « +1 » ou « +2 » dans le coin.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.0.0.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.0.0.0.apk",
+  "sha256": "e3d93241be20e122e83e9d47e51e0e94c6b06bf899c8913a3f667cc9a469d241",
+  "signature": "d8daa9015f7f66f15576a7890231646520b4b11c3984a03d1b53ddaba31d681b6c898965d5800ff8c921d60f51de0b24fe16a348eebffd3ebb55c246d8ee410e"
 }
