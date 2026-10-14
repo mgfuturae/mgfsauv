@@ -1,8 +1,8 @@
 {
-  "version": "3.3.4.0",
-  "notes": "Tableau de bord : la carte des biens n'y figure plus. Elle garde sa page, au menu (Carte de mes biens).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.3.4.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.3.4.0.zip",
-  "sha256": "68a6aca05a2445ea8c9540a64d86a5ca01cb96e5cf157cb56bed1ee23fc53dd5",
-  "signature": "d5f8fe1f1970f016cc5ced16cbb626f8a995dd14e35128b56efd732adcf88a7cf0b5566a8395c231aade5f430eed3827a9c0fdeec4dd138296004bbdbf435302"
+  "version": "3.3.5.0",
+  "notes": "Comptabilité › Transactions : « Toutes les opérations en Excel ». Toutes les opérations dans un fichier .xlsx, de la plus ancienne à la plus récente, avec de vraies dates et de vrais montants, la ligne des titres figée et le filtre automatique.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.3.5.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.3.5.0.zip",
+  "sha256": "831ce277d649599d0b79f948b2613ad970c7fda5f7c849a948066448623c9393",
+  "signature": "08ae162689c677c42d7bc727e067390d265088289345e253385580c1424ea75cc3c8cff940c36ace59d4e5dc5afae9aee6142bfa59113f2fed85d5f85d7e8900"
 }
