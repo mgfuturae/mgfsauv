@@ -1,8 +1,8 @@
 {
-  "version": "3.2.7.0",
-  "notes": "Comptabilité : « Effacer toutes les opérations » demande maintenant votre mot de passe. Un mot de passe faux ou annulé n'efface rien.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.2.7.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.2.7.0.zip",
-  "sha256": "18ae6778ac166878cf60baf0d44334bfbfa5b4faa4846a33c6f78cbccf9a10a3",
-  "signature": "f8842fe0d13fc137a0f13fa2e5212ab1e0b37dc8bef3bb21c07ca6e106e75e017a695a258c49aa72229416bcbca1698f694e061f39b4344ec78237b9680c7d0f"
+  "version": "3.2.8.0",
+  "notes": "Import d'un relevé : quand le solde ne tombe pas sur celui de la banque, un panneau « D'où vient l'écart » dit si l'erreur est avant le relevé, pendant (opérations absentes du relevé, à retirer d'un clic) ou après, et propose de caler le compte sur la banque. L'en-tête des relevés BNP n'est plus compté comme ligne illisible.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.2.8.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.2.8.0.zip",
+  "sha256": "8c9da6bab74f55803d40a38a871468f5abad372a9d28744443d622b1febeff37",
+  "signature": "bab6c80ec8895c6890e776a08175704d8834714553eecae4b4a7890608178c872b27a7641f1fc200df7847e5b078b386f6a3bcd261e59adf3cd719ceb2967b0a"
 }
