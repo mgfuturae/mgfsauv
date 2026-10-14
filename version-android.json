@@ -1,8 +1,8 @@
 {
-  "version": "3.2.5.0",
-  "notes": "Comptabilité : un menu « PDF » rassemble le PDF du relevé, le PDF par catégorie et le PDF des opérations récurrentes ; les autres menus en sont raccourcis.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.2.5.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.2.5.0.apk",
-  "sha256": "c0818edfa71e072980de9f9bc0e2c846644573b5d882750cb69aeb9f4f926797",
-  "signature": "d0d6ef7b210d371192266c8b5364603fdaf6af82645b74459d713db43b7edc41a083cdda32c817a220e512f432f7ba98d8028d840b2c7c9b72f14868a7cab101"
+  "version": "3.2.6.0",
+  "notes": "Comptabilité : chaque menu s'ouvre sous son propre bouton (Transactions et PDF ne s'ouvrent plus sous Comptes). Retirés des menus : Classer par mot-clé, Proposer les catégories, Table de classement, Mon Budget, Copier le relevé. Les précisions des menus passent sous le libellé.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.2.6.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.2.6.0.apk",
+  "sha256": "a5f11c08935796b520f3fefb80855724c51c81523fa95557cd90e2aaa70d7dcd",
+  "signature": "3e0fa1de225e5e3a02ef8e9f2bc28b5e1696db9f29b1c08cfdb775e1830ebbe1293a0ea91f1e9576cdc2997629315ee022c670342f62bc058c53d148eacd4009"
 }
