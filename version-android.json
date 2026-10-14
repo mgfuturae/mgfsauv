@@ -1,8 +1,8 @@
 {
-  "version": "3.1.4.0",
-  "notes": "Mes Courses : plus de menus cachés. Une liste s'ouvre d'un toucher, comme une fiche, et ses gestes (PDF, Tout décocher, Renommer, Refaire, Supprimer) sont des boutons visibles en haut.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.1.4.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.1.4.0.apk",
-  "sha256": "3eb15ed1beceef00e3ac25ae99b1b4ec01ce281389b832bad8bc7a605503a9d3",
-  "signature": "8b979e375f46116ea392a482cda673a3d8acdc9586a783b4d8e01abce4a203d679426e87e44edbfb48bee33ed4fa295bd181bd3c0f51fbef7ee10a5964bdf10d"
+  "version": "3.1.5.0",
+  "notes": "PDF des courses : une vraie case carrée à cocher devant chaque article, au lieu des deux crochets.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.1.5.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.1.5.0.apk",
+  "sha256": "309639bae23097fe8afebb7a47afc50b2e15e7ca8126cc79b37e0ac90f4ac342",
+  "signature": "3d313574e8d78df81a0e7a4ef237123c102bbb073655e04fb59ce7e32bb3d3f4055e358cbb3520e576fe4f69909b0a06b42f43778b855da1521d07317c15e705"
 }
