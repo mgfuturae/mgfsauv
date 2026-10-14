@@ -1,8 +1,8 @@
 {
-  "version": "3.2.9.0",
-  "notes": "Import d'un relevé : l'application retient le solde annoncé par la banque à chaque import. Au relevé suivant, elle dit si la banque comptait déjà des opérations qu'elle ne date que d'après (une retraite, un virement du lendemain) : c'est la vraie cause des écarts qui semblaient venir d'avant.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.2.9.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.2.9.0.apk",
-  "sha256": "f07cf5bb39be675ac7ded1bb49b663f97304a7ffdf3b7a2c1190c51163d6dd91",
-  "signature": "fd1b49acde8504edf3af12105fee480f8d19efc0d0c5dfc1819e2fb5d0c2e2d6a39d89f8f81e516cdf3896db7349802d5c0edcb7cea920bf4f7f496a5fe47d01"
+  "version": "3.3.0.0",
+  "notes": "Import d'un relevé : le solde annoncé par la banque est aussi retenu quand le relevé n'apporte rien de nouveau et quand on cale le compte, pour que le relevé suivant puisse s'y comparer.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.3.0.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.3.0.0.apk",
+  "sha256": "b64c19fa4ba32bee076917d4c0de37c7a2e99b094e20c933983a568697187fd8",
+  "signature": "6729f763ab818974c6b648a172bac467b3ba61acd6ad1934839ed6ef9d367fe8c5252838cfbb48d21421a8e8051ab65029df585d37d0a102b6a2a27d823a4804"
 }
