@@ -1,8 +1,8 @@
 {
-  "version": "3.3.3.0",
-  "notes": "La carte du tableau de bord : une tuile du fond de carte qui ne se télécharge pas reste une case vide et n'ouvre plus la fenêtre « Une erreur est survenue » (HandshakeException). Plus généralement, une erreur de réseau sans suite est notée dans le journal sans fenêtre.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.3.3.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.3.3.0.zip",
-  "sha256": "161c8ca6bc603068a254662b8ffe1e584b697a47d0a2962195b919d2f6664325",
-  "signature": "f2f72c4fde4fca844a8972b6a74f1dce69cd822bc08c50d7f28858a93370a19ca76373a7507c58c85bcd56b5777a9d71c82a894d23f34989b07dac171ba26d0a"
+  "version": "3.3.4.0",
+  "notes": "Tableau de bord : la carte des biens n'y figure plus. Elle garde sa page, au menu (Carte de mes biens).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.3.4.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.3.4.0.zip",
+  "sha256": "68a6aca05a2445ea8c9540a64d86a5ca01cb96e5cf157cb56bed1ee23fc53dd5",
+  "signature": "d5f8fe1f1970f016cc5ced16cbb626f8a995dd14e35128b56efd732adcf88a7cf0b5566a8395c231aade5f430eed3827a9c0fdeec4dd138296004bbdbf435302"
 }
