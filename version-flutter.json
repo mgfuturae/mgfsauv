@@ -1,8 +1,8 @@
 {
-  "version": "3.1.6.0",
-  "notes": "PDF des contacts (et des animaux) : la photo de chaque fiche est imprimée sous son nom, en portrait ; la ligne avec le nom du fichier disparaît.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.1.6.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.1.6.0.zip",
-  "sha256": "7d30dcb9e2ab6cf987cd4468c1a1cccd7b74ddae3f8a41011707fbd8e119e194",
-  "signature": "83137c33ee2fb78fffa89e18972d1be8fc9b25184adcfab3088608b72da91c2bd74c668db27ca11759036e3c663005dc2e15ebf045c966fa6e856117dc324403"
+  "version": "3.1.7.0",
+  "notes": "Conseils de sécurité : un bouton « PDF » donne tout le guide, un chapitre par page, avec ses tableaux et des cases à cocher pour les listes « à faire ».",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.1.7.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.1.7.0.zip",
+  "sha256": "4c7c983e00c87a01e306e7cf5cbc0227fb6f52dc29cb7b895548a5414c67751b",
+  "signature": "fdcee9df1aca81587d61cb67a934a470db52d0b6fdccb1d72ae14d9294e9eda72d02bfa9bc10bfb7fc353f1df2e355a13244f98759493cf6795cb2414c418b0c"
 }
