@@ -1,8 +1,8 @@
 {
-  "version": "3.1.7.0",
-  "notes": "Conseils de sécurité : un bouton « PDF » donne tout le guide, un chapitre par page, avec ses tableaux et des cases à cocher pour les listes « à faire ».",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.1.7.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.1.7.0.zip",
-  "sha256": "4c7c983e00c87a01e306e7cf5cbc0227fb6f52dc29cb7b895548a5414c67751b",
-  "signature": "fdcee9df1aca81587d61cb67a934a470db52d0b6fdccb1d72ae14d9294e9eda72d02bfa9bc10bfb7fc353f1df2e355a13244f98759493cf6795cb2414c418b0c"
+  "version": "3.1.8.0",
+  "notes": "Documentation : les Conseils de sécurité y sont aussi, en PDF, à côté du guide d'utilisation et du livre de mes données.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.1.8.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.1.8.0.zip",
+  "sha256": "d00ff928a37f0f7fa75db45b6813d01ef30bb77a1abc53de1cc54138bdf4a9a2",
+  "signature": "38e4c1c047cef540a52e5fcffe62184d72ba9d83d22e206c944f1b8286d0a4b7cfaa2c6969e4c012c4a314b88010fdfa0cb7add33c72f18b6635cee7238a7a09"
 }
