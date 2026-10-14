@@ -1,8 +1,8 @@
 {
-  "version": "3.3.5.0",
-  "notes": "Comptabilité › Transactions : « Toutes les opérations en Excel ». Toutes les opérations dans un fichier .xlsx, de la plus ancienne à la plus récente, avec de vraies dates et de vrais montants, la ligne des titres figée et le filtre automatique.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.3.5.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.3.5.0.zip",
-  "sha256": "831ce277d649599d0b79f948b2613ad970c7fda5f7c849a948066448623c9393",
-  "signature": "08ae162689c677c42d7bc727e067390d265088289345e253385580c1424ea75cc3c8cff940c36ace59d4e5dc5afae9aee6142bfa59113f2fed85d5f85d7e8900"
+  "version": "3.4.0.0",
+  "notes": "La comptabilité et le budget sont retirés de l'application. À l'ouverture, une sauvegarde complète est écrite, puis leurs données sont effacées de la base (opérations, catégories, comptes, lignes de budget, réglages).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.4.0.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.4.0.0.zip",
+  "sha256": "677842cb35f2ebf97b4ffebd9ecda564fa567d74df9242c9c762c9ec58bc111d",
+  "signature": "1fc342e0963c2a85b9db488288121a2b97061eeec1dac4927e98287f40efff7a8aca271eeab384c053789059e245ffc4562b70b036860a7d5b64d70e7ed1230b"
 }
