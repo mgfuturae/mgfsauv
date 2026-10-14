@@ -1,8 +1,8 @@
 {
-  "version": "3.3.5.0",
-  "notes": "Comptabilité › Transactions : « Toutes les opérations en Excel ». Toutes les opérations dans un fichier .xlsx, de la plus ancienne à la plus récente, avec de vraies dates et de vrais montants, la ligne des titres figée et le filtre automatique.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.3.5.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.3.5.0.apk",
-  "sha256": "f0a8623e583d4de3477c2600d3afcb5d575ec916733c52320ea370f25ddb1f4a",
-  "signature": "04fe027ac10185d195445294ae0a69603d201732a70c0e2faf36a919c7d44ffd76e88f557d1bd0d0f3d5954070f959afbe38ba0197d5b970d75c393ee89db501"
+  "version": "3.4.0.0",
+  "notes": "La comptabilité et le budget sont retirés de l'application. À l'ouverture, une sauvegarde complète est écrite, puis leurs données sont effacées de la base (opérations, catégories, comptes, lignes de budget, réglages).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.4.0.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.4.0.0.apk",
+  "sha256": "2bb14f8a3a1920388dc68e5eb366ecc37d8733f8fab0a2661a390ecef6fef857",
+  "signature": "16ebd6915a271d85eccaa03ba64f5054faaef64f937bed7a153bbd2aca1e70aa6b9a38351471bc0e2c0d405ada174c366af6cadca1c03daba7489c00eaa1790f"
 }
