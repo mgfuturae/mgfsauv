@@ -1,8 +1,8 @@
 {
-  "version": "3.2.7.0",
-  "notes": "Comptabilité : « Effacer toutes les opérations » demande maintenant votre mot de passe. Un mot de passe faux ou annulé n'efface rien.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.2.7.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.2.7.0.apk",
-  "sha256": "1c647fc036014574e54e6c5fbeafffd01372ddd492ae8e359742b615dc609ad5",
-  "signature": "0be887721202ebb4316a0ae7a5d182b13b185aded0b7195062809298fccd87407da3fbd09a744c851baadeac871968677f45aff721894a549689491f39ec0b04"
+  "version": "3.2.8.0",
+  "notes": "Import d'un relevé : quand le solde ne tombe pas sur celui de la banque, un panneau « D'où vient l'écart » dit si l'erreur est avant le relevé, pendant (opérations absentes du relevé, à retirer d'un clic) ou après, et propose de caler le compte sur la banque. L'en-tête des relevés BNP n'est plus compté comme ligne illisible.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.2.8.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.2.8.0.apk",
+  "sha256": "43745e90b1f348a7e55a4d0fef4f34403d9bc251629aa9b0581f13bb843dd9a6",
+  "signature": "be6d6106c569a2b7f3b4ef510740604b5f1ee49cba82c68cdc5a56520720df679dd88c505625896ce6b6d5dd8ef69172801228a6d81d6c06077507903f761300"
 }
