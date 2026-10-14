@@ -1,8 +1,8 @@
 {
-  "version": "3.3.3.0",
-  "notes": "La carte du tableau de bord : une tuile du fond de carte qui ne se télécharge pas reste une case vide et n'ouvre plus la fenêtre « Une erreur est survenue » (HandshakeException). Plus généralement, une erreur de réseau sans suite est notée dans le journal sans fenêtre.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.3.3.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.3.3.0.apk",
-  "sha256": "73b7e5e7d69939bf5b81fcd78837d83d219a21f8807558f1dfa97a3169c50d2f",
-  "signature": "270582bd006d116bb0564ba5f6ace44da98f54ce76c4d0d836d2948d48bb89188ff71212acf763c3f6e1d089a9df31433b1573bfe8f325c2682231e23c39610f"
+  "version": "3.3.4.0",
+  "notes": "Tableau de bord : la carte des biens n'y figure plus. Elle garde sa page, au menu (Carte de mes biens).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.3.4.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.3.4.0.apk",
+  "sha256": "188408a1636db724d76cf06e6a5632d13df414c8bd565da334f28a3cde602207",
+  "signature": "46806d5da963e052183f5226a94f6fffe58016f517a3dc4fa389d5dbcc7096dee7de9dbd8a6c09e977722b2f95b3d471d38c30ab3fd016bce0c5342917c7f60a"
 }
