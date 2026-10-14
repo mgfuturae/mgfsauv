@@ -1,8 +1,8 @@
 {
-  "version": "3.2.2.0",
-  "notes": "Mention des droits du logiciel : le nom seul (NATHAN), sans le prénom.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.2.2.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.2.2.0.apk",
-  "sha256": "2fa46e861477ab7211359abf1fc2088d71e78fbb83744746595043e15a652432",
-  "signature": "e92d0bcee862c4602bb7f26e51c60dd7341c5c0d632a70c72ecad36d838750ba8700ef7aa348e87aa47b53753847d050525b9553c944a4e2bdb3c6f204a32c0c"
+  "version": "3.2.3.0",
+  "notes": "PC : plus de faux message « Une autre fenêtre de MANAGE FUTURAE utilise déjà vos données » quand l'application n'est pas ouverte (un verrou laissé par une séance arrêtée net est reconnu comme périmé).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.2.3.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.2.3.0.apk",
+  "sha256": "2d0a43e6ffca2cef713d5d9b31fdc9bff749af1e77d639e203d269a2d38aa492",
+  "signature": "1f22bf68cf29a6393e5a5604c91d06b8c6ded80150dc72074bb9d180c4715ab979aa4fa6608873c07084f782c9edd073cacedb3d1344fd2257949db5ba7ce906"
 }
