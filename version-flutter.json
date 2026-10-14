@@ -1,8 +1,8 @@
 {
-  "version": "3.2.9.0",
-  "notes": "Import d'un relevé : l'application retient le solde annoncé par la banque à chaque import. Au relevé suivant, elle dit si la banque comptait déjà des opérations qu'elle ne date que d'après (une retraite, un virement du lendemain) : c'est la vraie cause des écarts qui semblaient venir d'avant.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.2.9.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.2.9.0.zip",
-  "sha256": "fb387c4245e2612ef3efb51cd20e2afb648c646eda093a86f9861b96113c2dd0",
-  "signature": "7a6e894a8435aed801c76b1ea46c067159116f06510c5dfd0ea712c8d44b5c6f4eff0851ad5ef58a801a0b7e3c929272325e67b4548fa11660bbd747104b4802"
+  "version": "3.3.0.0",
+  "notes": "Import d'un relevé : le solde annoncé par la banque est aussi retenu quand le relevé n'apporte rien de nouveau et quand on cale le compte, pour que le relevé suivant puisse s'y comparer.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.3.0.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.3.0.0.zip",
+  "sha256": "8d352902f8c163468550fa4280246f11da691e54e72dd6304b5224d007b298d0",
+  "signature": "0ace2759617799ebbd58c2140e676fef82052dbbadc1aa2e3419eca762d153620fb0e8f8b6df3d11a314ad23427404e452718c2f03370f01e4c875055a038304"
 }
