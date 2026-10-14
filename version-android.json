@@ -1,8 +1,8 @@
 {
-  "version": "3.3.0.0",
-  "notes": "Import d'un relevé : le solde annoncé par la banque est aussi retenu quand le relevé n'apporte rien de nouveau et quand on cale le compte, pour que le relevé suivant puisse s'y comparer.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.3.0.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.3.0.0.apk",
-  "sha256": "b64c19fa4ba32bee076917d4c0de37c7a2e99b094e20c933983a568697187fd8",
-  "signature": "6729f763ab818974c6b648a172bac467b3ba61acd6ad1934839ed6ef9d367fe8c5252838cfbb48d21421a8e8051ab65029df585d37d0a102b6a2a27d823a4804"
+  "version": "3.3.1.0",
+  "notes": "Import d'un relevé : quand le relevé porte le solde de la banque (BNP, OFX…), le compte se cale automatiquement dessus. Il tombe juste sans rien régler, et seules les vraies anomalies de la période restent à vérifier. Une carte saisie au jour du paiement n'est plus importée une seconde fois. Défaire un import défait aussi son calage.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.3.1.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.3.1.0.apk",
+  "sha256": "a2d897996d9c79164ae133d774b028ce32909e93afee165a7a6a6579200baa01",
+  "signature": "82518d3f3046a4d21bd4e90c7705927fbd67b8735d7a6cbb55e5c183574c944c60c87058b11ba4a1c67d1f8da8f83234926148460c7f21a6129ed3c918a38c0a"
 }
