@@ -1,8 +1,8 @@
 {
-  "version": "3.3.0.0",
-  "notes": "Import d'un relevé : le solde annoncé par la banque est aussi retenu quand le relevé n'apporte rien de nouveau et quand on cale le compte, pour que le relevé suivant puisse s'y comparer.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.3.0.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.3.0.0.zip",
-  "sha256": "8d352902f8c163468550fa4280246f11da691e54e72dd6304b5224d007b298d0",
-  "signature": "0ace2759617799ebbd58c2140e676fef82052dbbadc1aa2e3419eca762d153620fb0e8f8b6df3d11a314ad23427404e452718c2f03370f01e4c875055a038304"
+  "version": "3.3.1.0",
+  "notes": "Import d'un relevé : quand le relevé porte le solde de la banque (BNP, OFX…), le compte se cale automatiquement dessus. Il tombe juste sans rien régler, et seules les vraies anomalies de la période restent à vérifier. Une carte saisie au jour du paiement n'est plus importée une seconde fois. Défaire un import défait aussi son calage.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.3.1.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.3.1.0.zip",
+  "sha256": "df6e5cade36ca3889a08c8f06519abb57928dac13d5e3786c0f4956933a638ae",
+  "signature": "ab7ca6fe24da73311a142cf4ab8a9ebf27c38dcff6d8e5c8c98015433ac2c53826fe07bf4a5ffe8ac4610e41d993eac99a655de634917bfdabff3a6e6d0de10c"
 }
