@@ -1,8 +1,8 @@
 {
-  "version": "3.4.0.0",
-  "notes": "La comptabilité et le budget sont retirés de l'application. À l'ouverture, une sauvegarde complète est écrite, puis leurs données sont effacées de la base (opérations, catégories, comptes, lignes de budget, réglages).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.4.0.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.4.0.0.apk",
-  "sha256": "2bb14f8a3a1920388dc68e5eb366ecc37d8733f8fab0a2661a390ecef6fef857",
-  "signature": "16ebd6915a271d85eccaa03ba64f5054faaef64f937bed7a153bbd2aca1e70aa6b9a38351471bc0e2c0d405ada174c366af6cadca1c03daba7489c00eaa1790f"
+  "version": "3.5.0.0",
+  "notes": "Mon Budget refait à neuf : le prévu face au réel, poste par poste (14 grands postes, 58 lignes de modèle). Report d'enveloppe, ajustement d'un mois, réaffectation, préparer le mois, proposer d'après le réel. Synthèse : solde, taux d'épargne et d'endettement, part des charges fixes, reste à vivre, épargne de précaution, règle 50/30/20, base zéro. Graphiques. Tableaux mois par mois de l'année, en budget et en réel, avec les totaux. PDF du mois et de l'année. Le réel se saisit à la main, sans comptabilité ni import.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.5.0.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.5.0.0.apk",
+  "sha256": "8d731a0cccf6534d17dbb4d02f5e83846f53d8e04605063e25adcdcb2c68ddae",
+  "signature": "27d736d497015ae78a230e0f91c30ab4697ee2e1e295333832ed8253bd9ee185b4b7cb645840f66f79659944c5fa697219dbc4c7ad4dc7de5b2a3253a7826202"
 }
