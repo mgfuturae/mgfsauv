@@ -1,8 +1,8 @@
 {
-  "version": "3.2.3.0",
-  "notes": "PC : plus de faux message « Une autre fenêtre de MANAGE FUTURAE utilise déjà vos données » quand l'application n'est pas ouverte (un verrou laissé par une séance arrêtée net est reconnu comme périmé).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.2.3.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.2.3.0.zip",
-  "sha256": "46a41daf2673211396340a2f0fcf4ae57740e5693fc28fe1fd1250a62c94e34d",
-  "signature": "37db73915507adc420cbb68bc4b191a2fb216d4791307c4f1e82e8995ff1248233fd53db45441ec531bf3eeee27e883e91f05a33135e0e51130db7aa32fc7f02"
+  "version": "3.2.4.0",
+  "notes": "Comptabilité : le menu « Outils » est remplacé par quatre menus — Imports, Catégories, Comptes, Transactions — chacun avec ses outils.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.2.4.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.2.4.0.zip",
+  "sha256": "8fa9a85d1c85b49a34c700bbe9ddb11de4df8945b6121bf513dad789124f6112",
+  "signature": "22e96ad092fcd17e65cb3aad184cb913c7f79b7134a187c7e6b530d9a2791b6aacac48395be65b254a9d277ba99654fc9c8a27222fce1c3891f653195e2ad001"
 }
