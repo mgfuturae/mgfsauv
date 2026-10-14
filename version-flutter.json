@@ -1,8 +1,8 @@
 {
-  "version": "3.2.8.0",
-  "notes": "Import d'un relevé : quand le solde ne tombe pas sur celui de la banque, un panneau « D'où vient l'écart » dit si l'erreur est avant le relevé, pendant (opérations absentes du relevé, à retirer d'un clic) ou après, et propose de caler le compte sur la banque. L'en-tête des relevés BNP n'est plus compté comme ligne illisible.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.2.8.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.2.8.0.zip",
-  "sha256": "8c9da6bab74f55803d40a38a871468f5abad372a9d28744443d622b1febeff37",
-  "signature": "bab6c80ec8895c6890e776a08175704d8834714553eecae4b4a7890608178c872b27a7641f1fc200df7847e5b078b386f6a3bcd261e59adf3cd719ceb2967b0a"
+  "version": "3.2.9.0",
+  "notes": "Import d'un relevé : l'application retient le solde annoncé par la banque à chaque import. Au relevé suivant, elle dit si la banque comptait déjà des opérations qu'elle ne date que d'après (une retraite, un virement du lendemain) : c'est la vraie cause des écarts qui semblaient venir d'avant.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.2.9.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.2.9.0.zip",
+  "sha256": "fb387c4245e2612ef3efb51cd20e2afb648c646eda093a86f9861b96113c2dd0",
+  "signature": "7a6e894a8435aed801c76b1ea46c067159116f06510c5dfd0ea712c8d44b5c6f4eff0851ad5ef58a801a0b7e3c929272325e67b4548fa11660bbd747104b4802"
 }
