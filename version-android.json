@@ -1,8 +1,8 @@
 {
-  "version": "3.1.3.0",
-  "notes": "Ma Santé : la zone « Consentement recueilli le » est retirée.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.1.3.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.1.3.0.apk",
-  "sha256": "fe1934fceb06360df269b4e98ba5e9bbaf383b2ec0a80f02e30c4b48536b0f50",
-  "signature": "1de3b9b81ed779fe63d10a35a22171133f39472834ff316d8dceb7e866275d426a7db8cc1e0866e587efbdfb9df415f37108a56086a8da90dc736c48bc52a90d"
+  "version": "3.1.4.0",
+  "notes": "Mes Courses : plus de menus cachés. Une liste s'ouvre d'un toucher, comme une fiche, et ses gestes (PDF, Tout décocher, Renommer, Refaire, Supprimer) sont des boutons visibles en haut.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.1.4.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.1.4.0.apk",
+  "sha256": "3eb15ed1beceef00e3ac25ae99b1b4ec01ce281389b832bad8bc7a605503a9d3",
+  "signature": "8b979e375f46116ea392a482cda673a3d8acdc9586a783b4d8e01abce4a203d679426e87e44edbfb48bee33ed4fa295bd181bd3c0f51fbef7ee10a5964bdf10d"
 }
