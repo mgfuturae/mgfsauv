@@ -1,8 +1,8 @@
 {
-  "version": "3.1.7.0",
-  "notes": "Conseils de sécurité : un bouton « PDF » donne tout le guide, un chapitre par page, avec ses tableaux et des cases à cocher pour les listes « à faire ».",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.1.7.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.1.7.0.apk",
-  "sha256": "d3901e62cc8bcc9bf6b9cdf48a71d5d6013bb135361ba2c8d5857e24a77da1df",
-  "signature": "942cb80799fd46317fa274579b35e1e98e2ed2d2716b5372930113cbbc04f9b585b7e37b429a29db3707d9d9a379e9477b23720bb7d8cb39287aec8fc3ed3400"
+  "version": "3.1.8.0",
+  "notes": "Documentation : les Conseils de sécurité y sont aussi, en PDF, à côté du guide d'utilisation et du livre de mes données.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.1.8.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.1.8.0.apk",
+  "sha256": "f104dab3e502af90239542335a075c6d8dc13abf8b3cab9d70b53287e2abced0",
+  "signature": "76a8a2e65a65d02824d1dedaf20ca8deff1bffeec923653c201199fce18636c9acfa80c1fbc9b8d8bfd09a074abb533c7d384edfbff176a91dd3a836914ff500"
 }
