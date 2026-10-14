@@ -1,8 +1,8 @@
 {
-  "version": "3.2.5.0",
-  "notes": "Comptabilité : un menu « PDF » rassemble le PDF du relevé, le PDF par catégorie et le PDF des opérations récurrentes ; les autres menus en sont raccourcis.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.2.5.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.2.5.0.zip",
-  "sha256": "5f57d79cf214019b4a061ef45a47cafac67120c56c4b64c95682f67d3f1b2e56",
-  "signature": "e7874d32227f86101b78ae453c803e9a3bc81298776146881b573a9a9bef9f96eebb39533e28402fd72575377eb02970d1eeefb720a57aae6cf5c39b1d2e2f08"
+  "version": "3.2.6.0",
+  "notes": "Comptabilité : chaque menu s'ouvre sous son propre bouton (Transactions et PDF ne s'ouvrent plus sous Comptes). Retirés des menus : Classer par mot-clé, Proposer les catégories, Table de classement, Mon Budget, Copier le relevé. Les précisions des menus passent sous le libellé.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.2.6.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.2.6.0.zip",
+  "sha256": "4aef8b122aeb0c15ac439e657881ee1452a9ff07c854b836f04263abfdbf1f6e",
+  "signature": "8849cf16a2e2add06ca6ce59b0b8765a1f8f378ea98e8b1f277f81a227d404b481ac908185e64102c7e24b37ae223229d50442566c5bb846cc1843ebdd956e05"
 }
