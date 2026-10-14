@@ -1,8 +1,8 @@
 {
-  "version": "3.1.4.0",
-  "notes": "Mes Courses : plus de menus cachés. Une liste s'ouvre d'un toucher, comme une fiche, et ses gestes (PDF, Tout décocher, Renommer, Refaire, Supprimer) sont des boutons visibles en haut.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.1.4.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.1.4.0.zip",
-  "sha256": "0a6767253f2a26d609454d60fa4a046a62a9e78be589c749e9cfa6e8e6a3cd73",
-  "signature": "421d29ca57427d5953636dd72cef08da3523ee45a998ab1bb32171147581ff9ce1d543d7128ccc93a50a5da24f2cfd3ba12e77096108ae571563fcccaa5dc006"
+  "version": "3.1.5.0",
+  "notes": "PDF des courses : une vraie case carrée à cocher devant chaque article, au lieu des deux crochets.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.1.5.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.1.5.0.zip",
+  "sha256": "368362cd5cb8141f5e4d969cc90e819da69afd304296f7c8f63f0aa6f6a5c666",
+  "signature": "288b26eb89da262fdc1d368481ccad723fa2f0f40f48e6d2dcea4bbde6674f8111d715828da9bd38c455c2185d152b543971321d0777414cacb2972ca12a940b"
 }
