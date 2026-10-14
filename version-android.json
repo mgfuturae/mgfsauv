@@ -1,8 +1,8 @@
 {
-  "version": "3.2.3.0",
-  "notes": "PC : plus de faux message « Une autre fenêtre de MANAGE FUTURAE utilise déjà vos données » quand l'application n'est pas ouverte (un verrou laissé par une séance arrêtée net est reconnu comme périmé).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.2.3.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.2.3.0.apk",
-  "sha256": "2d0a43e6ffca2cef713d5d9b31fdc9bff749af1e77d639e203d269a2d38aa492",
-  "signature": "1f22bf68cf29a6393e5a5604c91d06b8c6ded80150dc72074bb9d180c4715ab979aa4fa6608873c07084f782c9edd073cacedb3d1344fd2257949db5ba7ce906"
+  "version": "3.2.4.0",
+  "notes": "Comptabilité : le menu « Outils » est remplacé par quatre menus — Imports, Catégories, Comptes, Transactions — chacun avec ses outils.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.2.4.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.2.4.0.apk",
+  "sha256": "c9d6a57dab561533228ddf40db8639ebd138fc582f9d05639740d8f74892ea73",
+  "signature": "68bbc2647b092418ad8b49b302b15bad4a589d2ed8fa27ba477f929ffea9b3a8fe431f310294d651a0f8eded572ac17590c245ec70fb9cedb854a08db2f96e0c"
 }
