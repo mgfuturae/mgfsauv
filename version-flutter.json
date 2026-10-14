@@ -1,8 +1,8 @@
 {
-  "version": "3.3.1.0",
-  "notes": "Import d'un relevé : quand le relevé porte le solde de la banque (BNP, OFX…), le compte se cale automatiquement dessus. Il tombe juste sans rien régler, et seules les vraies anomalies de la période restent à vérifier. Une carte saisie au jour du paiement n'est plus importée une seconde fois. Défaire un import défait aussi son calage.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.3.1.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.3.1.0.zip",
-  "sha256": "df6e5cade36ca3889a08c8f06519abb57928dac13d5e3786c0f4956933a638ae",
-  "signature": "ab7ca6fe24da73311a142cf4ab8a9ebf27c38dcff6d8e5c8c98015433ac2c53826fe07bf4a5ffe8ac4610e41d993eac99a655de634917bfdabff3a6e6d0de10c"
+  "version": "3.3.2.0",
+  "notes": "Analyser mon réseau : un appareil qui coupe sa connexion sécurisée n'ouvre plus la fenêtre « Une erreur est survenue » (HandshakeException). Menu : Entrée ou les flèches sur un titre de groupe ne provoquent plus d'erreur.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.3.2.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.3.2.0.zip",
+  "sha256": "70036d717b0c3393dc109d03d3e4fb10d3c1d387b867bc4946b573d8c53c5bc7",
+  "signature": "81ff7bc91af49c48281d0618c14267857ac6f395a335e11c86f4f19f4a781f4c6e645774170e69a68ef3bc5da4b27512134d62aaed4d675d7a95fad7d4730305"
 }
