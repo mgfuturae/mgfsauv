@@ -1,8 +1,8 @@
 {
-  "version": "3.1.5.0",
-  "notes": "PDF des courses : une vraie case carrée à cocher devant chaque article, au lieu des deux crochets.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.1.5.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.1.5.0.apk",
-  "sha256": "309639bae23097fe8afebb7a47afc50b2e15e7ca8126cc79b37e0ac90f4ac342",
-  "signature": "3d313574e8d78df81a0e7a4ef237123c102bbb073655e04fb59ce7e32bb3d3f4055e358cbb3520e576fe4f69909b0a06b42f43778b855da1521d07317c15e705"
+  "version": "3.1.6.0",
+  "notes": "PDF des contacts (et des animaux) : la photo de chaque fiche est imprimée sous son nom, en portrait ; la ligne avec le nom du fichier disparaît.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.1.6.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.1.6.0.apk",
+  "sha256": "bdf4d4da8ce2236a619839989ab8d4b507fe0eaadad80c1f6e194d5f336f7c44",
+  "signature": "c7e4e8deca8f3d714b22ef1380cb9742c844b6aa63f5d39fd2cae7899586666a30c426101aed0277b82a0d9aa6fba21c134ef8b14ae7004297ff46da9298eb01"
 }
