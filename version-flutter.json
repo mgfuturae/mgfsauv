@@ -1,8 +1,8 @@
 {
-  "version": "3.1.8.0",
-  "notes": "Documentation : les Conseils de sécurité y sont aussi, en PDF, à côté du guide d'utilisation et du livre de mes données.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.1.8.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.1.8.0.zip",
-  "sha256": "d00ff928a37f0f7fa75db45b6813d01ef30bb77a1abc53de1cc54138bdf4a9a2",
-  "signature": "38e4c1c047cef540a52e5fcffe62184d72ba9d83d22e206c944f1b8286d0a4b7cfaa2c6969e4c012c4a314b88010fdfa0cb7add33c72f18b6635cee7238a7a09"
+  "version": "3.1.9.0",
+  "notes": "PDF : la page de garde porte le dépôt INPI du logiciel (e-Soleau n° DSO2026038400 du 09/10/2026) et la marque n° 4392092.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.1.9.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.1.9.0.zip",
+  "sha256": "2e921e29696ff008cc580d002ee6fac183794b947b34987ad7b0c06ba6957847",
+  "signature": "294f8411e843e503322c54959577ef5338d336e125e753c00cba1a2acd65a5287d03eaa099feeeb53eb0d4b5e5589cf19a1e73a9d3ad246fd37d9b6fb0af1c0b"
 }
