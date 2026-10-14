@@ -1,8 +1,8 @@
 {
-  "version": "3.1.9.0",
-  "notes": "PDF : la page de garde porte le dépôt INPI du logiciel (e-Soleau n° DSO2026038400 du 09/10/2026) et la marque n° 4392092.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.1.9.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.1.9.0.zip",
-  "sha256": "2e921e29696ff008cc580d002ee6fac183794b947b34987ad7b0c06ba6957847",
-  "signature": "294f8411e843e503322c54959577ef5338d336e125e753c00cba1a2acd65a5287d03eaa099feeeb53eb0d4b5e5589cf19a1e73a9d3ad246fd37d9b6fb0af1c0b"
+  "version": "3.2.0.0",
+  "notes": "Le dépôt INPI du logiciel et la marque s'affichent en tout petit sous le titre MANAGE FUTURAE, dans le bandeau.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.2.0.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.2.0.0.zip",
+  "sha256": "f325c44a1098368881d8aed5caf8cc3ccbd90c80e9c4398743f9b4698c86a839",
+  "signature": "501c9f25dc0608b77653b4cb45bc27ab6af59879b00db585f15afed0652e751fe8bbfa07dfe3e263c18c650fe790adb192ddbadf932fe71f87ee8f62d9666b05"
 }
