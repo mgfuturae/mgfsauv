@@ -1,8 +1,8 @@
 {
-  "version": "3.2.1.0",
-  "notes": "Droits du logiciel : © 2020-2026 Alain NATHAN, dépôts d'antériorité Certisure (2020, 2023) et INPI e-Soleau (2026), marque n° 4392092 — au pied des couvertures des PDF et sous le titre du bandeau.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.2.1.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.2.1.0.zip",
-  "sha256": "adbf9c70c85d9901c9201f35021c55b306d4bcd94e209f0269ef477fc8a00a29",
-  "signature": "62271a857fa6b030f564e3b4195f8b5ea167a0d8ad3dede0485b72cfab0ee1c304a5d90b1c89226eb4b054ddd986efc152ebfd5208039dfdba59326cf6c2d60f"
+  "version": "3.2.2.0",
+  "notes": "Mention des droits du logiciel : le nom seul (NATHAN), sans le prénom.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.2.2.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.2.2.0.zip",
+  "sha256": "d7bbe3c6ac97cf6c553fd0899c27984b51da3bb29c5ecbca365dee5a78f9aff8",
+  "signature": "c89e71a8afed06f0459be749c58322495c10a1d38aca836ca1b491733437ca8b224a28b54738b77d3160d78372e689f26b1170b9f6bd5c4cbef1a42308283c07"
 }
