@@ -1,8 +1,8 @@
 {
-  "version": "3.1.6.0",
-  "notes": "PDF des contacts (et des animaux) : la photo de chaque fiche est imprimée sous son nom, en portrait ; la ligne avec le nom du fichier disparaît.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.1.6.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.1.6.0.apk",
-  "sha256": "bdf4d4da8ce2236a619839989ab8d4b507fe0eaadad80c1f6e194d5f336f7c44",
-  "signature": "c7e4e8deca8f3d714b22ef1380cb9742c844b6aa63f5d39fd2cae7899586666a30c426101aed0277b82a0d9aa6fba21c134ef8b14ae7004297ff46da9298eb01"
+  "version": "3.1.7.0",
+  "notes": "Conseils de sécurité : un bouton « PDF » donne tout le guide, un chapitre par page, avec ses tableaux et des cases à cocher pour les listes « à faire ».",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.1.7.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.1.7.0.apk",
+  "sha256": "d3901e62cc8bcc9bf6b9cdf48a71d5d6013bb135361ba2c8d5857e24a77da1df",
+  "signature": "942cb80799fd46317fa274579b35e1e98e2ed2d2716b5372930113cbbc04f9b585b7e37b429a29db3707d9d9a379e9477b23720bb7d8cb39287aec8fc3ed3400"
 }
