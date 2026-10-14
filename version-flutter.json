@@ -1,8 +1,8 @@
 {
-  "version": "3.2.6.0",
-  "notes": "Comptabilité : chaque menu s'ouvre sous son propre bouton (Transactions et PDF ne s'ouvrent plus sous Comptes). Retirés des menus : Classer par mot-clé, Proposer les catégories, Table de classement, Mon Budget, Copier le relevé. Les précisions des menus passent sous le libellé.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.2.6.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.2.6.0.zip",
-  "sha256": "4aef8b122aeb0c15ac439e657881ee1452a9ff07c854b836f04263abfdbf1f6e",
-  "signature": "8849cf16a2e2add06ca6ce59b0b8765a1f8f378ea98e8b1f277f81a227d404b481ac908185e64102c7e24b37ae223229d50442566c5bb846cc1843ebdd956e05"
+  "version": "3.2.7.0",
+  "notes": "Comptabilité : « Effacer toutes les opérations » demande maintenant votre mot de passe. Un mot de passe faux ou annulé n'efface rien.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.2.7.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.2.7.0.zip",
+  "sha256": "18ae6778ac166878cf60baf0d44334bfbfa5b4faa4846a33c6f78cbccf9a10a3",
+  "signature": "f8842fe0d13fc137a0f13fa2e5212ab1e0b37dc8bef3bb21c07ca6e106e75e017a695a258c49aa72229416bcbca1698f694e061f39b4344ec78237b9680c7d0f"
 }
