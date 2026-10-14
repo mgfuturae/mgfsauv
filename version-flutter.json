@@ -1,8 +1,8 @@
 {
-  "version": "3.3.2.0",
-  "notes": "Analyser mon réseau : un appareil qui coupe sa connexion sécurisée n'ouvre plus la fenêtre « Une erreur est survenue » (HandshakeException). Menu : Entrée ou les flèches sur un titre de groupe ne provoquent plus d'erreur.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.3.2.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.3.2.0.zip",
-  "sha256": "70036d717b0c3393dc109d03d3e4fb10d3c1d387b867bc4946b573d8c53c5bc7",
-  "signature": "81ff7bc91af49c48281d0618c14267857ac6f395a335e11c86f4f19f4a781f4c6e645774170e69a68ef3bc5da4b27512134d62aaed4d675d7a95fad7d4730305"
+  "version": "3.3.3.0",
+  "notes": "La carte du tableau de bord : une tuile du fond de carte qui ne se télécharge pas reste une case vide et n'ouvre plus la fenêtre « Une erreur est survenue » (HandshakeException). Plus généralement, une erreur de réseau sans suite est notée dans le journal sans fenêtre.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.3.3.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.3.3.0.zip",
+  "sha256": "161c8ca6bc603068a254662b8ffe1e584b697a47d0a2962195b919d2f6664325",
+  "signature": "f2f72c4fde4fca844a8972b6a74f1dce69cd822bc08c50d7f28858a93370a19ca76373a7507c58c85bcd56b5777a9d71c82a894d23f34989b07dac171ba26d0a"
 }
