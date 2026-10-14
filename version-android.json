@@ -1,8 +1,8 @@
 {
-  "version": "3.2.4.0",
-  "notes": "Comptabilité : le menu « Outils » est remplacé par quatre menus — Imports, Catégories, Comptes, Transactions — chacun avec ses outils.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.2.4.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.2.4.0.apk",
-  "sha256": "c9d6a57dab561533228ddf40db8639ebd138fc582f9d05639740d8f74892ea73",
-  "signature": "68bbc2647b092418ad8b49b302b15bad4a589d2ed8fa27ba477f929ffea9b3a8fe431f310294d651a0f8eded572ac17590c245ec70fb9cedb854a08db2f96e0c"
+  "version": "3.2.5.0",
+  "notes": "Comptabilité : un menu « PDF » rassemble le PDF du relevé, le PDF par catégorie et le PDF des opérations récurrentes ; les autres menus en sont raccourcis.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.2.5.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.2.5.0.apk",
+  "sha256": "c0818edfa71e072980de9f9bc0e2c846644573b5d882750cb69aeb9f4f926797",
+  "signature": "d0d6ef7b210d371192266c8b5364603fdaf6af82645b74459d713db43b7edc41a083cdda32c817a220e512f432f7ba98d8028d840b2c7c9b72f14868a7cab101"
 }
