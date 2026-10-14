@@ -1,8 +1,8 @@
 {
-  "version": "3.1.9.0",
-  "notes": "PDF : la page de garde porte le dépôt INPI du logiciel (e-Soleau n° DSO2026038400 du 09/10/2026) et la marque n° 4392092.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.1.9.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.1.9.0.apk",
-  "sha256": "56f84c700ff665b885a40f340dd32885268d7e9ea827f088878766dd782367d8",
-  "signature": "b6fc7083209372dc8cb7afae313102193e12c518357f910b59c0d16a7dc15ec3a764be06304800f2387b7798ebe16e82959b6c85fe133fa8269d1612e8b41a04"
+  "version": "3.2.0.0",
+  "notes": "Le dépôt INPI du logiciel et la marque s'affichent en tout petit sous le titre MANAGE FUTURAE, dans le bandeau.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.2.0.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.2.0.0.apk",
+  "sha256": "15a0a1fbb29c1eb90e93f94ded95a32687797eb457aa8fcc4ed9c5323b6368fc",
+  "signature": "881e0f560622ef9a050a7af4d88a32dfbf010c445c3d39ea2fa9c70fd2b3822c53c75a08dbab1be29788e07ee73274df0dd266af72493367d9dac5946858130a"
 }
