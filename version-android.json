@@ -1,8 +1,8 @@
 {
-  "version": "3.2.1.0",
-  "notes": "Droits du logiciel : © 2020-2026 Alain NATHAN, dépôts d'antériorité Certisure (2020, 2023) et INPI e-Soleau (2026), marque n° 4392092 — au pied des couvertures des PDF et sous le titre du bandeau.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.2.1.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.2.1.0.apk",
-  "sha256": "bd59bc951ef0ae786a51d3d5e6e8723a7209867966af44920ca77a0dff963472",
-  "signature": "4358845a8e6edff199d488a6b3454ddd7c5f0e2d113447c56de7ca33841b6cd610eeb30ad13d14a7036bda673b2781f00168ad221d9fc8932cc37ee64c63f100"
+  "version": "3.2.2.0",
+  "notes": "Mention des droits du logiciel : le nom seul (NATHAN), sans le prénom.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.2.2.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.2.2.0.apk",
+  "sha256": "2fa46e861477ab7211359abf1fc2088d71e78fbb83744746595043e15a652432",
+  "signature": "e92d0bcee862c4602bb7f26e51c60dd7341c5c0d632a70c72ecad36d838750ba8700ef7aa348e87aa47b53753847d050525b9553c944a4e2bdb3c6f204a32c0c"
 }
