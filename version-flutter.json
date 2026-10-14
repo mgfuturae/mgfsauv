@@ -1,8 +1,8 @@
 {
-  "version": "3.2.4.0",
-  "notes": "Comptabilité : le menu « Outils » est remplacé par quatre menus — Imports, Catégories, Comptes, Transactions — chacun avec ses outils.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.2.4.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.2.4.0.zip",
-  "sha256": "8fa9a85d1c85b49a34c700bbe9ddb11de4df8945b6121bf513dad789124f6112",
-  "signature": "22e96ad092fcd17e65cb3aad184cb913c7f79b7134a187c7e6b530d9a2791b6aacac48395be65b254a9d277ba99654fc9c8a27222fce1c3891f653195e2ad001"
+  "version": "3.2.5.0",
+  "notes": "Comptabilité : un menu « PDF » rassemble le PDF du relevé, le PDF par catégorie et le PDF des opérations récurrentes ; les autres menus en sont raccourcis.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.2.5.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.2.5.0.zip",
+  "sha256": "5f57d79cf214019b4a061ef45a47cafac67120c56c4b64c95682f67d3f1b2e56",
+  "signature": "e7874d32227f86101b78ae453c803e9a3bc81298776146881b573a9a9bef9f96eebb39533e28402fd72575377eb02970d1eeefb720a57aae6cf5c39b1d2e2f08"
 }
