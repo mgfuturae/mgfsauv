@@ -1,8 +1,8 @@
 {
-  "version": "3.1.8.0",
-  "notes": "Documentation : les Conseils de sécurité y sont aussi, en PDF, à côté du guide d'utilisation et du livre de mes données.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.1.8.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.1.8.0.apk",
-  "sha256": "f104dab3e502af90239542335a075c6d8dc13abf8b3cab9d70b53287e2abced0",
-  "signature": "76a8a2e65a65d02824d1dedaf20ca8deff1bffeec923653c201199fce18636c9acfa80c1fbc9b8d8bfd09a074abb533c7d384edfbff176a91dd3a836914ff500"
+  "version": "3.1.9.0",
+  "notes": "PDF : la page de garde porte le dépôt INPI du logiciel (e-Soleau n° DSO2026038400 du 09/10/2026) et la marque n° 4392092.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.1.9.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.1.9.0.apk",
+  "sha256": "56f84c700ff665b885a40f340dd32885268d7e9ea827f088878766dd782367d8",
+  "signature": "b6fc7083209372dc8cb7afae313102193e12c518357f910b59c0d16a7dc15ec3a764be06304800f2387b7798ebe16e82959b6c85fe133fa8269d1612e8b41a04"
 }
