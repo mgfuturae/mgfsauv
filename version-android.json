@@ -1,8 +1,8 @@
 {
-  "version": "3.7.3.0",
-  "notes": "Vers Mon Budget : barre d'avancement et envoi bien plus rapide. Le budget ne garde que les catégories utilisées de la comptabilité, rangées sous Revenus et Dépenses : les anciennes rubriques disparaissent.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.7.3.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.7.3.0.apk",
-  "sha256": "f5078bafafb6815d86dcb37309147d3b9bcd51829b0383ed8c9228a1dcad69b1",
-  "signature": "8476d514e8c76cc1b7767b3cff917922d4564477cd5ed0e8b117c3249c058197f2132f288e45cec8f30b150644e4aa1bb24f0f44817d15fade6bf55496dc540f"
+  "version": "3.8.0.0",
+  "notes": "Ma Comptabilité : relevé global des comptes en PDF ; le relevé d'un compte donne ses soldes ; recherche d'une opération (libellé, montant, date) sur toute la période ; période « du … au … » ; camemberts des dépenses et des recettes ; « Importer un relevé de banque (CSV) ». Soldes vers Mes comptes : aucune fiche créée sans le choisir.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.8.0.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.8.0.0.apk",
+  "sha256": "757e5869ddd19ff5cc10b3dc354950060217d71331f50778a29029e7180c9589",
+  "signature": "d7f565450aaaabf3ad1ecb5cbc6c9d5efc502047f8caf6d44b818291e8454436273ef19fa71dd70797a26b2a14f8776b35535aab2f756344d4194f647c70b505"
 }
