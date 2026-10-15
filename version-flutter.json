@@ -1,8 +1,8 @@
 {
-  "version": "3.5.1.0",
-  "notes": "Mon Budget entre dans la Gestion des éditions : le mois en cours, puis l'année mois par mois (budget et réel), dans le dossier complet PDF ou HTML. Le bandeau des fiches de « Ma Gestion » (Mon Organisation Financière…) n'est plus blanc : l'argent y prend un gris acier, de la même intensité que les autres familles.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.5.1.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.5.1.0.zip",
-  "sha256": "157ed90d615f5663fa8a1b3a7ab373e67e29b0c5f31423d6facf7129616772ff",
-  "signature": "acc90bcb3b2cc2524c8af153ffb5374ff884394e90061c4371de8aa51df87206fc92c12c8f349f0d99051be31a4462c290cdbb7b76b0ead47ba9fd0bbf3c8c00"
+  "version": "3.5.2.0",
+  "notes": "« Ma Gestion » passe de l'argent au rose : Mon Organisation Financière et les autres fiches de la famille ont maintenant, comme les autres formulaires, un titre, un bandeau, des libellés et des filets en couleur. Dans Mon Organisation Financière, le profil de risque, l'horizon de placement, la TMI et le régime fiscal se choisissent dans une liste ; une réponse déjà saisie est gardée.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.5.2.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.5.2.0.zip",
+  "sha256": "e212793969d541cc353cb24754680af896b65be1b742cc38dfb1ef1873513984",
+  "signature": "8fb76f6f57424c6c3eef835c5185c739671f035c8aafb3082918e6b77433c12ba43999e3f6d00bdaa849d3c99067aa211d183db55096e8842b96a3f5fea6750e"
 }
