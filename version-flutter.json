@@ -1,8 +1,8 @@
 {
-  "version": "3.7.2.0",
-  "notes": "Import CSV : les réglages (séparateur, lignes à passer, colonnes, montant, décimale) sont au-dessus du tableau du fichier ; aucun compte n'est proposé, c'est à vous de le choisir, et l'import est bloqué tant qu'il ne l'est pas. Vers Mon Budget : seules les catégories qui ont des opérations deviennent des lignes ; les lignes des catégories inutilisées sont supprimées.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.7.2.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.7.2.0.zip",
-  "sha256": "92256e4a6b4c9e1bd1e44e533d418ede0619009216ab59211b766f0bd219914e",
-  "signature": "795c69d8741232cc43e698c959e9a50ba082c360be9b37e73d1d75f9d910f3670c00c08408bc0493b2c5d04cf3bae0ac3d1be04499d24ccaf0cf9844b078090c"
+  "version": "3.7.3.0",
+  "notes": "Vers Mon Budget : barre d'avancement et envoi bien plus rapide. Le budget ne garde que les catégories utilisées de la comptabilité, rangées sous Revenus et Dépenses : les anciennes rubriques disparaissent.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.7.3.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.7.3.0.zip",
+  "sha256": "7b45ffe3938f2b5a9b001bde1346ca667e1c9e54768f593100a77b495e7f82b4",
+  "signature": "5983a0dd8d4f44a00fe247ecbdfa2b0de5e056019f286385f9878d3cb490e899354873c0c8bcc97b902678de511a2db41d3b5778097b1a43998613f309e85e00"
 }
