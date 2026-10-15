@@ -1,8 +1,8 @@
 {
-  "version": "3.6.0.0",
-  "notes": "Nouveau : Ma Comptabilité (Ma Gestion), simple. Elle reprend un classeur Excel (onglet Opérations : date, compte, libellé, catégorie, super-catégorie, montant, paiement) avec ses catégories et super-catégories ; chaque compte a son solde initial, et le solde d'aujourd'hui tombe juste au centime. Onglets : Comptes (soldes, courbes, recettes et dépenses), Opérations (filtres, recherche, saisie), Graphiques (dépenses et recettes par catégorie et super-catégorie, par compte), Mensuel (douze mois, total, moyenne, solde, hors budget), Catégories. PDF, classeur Excel des trois onglets, annexe dans la Gestion des éditions. Aussi : saut de page avant le réel dans le PDF de l'année du budget ; les revenus locatifs du tableau de bord s'arrêtent le lendemain de la fin du bail.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.6.0.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.6.0.0.apk",
-  "sha256": "338610adfcf109ee46adc1cba8ac1a81644a50493dea8702256b62d78646c412",
-  "signature": "e37ed09f6c23c1281b6e0eed58cbaebe7bd2b1c8d8388f305f086e57243d910388c35dfad9b82c865626d0ebf810f20f12abd11c32e5642a0d1ba3b8a3b0be03"
+  "version": "3.6.1.0",
+  "notes": "Ma Comptabilité : un solde initial laissé vide ne vaut plus zéro en silence. La reprise d'un classeur exige le solde de chaque compte suivi, au choix le solde initial ou celui d'aujourd'hui tel que la banque l'affiche (l'autre se calcule). Un compte dont le solde initial n'a jamais été réglé est signalé dans l'onglet Comptes, avec un bouton pour le régler.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.6.1.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.6.1.0.apk",
+  "sha256": "739d1ca969cb758eb0cda50d43c4463430160653821c42b3870724b22a945c7a",
+  "signature": "2a3c70695a519393dd0cc99ea6a281ef1952b3e63039d2e4b731632a5c0d032552cb0841a69b48e96d10706e37986673cab45ba5bf19cef2e41db1b21017f702"
 }
