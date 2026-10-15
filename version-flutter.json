@@ -1,8 +1,8 @@
 {
-  "version": "3.6.0.0",
-  "notes": "Nouveau : Ma Comptabilité (Ma Gestion), simple. Elle reprend un classeur Excel (onglet Opérations : date, compte, libellé, catégorie, super-catégorie, montant, paiement) avec ses catégories et super-catégories ; chaque compte a son solde initial, et le solde d'aujourd'hui tombe juste au centime. Onglets : Comptes (soldes, courbes, recettes et dépenses), Opérations (filtres, recherche, saisie), Graphiques (dépenses et recettes par catégorie et super-catégorie, par compte), Mensuel (douze mois, total, moyenne, solde, hors budget), Catégories. PDF, classeur Excel des trois onglets, annexe dans la Gestion des éditions. Aussi : saut de page avant le réel dans le PDF de l'année du budget ; les revenus locatifs du tableau de bord s'arrêtent le lendemain de la fin du bail.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.6.0.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.6.0.0.zip",
-  "sha256": "bcd822fc7225c2a4e091e23076cdb7f3ab489c0b9a6a00ccc51885568afee32d",
-  "signature": "e9dd4036ae7937229cdd15a787c6353261752418320a0f467c8dd4f1b06b2529302e4424fd8caa06c287d287dbb11a6fe5ae4c8ed0c12cc2d0a044cd8a7e2b0d"
+  "version": "3.6.1.0",
+  "notes": "Ma Comptabilité : un solde initial laissé vide ne vaut plus zéro en silence. La reprise d'un classeur exige le solde de chaque compte suivi, au choix le solde initial ou celui d'aujourd'hui tel que la banque l'affiche (l'autre se calcule). Un compte dont le solde initial n'a jamais été réglé est signalé dans l'onglet Comptes, avec un bouton pour le régler.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.6.1.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.6.1.0.zip",
+  "sha256": "27d4887c1c8c70bbaad8d04e3192ad74d4dbcbdb1b2195370128d156f627ced0",
+  "signature": "97023d824a5010d77e82ae0ee0309971b673851ba8443bb6f39db8d62e3bae9b8b5d5eed5a1c0478c7e455efd753a084b2b922efdea1c21ea1886decd20d7b05"
 }
