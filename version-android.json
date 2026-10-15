@@ -1,8 +1,8 @@
 {
-  "version": "3.6.5.0",
-  "notes": "Ma Comptabilité : saisie d'un virement de compte à compte (la sortie et l'entrée d'un coup) ; suppression des opérations affichées, protégée par votre mot de passe, après une sauvegarde ; couleur des barres des graphiques au choix ; transfert des montants réels vers Mon Budget, avec une correspondance catégorie → ligne retenue ; envoi des soldes vers Mes comptes. PDF mensuel : Recettes, Dépenses et Hors budget en titres gras. Au démarrage, une fenêtre précédente qui se ferme n'empêche plus l'ouverture ; déjà ouverte, elle revient au premier plan.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.6.5.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.6.5.0.apk",
-  "sha256": "59d79d860fe0b948d020cfa1b6d5c44d9b4f2f6e1dea2622aabcd8bb246b1ae8",
-  "signature": "f2a67bc006c1c98d6442713f359ff909d397f41a790bfbde9487d6bc7a45eb7d5b65a90d96d4ab487efc2cde20a68c30ef789271d2ec530ad635f6b37745f80d"
+  "version": "3.7.0.0",
+  "notes": "Ma Comptabilité : import des relevés CSV des banques. Le fichier peut commencer à la première ligne ou plus bas, avoir ou non une ligne de titres, le montant sur une colonne ou en débit et crédit ; chaque colonne se règle, et le réglage est retenu pour chaque compte. Seules les opérations nouvelles entrent : date, libellé et montant, en comptant (deux opérations identiques le même jour restent deux ; un relevé repris deux fois n'ajoute rien). Les lignes qui ne sont pas des opérations sont écartées et dites. Les opérations importées arrivent « À classer », un filtre les montre.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.7.0.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.7.0.0.apk",
+  "sha256": "e318c58624b4805c315e192c214754d87ca475d4ead83a61fc9e60849617490d",
+  "signature": "71adfe59403039e48d03127aa420655778fee48a835da302a71afac071a14bff816cab5ee694403da82c0e3b074ee8d20d2ba139250c4e814ddc8b6d2e0c5e08"
 }
