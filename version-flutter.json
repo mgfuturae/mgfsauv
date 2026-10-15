@@ -1,8 +1,8 @@
 {
-  "version": "3.6.4.0",
-  "notes": "Ma Comptabilité : les mois du tableau mensuel se lisent nettement (en blanc sur une bande de couleur, l'année dessous) ; plus de textes d'explication dans Mensuel, et seulement la période dans Graphiques. Le PDF mensuel garde chaque montant sur une ligne. Le relevé des opérations ne donne plus que le nombre d'opérations et le net.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.6.4.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.6.4.0.zip",
-  "sha256": "6fa9f6272c3b26127453aaa4bc72e114fedc47292be79cf16cbb690b0756a850",
-  "signature": "be33422f5557296c0a49ef38c77e4b558dc67c3ca43cfda41d3d7f757f11c2ef8da2c239074bedd5bce7ecdb15293e52623f613143887797e30c1c2fbdf4c903"
+  "version": "3.6.5.0",
+  "notes": "Ma Comptabilité : saisie d'un virement de compte à compte (la sortie et l'entrée d'un coup) ; suppression des opérations affichées, protégée par votre mot de passe, après une sauvegarde ; couleur des barres des graphiques au choix ; transfert des montants réels vers Mon Budget, avec une correspondance catégorie → ligne retenue ; envoi des soldes vers Mes comptes. PDF mensuel : Recettes, Dépenses et Hors budget en titres gras. Au démarrage, une fenêtre précédente qui se ferme n'empêche plus l'ouverture ; déjà ouverte, elle revient au premier plan.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.6.5.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.6.5.0.zip",
+  "sha256": "0b2fef478d31f16167558fedf9b35aa4f1d929c8f234d01aebd511e5111aa07b",
+  "signature": "72c04a9a689d9f1a6ad944880d84d3bc17dfb103e81d737aba24d77dcdbccb69e3180cf37a306d4c41569e6301f9428dbffdad87157174cfe5073a65881e1004"
 }
