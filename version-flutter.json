@@ -1,8 +1,8 @@
 {
-  "version": "3.6.5.0",
-  "notes": "Ma Comptabilité : saisie d'un virement de compte à compte (la sortie et l'entrée d'un coup) ; suppression des opérations affichées, protégée par votre mot de passe, après une sauvegarde ; couleur des barres des graphiques au choix ; transfert des montants réels vers Mon Budget, avec une correspondance catégorie → ligne retenue ; envoi des soldes vers Mes comptes. PDF mensuel : Recettes, Dépenses et Hors budget en titres gras. Au démarrage, une fenêtre précédente qui se ferme n'empêche plus l'ouverture ; déjà ouverte, elle revient au premier plan.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.6.5.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.6.5.0.zip",
-  "sha256": "0b2fef478d31f16167558fedf9b35aa4f1d929c8f234d01aebd511e5111aa07b",
-  "signature": "72c04a9a689d9f1a6ad944880d84d3bc17dfb103e81d737aba24d77dcdbccb69e3180cf37a306d4c41569e6301f9428dbffdad87157174cfe5073a65881e1004"
+  "version": "3.7.0.0",
+  "notes": "Ma Comptabilité : import des relevés CSV des banques. Le fichier peut commencer à la première ligne ou plus bas, avoir ou non une ligne de titres, le montant sur une colonne ou en débit et crédit ; chaque colonne se règle, et le réglage est retenu pour chaque compte. Seules les opérations nouvelles entrent : date, libellé et montant, en comptant (deux opérations identiques le même jour restent deux ; un relevé repris deux fois n'ajoute rien). Les lignes qui ne sont pas des opérations sont écartées et dites. Les opérations importées arrivent « À classer », un filtre les montre.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.7.0.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.7.0.0.zip",
+  "sha256": "c36b3ab35ed07bb12f29958bd2d2c9b175c173f04e8d84ff2a7eeec8cda88ad7",
+  "signature": "a5a1e22322ee046e31b4199a0f998e3ac438681c1da4365b677092ba815986ffa661d47885dfa9abc9999a5234159c4398f9bfe523ae44a11dee997d65577606"
 }
