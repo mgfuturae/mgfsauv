@@ -1,8 +1,8 @@
 {
-  "version": "3.6.4.0",
-  "notes": "Ma Comptabilité : les mois du tableau mensuel se lisent nettement (en blanc sur une bande de couleur, l'année dessous) ; plus de textes d'explication dans Mensuel, et seulement la période dans Graphiques. Le PDF mensuel garde chaque montant sur une ligne. Le relevé des opérations ne donne plus que le nombre d'opérations et le net.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.6.4.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.6.4.0.apk",
-  "sha256": "ec5847a2d91b8caca378eceb1ba315756ffa46f0ae832beaedf6534f145f8ea7",
-  "signature": "911f1ae2a399267d3bcf3624d75a41fd539df4447dd1d7c11ef1c2a58551431dac615ebc28d2dd25c539789b5502d7d7ce59d27755dcf34a0391b2e86add610b"
+  "version": "3.6.5.0",
+  "notes": "Ma Comptabilité : saisie d'un virement de compte à compte (la sortie et l'entrée d'un coup) ; suppression des opérations affichées, protégée par votre mot de passe, après une sauvegarde ; couleur des barres des graphiques au choix ; transfert des montants réels vers Mon Budget, avec une correspondance catégorie → ligne retenue ; envoi des soldes vers Mes comptes. PDF mensuel : Recettes, Dépenses et Hors budget en titres gras. Au démarrage, une fenêtre précédente qui se ferme n'empêche plus l'ouverture ; déjà ouverte, elle revient au premier plan.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.6.5.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.6.5.0.apk",
+  "sha256": "59d79d860fe0b948d020cfa1b6d5c44d9b4f2f6e1dea2622aabcd8bb246b1ae8",
+  "signature": "f2a67bc006c1c98d6442713f359ff909d397f41a790bfbde9487d6bc7a45eb7d5b65a90d96d4ab487efc2cde20a68c30ef789271d2ec530ad635f6b37745f80d"
 }
