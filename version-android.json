@@ -1,8 +1,8 @@
 {
-  "version": "3.5.0.0",
-  "notes": "Mon Budget refait à neuf : le prévu face au réel, poste par poste (14 grands postes, 58 lignes de modèle). Report d'enveloppe, ajustement d'un mois, réaffectation, préparer le mois, proposer d'après le réel. Synthèse : solde, taux d'épargne et d'endettement, part des charges fixes, reste à vivre, épargne de précaution, règle 50/30/20, base zéro. Graphiques. Tableaux mois par mois de l'année, en budget et en réel, avec les totaux. PDF du mois et de l'année. Le réel se saisit à la main, sans comptabilité ni import.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.5.0.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.5.0.0.apk",
-  "sha256": "8d731a0cccf6534d17dbb4d02f5e83846f53d8e04605063e25adcdcb2c68ddae",
-  "signature": "27d736d497015ae78a230e0f91c30ab4697ee2e1e295333832ed8253bd9ee185b4b7cb645840f66f79659944c5fa697219dbc4c7ad4dc7de5b2a3253a7826202"
+  "version": "3.5.1.0",
+  "notes": "Mon Budget entre dans la Gestion des éditions : le mois en cours, puis l'année mois par mois (budget et réel), dans le dossier complet PDF ou HTML. Le bandeau des fiches de « Ma Gestion » (Mon Organisation Financière…) n'est plus blanc : l'argent y prend un gris acier, de la même intensité que les autres familles.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.5.1.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.5.1.0.apk",
+  "sha256": "18153e1da581c49c17de3ae14e37be8e246f96e1aef3e91e0e0a1f6f918f45c8",
+  "signature": "452ec3f9a0497a90e3a5462cc221cbbc983d0685b19f4328cb30bd3b89709a646b1242c905d3210c31228bd6bda56fa0801ad705f503a175270b2a3a795a9300"
 }
