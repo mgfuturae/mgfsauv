@@ -1,8 +1,8 @@
 {
-  "version": "3.7.1.0",
-  "notes": "Mon Budget prend les catégories de Ma Comptabilité pour lignes : « Vers Mon Budget » (ou « Catégories de la comptabilité » dans Mon Budget) supprime les lignes qui ne sont pas des catégories, après une sauvegarde, crée celles qui manquent (sous Revenus ou Dépenses), puis envoie les montants réels, chaque catégorie sur sa ligne. Plus de correspondance à régler. Import CSV : le début du fichier s'affiche en tableau, une colonne par colonne du relevé ; un clic sur l'en-tête d'une colonne lui donne son rôle (date, libellé, montant, débit, crédit).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.7.1.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.7.1.0.zip",
-  "sha256": "f0ad6add5605af53c8b217c4fe33ef6192b8c06fca990a473107f089abee3b04",
-  "signature": "55117c99eb3ed47af4a1ac93f59f705f7144cbe78c257f0a7d12dc8e4df8def3f2c7359a022eea16b93d5469641d7241d264f213d43d5dd921c401aad1121b0f"
+  "version": "3.7.2.0",
+  "notes": "Import CSV : les réglages (séparateur, lignes à passer, colonnes, montant, décimale) sont au-dessus du tableau du fichier ; aucun compte n'est proposé, c'est à vous de le choisir, et l'import est bloqué tant qu'il ne l'est pas. Vers Mon Budget : seules les catégories qui ont des opérations deviennent des lignes ; les lignes des catégories inutilisées sont supprimées.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.7.2.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.7.2.0.zip",
+  "sha256": "92256e4a6b4c9e1bd1e44e533d418ede0619009216ab59211b766f0bd219914e",
+  "signature": "795c69d8741232cc43e698c959e9a50ba082c360be9b37e73d1d75f9d910f3670c00c08408bc0493b2c5d04cf3bae0ac3d1be04499d24ccaf0cf9844b078090c"
 }
