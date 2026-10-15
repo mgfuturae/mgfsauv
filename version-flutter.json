@@ -1,8 +1,8 @@
 {
-  "version": "3.8.0.0",
-  "notes": "Ma Comptabilité : relevé global des comptes en PDF ; le relevé d'un compte donne ses soldes ; recherche d'une opération (libellé, montant, date) sur toute la période ; période « du … au … » ; camemberts des dépenses et des recettes ; « Importer un relevé de banque (CSV) ». Soldes vers Mes comptes : aucune fiche créée sans le choisir.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.8.0.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.8.0.0.zip",
-  "sha256": "80454e5497bc503b62283f9f5223f30c02ff835e078a4b87acb7533fbd33510f",
-  "signature": "6e3f9152645f97312093efd99cfca51486922be7312004ef8e34c344b519298a6ba33bb5693945299d110cfe849e4b54f07633c4d878d9684b364660c5a1c00e"
+  "version": "3.8.1.0",
+  "notes": "Mon Budget : « Prévu d'après le réel » dans chaque onglet — toutes les lignes cochées d'avance, moyenne sur 12 mois, « Les lignes sans prévu » pour garder vos montants ; une sauvegarde avant, et tout s'écrit d'un coup.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.8.1.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.8.1.0.zip",
+  "sha256": "a4141145261e455102d4e807abb4cc71cab17983a0c0889b159ba82761fec34e",
+  "signature": "490383bed8ff2055e0f4023240f65fbfeda8f38ebed1238ff00237ed0ac53a41c50a320e4ea900471ca1bac0bf5200d77ce2cce5d83db43075fbc2ec8131b502"
 }
