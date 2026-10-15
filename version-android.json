@@ -1,8 +1,8 @@
 {
-  "version": "3.7.1.0",
-  "notes": "Mon Budget prend les catégories de Ma Comptabilité pour lignes : « Vers Mon Budget » (ou « Catégories de la comptabilité » dans Mon Budget) supprime les lignes qui ne sont pas des catégories, après une sauvegarde, crée celles qui manquent (sous Revenus ou Dépenses), puis envoie les montants réels, chaque catégorie sur sa ligne. Plus de correspondance à régler. Import CSV : le début du fichier s'affiche en tableau, une colonne par colonne du relevé ; un clic sur l'en-tête d'une colonne lui donne son rôle (date, libellé, montant, débit, crédit).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.7.1.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.7.1.0.apk",
-  "sha256": "720b842d2a6f8224ae257f705e4b363ab912ed3659f5fd8e084191eb6d74cb96",
-  "signature": "d094a3cb432d465384a881a6c42bc63d4e100299369f38493318f131160844abaeca860040f233ff132abee5179f548e6a72b74c3aa216bdb6830b232f19480d"
+  "version": "3.7.2.0",
+  "notes": "Import CSV : les réglages (séparateur, lignes à passer, colonnes, montant, décimale) sont au-dessus du tableau du fichier ; aucun compte n'est proposé, c'est à vous de le choisir, et l'import est bloqué tant qu'il ne l'est pas. Vers Mon Budget : seules les catégories qui ont des opérations deviennent des lignes ; les lignes des catégories inutilisées sont supprimées.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.7.2.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.7.2.0.apk",
+  "sha256": "60ce743106d45cfea9ee3bbcd35806b10fb9fde8c125b1ce6ec63fe3235e74c5",
+  "signature": "b28152e13fa11bb8b55fb34dde810291a2775c4a950d5932e36883099051f7f3ee09633aa9b3531c97d07862cac7e671b706990a64ef614bf8466ffdd53a4004"
 }
