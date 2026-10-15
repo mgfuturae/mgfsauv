@@ -1,8 +1,8 @@
 {
-  "version": "3.5.1.0",
-  "notes": "Mon Budget entre dans la Gestion des éditions : le mois en cours, puis l'année mois par mois (budget et réel), dans le dossier complet PDF ou HTML. Le bandeau des fiches de « Ma Gestion » (Mon Organisation Financière…) n'est plus blanc : l'argent y prend un gris acier, de la même intensité que les autres familles.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.5.1.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.5.1.0.apk",
-  "sha256": "18153e1da581c49c17de3ae14e37be8e246f96e1aef3e91e0e0a1f6f918f45c8",
-  "signature": "452ec3f9a0497a90e3a5462cc221cbbc983d0685b19f4328cb30bd3b89709a646b1242c905d3210c31228bd6bda56fa0801ad705f503a175270b2a3a795a9300"
+  "version": "3.5.2.0",
+  "notes": "« Ma Gestion » passe de l'argent au rose : Mon Organisation Financière et les autres fiches de la famille ont maintenant, comme les autres formulaires, un titre, un bandeau, des libellés et des filets en couleur. Dans Mon Organisation Financière, le profil de risque, l'horizon de placement, la TMI et le régime fiscal se choisissent dans une liste ; une réponse déjà saisie est gardée.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.5.2.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.5.2.0.apk",
+  "sha256": "29e41a63ceb93377835677f440d6c3ffab00473e942ff311c80ace4c894ec3e5",
+  "signature": "7fc8c682214ed2e082ef666aae0425d1d58d9055e3d875a59df33381258865f0be228dc0124e12ed14382cb20428e1914ee809e3681553cf081be92ce08a8706"
 }
