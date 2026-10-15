@@ -1,8 +1,8 @@
 {
-  "version": "3.7.0.0",
-  "notes": "Ma Comptabilité : import des relevés CSV des banques. Le fichier peut commencer à la première ligne ou plus bas, avoir ou non une ligne de titres, le montant sur une colonne ou en débit et crédit ; chaque colonne se règle, et le réglage est retenu pour chaque compte. Seules les opérations nouvelles entrent : date, libellé et montant, en comptant (deux opérations identiques le même jour restent deux ; un relevé repris deux fois n'ajoute rien). Les lignes qui ne sont pas des opérations sont écartées et dites. Les opérations importées arrivent « À classer », un filtre les montre.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.7.0.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.7.0.0.apk",
-  "sha256": "e318c58624b4805c315e192c214754d87ca475d4ead83a61fc9e60849617490d",
-  "signature": "71adfe59403039e48d03127aa420655778fee48a835da302a71afac071a14bff816cab5ee694403da82c0e3b074ee8d20d2ba139250c4e814ddc8b6d2e0c5e08"
+  "version": "3.7.1.0",
+  "notes": "Mon Budget prend les catégories de Ma Comptabilité pour lignes : « Vers Mon Budget » (ou « Catégories de la comptabilité » dans Mon Budget) supprime les lignes qui ne sont pas des catégories, après une sauvegarde, crée celles qui manquent (sous Revenus ou Dépenses), puis envoie les montants réels, chaque catégorie sur sa ligne. Plus de correspondance à régler. Import CSV : le début du fichier s'affiche en tableau, une colonne par colonne du relevé ; un clic sur l'en-tête d'une colonne lui donne son rôle (date, libellé, montant, débit, crédit).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.7.1.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.7.1.0.apk",
+  "sha256": "720b842d2a6f8224ae257f705e4b363ab912ed3659f5fd8e084191eb6d74cb96",
+  "signature": "d094a3cb432d465384a881a6c42bc63d4e100299369f38493318f131160844abaeca860040f233ff132abee5179f548e6a72b74c3aa216bdb6830b232f19480d"
 }
