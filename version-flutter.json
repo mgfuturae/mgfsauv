@@ -1,8 +1,8 @@
 {
-  "version": "3.7.3.0",
-  "notes": "Vers Mon Budget : barre d'avancement et envoi bien plus rapide. Le budget ne garde que les catégories utilisées de la comptabilité, rangées sous Revenus et Dépenses : les anciennes rubriques disparaissent.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.7.3.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.7.3.0.zip",
-  "sha256": "7b45ffe3938f2b5a9b001bde1346ca667e1c9e54768f593100a77b495e7f82b4",
-  "signature": "5983a0dd8d4f44a00fe247ecbdfa2b0de5e056019f286385f9878d3cb490e899354873c0c8bcc97b902678de511a2db41d3b5778097b1a43998613f309e85e00"
+  "version": "3.8.0.0",
+  "notes": "Ma Comptabilité : relevé global des comptes en PDF ; le relevé d'un compte donne ses soldes ; recherche d'une opération (libellé, montant, date) sur toute la période ; période « du … au … » ; camemberts des dépenses et des recettes ; « Importer un relevé de banque (CSV) ». Soldes vers Mes comptes : aucune fiche créée sans le choisir.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.8.0.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.8.0.0.zip",
+  "sha256": "80454e5497bc503b62283f9f5223f30c02ff835e078a4b87acb7533fbd33510f",
+  "signature": "6e3f9152645f97312093efd99cfca51486922be7312004ef8e34c344b519298a6ba33bb5693945299d110cfe849e4b54f07633c4d878d9684b364660c5a1c00e"
 }
