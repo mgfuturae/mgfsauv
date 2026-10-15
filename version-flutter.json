@@ -1,8 +1,8 @@
 {
-  "version": "3.6.1.0",
-  "notes": "Ma Comptabilité : un solde initial laissé vide ne vaut plus zéro en silence. La reprise d'un classeur exige le solde de chaque compte suivi, au choix le solde initial ou celui d'aujourd'hui tel que la banque l'affiche (l'autre se calcule). Un compte dont le solde initial n'a jamais été réglé est signalé dans l'onglet Comptes, avec un bouton pour le régler.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.6.1.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.6.1.0.zip",
-  "sha256": "27d4887c1c8c70bbaad8d04e3192ad74d4dbcbdb1b2195370128d156f627ced0",
-  "signature": "97023d824a5010d77e82ae0ee0309971b673851ba8443bb6f39db8d62e3bae9b8b5d5eed5a1c0478c7e455efd753a084b2b922efdea1c21ea1886decd20d7b05"
+  "version": "3.6.2.0",
+  "notes": "Ma Comptabilité, plus simple : les graphiques deviennent de vrais histogrammes (une colonne par poste, le total en tête, le détail par compte au survol), sans tableau de valeurs ; plus de boutons par année, toujours les 12 derniers mois. Un clic sur un compte montre toutes ses opérations depuis le début ; « Régler » donne son solde. Retirés : tout ce qui touchait à Excel (reprise et export), le PDF des graphiques, l'onglet Catégories (une catégorie se crée depuis la saisie d'une opération), les entrées et sorties à côté du nombre d'opérations.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.6.2.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.6.2.0.zip",
+  "sha256": "e824a632d1d503c0b6e5ca19310097897423086321062d42a2f733387e34773a",
+  "signature": "81689917fd4163de0fcbc9cb0aebb3641127f1d29910adadab30d042bf06463800e7407b0f1c31402154afc566d8c613e2ff3638731a56848665caed28444309"
 }
