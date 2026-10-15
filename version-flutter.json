@@ -1,8 +1,8 @@
 {
-  "version": "3.6.2.0",
-  "notes": "Ma Comptabilité, plus simple : les graphiques deviennent de vrais histogrammes (une colonne par poste, le total en tête, le détail par compte au survol), sans tableau de valeurs ; plus de boutons par année, toujours les 12 derniers mois. Un clic sur un compte montre toutes ses opérations depuis le début ; « Régler » donne son solde. Retirés : tout ce qui touchait à Excel (reprise et export), le PDF des graphiques, l'onglet Catégories (une catégorie se crée depuis la saisie d'une opération), les entrées et sorties à côté du nombre d'opérations.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.6.2.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.6.2.0.zip",
-  "sha256": "e824a632d1d503c0b6e5ca19310097897423086321062d42a2f733387e34773a",
-  "signature": "81689917fd4163de0fcbc9cb0aebb3641127f1d29910adadab30d042bf06463800e7407b0f1c31402154afc566d8c613e2ff3638731a56848665caed28444309"
+  "version": "3.6.3.0",
+  "notes": "Ma Comptabilité : plus de super-catégories, nulle part. Les graphiques montrent les dépenses et les recettes par catégorie, le tableau mensuel et son PDF sont par catégorie, la fenêtre d'une catégorie ne demande plus que son nom et sa nature (recette, dépense ou hors budget).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.6.3.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.6.3.0.zip",
+  "sha256": "735b7dd17e514b690d3bbd08abe86f2ba33b6650327f0b1a88d4a44a1ba71758",
+  "signature": "0dcf8c68cb7a11ffc5015f1aefc8860a64a1a13aab1e54c050ce85def3cd5a89ac1ba2264f2dddbae88fc11797a9686de92e9b2e1e7e9243a5a8f3bbf3dc4403"
 }
