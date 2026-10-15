@@ -1,8 +1,8 @@
 {
-  "version": "3.5.2.0",
-  "notes": "« Ma Gestion » passe de l'argent au rose : Mon Organisation Financière et les autres fiches de la famille ont maintenant, comme les autres formulaires, un titre, un bandeau, des libellés et des filets en couleur. Dans Mon Organisation Financière, le profil de risque, l'horizon de placement, la TMI et le régime fiscal se choisissent dans une liste ; une réponse déjà saisie est gardée.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.5.2.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.5.2.0.zip",
-  "sha256": "e212793969d541cc353cb24754680af896b65be1b742cc38dfb1ef1873513984",
-  "signature": "8fb76f6f57424c6c3eef835c5185c739671f035c8aafb3082918e6b77433c12ba43999e3f6d00bdaa849d3c99067aa211d183db55096e8842b96a3f5fea6750e"
+  "version": "3.6.0.0",
+  "notes": "Nouveau : Ma Comptabilité (Ma Gestion), simple. Elle reprend un classeur Excel (onglet Opérations : date, compte, libellé, catégorie, super-catégorie, montant, paiement) avec ses catégories et super-catégories ; chaque compte a son solde initial, et le solde d'aujourd'hui tombe juste au centime. Onglets : Comptes (soldes, courbes, recettes et dépenses), Opérations (filtres, recherche, saisie), Graphiques (dépenses et recettes par catégorie et super-catégorie, par compte), Mensuel (douze mois, total, moyenne, solde, hors budget), Catégories. PDF, classeur Excel des trois onglets, annexe dans la Gestion des éditions. Aussi : saut de page avant le réel dans le PDF de l'année du budget ; les revenus locatifs du tableau de bord s'arrêtent le lendemain de la fin du bail.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.6.0.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.6.0.0.zip",
+  "sha256": "bcd822fc7225c2a4e091e23076cdb7f3ab489c0b9a6a00ccc51885568afee32d",
+  "signature": "e9dd4036ae7937229cdd15a787c6353261752418320a0f467c8dd4f1b06b2529302e4424fd8caa06c287d287dbb11a6fe5ae4c8ed0c12cc2d0a044cd8a7e2b0d"
 }
