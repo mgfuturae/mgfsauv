@@ -1,8 +1,8 @@
 {
-  "version": "3.7.0.0",
-  "notes": "Ma Comptabilité : import des relevés CSV des banques. Le fichier peut commencer à la première ligne ou plus bas, avoir ou non une ligne de titres, le montant sur une colonne ou en débit et crédit ; chaque colonne se règle, et le réglage est retenu pour chaque compte. Seules les opérations nouvelles entrent : date, libellé et montant, en comptant (deux opérations identiques le même jour restent deux ; un relevé repris deux fois n'ajoute rien). Les lignes qui ne sont pas des opérations sont écartées et dites. Les opérations importées arrivent « À classer », un filtre les montre.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.7.0.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.7.0.0.zip",
-  "sha256": "c36b3ab35ed07bb12f29958bd2d2c9b175c173f04e8d84ff2a7eeec8cda88ad7",
-  "signature": "a5a1e22322ee046e31b4199a0f998e3ac438681c1da4365b677092ba815986ffa661d47885dfa9abc9999a5234159c4398f9bfe523ae44a11dee997d65577606"
+  "version": "3.7.1.0",
+  "notes": "Mon Budget prend les catégories de Ma Comptabilité pour lignes : « Vers Mon Budget » (ou « Catégories de la comptabilité » dans Mon Budget) supprime les lignes qui ne sont pas des catégories, après une sauvegarde, crée celles qui manquent (sous Revenus ou Dépenses), puis envoie les montants réels, chaque catégorie sur sa ligne. Plus de correspondance à régler. Import CSV : le début du fichier s'affiche en tableau, une colonne par colonne du relevé ; un clic sur l'en-tête d'une colonne lui donne son rôle (date, libellé, montant, débit, crédit).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.7.1.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.7.1.0.zip",
+  "sha256": "f0ad6add5605af53c8b217c4fe33ef6192b8c06fca990a473107f089abee3b04",
+  "signature": "55117c99eb3ed47af4a1ac93f59f705f7144cbe78c257f0a7d12dc8e4df8def3f2c7359a022eea16b93d5469641d7241d264f213d43d5dd921c401aad1121b0f"
 }
