@@ -1,8 +1,8 @@
 {
-  "version": "3.6.3.0",
-  "notes": "Ma Comptabilité : plus de super-catégories, nulle part. Les graphiques montrent les dépenses et les recettes par catégorie, le tableau mensuel et son PDF sont par catégorie, la fenêtre d'une catégorie ne demande plus que son nom et sa nature (recette, dépense ou hors budget).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.6.3.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.6.3.0.apk",
-  "sha256": "567b288646dd9631c7aac3c8745655973eaba12133957025d1f6e1ed1f6dc57d",
-  "signature": "f7fad678b0ced16ed32eb07f2bb6e18a7f93c49bb3b793f42d3a37caf56b9b66e8fc8f4ebb496cd39ae2efad096ab57aca4ed75ceb63089d9138d824b3ace80f"
+  "version": "3.6.4.0",
+  "notes": "Ma Comptabilité : les mois du tableau mensuel se lisent nettement (en blanc sur une bande de couleur, l'année dessous) ; plus de textes d'explication dans Mensuel, et seulement la période dans Graphiques. Le PDF mensuel garde chaque montant sur une ligne. Le relevé des opérations ne donne plus que le nombre d'opérations et le net.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.6.4.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.6.4.0.apk",
+  "sha256": "ec5847a2d91b8caca378eceb1ba315756ffa46f0ae832beaedf6534f145f8ea7",
+  "signature": "911f1ae2a399267d3bcf3624d75a41fd539df4447dd1d7c11ef1c2a58551431dac615ebc28d2dd25c539789b5502d7d7ce59d27755dcf34a0391b2e86add610b"
 }
