@@ -1,8 +1,8 @@
 {
-  "version": "3.6.1.0",
-  "notes": "Ma Comptabilité : un solde initial laissé vide ne vaut plus zéro en silence. La reprise d'un classeur exige le solde de chaque compte suivi, au choix le solde initial ou celui d'aujourd'hui tel que la banque l'affiche (l'autre se calcule). Un compte dont le solde initial n'a jamais été réglé est signalé dans l'onglet Comptes, avec un bouton pour le régler.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.6.1.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.6.1.0.apk",
-  "sha256": "739d1ca969cb758eb0cda50d43c4463430160653821c42b3870724b22a945c7a",
-  "signature": "2a3c70695a519393dd0cc99ea6a281ef1952b3e63039d2e4b731632a5c0d032552cb0841a69b48e96d10706e37986673cab45ba5bf19cef2e41db1b21017f702"
+  "version": "3.6.2.0",
+  "notes": "Ma Comptabilité, plus simple : les graphiques deviennent de vrais histogrammes (une colonne par poste, le total en tête, le détail par compte au survol), sans tableau de valeurs ; plus de boutons par année, toujours les 12 derniers mois. Un clic sur un compte montre toutes ses opérations depuis le début ; « Régler » donne son solde. Retirés : tout ce qui touchait à Excel (reprise et export), le PDF des graphiques, l'onglet Catégories (une catégorie se crée depuis la saisie d'une opération), les entrées et sorties à côté du nombre d'opérations.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.6.2.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.6.2.0.apk",
+  "sha256": "d74a674d94b950016cba0c4b8cb1e2f9b67a3c37edcedf0df48f4560b07fa922",
+  "signature": "c9bc09e47d07431cb0706028be619d88850b5887b2ccf59968bf5c2100f2f2e20261bfe630dc5cc89f0974c6e66a639c0f27c5aaf09841518fdc1022eacdcd0b"
 }
