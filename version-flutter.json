@@ -1,8 +1,8 @@
 {
-  "version": "3.6.3.0",
-  "notes": "Ma Comptabilité : plus de super-catégories, nulle part. Les graphiques montrent les dépenses et les recettes par catégorie, le tableau mensuel et son PDF sont par catégorie, la fenêtre d'une catégorie ne demande plus que son nom et sa nature (recette, dépense ou hors budget).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.6.3.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.6.3.0.zip",
-  "sha256": "735b7dd17e514b690d3bbd08abe86f2ba33b6650327f0b1a88d4a44a1ba71758",
-  "signature": "0dcf8c68cb7a11ffc5015f1aefc8860a64a1a13aab1e54c050ce85def3cd5a89ac1ba2264f2dddbae88fc11797a9686de92e9b2e1e7e9243a5a8f3bbf3dc4403"
+  "version": "3.6.4.0",
+  "notes": "Ma Comptabilité : les mois du tableau mensuel se lisent nettement (en blanc sur une bande de couleur, l'année dessous) ; plus de textes d'explication dans Mensuel, et seulement la période dans Graphiques. Le PDF mensuel garde chaque montant sur une ligne. Le relevé des opérations ne donne plus que le nombre d'opérations et le net.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.6.4.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.6.4.0.zip",
+  "sha256": "6fa9f6272c3b26127453aaa4bc72e114fedc47292be79cf16cbb690b0756a850",
+  "signature": "be33422f5557296c0a49ef38c77e4b558dc67c3ca43cfda41d3d7f757f11c2ef8da2c239074bedd5bce7ecdb15293e52623f613143887797e30c1c2fbdf4c903"
 }
