@@ -1,8 +1,8 @@
 {
-  "version": "3.5.0.0",
-  "notes": "Mon Budget refait à neuf : le prévu face au réel, poste par poste (14 grands postes, 58 lignes de modèle). Report d'enveloppe, ajustement d'un mois, réaffectation, préparer le mois, proposer d'après le réel. Synthèse : solde, taux d'épargne et d'endettement, part des charges fixes, reste à vivre, épargne de précaution, règle 50/30/20, base zéro. Graphiques. Tableaux mois par mois de l'année, en budget et en réel, avec les totaux. PDF du mois et de l'année. Le réel se saisit à la main, sans comptabilité ni import.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.5.0.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.5.0.0.zip",
-  "sha256": "0ba31183943716b4b7d0298cc670302508e8ec7e3f623f44074fc8c7a3eaba22",
-  "signature": "b2e89bfdce7273b5a8a6c8b54dc204cb56f44792f40b4cb65b2c4ca5d2834a7a5aed70005c690b9ae7aa843f9bd13fc005d48c32fdc71f99f6eb13c72054d403"
+  "version": "3.5.1.0",
+  "notes": "Mon Budget entre dans la Gestion des éditions : le mois en cours, puis l'année mois par mois (budget et réel), dans le dossier complet PDF ou HTML. Le bandeau des fiches de « Ma Gestion » (Mon Organisation Financière…) n'est plus blanc : l'argent y prend un gris acier, de la même intensité que les autres familles.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.5.1.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.5.1.0.zip",
+  "sha256": "157ed90d615f5663fa8a1b3a7ab373e67e29b0c5f31423d6facf7129616772ff",
+  "signature": "acc90bcb3b2cc2524c8af153ffb5374ff884394e90061c4371de8aa51df87206fc92c12c8f349f0d99051be31a4462c290cdbb7b76b0ead47ba9fd0bbf3c8c00"
 }
