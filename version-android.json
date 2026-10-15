@@ -1,8 +1,8 @@
 {
-  "version": "3.5.2.0",
-  "notes": "« Ma Gestion » passe de l'argent au rose : Mon Organisation Financière et les autres fiches de la famille ont maintenant, comme les autres formulaires, un titre, un bandeau, des libellés et des filets en couleur. Dans Mon Organisation Financière, le profil de risque, l'horizon de placement, la TMI et le régime fiscal se choisissent dans une liste ; une réponse déjà saisie est gardée.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.5.2.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.5.2.0.apk",
-  "sha256": "29e41a63ceb93377835677f440d6c3ffab00473e942ff311c80ace4c894ec3e5",
-  "signature": "7fc8c682214ed2e082ef666aae0425d1d58d9055e3d875a59df33381258865f0be228dc0124e12ed14382cb20428e1914ee809e3681553cf081be92ce08a8706"
+  "version": "3.6.0.0",
+  "notes": "Nouveau : Ma Comptabilité (Ma Gestion), simple. Elle reprend un classeur Excel (onglet Opérations : date, compte, libellé, catégorie, super-catégorie, montant, paiement) avec ses catégories et super-catégories ; chaque compte a son solde initial, et le solde d'aujourd'hui tombe juste au centime. Onglets : Comptes (soldes, courbes, recettes et dépenses), Opérations (filtres, recherche, saisie), Graphiques (dépenses et recettes par catégorie et super-catégorie, par compte), Mensuel (douze mois, total, moyenne, solde, hors budget), Catégories. PDF, classeur Excel des trois onglets, annexe dans la Gestion des éditions. Aussi : saut de page avant le réel dans le PDF de l'année du budget ; les revenus locatifs du tableau de bord s'arrêtent le lendemain de la fin du bail.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.6.0.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.6.0.0.apk",
+  "sha256": "338610adfcf109ee46adc1cba8ac1a81644a50493dea8702256b62d78646c412",
+  "signature": "e37ed09f6c23c1281b6e0eed58cbaebe7bd2b1c8d8388f305f086e57243d910388c35dfad9b82c865626d0ebf810f20f12abd11c32e5642a0d1ba3b8a3b0be03"
 }
