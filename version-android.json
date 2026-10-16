@@ -1,8 +1,8 @@
 {
-  "version": "3.8.1.0",
-  "notes": "Mon Budget : « Prévu d'après le réel » dans chaque onglet — toutes les lignes cochées d'avance, moyenne sur 12 mois, « Les lignes sans prévu » pour garder vos montants ; une sauvegarde avant, et tout s'écrit d'un coup.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.8.1.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.8.1.0.apk",
-  "sha256": "4b5c863c7fed7d1711b2162e5a77a59c5fa7944be8e31949dfcdb47ffc770e70",
-  "signature": "4239061862d1be5b20f20414971acf2de720e2189d5e6470ef72a83f5d5c52ec53fb876411db8c2b4c6fa0a685717a483cc885a405ca3e1aa59730a78f483004"
+  "version": "3.8.2.0",
+  "notes": "Téléphone : un PDF qu'on vient d'enregistrer (Courses, Gestion des éditions, Mes documents, Souvenirs, révision de loyer) s'ouvre maintenant à l'écran.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.8.2.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.8.2.0.apk",
+  "sha256": "2c39ae1f8836ea109a5c9aa1e33d30435507d70f4f681fe5129ec45163213227",
+  "signature": "3c01df208bf28d8abf585baf223b0e8826fd78251d3df39637c836c89490367516b8a0add88bd0bbe03770edf753695764409442584189e90ffc76fba792900d"
 }
