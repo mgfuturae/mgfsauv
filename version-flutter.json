@@ -1,8 +1,8 @@
 {
-  "version": "3.9.1.0",
-  "notes": "Agenda : de nouvelles icônes — danse et musique (danseuses, danseur, ballet, accordéon, violon, guitare…), culture (musée, livres, église, château), fêtes (cirque, feu d'artifice).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.9.1.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.9.1.0.zip",
-  "sha256": "0540c47db1f9896a25e416db6f4d9fcb0b0b309052a702f4effa973ce2474c6b",
-  "signature": "46cdf979b3698b155ba5ffc33618e14d178a305791f47f64422d37208105fd993efa91c92e584bcd7c1117a908809e6febd2e4a8823291da86121214d70d6b0b"
+  "version": "3.9.2.0",
+  "notes": "Agenda : des icônes country dans « Danse et musique » — chapeau de cowboy, banjo, botte, cheval.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.9.2.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.9.2.0.zip",
+  "sha256": "4196d852ee16a0585bd74d5b31d27127bc63ae166ca6c629658963f1a9088edc",
+  "signature": "dda23e2efee612bac03750f72e94a7cd40e3931c7d343a35cf14954e310dd8563f002f344a781d82dbf5335c993d6056da132265418978b8d11947dd85b2ce0b"
 }
