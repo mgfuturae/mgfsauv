@@ -1,8 +1,8 @@
 {
-  "version": "3.8.5.0",
-  "notes": "Téléphone : plus de bandeau après l'ouverture d'un PDF — le document s'affiche, c'est tout.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.8.5.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.8.5.0.zip",
-  "sha256": "1032637be7d8c43b5c2ccbbb0327954bfb5577c705cead999faf5c67360b802b",
-  "signature": "e7af8c09900a448f92b6ad13364883a194130d1d2c40dbd78618910b9364015f248c5d0917cc93890bcdb7edf988de2563709e54fdcd59ffdd6606cc025eba07"
+  "version": "3.8.6.0",
+  "notes": "PC : la croix de la fenêtre est grisée, pour ne plus quitter par erreur en fermant une image ou un document ; on quitte par l'interrupteur ⏻ en haut à droite.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.8.6.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.8.6.0.zip",
+  "sha256": "96ef2cc4c3887cd4a4147dfb0b40f20fb5cfa04b02b4577f71d061e353bbe99b",
+  "signature": "3dbfa6bb767eb2e439095d729a7b226d48fb33f34337f8d77fa7d6b6c455d6d521468295113e181b066339233c8e168f389143a6c1bbfb0bb7e77c74bb9b5505"
 }
