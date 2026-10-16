@@ -1,8 +1,8 @@
 {
-  "version": "3.8.6.0",
-  "notes": "PC : la croix de la fenêtre est grisée, pour ne plus quitter par erreur en fermant une image ou un document ; on quitte par l'interrupteur ⏻ en haut à droite.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.8.6.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.8.6.0.apk",
-  "sha256": "8a1fe4800e827f773e912e909a7b66d664ecf375a1e40d0f1e442fc18c062df9",
-  "signature": "bf5d9c20b4e85c19bca93bd11d8e2d02a5f5f6c3a3f17572555e419571a39e55dac1a2598f3c164c432b7741a3903e56e350af1bbf72eceb9283f71dd295780e"
+  "version": "3.9.0.0",
+  "notes": "Agenda : une collection d'icônes pour vos rendez-vous (santé, fêtes et sorties, repas, sport, voyages, démarches…) ; l'icône se met devant le titre. Les PDF n'écrivent plus « ? » à la place des icônes.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.9.0.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.9.0.0.apk",
+  "sha256": "4736202d1713f3cb76b208b2570be08c0c7a021d771054d2ace07689f11d8164",
+  "signature": "ca447dc566d3bf0abdb3510af0c4d25b9510c7065920c5bd69d56075e3e786cb505bbb3c7bf12855387933f579c088be956ddf0c313d6b87b0cf7f86c1277b09"
 }
