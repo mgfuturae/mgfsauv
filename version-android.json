@@ -1,8 +1,8 @@
 {
-  "version": "3.8.4.0",
-  "notes": "Téléphone : le petit bandeau après un PDF (« Une copie ailleurs… », pour ce document seulement) s'efface tout seul et se ferme par sa croix. Les autres messages à bouton s'effacent aussi tout seuls.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.8.4.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.8.4.0.apk",
-  "sha256": "7ef517ad4b2b616f6766c82e5fea935c40421bdfc57dc9006da1a433dbc9b5ec",
-  "signature": "ab9f0da2ab0aa7200cbbc37d172814fd0e6915d207ee18a62d57630318bd1cbe698e3f9cef5e993cc94807137bb326185a059d5faf242b3517c9471951248d02"
+  "version": "3.8.5.0",
+  "notes": "Téléphone : plus de bandeau après l'ouverture d'un PDF — le document s'affiche, c'est tout.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.8.5.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.8.5.0.apk",
+  "sha256": "0c5a86b7c209bd29f016a9a47696f9934dca794109b5a15534d25fbc9dd5263a",
+  "signature": "6aabccf52ac759f2d7ec7ebd6130ec7e329ea76501f43b81a8eac966c20aa13130c7560d68d9a93de20c9b570448a57211a66356c5dbb99dfb466bacd8e1ad0e"
 }
