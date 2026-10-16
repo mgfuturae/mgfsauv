@@ -1,8 +1,8 @@
 {
-  "version": "3.8.4.0",
-  "notes": "Téléphone : le petit bandeau après un PDF (« Une copie ailleurs… », pour ce document seulement) s'efface tout seul et se ferme par sa croix. Les autres messages à bouton s'effacent aussi tout seuls.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.8.4.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.8.4.0.zip",
-  "sha256": "c08b7c4ba2cf7ebe45ff3d578a788ed4a620887cf07d04fac57bd81510346a3b",
-  "signature": "331798b4e68fa4df08268bd12c72f9cbc89255f7475f51c4f2cd98a7e3a6b57e0a53ff5f3064ea72415689aadb316acae5a30ec6fc3c8e1464fd081709794f0b"
+  "version": "3.8.5.0",
+  "notes": "Téléphone : plus de bandeau après l'ouverture d'un PDF — le document s'affiche, c'est tout.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.8.5.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.8.5.0.zip",
+  "sha256": "1032637be7d8c43b5c2ccbbb0327954bfb5577c705cead999faf5c67360b802b",
+  "signature": "e7af8c09900a448f92b6ad13364883a194130d1d2c40dbd78618910b9364015f248c5d0917cc93890bcdb7edf988de2563709e54fdcd59ffdd6606cc025eba07"
 }
