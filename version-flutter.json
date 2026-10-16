@@ -1,8 +1,8 @@
 {
-  "version": "3.8.6.0",
-  "notes": "PC : la croix de la fenêtre est grisée, pour ne plus quitter par erreur en fermant une image ou un document ; on quitte par l'interrupteur ⏻ en haut à droite.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.8.6.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.8.6.0.zip",
-  "sha256": "96ef2cc4c3887cd4a4147dfb0b40f20fb5cfa04b02b4577f71d061e353bbe99b",
-  "signature": "3dbfa6bb767eb2e439095d729a7b226d48fb33f34337f8d77fa7d6b6c455d6d521468295113e181b066339233c8e168f389143a6c1bbfb0bb7e77c74bb9b5505"
+  "version": "3.9.0.0",
+  "notes": "Agenda : une collection d'icônes pour vos rendez-vous (santé, fêtes et sorties, repas, sport, voyages, démarches…) ; l'icône se met devant le titre. Les PDF n'écrivent plus « ? » à la place des icônes.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.9.0.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.9.0.0.zip",
+  "sha256": "aa4068bbfbd396692a42d7b02af36dab40a2f460434d81c29d529f526e7e1816",
+  "signature": "54d66464d619362aa2b5f9210906750c80902102148532957bfa33e2015371e93bc74a2d3b3c28d5d410bc8cf05e1e41d3bfbd0098e0f3eb408fd2e414c37c06"
 }
