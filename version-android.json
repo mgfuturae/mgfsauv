@@ -1,8 +1,8 @@
 {
-  "version": "3.8.5.0",
-  "notes": "Téléphone : plus de bandeau après l'ouverture d'un PDF — le document s'affiche, c'est tout.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.8.5.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.8.5.0.apk",
-  "sha256": "0c5a86b7c209bd29f016a9a47696f9934dca794109b5a15534d25fbc9dd5263a",
-  "signature": "6aabccf52ac759f2d7ec7ebd6130ec7e329ea76501f43b81a8eac966c20aa13130c7560d68d9a93de20c9b570448a57211a66356c5dbb99dfb466bacd8e1ad0e"
+  "version": "3.8.6.0",
+  "notes": "PC : la croix de la fenêtre est grisée, pour ne plus quitter par erreur en fermant une image ou un document ; on quitte par l'interrupteur ⏻ en haut à droite.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.8.6.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.8.6.0.apk",
+  "sha256": "8a1fe4800e827f773e912e909a7b66d664ecf375a1e40d0f1e442fc18c062df9",
+  "signature": "bf5d9c20b4e85c19bca93bd11d8e2d02a5f5f6c3a3f17572555e419571a39e55dac1a2598f3c164c432b7741a3903e56e350af1bbf72eceb9283f71dd295780e"
 }
