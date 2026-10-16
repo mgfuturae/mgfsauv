@@ -1,8 +1,8 @@
 {
-  "version": "3.8.2.0",
-  "notes": "Téléphone : un PDF qu'on vient d'enregistrer (Courses, Gestion des éditions, Mes documents, Souvenirs, révision de loyer) s'ouvre maintenant à l'écran.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.8.2.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.8.2.0.zip",
-  "sha256": "15fd1139040a20db97df3b80c2f25b2bb38d07dabecf997c6cdbfacfbb551d9b",
-  "signature": "6792dbc389b882a56925784b1825cbb33ba965211f115102e0cb7cc7af6f6ee745be6959a65329a1061263e40778b68f3da5b279a57837bc2ddca90d28ca7200"
+  "version": "3.8.3.0",
+  "notes": "Plus aucune question d'emplacement pour un PDF : fiches, rubriques, courses, courriers et guide décès, agenda, tableau de bord, souvenirs, révision de loyer, éditions — tout va dans le dossier PDF de l'application et s'ouvre aussitôt.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.8.3.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.8.3.0.zip",
+  "sha256": "cc73fe3358c399fe37440b44891129dd50d9c49eae7af63f569a54bece5e1493",
+  "signature": "a21540836e2e8c04b2ee0a49b7beec61a5bf6be9af951a2e549beeeef471f3e631cbaaed7aa5486cfc75a871aa969f7777d460407a22693086c43ff716d8220f"
 }
