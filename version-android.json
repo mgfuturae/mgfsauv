@@ -1,8 +1,8 @@
 {
-  "version": "3.8.3.0",
-  "notes": "Plus aucune question d'emplacement pour un PDF : fiches, rubriques, courses, courriers et guide décès, agenda, tableau de bord, souvenirs, révision de loyer, éditions — tout va dans le dossier PDF de l'application et s'ouvre aussitôt.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.8.3.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.8.3.0.apk",
-  "sha256": "fa43448e83634ec34730ce691250661ca20340781ad23575d29c70bd0298caf9",
-  "signature": "93c4b2d9a220f7bf8c43d56b11ef3bd42d6ddbc7f821ea4ce63cc47a152a1047f0f300c6c747ed8693de334daa88fd68f570135d0a350273f45ca2adf1957c04"
+  "version": "3.8.4.0",
+  "notes": "Téléphone : le petit bandeau après un PDF (« Une copie ailleurs… », pour ce document seulement) s'efface tout seul et se ferme par sa croix. Les autres messages à bouton s'effacent aussi tout seuls.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.8.4.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.8.4.0.apk",
+  "sha256": "7ef517ad4b2b616f6766c82e5fea935c40421bdfc57dc9006da1a433dbc9b5ec",
+  "signature": "ab9f0da2ab0aa7200cbbc37d172814fd0e6915d207ee18a62d57630318bd1cbe698e3f9cef5e993cc94807137bb326185a059d5faf242b3517c9471951248d02"
 }
