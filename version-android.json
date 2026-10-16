@@ -1,8 +1,8 @@
 {
-  "version": "3.9.1.0",
-  "notes": "Agenda : de nouvelles icônes — danse et musique (danseuses, danseur, ballet, accordéon, violon, guitare…), culture (musée, livres, église, château), fêtes (cirque, feu d'artifice).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.9.1.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.9.1.0.apk",
-  "sha256": "c6435d11b1db7c97339bd62273f421bb09b71753cf98a079135c4d421a6dd0c3",
-  "signature": "fb01508ecfbe779bfa3592279a19994aebbc1b4125bc0e4d0bd82ad90e296f1630132d7ff2e70fb2e9133b9d93647cb73d2b4d049fecec92d727d469f7591408"
+  "version": "3.9.2.0",
+  "notes": "Agenda : des icônes country dans « Danse et musique » — chapeau de cowboy, banjo, botte, cheval.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.9.2.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.9.2.0.apk",
+  "sha256": "b25121b53ad786d2b98c04a7f82836ecd4539dfca193df5e2896e64aa86ececd",
+  "signature": "b3ebb784bcf8544d49c34ad7cce5591b45aaba710eeb3c8ccef2853e2cb824a8b56b84bf9f5230a51aeee43b7b39b6247113f514b423a20d75e2a89335f94a09"
 }
