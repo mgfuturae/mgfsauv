@@ -1,8 +1,8 @@
 {
-  "version": "3.8.3.0",
-  "notes": "Plus aucune question d'emplacement pour un PDF : fiches, rubriques, courses, courriers et guide décès, agenda, tableau de bord, souvenirs, révision de loyer, éditions — tout va dans le dossier PDF de l'application et s'ouvre aussitôt.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.8.3.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.8.3.0.zip",
-  "sha256": "cc73fe3358c399fe37440b44891129dd50d9c49eae7af63f569a54bece5e1493",
-  "signature": "a21540836e2e8c04b2ee0a49b7beec61a5bf6be9af951a2e549beeeef471f3e631cbaaed7aa5486cfc75a871aa969f7777d460407a22693086c43ff716d8220f"
+  "version": "3.8.4.0",
+  "notes": "Téléphone : le petit bandeau après un PDF (« Une copie ailleurs… », pour ce document seulement) s'efface tout seul et se ferme par sa croix. Les autres messages à bouton s'effacent aussi tout seuls.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.8.4.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.8.4.0.zip",
+  "sha256": "c08b7c4ba2cf7ebe45ff3d578a788ed4a620887cf07d04fac57bd81510346a3b",
+  "signature": "331798b4e68fa4df08268bd12c72f9cbc89255f7475f51c4f2cd98a7e3a6b57e0a53ff5f3064ea72415689aadb316acae5a30ec6fc3c8e1464fd081709794f0b"
 }
