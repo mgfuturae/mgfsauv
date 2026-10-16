@@ -1,8 +1,8 @@
 {
-  "version": "3.8.1.0",
-  "notes": "Mon Budget : « Prévu d'après le réel » dans chaque onglet — toutes les lignes cochées d'avance, moyenne sur 12 mois, « Les lignes sans prévu » pour garder vos montants ; une sauvegarde avant, et tout s'écrit d'un coup.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.8.1.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.8.1.0.zip",
-  "sha256": "a4141145261e455102d4e807abb4cc71cab17983a0c0889b159ba82761fec34e",
-  "signature": "490383bed8ff2055e0f4023240f65fbfeda8f38ebed1238ff00237ed0ac53a41c50a320e4ea900471ca1bac0bf5200d77ce2cce5d83db43075fbc2ec8131b502"
+  "version": "3.8.2.0",
+  "notes": "Téléphone : un PDF qu'on vient d'enregistrer (Courses, Gestion des éditions, Mes documents, Souvenirs, révision de loyer) s'ouvre maintenant à l'écran.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.8.2.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.8.2.0.zip",
+  "sha256": "15fd1139040a20db97df3b80c2f25b2bb38d07dabecf997c6cdbfacfbb551d9b",
+  "signature": "6792dbc389b882a56925784b1825cbb33ba965211f115102e0cb7cc7af6f6ee745be6959a65329a1061263e40778b68f3da5b279a57837bc2ddca90d28ca7200"
 }
