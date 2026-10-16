@@ -1,8 +1,8 @@
 {
-  "version": "3.8.2.0",
-  "notes": "Téléphone : un PDF qu'on vient d'enregistrer (Courses, Gestion des éditions, Mes documents, Souvenirs, révision de loyer) s'ouvre maintenant à l'écran.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.8.2.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.8.2.0.apk",
-  "sha256": "2c39ae1f8836ea109a5c9aa1e33d30435507d70f4f681fe5129ec45163213227",
-  "signature": "3c01df208bf28d8abf585baf223b0e8826fd78251d3df39637c836c89490367516b8a0add88bd0bbe03770edf753695764409442584189e90ffc76fba792900d"
+  "version": "3.8.3.0",
+  "notes": "Plus aucune question d'emplacement pour un PDF : fiches, rubriques, courses, courriers et guide décès, agenda, tableau de bord, souvenirs, révision de loyer, éditions — tout va dans le dossier PDF de l'application et s'ouvre aussitôt.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.8.3.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.8.3.0.apk",
+  "sha256": "fa43448e83634ec34730ce691250661ca20340781ad23575d29c70bd0298caf9",
+  "signature": "93c4b2d9a220f7bf8c43d56b11ef3bd42d6ddbc7f821ea4ce63cc47a152a1047f0f300c6c747ed8693de334daa88fd68f570135d0a350273f45ca2adf1957c04"
 }
