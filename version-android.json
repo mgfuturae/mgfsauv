@@ -1,8 +1,8 @@
 {
-  "version": "3.9.0.0",
-  "notes": "Agenda : une collection d'icônes pour vos rendez-vous (santé, fêtes et sorties, repas, sport, voyages, démarches…) ; l'icône se met devant le titre. Les PDF n'écrivent plus « ? » à la place des icônes.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.9.0.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.9.0.0.apk",
-  "sha256": "4736202d1713f3cb76b208b2570be08c0c7a021d771054d2ace07689f11d8164",
-  "signature": "ca447dc566d3bf0abdb3510af0c4d25b9510c7065920c5bd69d56075e3e786cb505bbb3c7bf12855387933f579c088be956ddf0c313d6b87b0cf7f86c1277b09"
+  "version": "3.9.1.0",
+  "notes": "Agenda : de nouvelles icônes — danse et musique (danseuses, danseur, ballet, accordéon, violon, guitare…), culture (musée, livres, église, château), fêtes (cirque, feu d'artifice).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.9.1.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.9.1.0.apk",
+  "sha256": "c6435d11b1db7c97339bd62273f421bb09b71753cf98a079135c4d421a6dd0c3",
+  "signature": "fb01508ecfbe779bfa3592279a19994aebbc1b4125bc0e4d0bd82ad90e296f1630132d7ff2e70fb2e9133b9d93647cb73d2b4d049fecec92d727d469f7591408"
 }
