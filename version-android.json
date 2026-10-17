@@ -1,8 +1,8 @@
 {
-  "version": "3.9.2.0",
-  "notes": "Agenda : des icônes country dans « Danse et musique » — chapeau de cowboy, banjo, botte, cheval.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.9.2.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.9.2.0.apk",
-  "sha256": "b25121b53ad786d2b98c04a7f82836ecd4539dfca193df5e2896e64aa86ececd",
-  "signature": "b3ebb784bcf8544d49c34ad7cce5591b45aaba710eeb3c8ccef2853e2cb824a8b56b84bf9f5230a51aeee43b7b39b6247113f514b423a20d75e2a89335f94a09"
+  "version": "3.9.3.0",
+  "notes": "« Gestion de mes documents » s'appelle désormais « Gestion documentaire ».",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.9.3.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.9.3.0.apk",
+  "sha256": "3789ea7491e9a2897cfde87540f13572dc3444d0655258b8a7281a677c35db14",
+  "signature": "ab3d5c58f7c2a8f0367f7784f3691cfe29ecddcf4636924833113bd5a6532346c7b50d2f5c7467dfb61c5075287b76cf714e3496f271a8d7e9b001c788e8b80e"
 }
