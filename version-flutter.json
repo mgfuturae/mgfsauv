@@ -1,8 +1,8 @@
 {
-  "version": "3.9.3.0",
-  "notes": "« Gestion de mes documents » s'appelle désormais « Gestion documentaire ».",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.9.3.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.9.3.0.zip",
-  "sha256": "e2d4bd571c2804629b57ceeb9f4045828105e0ab70e4f6bfc79e8b7a4896bbaa",
-  "signature": "aa1f6476617f213a0d7d07ace75487970a48ba0de89fbc2880b60c3e5e335361a98dea4f99f8e944b9da97fddde85c5752236dea378c45059a855d416a8ffc0f"
+  "version": "3.9.4.0",
+  "notes": "Outils de l'éditeur : l'Atelier et les Livres à remplir ont leur interrupteur ⏻ pour quitter, sur PC.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.9.4.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.9.4.0.zip",
+  "sha256": "8e6da3d4854a256bcc69403c1eceb78b75dc34ffe0d98b5c6e24a08eea626b75",
+  "signature": "5235ede38106197d09807a6fa65c4d5bfe82c717022f3edc6397a0cf08c583289a80ee323c853e239a8870c25e7d227d6d26da03a23add5410e97d0c5b81a10f"
 }
