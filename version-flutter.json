@@ -1,8 +1,8 @@
 {
-  "version": "3.9.6.0",
-  "notes": "Gestion des loyers : nouvel onglet « Bail et états des lieux » — bail de location vide (contrat type en vigueur depuis le 1er octobre 2026), états des lieux d'entrée et de sortie. Évolution du patrimoine net : un point arrêté à la fin de chaque mois, et un « ? » qui explique le calcul. Tableau de bord : la carte « Financier / immobilier », en double, est retirée. La tuile « Champs remplis » est retirée des rubriques.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.9.6.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.9.6.0.zip",
-  "sha256": "c1990a8b16a4ca83e66813d70a98bd74f1b7fa7bcab084062c5c46a23d0dbe68",
-  "signature": "9afd4def0d1d97879744caeaf84ce47fe1d0c0503857a802d1677f7ea7dc5ce548e03bdf8094f16ad7737577d75c5226e1e2f1b4340c866af3f439f186b4aa0a"
+  "version": "3.9.7.0",
+  "notes": "Gestion des loyers : bail de location meublée (contrat type en vigueur depuis le 1er octobre 2026) et inventaire du mobilier dans les états des lieux d'un meublé. La fiche du bien loué gagne les zones que le bail demande (bailleur, logement, conditions du bail) : elles s'écrivent dans les deux baux. Correction : un logement « Vide (non meublée) » n'est plus signalé comme meublé.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.9.7.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.9.7.0.zip",
+  "sha256": "1cf84b13a493442a63ce7aa35f4f7b0b06bc2c03b43c7a2578ad30bc7431c8d4",
+  "signature": "9c7dda843b2aa406981899074e41356d5b4eaeb3e6dadac352c7408ba115c39bfc595ad944527abe15656df66f111b5e66b4789410a9866a4168371a596a340d"
 }
