@@ -1,8 +1,8 @@
 {
-  "version": "3.9.5.0",
-  "notes": "Maintenance de mes Biens : la tuile dit le prochain entretien et ce qu'il concerne (« dans 35 jours »), ou celui qui est en retard, en rouge.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.9.5.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.9.5.0.zip",
-  "sha256": "bef10f6bcbaa134fab07fa81cde39acc18b0f3ffc1494600c72257f65fe5bcf9",
-  "signature": "ef09b7cabd1b7e70f7169537ee45a67a089fe0e1d76a52b33fa32baff2ebbc268e0ff64a1b58fa140c1387ae8d8b49b58670d343abf77a5b72209d8a53a2950f"
+  "version": "3.9.6.0",
+  "notes": "Gestion des loyers : nouvel onglet « Bail et états des lieux » — bail de location vide (contrat type en vigueur depuis le 1er octobre 2026), états des lieux d'entrée et de sortie. Évolution du patrimoine net : un point arrêté à la fin de chaque mois, et un « ? » qui explique le calcul. Tableau de bord : la carte « Financier / immobilier », en double, est retirée. La tuile « Champs remplis » est retirée des rubriques.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.9.6.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.9.6.0.zip",
+  "sha256": "c1990a8b16a4ca83e66813d70a98bd74f1b7fa7bcab084062c5c46a23d0dbe68",
+  "signature": "9afd4def0d1d97879744caeaf84ce47fe1d0c0503857a802d1677f7ea7dc5ce548e03bdf8094f16ad7737577d75c5226e1e2f1b4340c866af3f439f186b4aa0a"
 }
