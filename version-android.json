@@ -1,8 +1,8 @@
 {
-  "version": "3.9.5.0",
-  "notes": "Maintenance de mes Biens : la tuile dit le prochain entretien et ce qu'il concerne (« dans 35 jours »), ou celui qui est en retard, en rouge.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.9.5.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.9.5.0.apk",
-  "sha256": "60252bf611b17f1d051c966a3ab28536bdb1245df9f4763a9544252289f08d8a",
-  "signature": "7db8764ebe7ecabe520a844429370b99f9a62c5532484d26dfbb3c70e7dc558d89370bd96ce6184f377d60be88ae5ea660372381e829b95f6babcf9736d7a80d"
+  "version": "3.9.6.0",
+  "notes": "Gestion des loyers : nouvel onglet « Bail et états des lieux » — bail de location vide (contrat type en vigueur depuis le 1er octobre 2026), états des lieux d'entrée et de sortie. Évolution du patrimoine net : un point arrêté à la fin de chaque mois, et un « ? » qui explique le calcul. Tableau de bord : la carte « Financier / immobilier », en double, est retirée. La tuile « Champs remplis » est retirée des rubriques.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.9.6.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.9.6.0.apk",
+  "sha256": "cc6026dd5990544efa3f6d66db5a9c7ec86c53842bf3001cfb16997e19901148",
+  "signature": "7d4f688507708eb75513c0da42ab673e79ad55d12ae870a71d01c272b7ca4d6ed756d3b76f375cff4b0b4f58e1e2f75a5c784874f9bf987f233fc4e8c8eb9f00"
 }
