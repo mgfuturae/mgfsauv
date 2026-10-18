@@ -1,8 +1,8 @@
 {
-  "version": "3.9.4.0",
-  "notes": "Outils de l'éditeur : l'Atelier et les Livres à remplir ont leur interrupteur ⏻ pour quitter, sur PC.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.9.4.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.9.4.0.zip",
-  "sha256": "8e6da3d4854a256bcc69403c1eceb78b75dc34ffe0d98b5c6e24a08eea626b75",
-  "signature": "5235ede38106197d09807a6fa65c4d5bfe82c717022f3edc6397a0cf08c583289a80ee323c853e239a8870c25e7d227d6d26da03a23add5410e97d0c5b81a10f"
+  "version": "3.9.5.0",
+  "notes": "Maintenance de mes Biens : la tuile dit le prochain entretien et ce qu'il concerne (« dans 35 jours »), ou celui qui est en retard, en rouge.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.9.5.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.9.5.0.zip",
+  "sha256": "bef10f6bcbaa134fab07fa81cde39acc18b0f3ffc1494600c72257f65fe5bcf9",
+  "signature": "ef09b7cabd1b7e70f7169537ee45a67a089fe0e1d76a52b33fa32baff2ebbc268e0ff64a1b58fa140c1387ae8d8b49b58670d343abf77a5b72209d8a53a2950f"
 }
