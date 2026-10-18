@@ -1,8 +1,8 @@
 {
-  "version": "3.9.4.0",
-  "notes": "Outils de l'éditeur : l'Atelier et les Livres à remplir ont leur interrupteur ⏻ pour quitter, sur PC.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.9.4.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.9.4.0.apk",
-  "sha256": "6aa52d47c47eac0ccc8d1d12e03ed9096522d78d353c62045379d009318044c9",
-  "signature": "8289fd5e8270695e1b7fdd08240340df2ba73e0d4800f436eab43661a4063da3c4d3ed6a6dd9dc61e939aad0f3a6c87baee45ffac5d58ed01277598f1f5ec30a"
+  "version": "3.9.5.0",
+  "notes": "Maintenance de mes Biens : la tuile dit le prochain entretien et ce qu'il concerne (« dans 35 jours »), ou celui qui est en retard, en rouge.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.9.5.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.9.5.0.apk",
+  "sha256": "60252bf611b17f1d051c966a3ab28536bdb1245df9f4763a9544252289f08d8a",
+  "signature": "7db8764ebe7ecabe520a844429370b99f9a62c5532484d26dfbb3c70e7dc558d89370bd96ce6184f377d60be88ae5ea660372381e829b95f6babcf9736d7a80d"
 }
