@@ -1,8 +1,8 @@
 {
-  "version": "3.9.6.0",
-  "notes": "Gestion des loyers : nouvel onglet « Bail et états des lieux » — bail de location vide (contrat type en vigueur depuis le 1er octobre 2026), états des lieux d'entrée et de sortie. Évolution du patrimoine net : un point arrêté à la fin de chaque mois, et un « ? » qui explique le calcul. Tableau de bord : la carte « Financier / immobilier », en double, est retirée. La tuile « Champs remplis » est retirée des rubriques.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.9.6.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.9.6.0.apk",
-  "sha256": "cc6026dd5990544efa3f6d66db5a9c7ec86c53842bf3001cfb16997e19901148",
-  "signature": "7d4f688507708eb75513c0da42ab673e79ad55d12ae870a71d01c272b7ca4d6ed756d3b76f375cff4b0b4f58e1e2f75a5c784874f9bf987f233fc4e8c8eb9f00"
+  "version": "3.9.7.0",
+  "notes": "Gestion des loyers : bail de location meublée (contrat type en vigueur depuis le 1er octobre 2026) et inventaire du mobilier dans les états des lieux d'un meublé. La fiche du bien loué gagne les zones que le bail demande (bailleur, logement, conditions du bail) : elles s'écrivent dans les deux baux. Correction : un logement « Vide (non meublée) » n'est plus signalé comme meublé.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.9.7.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.9.7.0.apk",
+  "sha256": "e5de912e63d91e19cfe860bdd7e39ea1c299bcc3ae29d842291ab3baad8a5c80",
+  "signature": "0a8de496e0b596a84f042a4ee34a42acde5b7289f9d303b2f84f90ed210147ff23ebcef2652926bb6530fd40ba434c886192def9e697679e1e17fc90ce3b2e02"
 }
