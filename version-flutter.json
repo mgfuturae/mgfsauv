@@ -1,8 +1,8 @@
 {
-  "version": "3.9.9.0",
-  "notes": "Biens loués : après la fin du bail, plus aucun loyer ni locataire dans les documents. Le guide « En cas de décès », la carte des biens, la rentabilité et la révision du loyer le disent. Les biens qui ne sont pas loués (bail terminé, ou ni locataire ni loyer) sont présentés comme « non loués » : à part dans le guide, dans le détail du patrimoine, sur la carte et dans la fiche de rentabilité.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.9.9.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.9.9.0.zip",
-  "sha256": "fda206e48b6a8c8b2dd678d1cf0e1a9c3505d196b6131f285b8ff80e0fa3c207",
-  "signature": "a39b8d20860a5c6930d449d766f7a23a8b10d67fa2b2ef39cd54189e3b1cee26f7de2c8a6d4aaf079c056e6c8606fc1b8796752bdc3b59a8097491e982239a00"
+  "version": "4.0.0.0",
+  "notes": "Opérations sur mes Biens : des opérations types à l'arrivée et au départ d'un bien, comme pour les courses. 24 à l'arrivée, 16 au départ, rangées par thème (eau, électricité, gaz et chauffage, fermeture…), avec les points de sécurité. On coche, on ajoute les siennes, et la fiche du bien les reçoit. Une check-list en PDF à emporter : cases à cocher, explications, mémo de la maison.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.0.0.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.0.0.0.zip",
+  "sha256": "1758c0f038ccb53c0db0a05f6cb25c0c2818dbb60791fef1b8d6d3b1e9de7626",
+  "signature": "15d47e82371653520c76fe2c49fa95d00fccdeff41dc5918eb02f15c6a43befed776b5dd657d60e63218deb38c48d9f0990880d6f89bf2cbe9c262bec37eeb0c"
 }
