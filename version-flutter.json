@@ -1,8 +1,8 @@
 {
-  "version": "4.0.0.0",
-  "notes": "Opérations sur mes Biens : des opérations types à l'arrivée et au départ d'un bien, comme pour les courses. 24 à l'arrivée, 16 au départ, rangées par thème (eau, électricité, gaz et chauffage, fermeture…), avec les points de sécurité. On coche, on ajoute les siennes, et la fiche du bien les reçoit. Une check-list en PDF à emporter : cases à cocher, explications, mémo de la maison.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.0.0.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.0.0.0.zip",
-  "sha256": "1758c0f038ccb53c0db0a05f6cb25c0c2818dbb60791fef1b8d6d3b1e9de7626",
-  "signature": "15d47e82371653520c76fe2c49fa95d00fccdeff41dc5918eb02f15c6a43befed776b5dd657d60e63218deb38c48d9f0990880d6f89bf2cbe9c262bec37eeb0c"
+  "version": "4.0.1.0",
+  "notes": "Mon Budget : « Vérifier avec la compta ». Mois par mois, les recettes et les dépenses de Ma Comptabilité en regard du réel du budget, avec ce qui fait la différence quand il y en a une : opérations « À classer » non envoyées, saisies du budget hors compta, compta modifiée depuis le dernier envoi. Deux boutons pour corriger : renvoyer depuis la compta, ou retirer les saisies hors compta (avec une sauvegarde avant).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.0.1.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.0.1.0.zip",
+  "sha256": "d473b2bae41b8ef2d5050278065ba0b7f678613d6fa3faa7ac0765e465b251ec",
+  "signature": "af6864ce492070eb039e4fb07b60fc7def5604f690625ccda690adf154bd3a48f708be819e6663348017702a23e8e1f0580c4ad0a42b80da7e8f6b448cb9d404"
 }
