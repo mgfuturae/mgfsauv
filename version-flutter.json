@@ -1,8 +1,8 @@
 {
-  "version": "4.0.4.0",
-  "notes": "Ma Comptabilité, import d'un relevé CSV : le solde de la banque et celui de votre compte après l'import sont présentés chacun sur sa ligne, avec l'écart — le chiffre de la banque n'est pas le résultat de l'import, qui ne cale le compte sur la banque que si « Régler le solde initial » est coché. Le message de fin d'import redonne ce bilan.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.0.4.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.0.4.0.zip",
-  "sha256": "4f7ed4edd7f229f3125d3aad1779f3b573cbdaa3ebaf8827b63e47e96b4003e8",
-  "signature": "7a0355e441061226ec4362ab8f81fb0e93d8ac181d38cd0d4024f1f0ae330e69e8317894c111e4c75f08cb7f1cfea9a9c996ede93551888a4e3809636149ea0f"
+  "version": "4.0.5.0",
+  "notes": "Ma Comptabilité : « Retrouver des opérations supprimées », dans l'onglet Opérations. Avant chaque suppression, une sauvegarde complète est écrite ; l'outil y lit les opérations qui ne sont plus dans vos comptes, avec leur total, et remet celles que vous cochez, avec leur catégorie.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.0.5.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.0.5.0.zip",
+  "sha256": "6646e69b877134e639428fc3e731e27cb8a97090babbba347a871f08025fed37",
+  "signature": "aa7d136ae5d28add5a5e8a6058b5a7bc254ed2837569c1a5575e829bd612a27b6dceb231b989498c873041522ac2a3303a275a5ca7600fa86a13f1dbe32e0105"
 }
