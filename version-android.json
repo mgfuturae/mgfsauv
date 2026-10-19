@@ -1,8 +1,8 @@
 {
-  "version": "4.0.5.0",
-  "notes": "Ma Comptabilité : « Retrouver des opérations supprimées », dans l'onglet Opérations. Avant chaque suppression, une sauvegarde complète est écrite ; l'outil y lit les opérations qui ne sont plus dans vos comptes, avec leur total, et remet celles que vous cochez, avec leur catégorie.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.0.5.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.0.5.0.apk",
-  "sha256": "4c144300aa4c28f6f01dbe5bef8cca4e0749950d1d2571e3c6ed9bc66ff56c36",
-  "signature": "19a8f09cf327103817f9a668cdd00c7d46004dc3de297e0bcaa6f403937f8626539c51e7bd36ecdbe07aaa58ec6f1c5a10ea329513914d24beea46a8e0fc3b0c"
+  "version": "4.0.6.0",
+  "notes": "Ma Comptabilité, import d'un relevé CSV : quand le relevé s'arrête avant aujourd'hui, la fenêtre prévient que le solde de sa première ligne peut être celui du jour du téléchargement (c'est le cas chez BNP Paribas, qui le date de la fin de la période demandée) — et invite à télécharger le relevé jusqu'à aujourd'hui pour une comparaison exacte. « Retrouver des opérations supprimées » est toujours visible dans l'onglet Opérations.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.0.6.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.0.6.0.apk",
+  "sha256": "cb694c7336e646339358d03c08122002a5ea3e72f9871f891e6067dc7c1a039c",
+  "signature": "314b536bc34e0ec988e11e60f0009f187c8c5e94ab17e50dd6e8dde419eb3539892ea0fc5c220fc246f6683f5b56347718a58b9ad7c518c4f565a77d82384502"
 }
