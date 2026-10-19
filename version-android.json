@@ -1,8 +1,8 @@
 {
-  "version": "4.0.3.0",
-  "notes": "Ma Comptabilité, import d'un relevé CSV : les opérations déjà saisies à la main sont reconnues même sous un autre libellé ou à la date de l'achat (même montant, cinq jours d'écart au plus) — elles ne se doublent plus, et la fenêtre les montre en regard. Un écart de solde se décompose en chiffres : la veille du relevé, le compte et la banque ; pendant le relevé, les opérations que le relevé n'a pas. Le solde initial se règle même sans opération nouvelle, et le réglage d'un compte accepte le solde d'un relevé à sa date.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.0.3.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.0.3.0.apk",
-  "sha256": "ce4abccb50cdd2b3fd661815c0eef6220da3b46910a265d44a15cc054ab8c7a2",
-  "signature": "0a96a34b9f6c39f4ae04886d5e84a24466d5689343f5793b57964488f25f57e73f67102999d2aaefcdff9f642523cf0355f494770732c1b7052d1da57950d50a"
+  "version": "4.0.4.0",
+  "notes": "Ma Comptabilité, import d'un relevé CSV : le solde de la banque et celui de votre compte après l'import sont présentés chacun sur sa ligne, avec l'écart — le chiffre de la banque n'est pas le résultat de l'import, qui ne cale le compte sur la banque que si « Régler le solde initial » est coché. Le message de fin d'import redonne ce bilan.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.0.4.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.0.4.0.apk",
+  "sha256": "f0fdfe9b0181a87209c5478b758d8927da5c1175ca510d7cd776dd611ec52a50",
+  "signature": "4b882d8f48e3f9d995ec3361dc439521e10f5412d19ad39dd8ca6cbf9b7a8115eeddaa42fee271a30180a352140d115e7bbfb8fd6c8de229e61d43fc2de9b70b"
 }
