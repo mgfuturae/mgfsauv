@@ -1,8 +1,8 @@
 {
-  "version": "4.0.6.0",
-  "notes": "Ma Comptabilité, import d'un relevé CSV : quand le relevé s'arrête avant aujourd'hui, la fenêtre prévient que le solde de sa première ligne peut être celui du jour du téléchargement (c'est le cas chez BNP Paribas, qui le date de la fin de la période demandée) — et invite à télécharger le relevé jusqu'à aujourd'hui pour une comparaison exacte. « Retrouver des opérations supprimées » est toujours visible dans l'onglet Opérations.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.0.6.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.0.6.0.apk",
-  "sha256": "cb694c7336e646339358d03c08122002a5ea3e72f9871f891e6067dc7c1a039c",
-  "signature": "314b536bc34e0ec988e11e60f0009f187c8c5e94ab17e50dd6e8dde419eb3539892ea0fc5c220fc246f6683f5b56347718a58b9ad7c518c4f565a77d82384502"
+  "version": "4.0.7.0",
+  "notes": "Agenda : le jour choisi est encadré sans décaler la barre d'un rendez-vous sur plusieurs jours — le cadre se dessine par-dessus la case, la barre reste d'un seul tenant.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.0.7.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.0.7.0.apk",
+  "sha256": "64a52d084c269624b46ed72cbcc2352e0ca6a1d4e183800147c6327596fe6d88",
+  "signature": "6f386e5c363fc76023dd63f0f32778ea872706978c4f1a9cedf9616e1ee0af2fa2f8d77402675b3c6b639d81a5a5e1c73c2361f5f6c50767ae6a969ae382e70c"
 }
