@@ -1,8 +1,8 @@
 {
-  "version": "4.0.3.0",
-  "notes": "Ma Comptabilité, import d'un relevé CSV : les opérations déjà saisies à la main sont reconnues même sous un autre libellé ou à la date de l'achat (même montant, cinq jours d'écart au plus) — elles ne se doublent plus, et la fenêtre les montre en regard. Un écart de solde se décompose en chiffres : la veille du relevé, le compte et la banque ; pendant le relevé, les opérations que le relevé n'a pas. Le solde initial se règle même sans opération nouvelle, et le réglage d'un compte accepte le solde d'un relevé à sa date.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.0.3.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.0.3.0.zip",
-  "sha256": "a1074369e305b2e0f9bf66f95d0632fa64e5b111bbf2aebfa3336cf7012aa927",
-  "signature": "52c1b16e1113dccf9d99c9e8252c745427be089864bda7d997ec4b2a7b033d2c21561a8471f0bf90e1eb99a343ab827c5990ba32e936f62531e59c87da1a9209"
+  "version": "4.0.4.0",
+  "notes": "Ma Comptabilité, import d'un relevé CSV : le solde de la banque et celui de votre compte après l'import sont présentés chacun sur sa ligne, avec l'écart — le chiffre de la banque n'est pas le résultat de l'import, qui ne cale le compte sur la banque que si « Régler le solde initial » est coché. Le message de fin d'import redonne ce bilan.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.0.4.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.0.4.0.zip",
+  "sha256": "4f7ed4edd7f229f3125d3aad1779f3b573cbdaa3ebaf8827b63e47e96b4003e8",
+  "signature": "7a0355e441061226ec4362ab8f81fb0e93d8ac181d38cd0d4024f1f0ae330e69e8317894c111e4c75f08cb7f1cfea9a9c996ede93551888a4e3809636149ea0f"
 }
