@@ -1,8 +1,8 @@
 {
-  "version": "3.9.7.0",
-  "notes": "Gestion des loyers : bail de location meublée (contrat type en vigueur depuis le 1er octobre 2026) et inventaire du mobilier dans les états des lieux d'un meublé. La fiche du bien loué gagne les zones que le bail demande (bailleur, logement, conditions du bail) : elles s'écrivent dans les deux baux. Correction : un logement « Vide (non meublée) » n'est plus signalé comme meublé.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.9.7.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.9.7.0.apk",
-  "sha256": "e5de912e63d91e19cfe860bdd7e39ea1c299bcc3ae29d842291ab3baad8a5c80",
-  "signature": "0a8de496e0b596a84f042a4ee34a42acde5b7289f9d303b2f84f90ed210147ff23ebcef2652926bb6530fd40ba434c886192def9e697679e1e17fc90ce3b2e02"
+  "version": "3.9.8.0",
+  "notes": "Rentabilité d'un meublé au réel (LMNP) : charges, intérêts du crédit et amortissements du bien (hors terrain) et du mobilier déduits, sans créer de déficit ; deux nouvelles zones dans la fiche du bien loué (valeur du mobilier, part du terrain) ; la fiche de rentabilité compare micro-BIC et réel. Bail et états des lieux : « État de chaque pièce » commence sur une nouvelle page, aucune pièce ni aucun titre coupé en bas de page, signatures d'un seul tenant. Un avertissement rappelle que le logiciel est un outil d'aide à la gestion : affiché une fois à l'ouverture, puis dans les Réglages de l'application.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.9.8.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.9.8.0.apk",
+  "sha256": "d598334cb33d6c4233f34897b0c37b0de98a59dd81a5f3de28b849cb7a025e25",
+  "signature": "a985fd2682d93ca9bff575b9c2fafa369be0e58d3293567dc1ec185d1e055ac73fe43a48be946f268d90bc546a00ee2f11eefb5f6cb2f7c9458dfad3aff78b03"
 }
