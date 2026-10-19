@@ -1,8 +1,8 @@
 {
-  "version": "3.9.9.0",
-  "notes": "Biens loués : après la fin du bail, plus aucun loyer ni locataire dans les documents. Le guide « En cas de décès », la carte des biens, la rentabilité et la révision du loyer le disent. Les biens qui ne sont pas loués (bail terminé, ou ni locataire ni loyer) sont présentés comme « non loués » : à part dans le guide, dans le détail du patrimoine, sur la carte et dans la fiche de rentabilité.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-3.9.9.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-3.9.9.0.apk",
-  "sha256": "eedc15ebafc5df00c84bbe4a3a3b170b645b4b0a1a0f74bf0ce6bbc207869a9d",
-  "signature": "09f8f0772fff10118979d02b5f06a55c93c622d2df197e296bbaf0a2e33aee4c40506ea067f1c7046c27287d426dd9640581f2230f543aa1fdbac39c6df07107"
+  "version": "4.0.0.0",
+  "notes": "Opérations sur mes Biens : des opérations types à l'arrivée et au départ d'un bien, comme pour les courses. 24 à l'arrivée, 16 au départ, rangées par thème (eau, électricité, gaz et chauffage, fermeture…), avec les points de sécurité. On coche, on ajoute les siennes, et la fiche du bien les reçoit. Une check-list en PDF à emporter : cases à cocher, explications, mémo de la maison.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.0.0.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.0.0.0.apk",
+  "sha256": "8b1dbfc6db2fb5121d34fcc0699b52c50bed12fd919ff63ecf756dccd959382d",
+  "signature": "edc0657260e883efefc1cd1d66c83fc00d23a66fc0c4b22268a15bd17e7874f4bdf38970c21dc9cdfebb26a19ee094163eb9b819e1cc7e6444f0c6be602bd308"
 }
