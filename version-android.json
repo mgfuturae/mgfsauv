@@ -1,8 +1,8 @@
 {
-  "version": "4.0.0.0",
-  "notes": "Opérations sur mes Biens : des opérations types à l'arrivée et au départ d'un bien, comme pour les courses. 24 à l'arrivée, 16 au départ, rangées par thème (eau, électricité, gaz et chauffage, fermeture…), avec les points de sécurité. On coche, on ajoute les siennes, et la fiche du bien les reçoit. Une check-list en PDF à emporter : cases à cocher, explications, mémo de la maison.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.0.0.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.0.0.0.apk",
-  "sha256": "8b1dbfc6db2fb5121d34fcc0699b52c50bed12fd919ff63ecf756dccd959382d",
-  "signature": "edc0657260e883efefc1cd1d66c83fc00d23a66fc0c4b22268a15bd17e7874f4bdf38970c21dc9cdfebb26a19ee094163eb9b819e1cc7e6444f0c6be602bd308"
+  "version": "4.0.1.0",
+  "notes": "Mon Budget : « Vérifier avec la compta ». Mois par mois, les recettes et les dépenses de Ma Comptabilité en regard du réel du budget, avec ce qui fait la différence quand il y en a une : opérations « À classer » non envoyées, saisies du budget hors compta, compta modifiée depuis le dernier envoi. Deux boutons pour corriger : renvoyer depuis la compta, ou retirer les saisies hors compta (avec une sauvegarde avant).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.0.1.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.0.1.0.apk",
+  "sha256": "fd866516e3f079910883b83a5837eb40a1f72ecb52f71bf566c017ac09778fb8",
+  "signature": "b48ea117a1a3955777f5256ab28191ced6ada4f0e80e0ca66e1a97090b995f2a81f66d8d882dc0ba44a828b9a84e85f223e2388e191e5100dc5d5f3ac514390d"
 }
