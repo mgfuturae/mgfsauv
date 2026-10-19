@@ -1,8 +1,8 @@
 {
-  "version": "3.9.7.0",
-  "notes": "Gestion des loyers : bail de location meublée (contrat type en vigueur depuis le 1er octobre 2026) et inventaire du mobilier dans les états des lieux d'un meublé. La fiche du bien loué gagne les zones que le bail demande (bailleur, logement, conditions du bail) : elles s'écrivent dans les deux baux. Correction : un logement « Vide (non meublée) » n'est plus signalé comme meublé.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.9.7.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.9.7.0.zip",
-  "sha256": "1cf84b13a493442a63ce7aa35f4f7b0b06bc2c03b43c7a2578ad30bc7431c8d4",
-  "signature": "9c7dda843b2aa406981899074e41356d5b4eaeb3e6dadac352c7408ba115c39bfc595ad944527abe15656df66f111b5e66b4789410a9866a4168371a596a340d"
+  "version": "3.9.8.0",
+  "notes": "Rentabilité d'un meublé au réel (LMNP) : charges, intérêts du crédit et amortissements du bien (hors terrain) et du mobilier déduits, sans créer de déficit ; deux nouvelles zones dans la fiche du bien loué (valeur du mobilier, part du terrain) ; la fiche de rentabilité compare micro-BIC et réel. Bail et états des lieux : « État de chaque pièce » commence sur une nouvelle page, aucune pièce ni aucun titre coupé en bas de page, signatures d'un seul tenant. Un avertissement rappelle que le logiciel est un outil d'aide à la gestion : affiché une fois à l'ouverture, puis dans les Réglages de l'application.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.9.8.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.9.8.0.zip",
+  "sha256": "016fc40c4b26756a14f22804db6199e76592662458a97f97ddb572159ca8f02a",
+  "signature": "421a25bc2a706eea14bcc5073abd841b72df605b5abbb84dd3dc5d1f147d24486249aec3e1224c9ae7fad148edc1c90b4a1cf2a164ad56164060762f43648d0f"
 }
