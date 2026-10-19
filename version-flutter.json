@@ -1,8 +1,8 @@
 {
-  "version": "4.0.1.0",
-  "notes": "Mon Budget : « Vérifier avec la compta ». Mois par mois, les recettes et les dépenses de Ma Comptabilité en regard du réel du budget, avec ce qui fait la différence quand il y en a une : opérations « À classer » non envoyées, saisies du budget hors compta, compta modifiée depuis le dernier envoi. Deux boutons pour corriger : renvoyer depuis la compta, ou retirer les saisies hors compta (avec une sauvegarde avant).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.0.1.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.0.1.0.zip",
-  "sha256": "d473b2bae41b8ef2d5050278065ba0b7f678613d6fa3faa7ac0765e465b251ec",
-  "signature": "af6864ce492070eb039e4fb07b60fc7def5604f690625ccda690adf154bd3a48f708be819e6663348017702a23e8e1f0580c4ad0a42b80da7e8f6b448cb9d404"
+  "version": "4.0.2.0",
+  "notes": "Ma Comptabilité, import d'un relevé CSV : les relevés BNP Paribas (ligne du compte et de son solde en tête, sans titres) se lisent du premier coup ; le séparateur ne se confond plus avec la virgule des montants ; un réglage manqué retenu pour un compte ne gâche plus le fichier suivant. L'import lit le solde que la banque écrit, le compare à celui du compte, et peut régler le solde initial pour retrouver le solde de la banque.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.0.2.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.0.2.0.zip",
+  "sha256": "7c6d4ec6a0f76e30833b4eb88c0e67f1659eaef2272eb4a1c1b992ed8a2ed200",
+  "signature": "8a4cefa72f4472218d23b925297bbdba901b6b696ade5b228b2ac90820190d367ac88c8352e73e5cd36f0356efee6647e6eb733fc291665d3409b9e05788b302"
 }
