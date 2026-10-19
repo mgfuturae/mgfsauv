@@ -1,8 +1,8 @@
 {
-  "version": "4.0.1.0",
-  "notes": "Mon Budget : « Vérifier avec la compta ». Mois par mois, les recettes et les dépenses de Ma Comptabilité en regard du réel du budget, avec ce qui fait la différence quand il y en a une : opérations « À classer » non envoyées, saisies du budget hors compta, compta modifiée depuis le dernier envoi. Deux boutons pour corriger : renvoyer depuis la compta, ou retirer les saisies hors compta (avec une sauvegarde avant).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.0.1.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.0.1.0.apk",
-  "sha256": "fd866516e3f079910883b83a5837eb40a1f72ecb52f71bf566c017ac09778fb8",
-  "signature": "b48ea117a1a3955777f5256ab28191ced6ada4f0e80e0ca66e1a97090b995f2a81f66d8d882dc0ba44a828b9a84e85f223e2388e191e5100dc5d5f3ac514390d"
+  "version": "4.0.2.0",
+  "notes": "Ma Comptabilité, import d'un relevé CSV : les relevés BNP Paribas (ligne du compte et de son solde en tête, sans titres) se lisent du premier coup ; le séparateur ne se confond plus avec la virgule des montants ; un réglage manqué retenu pour un compte ne gâche plus le fichier suivant. L'import lit le solde que la banque écrit, le compare à celui du compte, et peut régler le solde initial pour retrouver le solde de la banque.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.0.2.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.0.2.0.apk",
+  "sha256": "d24b3b615e8e5897817cc9cfafc99202ff3dbe274162e73ca1c647a6d473c106",
+  "signature": "c83d57dbb3eac6609104c5215c62e103f2295f98f30ab20c1252cb2348caf91e67b965c3fbce3c209f98c1344f6fefc26eefd68095ea140ade852c94af775c0e"
 }
