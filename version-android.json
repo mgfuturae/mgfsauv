@@ -1,8 +1,8 @@
 {
-  "version": "4.0.4.0",
-  "notes": "Ma Comptabilité, import d'un relevé CSV : le solde de la banque et celui de votre compte après l'import sont présentés chacun sur sa ligne, avec l'écart — le chiffre de la banque n'est pas le résultat de l'import, qui ne cale le compte sur la banque que si « Régler le solde initial » est coché. Le message de fin d'import redonne ce bilan.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.0.4.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.0.4.0.apk",
-  "sha256": "f0fdfe9b0181a87209c5478b758d8927da5c1175ca510d7cd776dd611ec52a50",
-  "signature": "4b882d8f48e3f9d995ec3361dc439521e10f5412d19ad39dd8ca6cbf9b7a8115eeddaa42fee271a30180a352140d115e7bbfb8fd6c8de229e61d43fc2de9b70b"
+  "version": "4.0.5.0",
+  "notes": "Ma Comptabilité : « Retrouver des opérations supprimées », dans l'onglet Opérations. Avant chaque suppression, une sauvegarde complète est écrite ; l'outil y lit les opérations qui ne sont plus dans vos comptes, avec leur total, et remet celles que vous cochez, avec leur catégorie.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.0.5.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.0.5.0.apk",
+  "sha256": "4c144300aa4c28f6f01dbe5bef8cca4e0749950d1d2571e3c6ed9bc66ff56c36",
+  "signature": "19a8f09cf327103817f9a668cdd00c7d46004dc3de297e0bcaa6f403937f8626539c51e7bd36ecdbe07aaa58ec6f1c5a10ea329513914d24beea46a8e0fc3b0c"
 }
