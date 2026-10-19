@@ -1,8 +1,8 @@
 {
-  "version": "4.0.6.0",
-  "notes": "Ma Comptabilité, import d'un relevé CSV : quand le relevé s'arrête avant aujourd'hui, la fenêtre prévient que le solde de sa première ligne peut être celui du jour du téléchargement (c'est le cas chez BNP Paribas, qui le date de la fin de la période demandée) — et invite à télécharger le relevé jusqu'à aujourd'hui pour une comparaison exacte. « Retrouver des opérations supprimées » est toujours visible dans l'onglet Opérations.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.0.6.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.0.6.0.zip",
-  "sha256": "68c096ac01c9b8ad991992a58cc9ec06b95290b52f7e1c40c1b8b5c87a84d817",
-  "signature": "73f9f68641f86f547e59c60d1da30241b1463aadcecd1d83c2b2ad1ec9f0196e8c195c4f47584ca9138d6f1e7ba27e5d756a44928511d28594146959c543070c"
+  "version": "4.0.7.0",
+  "notes": "Agenda : le jour choisi est encadré sans décaler la barre d'un rendez-vous sur plusieurs jours — le cadre se dessine par-dessus la case, la barre reste d'un seul tenant.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.0.7.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.0.7.0.zip",
+  "sha256": "07e2f479f0c396ae83a76f8f2b2444fc9ae5b1d1b1dc382a25ad500f337696da",
+  "signature": "ef0a2a162a5ad0996019a742e3b82055821bfa1bd845cc3a7e7bda3a20e86b20e3836c1dcbb1647b6bda7c99a215f39a8854395aa22dca9416ebab03e386e502"
 }
