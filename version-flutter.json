@@ -1,8 +1,8 @@
 {
-  "version": "3.9.8.0",
-  "notes": "Rentabilité d'un meublé au réel (LMNP) : charges, intérêts du crédit et amortissements du bien (hors terrain) et du mobilier déduits, sans créer de déficit ; deux nouvelles zones dans la fiche du bien loué (valeur du mobilier, part du terrain) ; la fiche de rentabilité compare micro-BIC et réel. Bail et états des lieux : « État de chaque pièce » commence sur une nouvelle page, aucune pièce ni aucun titre coupé en bas de page, signatures d'un seul tenant. Un avertissement rappelle que le logiciel est un outil d'aide à la gestion : affiché une fois à l'ouverture, puis dans les Réglages de l'application.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.9.8.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.9.8.0.zip",
-  "sha256": "016fc40c4b26756a14f22804db6199e76592662458a97f97ddb572159ca8f02a",
-  "signature": "421a25bc2a706eea14bcc5073abd841b72df605b5abbb84dd3dc5d1f147d24486249aec3e1224c9ae7fad148edc1c90b4a1cf2a164ad56164060762f43648d0f"
+  "version": "3.9.9.0",
+  "notes": "Biens loués : après la fin du bail, plus aucun loyer ni locataire dans les documents. Le guide « En cas de décès », la carte des biens, la rentabilité et la révision du loyer le disent. Les biens qui ne sont pas loués (bail terminé, ou ni locataire ni loyer) sont présentés comme « non loués » : à part dans le guide, dans le détail du patrimoine, sur la carte et dans la fiche de rentabilité.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-3.9.9.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-3.9.9.0.zip",
+  "sha256": "fda206e48b6a8c8b2dd678d1cf0e1a9c3505d196b6131f285b8ff80e0fa3c207",
+  "signature": "a39b8d20860a5c6930d449d766f7a23a8b10d67fa2b2ef39cd54189e3b1cee26f7de2c8a6d4aaf079c056e6c8606fc1b8796752bdc3b59a8097491e982239a00"
 }
