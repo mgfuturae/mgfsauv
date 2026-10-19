@@ -1,8 +1,8 @@
 {
-  "version": "4.0.2.0",
-  "notes": "Ma Comptabilité, import d'un relevé CSV : les relevés BNP Paribas (ligne du compte et de son solde en tête, sans titres) se lisent du premier coup ; le séparateur ne se confond plus avec la virgule des montants ; un réglage manqué retenu pour un compte ne gâche plus le fichier suivant. L'import lit le solde que la banque écrit, le compare à celui du compte, et peut régler le solde initial pour retrouver le solde de la banque.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.0.2.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.0.2.0.zip",
-  "sha256": "7c6d4ec6a0f76e30833b4eb88c0e67f1659eaef2272eb4a1c1b992ed8a2ed200",
-  "signature": "8a4cefa72f4472218d23b925297bbdba901b6b696ade5b228b2ac90820190d367ac88c8352e73e5cd36f0356efee6647e6eb733fc291665d3409b9e05788b302"
+  "version": "4.0.3.0",
+  "notes": "Ma Comptabilité, import d'un relevé CSV : les opérations déjà saisies à la main sont reconnues même sous un autre libellé ou à la date de l'achat (même montant, cinq jours d'écart au plus) — elles ne se doublent plus, et la fenêtre les montre en regard. Un écart de solde se décompose en chiffres : la veille du relevé, le compte et la banque ; pendant le relevé, les opérations que le relevé n'a pas. Le solde initial se règle même sans opération nouvelle, et le réglage d'un compte accepte le solde d'un relevé à sa date.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.0.3.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.0.3.0.zip",
+  "sha256": "a1074369e305b2e0f9bf66f95d0632fa64e5b111bbf2aebfa3336cf7012aa927",
+  "signature": "52c1b16e1113dccf9d99c9e8252c745427be089864bda7d997ec4b2a7b033d2c21561a8471f0bf90e1eb99a343ab827c5990ba32e936f62531e59c87da1a9209"
 }
