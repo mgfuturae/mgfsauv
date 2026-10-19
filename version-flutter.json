@@ -1,8 +1,8 @@
 {
-  "version": "4.0.5.0",
-  "notes": "Ma Comptabilité : « Retrouver des opérations supprimées », dans l'onglet Opérations. Avant chaque suppression, une sauvegarde complète est écrite ; l'outil y lit les opérations qui ne sont plus dans vos comptes, avec leur total, et remet celles que vous cochez, avec leur catégorie.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.0.5.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.0.5.0.zip",
-  "sha256": "6646e69b877134e639428fc3e731e27cb8a97090babbba347a871f08025fed37",
-  "signature": "aa7d136ae5d28add5a5e8a6058b5a7bc254ed2837569c1a5575e829bd612a27b6dceb231b989498c873041522ac2a3303a275a5ca7600fa86a13f1dbe32e0105"
+  "version": "4.0.6.0",
+  "notes": "Ma Comptabilité, import d'un relevé CSV : quand le relevé s'arrête avant aujourd'hui, la fenêtre prévient que le solde de sa première ligne peut être celui du jour du téléchargement (c'est le cas chez BNP Paribas, qui le date de la fin de la période demandée) — et invite à télécharger le relevé jusqu'à aujourd'hui pour une comparaison exacte. « Retrouver des opérations supprimées » est toujours visible dans l'onglet Opérations.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.0.6.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.0.6.0.zip",
+  "sha256": "68c096ac01c9b8ad991992a58cc9ec06b95290b52f7e1c40c1b8b5c87a84d817",
+  "signature": "73f9f68641f86f547e59c60d1da30241b1463aadcecd1d83c2b2ad1ec9f0196e8c195c4f47584ca9138d6f1e7ba27e5d756a44928511d28594146959c543070c"
 }
