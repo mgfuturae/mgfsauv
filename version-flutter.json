@@ -1,8 +1,8 @@
 {
-  "version": "4.0.7.0",
-  "notes": "Agenda : le jour choisi est encadré sans décaler la barre d'un rendez-vous sur plusieurs jours — le cadre se dessine par-dessus la case, la barre reste d'un seul tenant.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.0.7.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.0.7.0.zip",
-  "sha256": "07e2f479f0c396ae83a76f8f2b2444fc9ae5b1d1b1dc382a25ad500f337696da",
-  "signature": "ef0a2a162a5ad0996019a742e3b82055821bfa1bd845cc3a7e7bda3a20e86b20e3836c1dcbb1647b6bda7c99a215f39a8854395aa22dca9416ebab03e386e502"
+  "version": "4.0.8.0",
+  "notes": "Agenda : un rendez-vous répété se supprime du premier coup. Quand la même série existe en deux exemplaires partis de dates différentes (l'un saisi ici, l'autre revenu du téléphone), l'agenda les montre en une seule ligne ; la poubelle les reconnaît désormais tous les deux et les supprime ensemble.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.0.8.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.0.8.0.zip",
+  "sha256": "9e5e2694cc9daff0c335158ceae8206aa5b539c16305836843d61e6381b8be0c",
+  "signature": "8fc9fa3999bd8935a2c9d2dac1ed87638d449bf287f7e56005c3734a6df55deea8e83c86898fd344f1e9078cd513452b6a0b45442d4afc2811d1979ba0311a03"
 }
