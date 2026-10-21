@@ -1,8 +1,8 @@
 {
-  "version": "4.0.7.0",
-  "notes": "Agenda : le jour choisi est encadré sans décaler la barre d'un rendez-vous sur plusieurs jours — le cadre se dessine par-dessus la case, la barre reste d'un seul tenant.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.0.7.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.0.7.0.apk",
-  "sha256": "64a52d084c269624b46ed72cbcc2352e0ca6a1d4e183800147c6327596fe6d88",
-  "signature": "6f386e5c363fc76023dd63f0f32778ea872706978c4f1a9cedf9616e1ee0af2fa2f8d77402675b3c6b639d81a5a5e1c73c2361f5f6c50767ae6a969ae382e70c"
+  "version": "4.0.8.0",
+  "notes": "Agenda : un rendez-vous répété se supprime du premier coup. Quand la même série existe en deux exemplaires partis de dates différentes (l'un saisi ici, l'autre revenu du téléphone), l'agenda les montre en une seule ligne ; la poubelle les reconnaît désormais tous les deux et les supprime ensemble.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.0.8.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.0.8.0.apk",
+  "sha256": "55882214d7fbd38244b3bdcf1949b622706c39cc30cc6107f6b05906ce8259e0",
+  "signature": "8d4d0d727f3fa149ddee0ba94222f6ba063473e4dabc2110af4c31f1c7bf0520a29d6a2ae17a0e4b8bcdf2b6a0d4fbf4df9596dd234c0c9911138925a363f700"
 }
