@@ -1,8 +1,8 @@
 {
-  "version": "4.0.9.0",
-  "notes": "Android : un widget d'agenda pour l'écran d'accueil. Il montre les rendez-vous des 31 jours à venir, jour par jour (Aujourd'hui, Demain…), avec l'horaire, le titre et la couleur de chacun, et peut prendre tout l'écran. Il se met à jour à chaque ouverture de l'application, à chaque saisie et après chaque échange avec le téléphone ; un toucher ouvre MANAGE FUTURAE. Pour le poser : appui long sur l'écran d'accueil, Widgets, MANAGE FUTURAE.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.0.9.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.0.9.0.apk",
-  "sha256": "4b0356b5dc4f0dc48c008feda30ff673cde79ac90cbfcf958101bb3f773af900",
-  "signature": "96ee49a3af7e1c715c98df9225261fff9be2cbb35adb0d522fc13a158f27569b39ee5a8fd13209e712b6a7b4756099f220515c19cd0b7977ce5405f136aa5307"
+  "version": "4.1.0.0",
+  "notes": "Le widget d'agenda d'Android devient la grille du mois : ‹ et › changent de mois, ＋ ajoute un rendez-vous. Un jour touché ouvre l'agenda seul, sans mot de passe et sans le reste de l'application ; ce qu'on y saisit part aussitôt au PC. Tant que le widget est posé, il va chercher environ toutes les 30 minutes les rendez-vous pris sur le PC, sans rien ouvrir.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.1.0.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.1.0.0.apk",
+  "sha256": "563ddff4aed6afad95bc31545a5433c1e0e4609c45b468ffcca6b29d2d9e3513",
+  "signature": "847957c4c33e50c04e5df82b1d97be6f83a2aa358b6e154eef331d79015d376f6ceb3ed317f09b4e310585edeb591734874eba6183b824918b42110db9f2890e"
 }
