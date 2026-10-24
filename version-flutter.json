@@ -1,8 +1,8 @@
 {
-  "version": "4.1.1.0",
-  "notes": "Correction urgente : la 4.1.0.0 se refermait au lancement sur Android. C'est réparé. Le widget garde sa grille du mois et l'agenda seul ; il se met à jour quand l'application ou l'agenda seul est ouvert.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.1.1.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.1.1.0.zip",
-  "sha256": "7690e13eb89fed92d4c79d1e17312c1adbbdb7e536c20cf65dd06b6971fa6ced",
-  "signature": "3a14b526fa0b417250e9824d9803595d6938fd1732ad858420afbd12d86c8e3ba9ff1e7ac71a341104b32ed293a2068da6fd8b1fab2f1720502a915316ef7403"
+  "version": "4.1.2.0",
+  "notes": "Widget d'agenda : toucher un jour ou ＋ n'affiche plus « Null check operator used on a null value ». Dans les petites cases, les rendez-vous passent avant les bandes des séjours et des vacances, et plus rien n'est coupé.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.1.2.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.1.2.0.zip",
+  "sha256": "030e10899d382242f583d8ae49f26b3e5602ae9e7a9b0d60cb029662e3f3cf2e",
+  "signature": "f32b0480229764c0c8f4aff2d7ef43366bb3a641e4868b652c8f2b30226d5d66af587f4a2355908d3fb54e9f0197da5d178c9a00f3fc09222d92f095a5421705"
 }
