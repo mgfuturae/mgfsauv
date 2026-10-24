@@ -1,8 +1,8 @@
 {
-  "version": "4.0.8.0",
-  "notes": "Agenda : un rendez-vous répété se supprime du premier coup. Quand la même série existe en deux exemplaires partis de dates différentes (l'un saisi ici, l'autre revenu du téléphone), l'agenda les montre en une seule ligne ; la poubelle les reconnaît désormais tous les deux et les supprime ensemble.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.0.8.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.0.8.0.zip",
-  "sha256": "9e5e2694cc9daff0c335158ceae8206aa5b539c16305836843d61e6381b8be0c",
-  "signature": "8fc9fa3999bd8935a2c9d2dac1ed87638d449bf287f7e56005c3734a6df55deea8e83c86898fd344f1e9078cd513452b6a0b45442d4afc2811d1979ba0311a03"
+  "version": "4.0.9.0",
+  "notes": "Android : un widget d'agenda pour l'écran d'accueil. Il montre les rendez-vous des 31 jours à venir, jour par jour (Aujourd'hui, Demain…), avec l'horaire, le titre et la couleur de chacun, et peut prendre tout l'écran. Il se met à jour à chaque ouverture de l'application, à chaque saisie et après chaque échange avec le téléphone ; un toucher ouvre MANAGE FUTURAE. Pour le poser : appui long sur l'écran d'accueil, Widgets, MANAGE FUTURAE.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.0.9.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.0.9.0.zip",
+  "sha256": "f7597812538eab7dc8a2155d44eaa38fb05c10c13a4a998a64458c8a8ee80855",
+  "signature": "e5e14499b8ce9bca63721551fd133e808b76e31b5f391e82ec116e05e5db0e739ea0c0e3d5b87e3ff4b7a991acfb8a2f288b00c08f260d87df896db9969f9c02"
 }
