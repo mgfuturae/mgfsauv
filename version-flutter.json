@@ -1,8 +1,8 @@
 {
-  "version": "4.1.2.0",
-  "notes": "Widget d'agenda : toucher un jour ou ＋ n'affiche plus « Null check operator used on a null value ». Dans les petites cases, les rendez-vous passent avant les bandes des séjours et des vacances, et plus rien n'est coupé.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.1.2.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.1.2.0.zip",
-  "sha256": "030e10899d382242f583d8ae49f26b3e5602ae9e7a9b0d60cb029662e3f3cf2e",
-  "signature": "f32b0480229764c0c8f4aff2d7ef43366bb3a641e4868b652c8f2b30226d5d66af587f4a2355908d3fb54e9f0197da5d178c9a00f3fc09222d92f095a5421705"
+  "version": "4.1.3.0",
+  "notes": "Agenda : nouvelles icônes Nature (tulipe, trèfle à quatre feuilles, papillon, tortue). Widget : textes plus grands ; quand la case est petite, le nombre de rendez-vous cachés s'affiche à côté du jour (« 24 +3 »).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.1.3.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.1.3.0.zip",
+  "sha256": "298d0d864ab6fd4e6c8748887be8ca628241645037aa6e64bad6390a124ff581",
+  "signature": "dd2caabda0fd1b0f5c7997db41f1e2e5bf8f9e212a71d24a3887d49600784e29bf4eb3fb2eef291c43f2fbbf6a043170b67c8b32a678e1218335bd94cc97d605"
 }
