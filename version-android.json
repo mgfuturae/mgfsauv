@@ -1,8 +1,8 @@
 {
-  "version": "4.1.0.0",
-  "notes": "Le widget d'agenda d'Android devient la grille du mois : ‹ et › changent de mois, ＋ ajoute un rendez-vous. Un jour touché ouvre l'agenda seul, sans mot de passe et sans le reste de l'application ; ce qu'on y saisit part aussitôt au PC. Tant que le widget est posé, il va chercher environ toutes les 30 minutes les rendez-vous pris sur le PC, sans rien ouvrir.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.1.0.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.1.0.0.apk",
-  "sha256": "563ddff4aed6afad95bc31545a5433c1e0e4609c45b468ffcca6b29d2d9e3513",
-  "signature": "847957c4c33e50c04e5df82b1d97be6f83a2aa358b6e154eef331d79015d376f6ceb3ed317f09b4e310585edeb591734874eba6183b824918b42110db9f2890e"
+  "version": "4.1.1.0",
+  "notes": "Correction urgente : la 4.1.0.0 se refermait au lancement sur Android. C'est réparé. Le widget garde sa grille du mois et l'agenda seul ; il se met à jour quand l'application ou l'agenda seul est ouvert.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.1.1.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.1.1.0.apk",
+  "sha256": "8a2196e893591e5100664cd5efb53067668782af434dcc94fc773f51930bd6b2",
+  "signature": "2c5791a2b16c34dfe6efd7c0c1bbe4c841a7705c2859a159379e27468ecefaaea2716811a6585e086fdb9f978dedfdce2e6a1a6816408ff736a256a9b9bb8209"
 }
