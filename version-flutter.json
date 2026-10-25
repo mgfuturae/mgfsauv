@@ -1,8 +1,8 @@
 {
-  "version": "4.1.3.0",
-  "notes": "Agenda : nouvelles icônes Nature (tulipe, trèfle à quatre feuilles, papillon, tortue). Widget : textes plus grands ; quand la case est petite, le nombre de rendez-vous cachés s'affiche à côté du jour (« 24 +3 »).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.1.3.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.1.3.0.zip",
-  "sha256": "298d0d864ab6fd4e6c8748887be8ca628241645037aa6e64bad6390a124ff581",
-  "signature": "dd2caabda0fd1b0f5c7997db41f1e2e5bf8f9e212a71d24a3887d49600784e29bf4eb3fb2eef291c43f2fbbf6a043170b67c8b32a678e1218335bd94cc97d605"
+  "version": "4.1.4.0",
+  "notes": "Agenda : la couleur choisie d'un rendez-vous (séjours compris) passe maintenant du PC au téléphone et inversement. Les rendez-vous déjà colorés sont renvoyés une fois au site, sans rien changer d'autre.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.1.4.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.1.4.0.zip",
+  "sha256": "e46bd7451aafaa60958248b36b28672113fa0abdc2436c6ad624d392df50bf7e",
+  "signature": "3aee6d30f6da9b0070bd2d96826df6b7ebfac2c5b7378632faece6746910521a6677aecfda9be75da0f30b769f77ea9d195713e7ab4a17f7dc09a1855465ae0c"
 }
