@@ -1,8 +1,8 @@
 {
-  "version": "4.1.3.0",
-  "notes": "Agenda : nouvelles icônes Nature (tulipe, trèfle à quatre feuilles, papillon, tortue). Widget : textes plus grands ; quand la case est petite, le nombre de rendez-vous cachés s'affiche à côté du jour (« 24 +3 »).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.1.3.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.1.3.0.apk",
-  "sha256": "cc96bea77c538f74632f4499426caa8376c772ec201d0ad304fd972a4636d6c6",
-  "signature": "8e9b5bc4f2e3339a7436059c729344d7cb4870a8796936ee22a179b15bb0a9bff56dba172bf66d4cfce6c39e4b56940eed5b76185d4d6a5b6f9719a19d71460c"
+  "version": "4.1.4.0",
+  "notes": "Agenda : la couleur choisie d'un rendez-vous (séjours compris) passe maintenant du PC au téléphone et inversement. Les rendez-vous déjà colorés sont renvoyés une fois au site, sans rien changer d'autre.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.1.4.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.1.4.0.apk",
+  "sha256": "39ac7cdec48dc6e359ac20e518d11e4198271118e9127e22442e2dec53c7f391",
+  "signature": "5ac1fa097fcd4f7824bbf227953eb8abbd375beb10eb7332c73835dd4b4df1c4eb0e14a0ec8a6ff7e0b5eeeb913c2e76de917a9f1636415328bac2531eed3d0f"
 }
