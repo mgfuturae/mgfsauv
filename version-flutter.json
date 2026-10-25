@@ -1,8 +1,8 @@
 {
-  "version": "4.1.4.0",
-  "notes": "Agenda : la couleur choisie d'un rendez-vous (séjours compris) passe maintenant du PC au téléphone et inversement. Les rendez-vous déjà colorés sont renvoyés une fois au site, sans rien changer d'autre.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.1.4.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.1.4.0.zip",
-  "sha256": "e46bd7451aafaa60958248b36b28672113fa0abdc2436c6ad624d392df50bf7e",
-  "signature": "3aee6d30f6da9b0070bd2d96826df6b7ebfac2c5b7378632faece6746910521a6677aecfda9be75da0f30b769f77ea9d195713e7ab4a17f7dc09a1855465ae0c"
+  "version": "4.1.5.0",
+  "notes": "Agenda : un rendez-vous d'un jour s'affiche maintenant dans un rectangle de sa couleur, comme les séjours (PC, loupe et téléphone).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.1.5.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.1.5.0.zip",
+  "sha256": "9d7f575088d6e50afbb1a309d299319a3f9ce3b046656b9ebe53d8c04c7bbc25",
+  "signature": "078acc905a7e66312364bd480d9ff3914af83cc1eef5830c0ff42ae76578bfdd33822c8fc28808d5241f8da2b1206807bd503dad6195301b8b8368e70aea4f0a"
 }
