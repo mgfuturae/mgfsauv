@@ -1,8 +1,8 @@
 {
-  "version": "4.1.4.0",
-  "notes": "Agenda : la couleur choisie d'un rendez-vous (séjours compris) passe maintenant du PC au téléphone et inversement. Les rendez-vous déjà colorés sont renvoyés une fois au site, sans rien changer d'autre.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.1.4.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.1.4.0.apk",
-  "sha256": "39ac7cdec48dc6e359ac20e518d11e4198271118e9127e22442e2dec53c7f391",
-  "signature": "5ac1fa097fcd4f7824bbf227953eb8abbd375beb10eb7332c73835dd4b4df1c4eb0e14a0ec8a6ff7e0b5eeeb913c2e76de917a9f1636415328bac2531eed3d0f"
+  "version": "4.1.5.0",
+  "notes": "Agenda : un rendez-vous d'un jour s'affiche maintenant dans un rectangle de sa couleur, comme les séjours (PC, loupe et téléphone).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.1.5.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.1.5.0.apk",
+  "sha256": "d98bf950755e1df97f07abe3fe37640fcb2977a289bc1d9612d157a5609a1f7f",
+  "signature": "06a758c88a4644e19f50557e58adcb7ffb77d036863a088f17324cae4a6f67d9f5ed09c3c42db4183ad933884ecc8522ebd98972eb52ea97d22547a69b63280d"
 }
