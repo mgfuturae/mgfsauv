@@ -1,8 +1,8 @@
 {
-  "version": "4.1.7.0",
-  "notes": "Agenda : les entretiens d'un même bien qui tombent le même jour tiennent sur une seule ligne — le nom du bien une fois, puis les opérations (« 🔧 M. de Valmont : Chaudière · Ramonage »). Leurs rappels aussi.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.1.7.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.1.7.0.zip",
-  "sha256": "f9986637ea806291e139ad25592a116a5bfe8961a87c00dad5450e3b7f235567",
-  "signature": "fb63be2c88b20f3bd24af838570f067c096dbe4eac0a399794f9d3d99dd624d85ba9440b95aa2b3dfee570c5fc31f7463c7dde8c927a3abb039fef6723f0140d"
+  "version": "4.1.8.0",
+  "notes": "Synchronisation : une saisie met à jour partout. Les dates masquées de l'agenda et les listes de courses voyagent maintenant dans les deux sens. Un poste esclave garde ses fiches et ses notes à la reprise de la sauvegarde du maître, et l'écran ouvert se met à jour quand des fiches arrivent. Sur le téléphone et sur un poste esclave, une rubrique non synchronisée se consulte sans se modifier ; elle le dit, sur chaque appareil.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.1.8.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.1.8.0.zip",
+  "sha256": "8693c3da6e20ca8e23997a15a99960a0bd3b7a7af25d5fa5f87216dfb9f44a39",
+  "signature": "968b96c5208cd18dc637b3a81ce38e070040bb864ea10906d3dbb93e02f601bee3119a3aaa75a4d8609394d7df9343e639f3aef7d6caaed5d6362a9cabc5a201"
 }
