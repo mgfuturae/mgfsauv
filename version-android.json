@@ -1,8 +1,8 @@
 {
-  "version": "4.1.6.0",
-  "notes": "Mise en ligne : les documents joints, les photos et les messages enregistrés des fiches publiées peuvent maintenant voyager entre le PC et le téléphone (trois cases à cocher). Ils restent chiffrés avec votre mot de passe : le site ne peut pas les lire. Les quittances, le budget et la comptabilité restent sur leur appareil.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.1.6.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.1.6.0.apk",
-  "sha256": "04dbf56d6887b91a4d7ce999b60986b651be8b8d63f4f6a6848837caa3f772d7",
-  "signature": "ec26ed7b8121099f950fda410f61e8d125857cc3eefd97f95d766ed81df55fec719e1d5d1ff968e0f91bc51dee3c4554e053f217caeb41c26e8f3cafb2fda204"
+  "version": "4.1.7.0",
+  "notes": "Agenda : les entretiens d'un même bien qui tombent le même jour tiennent sur une seule ligne — le nom du bien une fois, puis les opérations (« 🔧 M. de Valmont : Chaudière · Ramonage »). Leurs rappels aussi.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.1.7.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.1.7.0.apk",
+  "sha256": "36a7cd5a08240edf52e100216781c2b741c0dce08bea436cb4639c67e38b0189",
+  "signature": "502945a0a9b497207045230381503f3952c511d0786565052c3a44927bb537659480880ced3df3f82c4373127ac77bcdfb0293ecd3896ffbf471682872feb90d"
 }
