@@ -1,8 +1,8 @@
 {
-  "version": "4.1.6.0",
-  "notes": "Mise en ligne : les documents joints, les photos et les messages enregistrés des fiches publiées peuvent maintenant voyager entre le PC et le téléphone (trois cases à cocher). Ils restent chiffrés avec votre mot de passe : le site ne peut pas les lire. Les quittances, le budget et la comptabilité restent sur leur appareil.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.1.6.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.1.6.0.zip",
-  "sha256": "586c361a2367d1f5497b3a48a8ffde3a82b5770f01034e921a4d9cd37d228115",
-  "signature": "9c584396f1f5f97f14aa5abb22c498c7bfd51d305fb83a34a80d0f388be821648ffe261a04f14d34cab4fc02453ea173175e91bd61b9bbafa262ee9b6d7a7b0c"
+  "version": "4.1.7.0",
+  "notes": "Agenda : les entretiens d'un même bien qui tombent le même jour tiennent sur une seule ligne — le nom du bien une fois, puis les opérations (« 🔧 M. de Valmont : Chaudière · Ramonage »). Leurs rappels aussi.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.1.7.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.1.7.0.zip",
+  "sha256": "f9986637ea806291e139ad25592a116a5bfe8961a87c00dad5450e3b7f235567",
+  "signature": "fb63be2c88b20f3bd24af838570f067c096dbe4eac0a399794f9d3d99dd624d85ba9440b95aa2b3dfee570c5fc31f7463c7dde8c927a3abb039fef6723f0140d"
 }
