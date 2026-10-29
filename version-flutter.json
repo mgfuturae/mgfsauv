@@ -1,8 +1,8 @@
 {
-  "version": "4.1.8.0",
-  "notes": "Synchronisation : une saisie met à jour partout. Les dates masquées de l'agenda et les listes de courses voyagent maintenant dans les deux sens. Un poste esclave garde ses fiches et ses notes à la reprise de la sauvegarde du maître, et l'écran ouvert se met à jour quand des fiches arrivent. Sur le téléphone et sur un poste esclave, une rubrique non synchronisée se consulte sans se modifier ; elle le dit, sur chaque appareil.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.1.8.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.1.8.0.zip",
-  "sha256": "8693c3da6e20ca8e23997a15a99960a0bd3b7a7af25d5fa5f87216dfb9f44a39",
-  "signature": "968b96c5208cd18dc637b3a81ce38e070040bb864ea10906d3dbb93e02f601bee3119a3aaa75a4d8609394d7df9343e639f3aef7d6caaed5d6362a9cabc5a201"
+  "version": "4.1.9.0",
+  "notes": "La légende d'une photo voyage maintenant avec elle, entre le PC et le téléphone : la changer d'un côté la change de l'autre, sans renvoyer la photo.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.1.9.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.1.9.0.zip",
+  "sha256": "84861e8482e5bd0b406abe10c3bb8f03e8927d6d224fb6565e52c0c87f78287e",
+  "signature": "52182afd77b9c4e864ac57cb950bf8aba4bf18bc68bced2e9a490f611c54ddea3dc5389a667528e77704013c306aae6393d066135a8383a129e0763f546b7c00"
 }
