@@ -1,8 +1,8 @@
 {
-  "version": "4.1.8.0",
-  "notes": "Synchronisation : une saisie met à jour partout. Les dates masquées de l'agenda et les listes de courses voyagent maintenant dans les deux sens. Un poste esclave garde ses fiches et ses notes à la reprise de la sauvegarde du maître, et l'écran ouvert se met à jour quand des fiches arrivent. Sur le téléphone et sur un poste esclave, une rubrique non synchronisée se consulte sans se modifier ; elle le dit, sur chaque appareil.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.1.8.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.1.8.0.apk",
-  "sha256": "71964ccc46c7f5ff8ebd25389f11f7e018365dc09b6998a0fa663dcd996da254",
-  "signature": "a05746db31149066cadce7e16de24bae8616f638de405b4e683f528488fcbba7c840fd2d216e79e399ddec6d170e88dbf146041872ff5f3bfaffd127da870707"
+  "version": "4.1.9.0",
+  "notes": "La légende d'une photo voyage maintenant avec elle, entre le PC et le téléphone : la changer d'un côté la change de l'autre, sans renvoyer la photo.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.1.9.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.1.9.0.apk",
+  "sha256": "341768833c4f79538fa7a7bd4d0ac1ed9328e21c95d98ea34dff19ace8fd4aa9",
+  "signature": "9e10ad21cc629853601ba8d672958a0feb60a263cfa333f74316766d34d1cd3304466fc5ff2e56fcdbcd26d16c9fdee9f82ee04678c5162db6bfdac185aa4202"
 }
