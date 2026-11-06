@@ -1,8 +1,8 @@
 {
-  "version": "4.2.0.0",
-  "notes": "Sur le téléphone, l'heure des rendez-vous paraît maintenant dans les cases de l'agenda, en gras devant le titre.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.2.0.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.2.0.0.zip",
-  "sha256": "55992239733508dae0beb3a1cc7fd34e25a41929b80420ead75a2cac18458d07",
-  "signature": "6454c9203a2ab513bfc0f2e86b97370582c9dbb736bec4a7037304a6b37469b36cc9c3128ca8bad9bffea403f4b303461b84f2dfbf3a61924886a0788b674c00"
+  "version": "4.2.1.0",
+  "notes": "Le widget d'agenda montre maintenant l'heure des rendez-vous, en gras devant le titre ; dans un grand widget, un jour peu chargé les montre sur deux lignes.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.2.1.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.2.1.0.zip",
+  "sha256": "18b29e23c33ba6efa6dd3bb23c0e74b4e35164d4be2d705b124bb6beec638e26",
+  "signature": "a70b4e6bd82782675a4d45573957839a952f4c6fd1ab91049f9059181378027bbb458f477bea8bdfdecb54a831bf2d3f154fcffc5813869a0626b4ee17960a02"
 }
