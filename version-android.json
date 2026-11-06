@@ -1,8 +1,8 @@
 {
-  "version": "4.1.9.0",
-  "notes": "La légende d'une photo voyage maintenant avec elle, entre le PC et le téléphone : la changer d'un côté la change de l'autre, sans renvoyer la photo.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.1.9.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.1.9.0.apk",
-  "sha256": "341768833c4f79538fa7a7bd4d0ac1ed9328e21c95d98ea34dff19ace8fd4aa9",
-  "signature": "9e10ad21cc629853601ba8d672958a0feb60a263cfa333f74316766d34d1cd3304466fc5ff2e56fcdbcd26d16c9fdee9f82ee04678c5162db6bfdac185aa4202"
+  "version": "4.2.0.0",
+  "notes": "Sur le téléphone, l'heure des rendez-vous paraît maintenant dans les cases de l'agenda, en gras devant le titre.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.2.0.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.2.0.0.apk",
+  "sha256": "8357b82da7e0cc0b9ce8c0f2d836d5f7edd80753b973216272bd63ef3f42643c",
+  "signature": "23a1cbc10fcf99308d7b7499e0f113e887263f7a1013f3a6579557b1a489949b21276fb554af2ff3b2bd86210f4a1f3d4048503f12539e7d342026f9d6627509"
 }
