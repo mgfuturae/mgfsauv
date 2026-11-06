@@ -1,8 +1,8 @@
 {
-  "version": "4.2.0.0",
-  "notes": "Sur le téléphone, l'heure des rendez-vous paraît maintenant dans les cases de l'agenda, en gras devant le titre.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.2.0.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.2.0.0.apk",
-  "sha256": "8357b82da7e0cc0b9ce8c0f2d836d5f7edd80753b973216272bd63ef3f42643c",
-  "signature": "23a1cbc10fcf99308d7b7499e0f113e887263f7a1013f3a6579557b1a489949b21276fb554af2ff3b2bd86210f4a1f3d4048503f12539e7d342026f9d6627509"
+  "version": "4.2.1.0",
+  "notes": "Le widget d'agenda montre maintenant l'heure des rendez-vous, en gras devant le titre ; dans un grand widget, un jour peu chargé les montre sur deux lignes.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.2.1.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.2.1.0.apk",
+  "sha256": "bafc45179159a7848daa39a3a7024985a2546337d19e882a0945a4bf8512ee55",
+  "signature": "2a01b7b571c094975180f18af09f481d616bae4e79f2a514600b94af13b8c612d46afca6d45608f8a2d7deba542c7e5be0a1df7aea107591854833d9732a1503"
 }
