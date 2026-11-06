@@ -1,8 +1,8 @@
 {
-  "version": "4.1.9.0",
-  "notes": "La légende d'une photo voyage maintenant avec elle, entre le PC et le téléphone : la changer d'un côté la change de l'autre, sans renvoyer la photo.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.1.9.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.1.9.0.zip",
-  "sha256": "84861e8482e5bd0b406abe10c3bb8f03e8927d6d224fb6565e52c0c87f78287e",
-  "signature": "52182afd77b9c4e864ac57cb950bf8aba4bf18bc68bced2e9a490f611c54ddea3dc5389a667528e77704013c306aae6393d066135a8383a129e0763f546b7c00"
+  "version": "4.2.0.0",
+  "notes": "Sur le téléphone, l'heure des rendez-vous paraît maintenant dans les cases de l'agenda, en gras devant le titre.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.2.0.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.2.0.0.zip",
+  "sha256": "55992239733508dae0beb3a1cc7fd34e25a41929b80420ead75a2cac18458d07",
+  "signature": "6454c9203a2ab513bfc0f2e86b97370582c9dbb736bec4a7037304a6b37469b36cc9c3128ca8bad9bffea403f4b303461b84f2dfbf3a61924886a0788b674c00"
 }
