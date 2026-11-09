@@ -1,8 +1,8 @@
 {
-  "version": "4.2.1.0",
-  "notes": "Le widget d'agenda montre maintenant l'heure des rendez-vous, en gras devant le titre ; dans un grand widget, un jour peu chargé les montre sur deux lignes.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.2.1.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.2.1.0.zip",
-  "sha256": "18b29e23c33ba6efa6dd3bb23c0e74b4e35164d4be2d705b124bb6beec638e26",
-  "signature": "a70b4e6bd82782675a4d45573957839a952f4c6fd1ab91049f9059181378027bbb458f477bea8bdfdecb54a831bf2d3f154fcffc5813869a0626b4ee17960a02"
+  "version": "4.2.2.0",
+  "notes": "Mes Abonnements : nouvel onglet Calendrier, qui place vos abonnements et leur montant sur 3, 6 ou 12 mois, avec le total de chaque mois. Mise à jour des composants techniques (lecteur PDF, choix des fichiers).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.2.2.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.2.2.0.zip",
+  "sha256": "1c51242aaf5a2464a8b2efa157b1d90958e526e1c5d8fbc03c63b5ef9bc4618e",
+  "signature": "226d2dab53a4e0236ff2fa0762e9a663719ae496c66c3115645b45eaae568aff80838ef2e744e6f9ee1116ffb25ea32aa1ef7c241f7e516cb9c2d1c9968e890f"
 }
