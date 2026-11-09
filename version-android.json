@@ -1,8 +1,8 @@
 {
-  "version": "4.2.1.0",
-  "notes": "Le widget d'agenda montre maintenant l'heure des rendez-vous, en gras devant le titre ; dans un grand widget, un jour peu chargé les montre sur deux lignes.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.2.1.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.2.1.0.apk",
-  "sha256": "bafc45179159a7848daa39a3a7024985a2546337d19e882a0945a4bf8512ee55",
-  "signature": "2a01b7b571c094975180f18af09f481d616bae4e79f2a514600b94af13b8c612d46afca6d45608f8a2d7deba542c7e5be0a1df7aea107591854833d9732a1503"
+  "version": "4.2.2.0",
+  "notes": "Mes Abonnements : nouvel onglet Calendrier, qui place vos abonnements et leur montant sur 3, 6 ou 12 mois, avec le total de chaque mois. Mise à jour des composants techniques (lecteur PDF, choix des fichiers).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.2.2.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.2.2.0.apk",
+  "sha256": "031c0139e59578906b879bfd8a5d2b0c0919a67f2d8a584236b926189e2b804e",
+  "signature": "ad98900c6d63a1e4773ffe48bcd51eaebd2b9ea9cc067e1c06862ae7e0bd9dbea28f933fa8ae254e6ec430026ea9bd21d18560435cb461fb34fac524cc00370f"
 }
