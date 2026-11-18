@@ -1,8 +1,8 @@
 {
-  "version": "4.2.2.0",
-  "notes": "Mes Abonnements : nouvel onglet Calendrier, qui place vos abonnements et leur montant sur 3, 6 ou 12 mois, avec le total de chaque mois. Mise à jour des composants techniques (lecteur PDF, choix des fichiers).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.2.2.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.2.2.0.apk",
-  "sha256": "031c0139e59578906b879bfd8a5d2b0c0919a67f2d8a584236b926189e2b804e",
-  "signature": "ad98900c6d63a1e4773ffe48bcd51eaebd2b9ea9cc067e1c06862ae7e0bd9dbea28f933fa8ae254e6ec430026ea9bd21d18560435cb461fb34fac524cc00370f"
+  "version": "4.2.3.0",
+  "notes": "En cas de décès : nouvelle partie Réversion de pension, avec les questions et les justificatifs demandés par info-retraite.fr. Chaque pièce se joint à sa zone, et le document En cas de décès indique celles qui restent à réunir.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.2.3.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.2.3.0.apk",
+  "sha256": "b7bd22d4635fd69b4517b4a043cc16dda30858618fab44d47a94f6dbb037d16d",
+  "signature": "47407e34fdc63f7aa34acd13401a6d60a1e3334426766c175644d746f4099ee775b4852b4fc80473f899d973384e24e5ba3bb708c963b2aa636ed07a257c4f0f"
 }
