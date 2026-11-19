@@ -1,8 +1,8 @@
 {
-  "version": "4.2.3.0",
-  "notes": "En cas de décès : nouvelle partie Réversion de pension, avec les questions et les justificatifs demandés par info-retraite.fr. Chaque pièce se joint à sa zone, et le document En cas de décès indique celles qui restent à réunir.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.2.3.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.2.3.0.zip",
-  "sha256": "0225ccbb8fff944876d2075584266851b603892724377f8ea626b7c3a25db3f8",
-  "signature": "e648fecbb6591db1c0206ae056c136ae34b67f60a93a1946ed91fad358427024125a68d91c0c5050ee6c858857b809318000b1b581cc1e8a5dd8b258b8aea308"
+  "version": "4.2.4.0",
+  "notes": "Sur le PC principal, les rubriques non cochées dans la mise en ligne ne répètent plus qu'elles ne sont pas synchronisées : le message ne reste que sur le téléphone, où la saisie y est verrouillée.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.2.4.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.2.4.0.zip",
+  "sha256": "e6505eb2f4ad994ddf02121cbc4f52fa7bce7336918bcc94ae63c372cdd35e62",
+  "signature": "13a5ecd61079d68cea0ee1e9ead219edddcf2ad6c085ccac316ea63444b4a59bfafde7e39060f5c3737ab00936502796b2f3572ebbe3371f45fc7d00f68ab40b"
 }
