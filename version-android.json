@@ -1,8 +1,8 @@
 {
-  "version": "4.2.3.0",
-  "notes": "En cas de décès : nouvelle partie Réversion de pension, avec les questions et les justificatifs demandés par info-retraite.fr. Chaque pièce se joint à sa zone, et le document En cas de décès indique celles qui restent à réunir.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.2.3.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.2.3.0.apk",
-  "sha256": "b7bd22d4635fd69b4517b4a043cc16dda30858618fab44d47a94f6dbb037d16d",
-  "signature": "47407e34fdc63f7aa34acd13401a6d60a1e3334426766c175644d746f4099ee775b4852b4fc80473f899d973384e24e5ba3bb708c963b2aa636ed07a257c4f0f"
+  "version": "4.2.4.0",
+  "notes": "Sur le PC principal, les rubriques non cochées dans la mise en ligne ne répètent plus qu'elles ne sont pas synchronisées : le message ne reste que sur le téléphone, où la saisie y est verrouillée.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.2.4.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.2.4.0.apk",
+  "sha256": "3e91eb1f581bd2b1ca26552573cf499b15b6d79ea47b83626b15a9ef443f584e",
+  "signature": "bf02f908720849a90020e0c97f220608bd076f72a2469332d84532ba4bdeef6df8dee3e02b1238b072ec5a882bfa9bb65442660490e625f869ef0482b0488500"
 }
