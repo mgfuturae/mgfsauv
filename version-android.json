@@ -1,8 +1,8 @@
 {
-  "version": "4.2.8.0",
-  "notes": "Mon Budget : les lignes Impôts et Divers rejoignent la liste. Les impôts et les taxes y vont d'eux-mêmes à la réattribution, et ce qui n'a pas d'autre place va dans Divers.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.2.8.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.2.8.0.apk",
-  "sha256": "e05e42188700150713d0c6963453b446ec8145740498d7bdea1e2a6f50898474",
-  "signature": "21c4b086ddb469a1b4c7491c02f484520a092d9d2ab286b7d3043543d306367378fb7f65d3d122910c9a24ab76d8dbed949dfc20a1ba0ab6b406b7b29e811800"
+  "version": "4.2.9.0",
+  "notes": "Mon Budget en catégories et sous-catégories : les catégories sont celles de la liste, et vos anciennes lignes en deviennent les sous-catégories, sans rien perdre. Vous créez librement catégories et sous-catégories, et changez une sous-catégorie de catégorie.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.2.9.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.2.9.0.apk",
+  "sha256": "8a3c621a514eea29518f871cb9332346119ad3b2e34181108968ebff4e39818a",
+  "signature": "bdb7c400ccf7628ece86aafc905a606e5e3bc72b76369b01b99c9eb87bec4e7bbbfca5ecd186df07f091174ec5415eb820eecdec9966902a4f7ffaea93d18d04"
 }
