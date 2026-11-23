@@ -1,8 +1,8 @@
 {
-  "version": "4.3.1.0",
-  "notes": "Mon Budget : un crayon à côté de chaque catégorie et de chaque sous-catégorie pour les modifier, sans avoir à ouvrir la catégorie.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.3.1.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.3.1.0.apk",
-  "sha256": "7420ccadff92dc995530a62e5c58294adf5d4c9906d20cec386d6f43f36a4a7b",
-  "signature": "59580c03745269be1f04855b17d9fff6d07d36f1c1b4bacf5cb9f0d27b8b519eb79ae8d8e9679e1c7f7221deaa3e58de1d97da4bebeb16766592d68cf559ed0a"
+  "version": "4.3.2.0",
+  "notes": "Mon Budget : nouveau PDF des revenus et dépenses par mois, avec les graphiques et le tableau des douze mois (onglets Graphiques et Mois par mois).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.3.2.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.3.2.0.apk",
+  "sha256": "8f72e5afc8db81dea096674e65fe123958ac5a0d3f802ffb8e583baa619d9ab3",
+  "signature": "b990c62099ad888a7e0ecedc362e996fad5e43ecb009fb7fc2dd29eb00e6dc9a18b1b0138086a9552f89b58077b02e32183915d0bf03dfa98a59e56994056205"
 }
