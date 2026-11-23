@@ -1,8 +1,8 @@
 {
-  "version": "4.2.4.0",
-  "notes": "Sur le PC principal, les rubriques non cochées dans la mise en ligne ne répètent plus qu'elles ne sont pas synchronisées : le message ne reste que sur le téléphone, où la saisie y est verrouillée.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.2.4.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.2.4.0.apk",
-  "sha256": "3e91eb1f581bd2b1ca26552573cf499b15b6d79ea47b83626b15a9ef443f584e",
-  "signature": "bf02f908720849a90020e0c97f220608bd076f72a2469332d84532ba4bdeef6df8dee3e02b1238b072ec5a882bfa9bb65442660490e625f869ef0482b0488500"
+  "version": "4.2.5.0",
+  "notes": "Ma Comptabilité est retirée de l'application, avec ses données : une sauvegarde complète est écrite juste avant. Mon Budget reste, avec tout son contenu.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.2.5.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.2.5.0.apk",
+  "sha256": "69c3b8bc9cbf8f5144f63f27603e6ef2fd30006e0ef07e3c0c1ccb8c31f254c9",
+  "signature": "97baa98c53b47e065274bb3dd45b752cc95be7168602e8178dfba151f4d5205b158ce2072b23e47c26b790f6935a7a6c1eff6879933125ee2e9cf4fac3b3bd0d"
 }
