@@ -1,8 +1,8 @@
 {
-  "version": "4.3.2.0",
-  "notes": "Mon Budget : nouveau PDF des revenus et dépenses par mois, avec les graphiques et le tableau des douze mois (onglets Graphiques et Mois par mois).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.3.2.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.3.2.0.apk",
-  "sha256": "8f72e5afc8db81dea096674e65fe123958ac5a0d3f802ffb8e583baa619d9ab3",
-  "signature": "b990c62099ad888a7e0ecedc362e996fad5e43ecb009fb7fc2dd29eb00e6dc9a18b1b0138086a9552f89b58077b02e32183915d0bf03dfa98a59e56994056205"
+  "version": "4.3.3.0",
+  "notes": "Mon Budget : nouveau PDF « par catégorie, mois par mois », en format paysage : pour chaque catégorie, toutes ses sous-catégories en prévu et en réel sur les douze mois, avec le total et l'écart, puis le récapitulatif de l'année.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.3.3.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.3.3.0.apk",
+  "sha256": "660a78768f10266aa3ea4907e0bb6f6f80260d0d9d4fc805c0a0377749dcdc1e",
+  "signature": "960acb148b0376fd5b5754f7707ba99b889d1fef1fcebdc84eff45599fb6fb99d69b8e873968370298c41c6b22ffae9ab9b505ad1cd448cfa38f86254e7e9907"
 }
