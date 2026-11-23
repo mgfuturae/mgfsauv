@@ -1,8 +1,8 @@
 {
-  "version": "4.2.7.0",
-  "notes": "Mon Budget se limite à une liste simple : un revenu et quatorze dépenses, avec le reste en fin de mois. Vos lignes actuelles se réattribuent à cette liste, avec leurs prévus et leurs réels, après une sauvegarde. PDF des soldes : le total, et la page de garde.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.2.7.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.2.7.0.apk",
-  "sha256": "2b4662a86b61ab33ddda0f55441d6334fc54350ae71036dc29c2383f2cb19609",
-  "signature": "aff86b26dc3429123578b0824c8add3fcc6a5336bb189d08bba42b4676218a210a9cc2fd74bfa440e8b75cfccf22efb9993a98437ba3dcfdc0ba44cb79317c05"
+  "version": "4.2.8.0",
+  "notes": "Mon Budget : les lignes Impôts et Divers rejoignent la liste. Les impôts et les taxes y vont d'eux-mêmes à la réattribution, et ce qui n'a pas d'autre place va dans Divers.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.2.8.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.2.8.0.apk",
+  "sha256": "e05e42188700150713d0c6963453b446ec8145740498d7bdea1e2a6f50898474",
+  "signature": "21c4b086ddb469a1b4c7491c02f484520a092d9d2ab286b7d3043543d306367378fb7f65d3d122910c9a24ab76d8dbed949dfc20a1ba0ab6b406b7b29e811800"
 }
