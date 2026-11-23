@@ -1,8 +1,8 @@
 {
-  "version": "4.2.5.0",
-  "notes": "Ma Comptabilité est retirée de l'application, avec ses données : une sauvegarde complète est écrite juste avant. Mon Budget reste, avec tout son contenu.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.2.5.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.2.5.0.apk",
-  "sha256": "69c3b8bc9cbf8f5144f63f27603e6ef2fd30006e0ef07e3c0c1ccb8c31f254c9",
-  "signature": "97baa98c53b47e065274bb3dd45b752cc95be7168602e8178dfba151f4d5205b158ce2072b23e47c26b790f6935a7a6c1eff6879933125ee2e9cf4fac3b3bd0d"
+  "version": "4.2.6.0",
+  "notes": "Gestion de mes Comptes : nouveau bouton PDF des soldes, avec la somme de tous vos comptes, le détail par organisme et par détention.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.2.6.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.2.6.0.apk",
+  "sha256": "30d4e537ef84da6da523138e319d96070c4094fc68b91ccc44de9f7854083039",
+  "signature": "056f2945b5b1f342dabf2e515b18f617f28fa84b0273a2859d2b4e034441f1f7523b9719e7d64b7e36eaa1f10d5ce90e8eb1d64a5765c9ed4c7cfa54cc10ee0d"
 }
