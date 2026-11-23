@@ -1,8 +1,8 @@
 {
-  "version": "4.2.4.0",
-  "notes": "Sur le PC principal, les rubriques non cochées dans la mise en ligne ne répètent plus qu'elles ne sont pas synchronisées : le message ne reste que sur le téléphone, où la saisie y est verrouillée.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.2.4.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.2.4.0.zip",
-  "sha256": "e6505eb2f4ad994ddf02121cbc4f52fa7bce7336918bcc94ae63c372cdd35e62",
-  "signature": "13a5ecd61079d68cea0ee1e9ead219edddcf2ad6c085ccac316ea63444b4a59bfafde7e39060f5c3737ab00936502796b2f3572ebbe3371f45fc7d00f68ab40b"
+  "version": "4.2.5.0",
+  "notes": "Ma Comptabilité est retirée de l'application, avec ses données : une sauvegarde complète est écrite juste avant. Mon Budget reste, avec tout son contenu.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.2.5.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.2.5.0.zip",
+  "sha256": "dcf6c52ba95a9b7ffc576fd00922b64fe4d85fb2633ab0bd2c083ff8f7297c56",
+  "signature": "2f6c7aa159e1a5c727ba2bb9996a0cf123365aa2684c553da0c85fd3ff4645672424dad89c1b6d074cac1a4327ea5aab320d6b793c296af98d457ada8482160a"
 }
