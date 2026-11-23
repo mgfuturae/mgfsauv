@@ -1,8 +1,8 @@
 {
-  "version": "4.3.0.0",
-  "notes": "Mon Budget : une catégorie se renomme (bouton Renommer sous ses sous-catégories), les revenus restent en tête, et le bouton Prévu d'après le réel est retiré.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.3.0.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.3.0.0.zip",
-  "sha256": "97b2b04e1cd18a20f90bcc722b3e1b55d93a16a58307b70c8814ee07ce10663a",
-  "signature": "75535ea191ed754815c337c320072134654789f4f60c63a19cac177f48671d639e3e6463257df13f274978d455fa428ab72bc20f1737b456c9aac3e9345fa70a"
+  "version": "4.3.1.0",
+  "notes": "Mon Budget : un crayon à côté de chaque catégorie et de chaque sous-catégorie pour les modifier, sans avoir à ouvrir la catégorie.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.3.1.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.3.1.0.zip",
+  "sha256": "edb9ada1eda5a58f86016a53ea471347d259aac0a389194b494a4f2b792f4e8d",
+  "signature": "8959843eba856f12d8fba3193009f047957c4c7abc05e0b9459dca3b9e009084df259f7ee93e4c75b600400917b31cf3c47e3d8f57c1b93926f3cddf99dca201"
 }
