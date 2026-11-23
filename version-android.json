@@ -1,8 +1,8 @@
 {
-  "version": "4.2.9.0",
-  "notes": "Mon Budget en catégories et sous-catégories : les catégories sont celles de la liste, et vos anciennes lignes en deviennent les sous-catégories, sans rien perdre. Vous créez librement catégories et sous-catégories, et changez une sous-catégorie de catégorie.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.2.9.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.2.9.0.apk",
-  "sha256": "8a3c621a514eea29518f871cb9332346119ad3b2e34181108968ebff4e39818a",
-  "signature": "bdb7c400ccf7628ece86aafc905a606e5e3bc72b76369b01b99c9eb87bec4e7bbbfca5ecd186df07f091174ec5415eb820eecdec9966902a4f7ffaea93d18d04"
+  "version": "4.3.0.0",
+  "notes": "Mon Budget : une catégorie se renomme (bouton Renommer sous ses sous-catégories), les revenus restent en tête, et le bouton Prévu d'après le réel est retiré.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.3.0.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.3.0.0.apk",
+  "sha256": "d2b979684594b1dc8266e506cea5b42044cd9dc6b6dae2ca71f3595c235cf872",
+  "signature": "2cb3b3f170865d207c5ec5a81bc254ed1679260f9b568f7626c6c09d929314a3b9286a28cfb23f4dd11df7544f6e6b3f3c5798ca5561a4c6c5883ea56bb91205"
 }
