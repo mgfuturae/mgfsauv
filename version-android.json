@@ -1,8 +1,8 @@
 {
-  "version": "4.2.6.0",
-  "notes": "Gestion de mes Comptes : nouveau bouton PDF des soldes, avec la somme de tous vos comptes, le détail par organisme et par détention.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.2.6.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.2.6.0.apk",
-  "sha256": "30d4e537ef84da6da523138e319d96070c4094fc68b91ccc44de9f7854083039",
-  "signature": "056f2945b5b1f342dabf2e515b18f617f28fa84b0273a2859d2b4e034441f1f7523b9719e7d64b7e36eaa1f10d5ce90e8eb1d64a5765c9ed4c7cfa54cc10ee0d"
+  "version": "4.2.7.0",
+  "notes": "Mon Budget se limite à une liste simple : un revenu et quatorze dépenses, avec le reste en fin de mois. Vos lignes actuelles se réattribuent à cette liste, avec leurs prévus et leurs réels, après une sauvegarde. PDF des soldes : le total, et la page de garde.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.2.7.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.2.7.0.apk",
+  "sha256": "2b4662a86b61ab33ddda0f55441d6334fc54350ae71036dc29c2383f2cb19609",
+  "signature": "aff86b26dc3429123578b0824c8add3fcc6a5336bb189d08bba42b4676218a210a9cc2fd74bfa440e8b75cfccf22efb9993a98437ba3dcfdc0ba44cb79317c05"
 }
