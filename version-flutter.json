@@ -1,8 +1,8 @@
 {
-  "version": "4.3.4.0",
-  "notes": "Mon Budget : le PDF « par catégorie, mois par mois » reprend le tableau de l'écran, en format paysage et lisible : une rangée par catégorie, les douze mois et le total, sans lignes blanches.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.3.4.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.3.4.0.zip",
-  "sha256": "da59fd21f0f4d8a27e03e26a2d2817b4aa08657cf76ead68c7ee9c8d90239ce7",
-  "signature": "5d97bf679250a602d372162e7d37268f8d8d447c432344544fc20160c79d08e421d94295e6fabc3c0628af100bc241031a12d2bcd67fdd78bcdb8adaae0cc405"
+  "version": "4.3.5.0",
+  "notes": "Mon Budget : nouveau PDF « mois par mois — catégories », le même tableau avec une rangée par catégorie, sans les sous-catégories. Le précédent s'appelle « PDF mois par mois — détail ».",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.3.5.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.3.5.0.zip",
+  "sha256": "ae9cadd2946b3f071c3ba79077bd55beb6781710a21871f2b2f0e1ea693a929b",
+  "signature": "012cb6f1cc8766acd8c2e79c3612b7924b9e89dd7f80df3bf4f7b30cca97a27c104bcf42c120c971df129597476108c931def640e32111824f677ee1d7724303"
 }
