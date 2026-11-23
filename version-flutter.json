@@ -1,8 +1,8 @@
 {
-  "version": "4.2.9.0",
-  "notes": "Mon Budget en catégories et sous-catégories : les catégories sont celles de la liste, et vos anciennes lignes en deviennent les sous-catégories, sans rien perdre. Vous créez librement catégories et sous-catégories, et changez une sous-catégorie de catégorie.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.2.9.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.2.9.0.zip",
-  "sha256": "99d3248bc9e048d9a08b40857cbf91dfc52743cf755183bcd40fea4a4d9e6ab4",
-  "signature": "0675b5fba0a7ba5e67d5afe4d1a9ccef8d617cea9612744cd5b61af1ba25c95a882667de254781e6ca4d0b1150e23242dbcae61a88ab4c91a9edcea076c52607"
+  "version": "4.3.0.0",
+  "notes": "Mon Budget : une catégorie se renomme (bouton Renommer sous ses sous-catégories), les revenus restent en tête, et le bouton Prévu d'après le réel est retiré.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.3.0.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.3.0.0.zip",
+  "sha256": "97b2b04e1cd18a20f90bcc722b3e1b55d93a16a58307b70c8814ee07ce10663a",
+  "signature": "75535ea191ed754815c337c320072134654789f4f60c63a19cac177f48671d639e3e6463257df13f274978d455fa428ab72bc20f1737b456c9aac3e9345fa70a"
 }
