@@ -1,8 +1,8 @@
 {
-  "version": "4.3.1.0",
-  "notes": "Mon Budget : un crayon à côté de chaque catégorie et de chaque sous-catégorie pour les modifier, sans avoir à ouvrir la catégorie.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.3.1.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.3.1.0.zip",
-  "sha256": "edb9ada1eda5a58f86016a53ea471347d259aac0a389194b494a4f2b792f4e8d",
-  "signature": "8959843eba856f12d8fba3193009f047957c4c7abc05e0b9459dca3b9e009084df259f7ee93e4c75b600400917b31cf3c47e3d8f57c1b93926f3cddf99dca201"
+  "version": "4.3.2.0",
+  "notes": "Mon Budget : nouveau PDF des revenus et dépenses par mois, avec les graphiques et le tableau des douze mois (onglets Graphiques et Mois par mois).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.3.2.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.3.2.0.zip",
+  "sha256": "84e9643a3244c67ab3cf7fe18375981a0dc7bc91660902ff01a33895f0b86845",
+  "signature": "3de9fe6aa9e833bbcce97b47d877bbd17693a739ae4d3c4cfca0c3191b2a43dcbecd3f935c6d54b7c8dcfb563e8265d9c9888285c534881f2f436a8e3f757002"
 }
