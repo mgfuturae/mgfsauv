@@ -1,8 +1,8 @@
 {
-  "version": "4.3.0.0",
-  "notes": "Mon Budget : une catégorie se renomme (bouton Renommer sous ses sous-catégories), les revenus restent en tête, et le bouton Prévu d'après le réel est retiré.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.3.0.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.3.0.0.apk",
-  "sha256": "d2b979684594b1dc8266e506cea5b42044cd9dc6b6dae2ca71f3595c235cf872",
-  "signature": "2cb3b3f170865d207c5ec5a81bc254ed1679260f9b568f7626c6c09d929314a3b9286a28cfb23f4dd11df7544f6e6b3f3c5798ca5561a4c6c5883ea56bb91205"
+  "version": "4.3.1.0",
+  "notes": "Mon Budget : un crayon à côté de chaque catégorie et de chaque sous-catégorie pour les modifier, sans avoir à ouvrir la catégorie.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.3.1.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.3.1.0.apk",
+  "sha256": "7420ccadff92dc995530a62e5c58294adf5d4c9906d20cec386d6f43f36a4a7b",
+  "signature": "59580c03745269be1f04855b17d9fff6d07d36f1c1b4bacf5cb9f0d27b8b519eb79ae8d8e9679e1c7f7221deaa3e58de1d97da4bebeb16766592d68cf559ed0a"
 }
