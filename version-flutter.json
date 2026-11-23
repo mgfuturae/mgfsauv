@@ -1,8 +1,8 @@
 {
-  "version": "4.2.7.0",
-  "notes": "Mon Budget se limite à une liste simple : un revenu et quatorze dépenses, avec le reste en fin de mois. Vos lignes actuelles se réattribuent à cette liste, avec leurs prévus et leurs réels, après une sauvegarde. PDF des soldes : le total, et la page de garde.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.2.7.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.2.7.0.zip",
-  "sha256": "08b396de349aef2d203753db8b968679b3bd8973f2c4caf5c809b1ed879bc4aa",
-  "signature": "84e6a82f696ebeab6ee7a1a219dd5fccbd98d28980429be25e13c5f754ff27235558728a4dd6551a8b2f117cf7062178974c876c65a46da6c520f1549dc53f0b"
+  "version": "4.2.8.0",
+  "notes": "Mon Budget : les lignes Impôts et Divers rejoignent la liste. Les impôts et les taxes y vont d'eux-mêmes à la réattribution, et ce qui n'a pas d'autre place va dans Divers.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.2.8.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.2.8.0.zip",
+  "sha256": "6b203e816c138c2d809e42cd68ed4e4f7edbe3028beccaceb722bf9dec60d7a4",
+  "signature": "8ebc919599e254d2122b628d936ab69f36c75682280109af30b8592a3180115f5f891ede80052c1ae2d5c5d8fa0523eb3bcc0ed222c73d61e1b426e12fb60f07"
 }
