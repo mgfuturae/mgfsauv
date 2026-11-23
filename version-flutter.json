@@ -1,8 +1,8 @@
 {
-  "version": "4.2.8.0",
-  "notes": "Mon Budget : les lignes Impôts et Divers rejoignent la liste. Les impôts et les taxes y vont d'eux-mêmes à la réattribution, et ce qui n'a pas d'autre place va dans Divers.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.2.8.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.2.8.0.zip",
-  "sha256": "6b203e816c138c2d809e42cd68ed4e4f7edbe3028beccaceb722bf9dec60d7a4",
-  "signature": "8ebc919599e254d2122b628d936ab69f36c75682280109af30b8592a3180115f5f891ede80052c1ae2d5c5d8fa0523eb3bcc0ed222c73d61e1b426e12fb60f07"
+  "version": "4.2.9.0",
+  "notes": "Mon Budget en catégories et sous-catégories : les catégories sont celles de la liste, et vos anciennes lignes en deviennent les sous-catégories, sans rien perdre. Vous créez librement catégories et sous-catégories, et changez une sous-catégorie de catégorie.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.2.9.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.2.9.0.zip",
+  "sha256": "99d3248bc9e048d9a08b40857cbf91dfc52743cf755183bcd40fea4a4d9e6ab4",
+  "signature": "0675b5fba0a7ba5e67d5afe4d1a9ccef8d617cea9612744cd5b61af1ba25c95a882667de254781e6ca4d0b1150e23242dbcae61a88ab4c91a9edcea076c52607"
 }
