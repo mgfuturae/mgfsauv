@@ -1,8 +1,8 @@
 {
-  "version": "4.3.4.0",
-  "notes": "Mon Budget : le PDF « par catégorie, mois par mois » reprend le tableau de l'écran, en format paysage et lisible : une rangée par catégorie, les douze mois et le total, sans lignes blanches.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.3.4.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.3.4.0.apk",
-  "sha256": "ec820c82df365d7749442547ea1465950b742b327cda46ba4fbfbab3d4d40394",
-  "signature": "e43485b5606bbc1c5486a28d4280277f814b9e8dbc158930c2bb62a1acac0b26aa21aa1b29e09237223eb125bb074b6b86bcb33ec4f6aeb3c6de5e98dd25510b"
+  "version": "4.3.5.0",
+  "notes": "Mon Budget : nouveau PDF « mois par mois — catégories », le même tableau avec une rangée par catégorie, sans les sous-catégories. Le précédent s'appelle « PDF mois par mois — détail ».",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.3.5.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.3.5.0.apk",
+  "sha256": "2c9553c42c3eaa45d6385ccd299d3058c71a0d06cf208c71e4da808c0a50fd0e",
+  "signature": "eb58a646b8288f0dbea5d945ecbf9a322ccc7e930532e3498120cebe775ed24c65ad55924f93e1d334184d4d5408c2a25aa5d11dcc35b4e58b897e09d0ffd60c"
 }
