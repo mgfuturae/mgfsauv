@@ -1,8 +1,8 @@
 {
-  "version": "4.5.1.0",
-  "notes": "Mon Budget : la page reste sur la ligne modifiée quand sa fenêtre se referme.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.5.1.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.5.1.0.zip",
-  "sha256": "0125212783175689359fe1e5d6c4face8ee975da37e958ccd5ce9b7626cd7a2c",
-  "signature": "c506005b3b7ccf7e88b78bf3c4e913ad876f65218248bc571bb9d3c57bfa45b10364414bf6adece7ed011e0b5ecec1ea3a9c41738acac84e73894569db0e2809"
+  "version": "4.5.2.0",
+  "notes": "Mon Budget : le solde bancaire de mois en mois (tapé au 1er janvier, repris l'année suivante) et son PDF.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.5.2.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.5.2.0.zip",
+  "sha256": "8c4f59bef18ae6a748ed15fae95de6947dff1983fd4bee257b9ac23c230d2f35",
+  "signature": "2b150fc21e8d9ff50dd2614f945d55954f06351daafaa99974f57a83a3cd3bce0d5698020c7409ac0350e4559957b4fd483a3e4c7a55cd1478610c0967e62e09"
 }
