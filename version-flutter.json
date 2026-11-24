@@ -1,8 +1,8 @@
 {
-  "version": "4.3.6.0",
-  "notes": "Mon Budget simplifié : il ne reste que le tableau mois par mois, le prévu puis le réel. Un clic sur le nom d'une rangée change son titre, sa super catégorie ou son prévu de chaque mois ; un clic sur une case change le montant prévu ou réel de ce mois-là. Les super catégories regroupent des catégories avec leur sous-total, à l'écran et dans les PDF. Sur le téléphone, le tableau se lit en paysage.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.3.6.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.3.6.0.zip",
-  "sha256": "192e7b81c31c6c9d792d20fede2115bc99a3c444d727012a17d304d94c07eec2",
-  "signature": "110a62121e604ada5879ae587d7312f53341ac5c4fe1f4d79862b479b5650ea3b2f638fe867885454d906733c004d873f49d87a12c210d55c5272fed6825860a"
+  "version": "4.3.7.0",
+  "notes": "Mon Budget : les catégories se classent dans le tableau. Dans la fenêtre d'une rangée, « Monter » et « Descendre » la déplacent aussitôt ; une super catégorie se déplace d'un clic sur son intitulé, avec toutes ses catégories.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.3.7.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.3.7.0.zip",
+  "sha256": "40c7f72a8f5105f8cb911672beeaa5ce57e5119f6fce72360c20a501df4e9909",
+  "signature": "4a36a903670e2d9aa3e40ac7ca062a3c6673e14c859871a07e3731e7872c4163a2de8a943164449524f90ccf62f05728ddc6a94f056ab2f73505fab227a17b05"
 }
