@@ -1,8 +1,8 @@
 {
-  "version": "4.4.1.0",
-  "notes": "Mon Budget : plus de message d'erreur après « Tout effacer et repartir de la liste ».",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.4.1.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.4.1.0.apk",
-  "sha256": "b16089a92ec9b6d5af33e7449c6224b8028a7de64f58a71e4619f5a0d83c699b",
-  "signature": "150d839328f3d1d7b469e1fccc6eb608821ea1f8efe428160ef1c165df2ab0212f3f0f86335a7407f2e20a73226d0e48475909520033c2204b8bbed19e759202"
+  "version": "4.4.2.0",
+  "notes": "Mon Budget : en janvier, le prévu se tape pour janvier seulement, ou d'un clic pour les douze mois de l'année (« Tous les mois »).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.4.2.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.4.2.0.apk",
+  "sha256": "1a164d8821158b80e1c5aff9dca5938e919a534661d0c1a585cb0988e67bbcf8",
+  "signature": "2cfcda5017f4a8e7bd68a18d555300b63b264f443e5abb618a8c0ca959f659224a6120d8119e78848744bafb1b0febcf629f6785b268543b730da5a83673130a"
 }
