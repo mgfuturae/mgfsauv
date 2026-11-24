@@ -1,8 +1,8 @@
 {
-  "version": "4.5.2.0",
-  "notes": "Mon Budget : le solde bancaire de mois en mois (tapé au 1er janvier, repris l'année suivante) et son PDF.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.5.2.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.5.2.0.zip",
-  "sha256": "8c4f59bef18ae6a748ed15fae95de6947dff1983fd4bee257b9ac23c230d2f35",
-  "signature": "2b150fc21e8d9ff50dd2614f945d55954f06351daafaa99974f57a83a3cd3bce0d5698020c7409ac0350e4559957b4fd483a3e4c7a55cd1478610c0967e62e09"
+  "version": "4.5.3.0",
+  "notes": "Mon Budget : un nouveau prévu vaut à partir du mois en cours, les mois passés gardent le leur ; chaque année se garde telle quelle (bouton Garder, et d'elle-même au 1er janvier).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.5.3.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.5.3.0.zip",
+  "sha256": "d50ae165f4f0e3acdede066c781ea396139b939bfbe324198bef885162b4566b",
+  "signature": "3491a94a6268b448c559306d07b0e374fedd6bd11734fb19d11aea8a85d5bdfe3725d70f4e42910e43c04c1b490eaf3c5c9a81a00884a7c5c30a1491ee30470f"
 }
