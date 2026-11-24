@@ -1,8 +1,8 @@
 {
-  "version": "4.3.7.0",
-  "notes": "Mon Budget : les catégories se classent dans le tableau. Dans la fenêtre d'une rangée, « Monter » et « Descendre » la déplacent aussitôt ; une super catégorie se déplace d'un clic sur son intitulé, avec toutes ses catégories.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.3.7.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.3.7.0.apk",
-  "sha256": "768dc71d7b12ac202d9654924182801e7b8703ff83989a2fef006f4c4f1e2b96",
-  "signature": "960a64fd4e573f458f40b6382ee18115258fd6f6129857c0c8fd55fc2e1f53b1641ca1566740b1e196705769e74e5b6e0b36c7b8a9a22edeb9452cc5be28630d"
+  "version": "4.3.8.0",
+  "notes": "Mon Budget : les catégories se classent directement dans le tableau, sans fenêtre. Les flèches ▲ ▼ au bout du nom d'une rangée la déplacent ; celles d'une super catégorie la déplacent avec toutes ses catégories.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.3.8.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.3.8.0.apk",
+  "sha256": "212056ff189e858b6402423e0e279d64b86e8efd0773f7bbc862e19f8bca138c",
+  "signature": "acbf00672489090bad5e35f5aebb7eaeef2f5c76eac311485722a1d8199302b0bfdefa90c5be940a1d752759a278aa9de99cb45a5b7bffb098e83adc53072a00"
 }
