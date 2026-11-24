@@ -1,8 +1,8 @@
 {
-  "version": "4.5.0.0",
-  "notes": "Mon Budget : le réel est retiré ; il ne reste que le prévu, à l'écran comme dans les PDF.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.5.0.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.5.0.0.apk",
-  "sha256": "94b73b6ac10736cb3c3ab99af2c331bed8521a1e3927d3e4dcdcc7a1660813ac",
-  "signature": "50b3614db36edcc624b17679663698b2fd5f3c7dd04cd6b027220f1e54b3d0885fd80ae2e97a701feea83c93ec6724e10536b2ea3784e2a3d12f97c612404c0d"
+  "version": "4.5.1.0",
+  "notes": "Mon Budget : la page reste sur la ligne modifiée quand sa fenêtre se referme.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.5.1.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.5.1.0.apk",
+  "sha256": "6ccbe8c56c0ac17abb4b9f8033727b69135f6cf299476ef93f10d7d5d94d59b6",
+  "signature": "3452601097f15e36f848a1d91ff8c4f223fd7b30030cf5ac1f811239de213802fe71fbe60ab11ef974ee560a7777dee3c67e1061c85169d8e1873567a39c4d02"
 }
