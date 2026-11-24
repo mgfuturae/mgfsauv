@@ -1,8 +1,8 @@
 {
-  "version": "4.4.6.0",
-  "notes": "Mon Budget : un bouton « ＋ Super catégorie » à côté de « ＋ Catégorie » : on tape le nom et on coche ses catégories, sans fenêtre.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.4.6.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.4.6.0.apk",
-  "sha256": "e745a6532823c473894d577a4124e6b66d1e028224a0cd10abccd03601e2e721",
-  "signature": "84151fef0e5b25689012606838a3382c27f2ed44044a382dc9d00cd6a555ea3cfbcd37b952b6bc2eff91fa32a8f020c8654fcb1326b98cbfe80eb0cc71253302"
+  "version": "4.4.7.0",
+  "notes": "Mon Budget : « Revenus » ne s'affiche plus deux fois ; la super catégorie « Revenus » ne range que des revenus.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.4.7.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.4.7.0.apk",
+  "sha256": "ed75a1c8810129ddd669c9c0a2a51b234008c2242a906e95d59e16aef3e0ea0b",
+  "signature": "bc2a1029320b220f2b0fed3e0530fc73de31c9c98b84902a8dbf2da9dd21b7253f7806e1b48f505e7bd7c6f86176b1c9e14ed6a185dd1fde409979ef844add0f"
 }
