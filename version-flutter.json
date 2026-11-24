@@ -1,8 +1,8 @@
 {
-  "version": "4.3.5.0",
-  "notes": "Mon Budget : nouveau PDF « mois par mois — catégories », le même tableau avec une rangée par catégorie, sans les sous-catégories. Le précédent s'appelle « PDF mois par mois — détail ».",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.3.5.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.3.5.0.zip",
-  "sha256": "ae9cadd2946b3f071c3ba79077bd55beb6781710a21871f2b2f0e1ea693a929b",
-  "signature": "012cb6f1cc8766acd8c2e79c3612b7924b9e89dd7f80df3bf4f7b30cca97a27c104bcf42c120c971df129597476108c931def640e32111824f677ee1d7724303"
+  "version": "4.3.6.0",
+  "notes": "Mon Budget simplifié : il ne reste que le tableau mois par mois, le prévu puis le réel. Un clic sur le nom d'une rangée change son titre, sa super catégorie ou son prévu de chaque mois ; un clic sur une case change le montant prévu ou réel de ce mois-là. Les super catégories regroupent des catégories avec leur sous-total, à l'écran et dans les PDF. Sur le téléphone, le tableau se lit en paysage.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.3.6.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.3.6.0.zip",
+  "sha256": "192e7b81c31c6c9d792d20fede2115bc99a3c444d727012a17d304d94c07eec2",
+  "signature": "110a62121e604ada5879ae587d7312f53341ac5c4fe1f4d79862b479b5650ea3b2f638fe867885454d906733c004d873f49d87a12c210d55c5272fed6825860a"
 }
