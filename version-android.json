@@ -1,8 +1,8 @@
 {
-  "version": "4.3.6.0",
-  "notes": "Mon Budget simplifié : il ne reste que le tableau mois par mois, le prévu puis le réel. Un clic sur le nom d'une rangée change son titre, sa super catégorie ou son prévu de chaque mois ; un clic sur une case change le montant prévu ou réel de ce mois-là. Les super catégories regroupent des catégories avec leur sous-total, à l'écran et dans les PDF. Sur le téléphone, le tableau se lit en paysage.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.3.6.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.3.6.0.apk",
-  "sha256": "ad8a9af4d38d3f0a05af7db5ca0c02c555a0cb263ec2551083a60facbd962469",
-  "signature": "c7fa2b497cac4ab34f386e88700766c2a6fa3f4af99c936dd7ac289ea33bf29ecf9b53de5f58bbdf99bf68548000e0e5b6fcf8f06c4b48cff140ad3d89164308"
+  "version": "4.3.7.0",
+  "notes": "Mon Budget : les catégories se classent dans le tableau. Dans la fenêtre d'une rangée, « Monter » et « Descendre » la déplacent aussitôt ; une super catégorie se déplace d'un clic sur son intitulé, avec toutes ses catégories.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.3.7.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.3.7.0.apk",
+  "sha256": "768dc71d7b12ac202d9654924182801e7b8703ff83989a2fef006f4c4f1e2b96",
+  "signature": "960a64fd4e573f458f40b6382ee18115258fd6f6129857c0c8fd55fc2e1f53b1641ca1566740b1e196705769e74e5b6e0b36c7b8a9a22edeb9452cc5be28630d"
 }
