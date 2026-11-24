@@ -1,8 +1,8 @@
 {
-  "version": "4.3.8.0",
-  "notes": "Mon Budget : les catégories se classent directement dans le tableau, sans fenêtre. Les flèches ▲ ▼ au bout du nom d'une rangée la déplacent ; celles d'une super catégorie la déplacent avec toutes ses catégories.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.3.8.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.3.8.0.apk",
-  "sha256": "212056ff189e858b6402423e0e279d64b86e8efd0773f7bbc862e19f8bca138c",
-  "signature": "acbf00672489090bad5e35f5aebb7eaeef2f5c76eac311485722a1d8199302b0bfdefa90c5be940a1d752759a278aa9de99cb45a5b7bffb098e83adc53072a00"
+  "version": "4.3.9.0",
+  "notes": "Mon Budget : la liste de départ range les dépenses en cinq super catégories : Logement, Transport, Santé, Vie courante, Banque et impôts. Un budget déjà saisi ne change pas.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.3.9.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.3.9.0.apk",
+  "sha256": "9897d06f9c7943b0bbe4026820b8de79b562983b69d15f3a022f78b6c00a474a",
+  "signature": "0cf20e120102881ad760a603b66ec84993a2f4ce81fb1be5ee768fd01547b394a3153fde968038203d72caa2f1c5cdb54bc6d65c5160fb5e12e63db2dc10e80a"
 }
