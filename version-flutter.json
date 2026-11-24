@@ -1,8 +1,8 @@
 {
-  "version": "4.5.0.0",
-  "notes": "Mon Budget : le réel est retiré ; il ne reste que le prévu, à l'écran comme dans les PDF.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.5.0.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.5.0.0.zip",
-  "sha256": "841a023637ab56d6daf94e5d35685ee86c17ea211fe38eea5f90a97a3b9a21d6",
-  "signature": "c01146d0a6fd5babe458d132a0c37bdff0b37ac316f448ecbc202210be9529216b6bad634da326607b2d2d87e2f2c2bdb73145bf08f44117c0a3313e1e1d3208"
+  "version": "4.5.1.0",
+  "notes": "Mon Budget : la page reste sur la ligne modifiée quand sa fenêtre se referme.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.5.1.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.5.1.0.zip",
+  "sha256": "0125212783175689359fe1e5d6c4face8ee975da37e958ccd5ce9b7626cd7a2c",
+  "signature": "c506005b3b7ccf7e88b78bf3c4e913ad876f65218248bc571bb9d3c57bfa45b10364414bf6adece7ed011e0b5ecec1ea3a9c41738acac84e73894569db0e2809"
 }
