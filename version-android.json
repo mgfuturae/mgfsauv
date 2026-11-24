@@ -1,8 +1,8 @@
 {
-  "version": "4.4.0.0",
-  "notes": "Mon Budget : nouveau bouton « Tout effacer et repartir de la liste ». Après confirmation et une sauvegarde complète, le budget repart comme à une nouvelle installation : dix-sept catégories sans montant, rangées en cinq super catégories.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.4.0.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.4.0.0.apk",
-  "sha256": "1bccba59cba0610ff7335c459e985a99f486ab6fcd50530fa44124f84193cbcf",
-  "signature": "b0ddedecb04522bb6e87e6ff226daf29e7427afcd94d4e453e32b73c6ccb1e02449e221e7b6d61f353347e203bdc2542a4f324b7222e4aeac663a4e1a0919d04"
+  "version": "4.4.1.0",
+  "notes": "Mon Budget : plus de message d'erreur après « Tout effacer et repartir de la liste ».",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.4.1.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.4.1.0.apk",
+  "sha256": "b16089a92ec9b6d5af33e7449c6224b8028a7de64f58a71e4619f5a0d83c699b",
+  "signature": "150d839328f3d1d7b469e1fccc6eb608821ea1f8efe428160ef1c165df2ab0212f3f0f86335a7407f2e20a73226d0e48475909520033c2204b8bbed19e759202"
 }
