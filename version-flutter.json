@@ -1,8 +1,8 @@
 {
-  "version": "4.3.9.0",
-  "notes": "Mon Budget : la liste de départ range les dépenses en cinq super catégories : Logement, Transport, Santé, Vie courante, Banque et impôts. Un budget déjà saisi ne change pas.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.3.9.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.3.9.0.zip",
-  "sha256": "944fb18d7eeeecbdd3e4cbc1c1af19713a7c95d103ee91ced9cd52331bf85328",
-  "signature": "8c8b94296254d8481e1eb93f70e08e20d0ca7a37d0329eab79e1f7c80d2be36f51916074e365ba1137f8c835bbb749dc411abc20f8c5363dc5485c7a5e079809"
+  "version": "4.4.0.0",
+  "notes": "Mon Budget : nouveau bouton « Tout effacer et repartir de la liste ». Après confirmation et une sauvegarde complète, le budget repart comme à une nouvelle installation : dix-sept catégories sans montant, rangées en cinq super catégories.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.4.0.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.4.0.0.zip",
+  "sha256": "9e1dbba10d302e5ac116678fcaf58169276a7f6d4b3632a2fe12ed43bf342996",
+  "signature": "4c54074ffac35cd4d09cc6cae74c34b01d096f3e1edffa0bc038c38f1cce7831ed53e5c3c374e83963f95a9eb579286ed3295832e233e8b3ea003ac64f032f05"
 }
