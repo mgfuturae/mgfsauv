@@ -1,8 +1,8 @@
 {
-  "version": "4.5.2.0",
-  "notes": "Mon Budget : le solde bancaire de mois en mois (tapé au 1er janvier, repris l'année suivante) et son PDF.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.5.2.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.5.2.0.apk",
-  "sha256": "7f5992851103201e099ebe2ce20e784a494b15c4d0633dfb89fa6c261dbaec66",
-  "signature": "7a1ab1d55e3510ee5a1a0cbd756095028f7d53607b785e4d230ca9f9c777054f049c69b2153936e9232f1df87ab1a711924faad97363ff1a652a3e631acfcf04"
+  "version": "4.5.3.0",
+  "notes": "Mon Budget : un nouveau prévu vaut à partir du mois en cours, les mois passés gardent le leur ; chaque année se garde telle quelle (bouton Garder, et d'elle-même au 1er janvier).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.5.3.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.5.3.0.apk",
+  "sha256": "3fd29ed41fb53c0c83524fd8af79d816b645acb90d9bef1535e685a9397ee881",
+  "signature": "d1d9911df68a3dd3014b81ea4e9a3dcb97bb269a8f117137bf23067931837c4102b5a6530fd6d51d471042b0db5824234d8b779fe0777426f656941054c27000"
 }
