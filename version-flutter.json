@@ -1,8 +1,8 @@
 {
-  "version": "4.4.9.0",
-  "notes": "Mon Budget : tous les combien (chaque mois, 1 mois sur 2, 3, 4 ou 6, 1 fois par an) et le mois de départ ; le montant tombe dans ses vrais mois.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.4.9.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.4.9.0.zip",
-  "sha256": "05d00449515ea93ee9389154ad92e3ba3cd61c157250a5acaeda1c2660e72842",
-  "signature": "1bcfe32bdb7fb042b274d8610cb515649948771ccb430d4e880823c4864018fbe88436f3e4dd9b19e332826fb45fc2a26578a8b4bac39836f1d47f74d614d607"
+  "version": "4.5.0.0",
+  "notes": "Mon Budget : le réel est retiré ; il ne reste que le prévu, à l'écran comme dans les PDF.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.5.0.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.5.0.0.zip",
+  "sha256": "841a023637ab56d6daf94e5d35685ee86c17ea211fe38eea5f90a97a3b9a21d6",
+  "signature": "c01146d0a6fd5babe458d132a0c37bdff0b37ac316f448ecbc202210be9529216b6bad634da326607b2d2d87e2f2c2bdb73145bf08f44117c0a3313e1e1d3208"
 }
