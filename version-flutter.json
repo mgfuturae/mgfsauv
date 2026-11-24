@@ -1,8 +1,8 @@
 {
-  "version": "4.4.6.0",
-  "notes": "Mon Budget : un bouton « ＋ Super catégorie » à côté de « ＋ Catégorie » : on tape le nom et on coche ses catégories, sans fenêtre.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.4.6.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.4.6.0.zip",
-  "sha256": "c218a37d76fd022e0a84d77316312305d957b9c8936ac7018b2b950f03119508",
-  "signature": "083904336feb983bcf44e60340efe4da23227f7c91a421c2f5534d0424b7eaf28f987fc03217a867cc94ee65cd4251a9666108c75323053dcaeef28b0acf1f05"
+  "version": "4.4.7.0",
+  "notes": "Mon Budget : « Revenus » ne s'affiche plus deux fois ; la super catégorie « Revenus » ne range que des revenus.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.4.7.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.4.7.0.zip",
+  "sha256": "5b04fe7c72cf16776da13c358b534a4050e30ca9fbfbe49f6e4cb3ad8bf25279",
+  "signature": "933cb3b3be1c238d48a9ed70a0cea782fb966cb95a21b1c62516eb78a8f689e53118eebfb55966068fb5a17f20603ad65da15ca19cb1af8572f7c812ce612c04"
 }
