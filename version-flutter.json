@@ -1,8 +1,8 @@
 {
-  "version": "4.4.7.0",
-  "notes": "Mon Budget : « Revenus » ne s'affiche plus deux fois ; la super catégorie « Revenus » ne range que des revenus.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.4.7.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.4.7.0.zip",
-  "sha256": "5b04fe7c72cf16776da13c358b534a4050e30ca9fbfbe49f6e4cb3ad8bf25279",
-  "signature": "933cb3b3be1c238d48a9ed70a0cea782fb966cb95a21b1c62516eb78a8f689e53118eebfb55966068fb5a17f20603ad65da15ca19cb1af8572f7c812ce612c04"
+  "version": "4.4.8.0",
+  "notes": "Fiches : un IBAN faux dit où chercher l'erreur (lettre prise pour un chiffre, deux chiffres après FR, ou clé RIB).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.4.8.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.4.8.0.zip",
+  "sha256": "8464742485079fba008074ec1ce45d1601d38e43bf3f3dc760e553165e0d9b7e",
+  "signature": "ba367071051bcece3cc806387dba45552f483e75caf317d3d68108162ccbd3b1b1fce27f6882937fd90386ae40c71bd477705e35970bc7354fdebb1b335a3b0f"
 }
