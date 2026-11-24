@@ -1,8 +1,8 @@
 {
-  "version": "4.4.1.0",
-  "notes": "Mon Budget : plus de message d'erreur après « Tout effacer et repartir de la liste ».",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.4.1.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.4.1.0.zip",
-  "sha256": "029fabf3109128b707b7c766e46eb319f52de3a54e4760a92e72b91ae05e151b",
-  "signature": "fe658eeb8c160873501af66dae5c8a13b6eb569da76e45eb8e10689e6db7562a7f8484cb1d52f079d75da6efe7d17401d834d5466b4f6d335182e3fd469aa201"
+  "version": "4.4.2.0",
+  "notes": "Mon Budget : en janvier, le prévu se tape pour janvier seulement, ou d'un clic pour les douze mois de l'année (« Tous les mois »).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.4.2.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.4.2.0.zip",
+  "sha256": "52b2438342bc23ac0c330c940c56e154e22530404710b9b2d1e0a131844c7468",
+  "signature": "b4ebb59c850305a47f87173b3c74df2306aff8b166c58d6fb6264d209ec5d2f7628c6198d1e5785a6b1fd225d0d6eac718e68fb4172ae8efddb548965f731108"
 }
