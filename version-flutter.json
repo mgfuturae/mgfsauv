@@ -1,8 +1,8 @@
 {
-  "version": "4.3.7.0",
-  "notes": "Mon Budget : les catégories se classent dans le tableau. Dans la fenêtre d'une rangée, « Monter » et « Descendre » la déplacent aussitôt ; une super catégorie se déplace d'un clic sur son intitulé, avec toutes ses catégories.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.3.7.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.3.7.0.zip",
-  "sha256": "40c7f72a8f5105f8cb911672beeaa5ce57e5119f6fce72360c20a501df4e9909",
-  "signature": "4a36a903670e2d9aa3e40ac7ca062a3c6673e14c859871a07e3731e7872c4163a2de8a943164449524f90ccf62f05728ddc6a94f056ab2f73505fab227a17b05"
+  "version": "4.3.8.0",
+  "notes": "Mon Budget : les catégories se classent directement dans le tableau, sans fenêtre. Les flèches ▲ ▼ au bout du nom d'une rangée la déplacent ; celles d'une super catégorie la déplacent avec toutes ses catégories.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.3.8.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.3.8.0.zip",
+  "sha256": "02a4ac97730cbd4011cc85f9f9ff093e501b23a77c4c84b8ccf8d5f75d32c7f9",
+  "signature": "6843107feb05ed9f397bccad5f10fe844cb175978799e69b3283787c07f353ca6fb39fd117cbbecf09e3e9a5423c03199be7210b25fc2159521c48fbb8a5580c"
 }
