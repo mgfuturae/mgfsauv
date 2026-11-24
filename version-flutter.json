@@ -1,8 +1,8 @@
 {
-  "version": "4.4.4.0",
-  "notes": "Mon Budget : le nom d'une nouvelle super catégorie se tape directement en tête du menu, sans fenêtre de plus.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.4.4.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.4.4.0.zip",
-  "sha256": "9e21ecab65a7e4da0f54bf769b5959b237c8ab08108016427b46b1eb8fb04396",
-  "signature": "22151939abdafc58fb2e361d227f9a11af83da3e4f0610a20a95a81befd9c5a64760450313fdbcf1e50befa6b4b96d5a5ff9ddb9b742990322065a269942ce0b"
+  "version": "4.4.5.0",
+  "notes": "Mon Budget en couleurs : tuiles de l'année, une couleur et un emoji par partie et par super catégorie, le mois en cours éclairé.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.4.5.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.4.5.0.zip",
+  "sha256": "5bd1678800b87328b27339388ebf50982c3a55f87b0b4b35892e417a14717f54",
+  "signature": "a0c44a8d62f79560e9a8b45918e77e7856a0c23acbdbb6c284752a4c6b53c8166c26f38e130d3572590100cdb618ebd38a9e2a4cf95cb15e8a6800f44c71960d"
 }
