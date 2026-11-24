@@ -1,8 +1,8 @@
 {
-  "version": "4.4.8.0",
-  "notes": "Fiches : un IBAN faux dit où chercher l'erreur (lettre prise pour un chiffre, deux chiffres après FR, ou clé RIB).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.4.8.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.4.8.0.apk",
-  "sha256": "da46e5bf1027ff5a6ba5cc9b73874e2aba288835f8578ea5c17a2e0c7efaa13d",
-  "signature": "8414b1fbda79a1d4a523590a48a58e953074306055472a3a6f94af7ad889c1d033f95a77983dd6b65ee1d27dc2baad226a5cff24b460b2ad6553411c93aa1901"
+  "version": "4.4.9.0",
+  "notes": "Mon Budget : tous les combien (chaque mois, 1 mois sur 2, 3, 4 ou 6, 1 fois par an) et le mois de départ ; le montant tombe dans ses vrais mois.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.4.9.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.4.9.0.apk",
+  "sha256": "9439a2c6dc920ad7f58da98237536cb0cf0d81905b18349821dcd4f46ff45ba5",
+  "signature": "7a893ba4e2040f78f2c26318b23cb05a454e05a0812c7699bfdb102942e3d681cd5469de1c831a4d935a42f9d81bcfa79663a4122404c1656c5c0a60a210ad09"
 }
