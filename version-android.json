@@ -1,8 +1,8 @@
 {
-  "version": "4.4.4.0",
-  "notes": "Mon Budget : le nom d'une nouvelle super catégorie se tape directement en tête du menu, sans fenêtre de plus.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.4.4.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.4.4.0.apk",
-  "sha256": "1d3daaef205677d378e2c921c54a919421e1fd369dcb844f9c88175cf6d6ca25",
-  "signature": "096c010380b22b14a9290d9b6dd022e7fd4ecff53ae162584bcf7c3db1c075e64987ebb10a53b9178de5010416abc361b1bea39d429fcfbbd589c947e1142504"
+  "version": "4.4.5.0",
+  "notes": "Mon Budget en couleurs : tuiles de l'année, une couleur et un emoji par partie et par super catégorie, le mois en cours éclairé.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.4.5.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.4.5.0.apk",
+  "sha256": "ac4ac486420f86fcae2318218a5865fc4df7d54afff2833926d453c0e8870414",
+  "signature": "9cfa848807390384e0310a79cde0c78714d660550302f51e33cb4052144438614f9e937c24bd73532f378a789fb25050ea057d647fc713056f55b636c5235706"
 }
