@@ -1,8 +1,8 @@
 {
-  "version": "4.4.2.0",
-  "notes": "Mon Budget : en janvier, le prévu se tape pour janvier seulement, ou d'un clic pour les douze mois de l'année (« Tous les mois »).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.4.2.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.4.2.0.zip",
-  "sha256": "52b2438342bc23ac0c330c940c56e154e22530404710b9b2d1e0a131844c7468",
-  "signature": "b4ebb59c850305a47f87173b3c74df2306aff8b166c58d6fb6264d209ec5d2f7628c6198d1e5785a6b1fd225d0d6eac718e68fb4172ae8efddb548965f731108"
+  "version": "4.4.3.0",
+  "notes": "Mon Budget : une catégorie de revenu se range sous la super catégorie « Revenus », toujours proposée. Chaque partie du tableau ne propose que ses propres super catégories.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.4.3.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.4.3.0.zip",
+  "sha256": "6ec0d21c9e4ee895a9fa7deb2d4d4b0b6539a40b2a94bd542736e416db6e1fdb",
+  "signature": "8e3ec4bf966525d0ac517a44db8fbaad0fbbacab8c269427ef244626b47668424e3b7e6383b4870b3f13f4a5157c13d562aa2577fc4ca5cb2dc88c0435a33b02"
 }
