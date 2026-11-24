@@ -1,8 +1,8 @@
 {
-  "version": "4.4.7.0",
-  "notes": "Mon Budget : « Revenus » ne s'affiche plus deux fois ; la super catégorie « Revenus » ne range que des revenus.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.4.7.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.4.7.0.apk",
-  "sha256": "ed75a1c8810129ddd669c9c0a2a51b234008c2242a906e95d59e16aef3e0ea0b",
-  "signature": "bc2a1029320b220f2b0fed3e0530fc73de31c9c98b84902a8dbf2da9dd21b7253f7806e1b48f505e7bd7c6f86176b1c9e14ed6a185dd1fde409979ef844add0f"
+  "version": "4.4.8.0",
+  "notes": "Fiches : un IBAN faux dit où chercher l'erreur (lettre prise pour un chiffre, deux chiffres après FR, ou clé RIB).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.4.8.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.4.8.0.apk",
+  "sha256": "da46e5bf1027ff5a6ba5cc9b73874e2aba288835f8578ea5c17a2e0c7efaa13d",
+  "signature": "8414b1fbda79a1d4a523590a48a58e953074306055472a3a6f94af7ad889c1d033f95a77983dd6b65ee1d27dc2baad226a5cff24b460b2ad6553411c93aa1901"
 }
