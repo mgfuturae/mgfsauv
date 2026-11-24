@@ -1,8 +1,8 @@
 {
-  "version": "4.4.5.0",
-  "notes": "Mon Budget en couleurs : tuiles de l'année, une couleur et un emoji par partie et par super catégorie, le mois en cours éclairé.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.4.5.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.4.5.0.zip",
-  "sha256": "5bd1678800b87328b27339388ebf50982c3a55f87b0b4b35892e417a14717f54",
-  "signature": "a0c44a8d62f79560e9a8b45918e77e7856a0c23acbdbb6c284752a4c6b53c8166c26f38e130d3572590100cdb618ebd38a9e2a4cf95cb15e8a6800f44c71960d"
+  "version": "4.4.6.0",
+  "notes": "Mon Budget : un bouton « ＋ Super catégorie » à côté de « ＋ Catégorie » : on tape le nom et on coche ses catégories, sans fenêtre.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.4.6.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.4.6.0.zip",
+  "sha256": "c218a37d76fd022e0a84d77316312305d957b9c8936ac7018b2b950f03119508",
+  "signature": "083904336feb983bcf44e60340efe4da23227f7c91a421c2f5534d0424b7eaf28f987fc03217a867cc94ee65cd4251a9666108c75323053dcaeef28b0acf1f05"
 }
