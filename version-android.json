@@ -1,8 +1,8 @@
 {
-  "version": "4.4.2.0",
-  "notes": "Mon Budget : en janvier, le prévu se tape pour janvier seulement, ou d'un clic pour les douze mois de l'année (« Tous les mois »).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.4.2.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.4.2.0.apk",
-  "sha256": "1a164d8821158b80e1c5aff9dca5938e919a534661d0c1a585cb0988e67bbcf8",
-  "signature": "2cfcda5017f4a8e7bd68a18d555300b63b264f443e5abb618a8c0ca959f659224a6120d8119e78848744bafb1b0febcf629f6785b268543b730da5a83673130a"
+  "version": "4.4.3.0",
+  "notes": "Mon Budget : une catégorie de revenu se range sous la super catégorie « Revenus », toujours proposée. Chaque partie du tableau ne propose que ses propres super catégories.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.4.3.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.4.3.0.apk",
+  "sha256": "c6567dd73b32ef0052f6aae0f98ab9059cd4163caa957b0e6c04e5c1f8cf7513",
+  "signature": "47399a6e6e404247efd51d1fdc1690f2999e60c935a1de59e9ca35b1105383642903b7434451cd7f100a90ea5080701a250343f65d246a1d82de59cef450af0c"
 }
