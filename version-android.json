@@ -1,8 +1,8 @@
 {
-  "version": "4.4.9.0",
-  "notes": "Mon Budget : tous les combien (chaque mois, 1 mois sur 2, 3, 4 ou 6, 1 fois par an) et le mois de départ ; le montant tombe dans ses vrais mois.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.4.9.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.4.9.0.apk",
-  "sha256": "9439a2c6dc920ad7f58da98237536cb0cf0d81905b18349821dcd4f46ff45ba5",
-  "signature": "7a893ba4e2040f78f2c26318b23cb05a454e05a0812c7699bfdb102942e3d681cd5469de1c831a4d935a42f9d81bcfa79663a4122404c1656c5c0a60a210ad09"
+  "version": "4.5.0.0",
+  "notes": "Mon Budget : le réel est retiré ; il ne reste que le prévu, à l'écran comme dans les PDF.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.5.0.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.5.0.0.apk",
+  "sha256": "94b73b6ac10736cb3c3ab99af2c331bed8521a1e3927d3e4dcdcc7a1660813ac",
+  "signature": "50b3614db36edcc624b17679663698b2fd5f3c7dd04cd6b027220f1e54b3d0885fd80ae2e97a701feea83c93ec6724e10536b2ea3784e2a3d12f97c612404c0d"
 }
