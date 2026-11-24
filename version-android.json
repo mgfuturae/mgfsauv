@@ -1,8 +1,8 @@
 {
-  "version": "4.5.1.0",
-  "notes": "Mon Budget : la page reste sur la ligne modifiée quand sa fenêtre se referme.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.5.1.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.5.1.0.apk",
-  "sha256": "6ccbe8c56c0ac17abb4b9f8033727b69135f6cf299476ef93f10d7d5d94d59b6",
-  "signature": "3452601097f15e36f848a1d91ff8c4f223fd7b30030cf5ac1f811239de213802fe71fbe60ab11ef974ee560a7777dee3c67e1061c85169d8e1873567a39c4d02"
+  "version": "4.5.2.0",
+  "notes": "Mon Budget : le solde bancaire de mois en mois (tapé au 1er janvier, repris l'année suivante) et son PDF.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.5.2.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.5.2.0.apk",
+  "sha256": "7f5992851103201e099ebe2ce20e784a494b15c4d0633dfb89fa6c261dbaec66",
+  "signature": "7a1ab1d55e3510ee5a1a0cbd756095028f7d53607b785e4d230ca9f9c777054f049c69b2153936e9232f1df87ab1a711924faad97363ff1a652a3e631acfcf04"
 }
