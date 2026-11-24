@@ -1,8 +1,8 @@
 {
-  "version": "4.3.8.0",
-  "notes": "Mon Budget : les catégories se classent directement dans le tableau, sans fenêtre. Les flèches ▲ ▼ au bout du nom d'une rangée la déplacent ; celles d'une super catégorie la déplacent avec toutes ses catégories.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.3.8.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.3.8.0.zip",
-  "sha256": "02a4ac97730cbd4011cc85f9f9ff093e501b23a77c4c84b8ccf8d5f75d32c7f9",
-  "signature": "6843107feb05ed9f397bccad5f10fe844cb175978799e69b3283787c07f353ca6fb39fd117cbbecf09e3e9a5423c03199be7210b25fc2159521c48fbb8a5580c"
+  "version": "4.3.9.0",
+  "notes": "Mon Budget : la liste de départ range les dépenses en cinq super catégories : Logement, Transport, Santé, Vie courante, Banque et impôts. Un budget déjà saisi ne change pas.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.3.9.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.3.9.0.zip",
+  "sha256": "944fb18d7eeeecbdd3e4cbc1c1af19713a7c95d103ee91ced9cd52331bf85328",
+  "signature": "8c8b94296254d8481e1eb93f70e08e20d0ca7a37d0329eab79e1f7c80d2be36f51916074e365ba1137f8c835bbb749dc411abc20f8c5363dc5485c7a5e079809"
 }
