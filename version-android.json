@@ -1,8 +1,8 @@
 {
-  "version": "4.4.3.0",
-  "notes": "Mon Budget : une catégorie de revenu se range sous la super catégorie « Revenus », toujours proposée. Chaque partie du tableau ne propose que ses propres super catégories.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.4.3.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.4.3.0.apk",
-  "sha256": "c6567dd73b32ef0052f6aae0f98ab9059cd4163caa957b0e6c04e5c1f8cf7513",
-  "signature": "47399a6e6e404247efd51d1fdc1690f2999e60c935a1de59e9ca35b1105383642903b7434451cd7f100a90ea5080701a250343f65d246a1d82de59cef450af0c"
+  "version": "4.4.4.0",
+  "notes": "Mon Budget : le nom d'une nouvelle super catégorie se tape directement en tête du menu, sans fenêtre de plus.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.4.4.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.4.4.0.apk",
+  "sha256": "1d3daaef205677d378e2c921c54a919421e1fd369dcb844f9c88175cf6d6ca25",
+  "signature": "096c010380b22b14a9290d9b6dd022e7fd4ecff53ae162584bcf7c3db1c075e64987ebb10a53b9178de5010416abc361b1bea39d429fcfbbd589c947e1142504"
 }
