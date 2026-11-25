@@ -1,8 +1,8 @@
 {
-  "version": "4.5.3.0",
-  "notes": "Mon Budget : un nouveau prévu vaut à partir du mois en cours, les mois passés gardent le leur ; chaque année se garde telle quelle (bouton Garder, et d'elle-même au 1er janvier).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.5.3.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.5.3.0.apk",
-  "sha256": "3fd29ed41fb53c0c83524fd8af79d816b645acb90d9bef1535e685a9397ee881",
-  "signature": "d1d9911df68a3dd3014b81ea4e9a3dcb97bb269a8f117137bf23067931837c4102b5a6530fd6d51d471042b0db5824234d8b779fe0777426f656941054c27000"
+  "version": "4.5.4.0",
+  "notes": "Mon Budget : « Tout effacer et repartir de la liste » laisse les années gardées et le solde du 1er janvier.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.5.4.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.5.4.0.apk",
+  "sha256": "bc34d22c559f37634e22df3396a52d7c9e3b2f66d4a46e9c3aaebb346cfcfc5f",
+  "signature": "21e853f6d8d4e46a11992f9236ad27078928c76cf6ac8bc663c7253c4dcb749a53fa6b886c13d6a9fc1aa5076e50feeeee4af7aefaeb18ad494abd63b368ca08"
 }
