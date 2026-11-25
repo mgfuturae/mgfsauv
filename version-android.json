@@ -1,8 +1,8 @@
 {
-  "version": "4.5.4.0",
-  "notes": "Mon Budget : « Tout effacer et repartir de la liste » laisse les années gardées et le solde du 1er janvier.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.5.4.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.5.4.0.apk",
-  "sha256": "bc34d22c559f37634e22df3396a52d7c9e3b2f66d4a46e9c3aaebb346cfcfc5f",
-  "signature": "21e853f6d8d4e46a11992f9236ad27078928c76cf6ac8bc663c7253c4dcb749a53fa6b886c13d6a9fc1aa5076e50feeeee4af7aefaeb18ad494abd63b368ca08"
+  "version": "4.5.5.0",
+  "notes": "Mon Budget : le mois en cours n'est plus mis en avant (ni bande, ni pastille, ni gras).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.5.5.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.5.5.0.apk",
+  "sha256": "709d06bd1b06743a3dcd012330c6a7b73788717f1bea2793638c89d846755cf7",
+  "signature": "19aeb9359c658854320cf55fef5e9d865ba0789046070043121c807f960d5c31a4df6eb4d26331d5c5716fc1ac6e9833f9711448784a872039eb6bbe57459a0c"
 }
