@@ -1,8 +1,8 @@
 {
-  "version": "4.5.7.0",
-  "notes": "Mon Budget : sur l'écran de 2027, « Reprendre 2026 » recopie 2026 mois par mois ; ce qu'on change sur l'écran de 2027 vaut à partir de janvier 2027 et ne touche plus 2026.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.5.7.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.5.7.0.zip",
-  "sha256": "d29de85314f764c55e4393f89e67e7fd6ae4c82aff6dc4a69aec9c3b058dd132",
-  "signature": "93e6e6c873267b7870a8ad4e03bc646417c5d0b4587e5aa093dbe5a05b6bcee55c3bc3b9763f31627d0891d75bc8bafebdf33cb625bfb09ddca7cbb155264403"
+  "version": "4.5.8.0",
+  "notes": "Mon Budget : une catégorie ne s'enregistre plus sans sa super catégorie.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.5.8.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.5.8.0.zip",
+  "sha256": "53f17bfc86e5307b55462311d51adcec8650e480e61c2a5dcc99c52f0947fc55",
+  "signature": "a3ee4d963b2677934b062ea8675c4330899cc6c8b0a8c25cc00b33df566fec10b2bdc0918271308c045e3345531f69c22022aa9874a17d38cc7aa95a15c92208"
 }
