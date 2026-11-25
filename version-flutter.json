@@ -1,8 +1,8 @@
 {
-  "version": "4.6.1.0",
-  "notes": "Sur le téléphone couché, la fenêtre d'une catégorie reste lisible, même clavier ouvert. Un symbole ⟳ en haut de l'écran synchronise tout de suite le PC ou le téléphone, sans attendre. En paysage, l'agenda et Mon Budget gardent le bouton ☰ du menu, en haut à gauche.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.6.1.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.6.1.0.zip",
-  "sha256": "2703e88fc5f0b574b8aaea0e0209ce2dd90a059d4e01bae70d237bec5678d143",
-  "signature": "dbfc95c15d20f111707b203515fdb9ed367e2b616ce23884eda7299f24d5ea36f657383eb9028ea36fa5914037147feb76c8a94e329a235600b1d8fa95244d0d"
+  "version": "4.6.2.0",
+  "notes": "Le symbole ⟳ de synchronisation est en rouge, pour mieux le voir. Sur le PC, la recherche et l'interrupteur sont au niveau des boutons d'à côté.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.6.2.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.6.2.0.zip",
+  "sha256": "f31a83fd4d45fbfa56c9984ff393359b534514b91c8d139d85d82fb735221852",
+  "signature": "a4f52614187b77946e0fa2d8320e6643c5d205d1a6674ab4f14e56a1fe4733e635e82f6015dd68ec6bc2cab2d5c246ac876b479b23dd7fef9ca9263cc688a402"
 }
