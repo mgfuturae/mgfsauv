@@ -1,8 +1,8 @@
 {
-  "version": "4.5.7.0",
-  "notes": "Mon Budget : sur l'écran de 2027, « Reprendre 2026 » recopie 2026 mois par mois ; ce qu'on change sur l'écran de 2027 vaut à partir de janvier 2027 et ne touche plus 2026.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.5.7.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.5.7.0.apk",
-  "sha256": "a677a35bc22ef3860df2172a5a1e217a385a881daf977581c4221437f2dab8c3",
-  "signature": "b220d86b2c740d71b03f223cb261d0bf554639553ddb8aa70c4c10512ad03dd854a5899f092694658f2feb72856ced153777202eb20b72d3e747955e0608a90c"
+  "version": "4.5.8.0",
+  "notes": "Mon Budget : une catégorie ne s'enregistre plus sans sa super catégorie.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.5.8.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.5.8.0.apk",
+  "sha256": "dd555f17499e0b14e735f0013adf35f88286d2ef08f29b3d5ceac03fc5e151c7",
+  "signature": "906fd4c98e45124fe0e7caaf1241efc62e9b2b557de39e585297c59d6be8d04090466218564c85539798b620f8255a761f22366903ff3c9b7af1b7b521033809"
 }
