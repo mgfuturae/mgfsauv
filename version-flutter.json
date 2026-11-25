@@ -1,8 +1,8 @@
 {
-  "version": "4.6.0.0",
-  "notes": "Mon Budget : un appareil mis à jour après le PC retrouve le budget reçu entre-temps.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.6.0.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.6.0.0.zip",
-  "sha256": "8087ef17c400446885bbdcc6f13f4bd47b47d76482e50b8f548b04f2e2bd8247",
-  "signature": "e9131171f613e46d3ab20e573461424997b1642a86ec9598e10175476fa9763197786842a03c49b53d16026b8d2818ea3c8d46b643c91565815abf1c3dbae10c"
+  "version": "4.6.1.0",
+  "notes": "Sur le téléphone couché, la fenêtre d'une catégorie reste lisible, même clavier ouvert. Un symbole ⟳ en haut de l'écran synchronise tout de suite le PC ou le téléphone, sans attendre. En paysage, l'agenda et Mon Budget gardent le bouton ☰ du menu, en haut à gauche.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.6.1.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.6.1.0.zip",
+  "sha256": "2703e88fc5f0b574b8aaea0e0209ce2dd90a059d4e01bae70d237bec5678d143",
+  "signature": "dbfc95c15d20f111707b203515fdb9ed367e2b616ce23884eda7299f24d5ea36f657383eb9028ea36fa5914037147feb76c8a94e329a235600b1d8fa95244d0d"
 }
