@@ -1,8 +1,8 @@
 {
-  "version": "4.5.4.0",
-  "notes": "Mon Budget : « Tout effacer et repartir de la liste » laisse les années gardées et le solde du 1er janvier.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.5.4.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.5.4.0.zip",
-  "sha256": "24066afc4f9060189d31e6a7a450bbfa263d1049278b54e9f91ff67fdf69a1cd",
-  "signature": "01aeddb5be3c02d62d89e5369945fa52d65ada323d5c8b5117dc6a1c7f43d3ec9a79c4c8af8cf56724cc3badd5baa8545a33040d76689371da298e008ed32c06"
+  "version": "4.5.5.0",
+  "notes": "Mon Budget : le mois en cours n'est plus mis en avant (ni bande, ni pastille, ni gras).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.5.5.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.5.5.0.zip",
+  "sha256": "2b7754279ea8d61d680f9870981e7a22effb2664062e5e6a48c6cfd35db92525",
+  "signature": "89a9370eb349e735cdfa6ae4f30293614b6d88460fb3162553204e475fd8d70f342879dde0f351740134f3ce8b7dd93fdcfdfd6efb37fe43806aa5440a15910e"
 }
