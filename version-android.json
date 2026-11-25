@@ -1,8 +1,8 @@
 {
-  "version": "4.5.8.0",
-  "notes": "Mon Budget : une catégorie ne s'enregistre plus sans sa super catégorie.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.5.8.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.5.8.0.apk",
-  "sha256": "dd555f17499e0b14e735f0013adf35f88286d2ef08f29b3d5ceac03fc5e151c7",
-  "signature": "906fd4c98e45124fe0e7caaf1241efc62e9b2b557de39e585297c59d6be8d04090466218564c85539798b620f8255a761f22366903ff3c9b7af1b7b521033809"
+  "version": "4.5.9.0",
+  "notes": "Mon Budget se synchronise entre le PC et le téléphone : cochez-le dans Mise en ligne, sur les deux appareils. Catégories, mois, soldes du 1er janvier et années gardées voyagent dans les deux sens ; la modification la plus récente gagne.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.5.9.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.5.9.0.apk",
+  "sha256": "b8e1d22349ea4d29bf1a7187407086bbae131aa9bd5e784394fa2bff2f78c6e9",
+  "signature": "b904fd2ca3dbd2bef6a3fbdbdc9be63337dfffb26b941b305ddd56aafbcacf3379e3cae2acee220103d79e66d23b699844293ed4f542217905c0d91f32f4140c"
 }
