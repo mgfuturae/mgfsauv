@@ -1,8 +1,8 @@
 {
-  "version": "4.5.9.0",
-  "notes": "Mon Budget se synchronise entre le PC et le téléphone : cochez-le dans Mise en ligne, sur les deux appareils. Catégories, mois, soldes du 1er janvier et années gardées voyagent dans les deux sens ; la modification la plus récente gagne.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.5.9.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.5.9.0.apk",
-  "sha256": "b8e1d22349ea4d29bf1a7187407086bbae131aa9bd5e784394fa2bff2f78c6e9",
-  "signature": "b904fd2ca3dbd2bef6a3fbdbdc9be63337dfffb26b941b305ddd56aafbcacf3379e3cae2acee220103d79e66d23b699844293ed4f542217905c0d91f32f4140c"
+  "version": "4.6.0.0",
+  "notes": "Mon Budget : un appareil mis à jour après le PC retrouve le budget reçu entre-temps.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.6.0.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.6.0.0.apk",
+  "sha256": "2a038dcc8a603b36655d8c2c153f377830474bcf07854f105dfd58114357a61b",
+  "signature": "3c556fbf3831697b2bdc615e07683f11694ac9fafedd206a8f20755f524e17521bf66572a7a57ca2e57a306ab6b8e898f08c2cf6276ed763d0e4045ee8c44e02"
 }
