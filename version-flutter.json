@@ -1,8 +1,8 @@
 {
-  "version": "4.5.5.0",
-  "notes": "Mon Budget : le mois en cours n'est plus mis en avant (ni bande, ni pastille, ni gras).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.5.5.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.5.5.0.zip",
-  "sha256": "2b7754279ea8d61d680f9870981e7a22effb2664062e5e6a48c6cfd35db92525",
-  "signature": "89a9370eb349e735cdfa6ae4f30293614b6d88460fb3162553204e475fd8d70f342879dde0f351740134f3ce8b7dd93fdcfdfd6efb37fe43806aa5440a15910e"
+  "version": "4.5.6.0",
+  "notes": "Mon Budget : un trait léger sous chaque catégorie, pour suivre la ligne sur tous les mois.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.5.6.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.5.6.0.zip",
+  "sha256": "b1d253b63d9fd575fbbde6b1872a7c6cacf33e602a401e2ee8a09416f32e647a",
+  "signature": "6b0c62b70a744bc0814aeaf41032d3b72f77c8d093d8a6150bde594bcad96811369411d2ce7caca98f210a68925debd44bddb085746d5e922bac1d46ec82ea05"
 }
