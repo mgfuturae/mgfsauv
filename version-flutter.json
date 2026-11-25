@@ -1,8 +1,8 @@
 {
-  "version": "4.5.3.0",
-  "notes": "Mon Budget : un nouveau prévu vaut à partir du mois en cours, les mois passés gardent le leur ; chaque année se garde telle quelle (bouton Garder, et d'elle-même au 1er janvier).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.5.3.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.5.3.0.zip",
-  "sha256": "d50ae165f4f0e3acdede066c781ea396139b939bfbe324198bef885162b4566b",
-  "signature": "3491a94a6268b448c559306d07b0e374fedd6bd11734fb19d11aea8a85d5bdfe3725d70f4e42910e43c04c1b490eaf3c5c9a81a00884a7c5c30a1491ee30470f"
+  "version": "4.5.4.0",
+  "notes": "Mon Budget : « Tout effacer et repartir de la liste » laisse les années gardées et le solde du 1er janvier.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.5.4.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.5.4.0.zip",
+  "sha256": "24066afc4f9060189d31e6a7a450bbfa263d1049278b54e9f91ff67fdf69a1cd",
+  "signature": "01aeddb5be3c02d62d89e5369945fa52d65ada323d5c8b5117dc6a1c7f43d3ec9a79c4c8af8cf56724cc3badd5baa8545a33040d76689371da298e008ed32c06"
 }
