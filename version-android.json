@@ -1,8 +1,8 @@
 {
-  "version": "4.6.0.0",
-  "notes": "Mon Budget : un appareil mis à jour après le PC retrouve le budget reçu entre-temps.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.6.0.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.6.0.0.apk",
-  "sha256": "2a038dcc8a603b36655d8c2c153f377830474bcf07854f105dfd58114357a61b",
-  "signature": "3c556fbf3831697b2bdc615e07683f11694ac9fafedd206a8f20755f524e17521bf66572a7a57ca2e57a306ab6b8e898f08c2cf6276ed763d0e4045ee8c44e02"
+  "version": "4.6.1.0",
+  "notes": "Sur le téléphone couché, la fenêtre d'une catégorie reste lisible, même clavier ouvert. Un symbole ⟳ en haut de l'écran synchronise tout de suite le PC ou le téléphone, sans attendre. En paysage, l'agenda et Mon Budget gardent le bouton ☰ du menu, en haut à gauche.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.6.1.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.6.1.0.apk",
+  "sha256": "c88533963cf864c010bde1f70b6dc354ddb30d4a210b06fc88e71474baa9d1cb",
+  "signature": "cc034467369b664adfa58792b61c550d903c16b0029300c31844d1732efb96a81c6e74e46896e13e9a5eddb70261ffc49b13753e6825437ea0312eaa4acc080c"
 }
