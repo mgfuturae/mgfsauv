@@ -1,8 +1,8 @@
 {
-  "version": "4.5.6.0",
-  "notes": "Mon Budget : un trait léger sous chaque catégorie, pour suivre la ligne sur tous les mois.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.5.6.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.5.6.0.zip",
-  "sha256": "b1d253b63d9fd575fbbde6b1872a7c6cacf33e602a401e2ee8a09416f32e647a",
-  "signature": "6b0c62b70a744bc0814aeaf41032d3b72f77c8d093d8a6150bde594bcad96811369411d2ce7caca98f210a68925debd44bddb085746d5e922bac1d46ec82ea05"
+  "version": "4.5.7.0",
+  "notes": "Mon Budget : sur l'écran de 2027, « Reprendre 2026 » recopie 2026 mois par mois ; ce qu'on change sur l'écran de 2027 vaut à partir de janvier 2027 et ne touche plus 2026.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.5.7.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.5.7.0.zip",
+  "sha256": "d29de85314f764c55e4393f89e67e7fd6ae4c82aff6dc4a69aec9c3b058dd132",
+  "signature": "93e6e6c873267b7870a8ad4e03bc646417c5d0b4587e5aa093dbe5a05b6bcee55c3bc3b9763f31627d0891d75bc8bafebdf33cb625bfb09ddca7cbb155264403"
 }
