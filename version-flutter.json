@@ -1,8 +1,8 @@
 {
-  "version": "4.5.9.0",
-  "notes": "Mon Budget se synchronise entre le PC et le téléphone : cochez-le dans Mise en ligne, sur les deux appareils. Catégories, mois, soldes du 1er janvier et années gardées voyagent dans les deux sens ; la modification la plus récente gagne.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.5.9.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.5.9.0.zip",
-  "sha256": "766256ce493517e9d0684bbbffb29d2e9f9561162df50bdcbba6e922bc64cad4",
-  "signature": "b3864486f90ef560c1eba029c1851cdaabaa87900e481f04f8a6a474abb5f5e0577c4ab148736535e0d5fcb1a3d6bc54db971f17954491c879d1492afdb5200b"
+  "version": "4.6.0.0",
+  "notes": "Mon Budget : un appareil mis à jour après le PC retrouve le budget reçu entre-temps.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.6.0.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.6.0.0.zip",
+  "sha256": "8087ef17c400446885bbdcc6f13f4bd47b47d76482e50b8f548b04f2e2bd8247",
+  "signature": "e9131171f613e46d3ab20e573461424997b1642a86ec9598e10175476fa9763197786842a03c49b53d16026b8d2818ea3c8d46b643c91565815abf1c3dbae10c"
 }
