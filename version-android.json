@@ -1,8 +1,8 @@
 {
-  "version": "4.5.5.0",
-  "notes": "Mon Budget : le mois en cours n'est plus mis en avant (ni bande, ni pastille, ni gras).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.5.5.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.5.5.0.apk",
-  "sha256": "709d06bd1b06743a3dcd012330c6a7b73788717f1bea2793638c89d846755cf7",
-  "signature": "19aeb9359c658854320cf55fef5e9d865ba0789046070043121c807f960d5c31a4df6eb4d26331d5c5716fc1ac6e9833f9711448784a872039eb6bbe57459a0c"
+  "version": "4.5.6.0",
+  "notes": "Mon Budget : un trait léger sous chaque catégorie, pour suivre la ligne sur tous les mois.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.5.6.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.5.6.0.apk",
+  "sha256": "0e5a127fdc12ce31eacf4cef88b4fec4ffd43815d6420ee966386e126a790e46",
+  "signature": "939dc0a848a3bd42c0c9abcbaf1027a29123426469ff66ae27cd03ed96ab44ee7c6e19f8973a3d109d4ffac023264e0dc281ee4fc9dc6991f2d58da8c2f95f04"
 }
