@@ -1,8 +1,8 @@
 {
-  "version": "4.6.2.0",
-  "notes": "Le symbole ⟳ de synchronisation est en rouge, pour mieux le voir. Sur le PC, la recherche et l'interrupteur sont au niveau des boutons d'à côté.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.6.2.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.6.2.0.zip",
-  "sha256": "f31a83fd4d45fbfa56c9984ff393359b534514b91c8d139d85d82fb735221852",
-  "signature": "a4f52614187b77946e0fa2d8320e6643c5d205d1a6674ab4f14e56a1fe4733e635e82f6015dd68ec6bc2cab2d5c246ac876b479b23dd7fef9ca9263cc688a402"
+  "version": "4.6.3.0",
+  "notes": "Mon Budget : chaque super catégorie redit les mois et le total au-dessus de ses colonnes, pour savoir quel mois on lit en bas du tableau.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.6.3.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.6.3.0.zip",
+  "sha256": "26589dbbb9f4f8339d5ee5e8751a81720022e871cb4a3c34a70895f7a45ca4dd",
+  "signature": "971d35eb4540dabbc71d03d2d5aa996e4dd8555f23e4feca00528198f485571acf5288e86c4c2d2894ed1998e6259a02de01b7258a4fe27cd4692ac134fad303"
 }
