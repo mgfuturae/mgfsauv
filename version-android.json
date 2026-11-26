@@ -1,8 +1,8 @@
 {
-  "version": "4.6.5.0",
-  "notes": "Mon Budget : les rangées de solde n'ont plus de total, à l'écran comme dans le PDF : un solde ne s'additionne pas.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.6.5.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.6.5.0.apk",
-  "sha256": "3e192948c23b3d3c72dd63767ff4aa7788178e2ee1ff61247dcf900ca493b976",
-  "signature": "bb9751385afd64fd0e7602adf9f5c3302fd14c2346a346b3cbf5fb71dad07c8e7dfff32a64dffa55f81c48e7052bdeb85dc2a78fafa7cd437993f753b82a840a"
+  "version": "4.6.6.0",
+  "notes": "Documentation : le livre de mes données est retiré.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.6.6.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.6.6.0.apk",
+  "sha256": "c4460ef2f08ec7075d492a807d52dbacbc3ccfcc18895d07b668f053b59a4ae4",
+  "signature": "dc562fea6995abd86c56670bb119ea1b3a870671642e7f4c246701a4ca75a4abb6167430579f41d353cb3ad2b06fee4289ec1b82e2d4845f19f6835a1d10b90b"
 }
