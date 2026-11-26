@@ -1,8 +1,8 @@
 {
-  "version": "4.6.3.0",
-  "notes": "Mon Budget : chaque super catégorie redit les mois et le total au-dessus de ses colonnes, pour savoir quel mois on lit en bas du tableau.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.6.3.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.6.3.0.zip",
-  "sha256": "26589dbbb9f4f8339d5ee5e8751a81720022e871cb4a3c34a70895f7a45ca4dd",
-  "signature": "971d35eb4540dabbc71d03d2d5aa996e4dd8555f23e4feca00528198f485571acf5288e86c4c2d2894ed1998e6259a02de01b7258a4fe27cd4692ac134fad303"
+  "version": "4.6.4.0",
+  "notes": "Agenda : tout se déplace à la souris ou au doigt, matchs, jours fériés, vacances, anniversaires et échéances compris ; ils deviennent des rendez-vous à vous. Un match se modifie aussi (date, heure).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.6.4.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.6.4.0.zip",
+  "sha256": "9c6af5676fb6b7c4630729d7ec4e77f9f2e4dfdd42e0a1222e160d87c545d3ca",
+  "signature": "06a2e508ed028333e21460af808249481715cfab8fe397b966abe458f137d3ef413e343f613b1fc5a3fa4efa60b0094640ad6c27b0d1a935b89247d793ec540c"
 }
