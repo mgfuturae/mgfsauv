@@ -1,8 +1,8 @@
 {
-  "version": "4.6.3.0",
-  "notes": "Mon Budget : chaque super catégorie redit les mois et le total au-dessus de ses colonnes, pour savoir quel mois on lit en bas du tableau.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.6.3.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.6.3.0.apk",
-  "sha256": "fb7b1e75fdd04e57f0fb58f11d6f736cff13db1fbf775f4df29b23796742a4e9",
-  "signature": "6c6a325154ea30b68d642efe05e9127bf03cb3ce1c969c8e908e64d5109fc0c4273ca7720cdc46c46dac38b913a063fc9555c0791316080ea0dcd83bfc744805"
+  "version": "4.6.4.0",
+  "notes": "Agenda : tout se déplace à la souris ou au doigt, matchs, jours fériés, vacances, anniversaires et échéances compris ; ils deviennent des rendez-vous à vous. Un match se modifie aussi (date, heure).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.6.4.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.6.4.0.apk",
+  "sha256": "c91e1f2e61a62e488c60bf1f1b5766e794b001462db5cfe59c8c48e6e9981bd8",
+  "signature": "63b2c831c43abfde7800c68fc487845c449d1b165c4d94536b578494315fd11f5361bb2b6fb365d396b6ec3f051c0062830aa5191b61caf69e2b6389328f4d0d"
 }
