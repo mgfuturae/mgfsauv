@@ -1,8 +1,8 @@
 {
-  "version": "4.6.4.0",
-  "notes": "Agenda : tout se déplace à la souris ou au doigt, matchs, jours fériés, vacances, anniversaires et échéances compris ; ils deviennent des rendez-vous à vous. Un match se modifie aussi (date, heure).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.6.4.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.6.4.0.apk",
-  "sha256": "c91e1f2e61a62e488c60bf1f1b5766e794b001462db5cfe59c8c48e6e9981bd8",
-  "signature": "63b2c831c43abfde7800c68fc487845c449d1b165c4d94536b578494315fd11f5361bb2b6fb365d396b6ec3f051c0062830aa5191b61caf69e2b6389328f4d0d"
+  "version": "4.6.5.0",
+  "notes": "Mon Budget : les rangées de solde n'ont plus de total, à l'écran comme dans le PDF : un solde ne s'additionne pas.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.6.5.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.6.5.0.apk",
+  "sha256": "3e192948c23b3d3c72dd63767ff4aa7788178e2ee1ff61247dcf900ca493b976",
+  "signature": "bb9751385afd64fd0e7602adf9f5c3302fd14c2346a346b3cbf5fb71dad07c8e7dfff32a64dffa55f81c48e7052bdeb85dc2a78fafa7cd437993f753b82a840a"
 }
