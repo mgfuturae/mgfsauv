@@ -1,8 +1,8 @@
 {
-  "version": "4.6.5.0",
-  "notes": "Mon Budget : les rangées de solde n'ont plus de total, à l'écran comme dans le PDF : un solde ne s'additionne pas.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.6.5.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.6.5.0.zip",
-  "sha256": "5d95c35764d9d73705dbcc27fda484d003a91176c5304f4dcfbc0042942baa75",
-  "signature": "5e2376a4c3ae700865073a39b21f5589e7322abdae0a495c5c0d89c111a455a8ba9519f662ac4241a007e4271be0d8f20ad2467acc92b1bc23e26861ced5d504"
+  "version": "4.6.6.0",
+  "notes": "Documentation : le livre de mes données est retiré.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.6.6.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.6.6.0.zip",
+  "sha256": "ca2632755599ce67f1f421ef993ebfae4c7bc56526779eed6e52744324a2eee1",
+  "signature": "77218d0493c8cfe18ba4fc4e5e69a552a9d8e7f08572682f967ecbbb7a93c5276c3d84204158029d42ce6d8ea18b9a10c5f474ab08d82dd82dc5bfc5d11d410a"
 }
