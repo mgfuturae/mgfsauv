@@ -1,8 +1,8 @@
 {
-  "version": "4.7.1.0",
-  "notes": "Raccourcis du Bureau : leur icône ne change plus à chaque mise à jour (Windows abîmait parfois les icônes du Bureau).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.7.1.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.7.1.0.zip",
-  "sha256": "74c4cc3a14294959ca3fab2b02608f12d3025e4d182e666a05c0667524d753b3",
-  "signature": "801ff26176183030432b4baa302f3851c6d5d4aa953ae5123116436aa0ffbf2d663d3cb28bd25bb4e6e639d48d0f107cba0b325686716401aac77de5803aec0b"
+  "version": "4.7.2.0",
+  "notes": "Guide d'utilisation : la mise en ligne est décrite simplement, sans parler d'options.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.7.2.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.7.2.0.zip",
+  "sha256": "ad74617c32f2234c3c97d3d2d33849d3a8e4af4863264da50e3042abb47a792c",
+  "signature": "a3fcb20a1c106bc84a85f49bdbacd30fa1c7ca618a3c8c6b98915d5cece5fdb063885f9843dc1ed8f53325ec9a59fa926875557bc5eff4aa6124d1c2455b4a05"
 }
