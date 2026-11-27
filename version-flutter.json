@@ -1,8 +1,8 @@
 {
-  "version": "4.7.0.0",
-  "notes": "Réglages → Numéro de série : la fenêtre est simplifiée.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.7.0.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.7.0.0.zip",
-  "sha256": "9d62b463aee3a1cc74d5b25673f859d856cbf5d6ac7e30b99353814b4058c465",
-  "signature": "cf1a702d04a412003a733ad5a26c34a7df48cebd1040224b74c76ac88f4ac2d45f16f0cfea6836980342c963baf928f050ea066456250c4781e39cad79d7c303"
+  "version": "4.7.1.0",
+  "notes": "Raccourcis du Bureau : leur icône ne change plus à chaque mise à jour (Windows abîmait parfois les icônes du Bureau).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.7.1.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.7.1.0.zip",
+  "sha256": "74c4cc3a14294959ca3fab2b02608f12d3025e4d182e666a05c0667524d753b3",
+  "signature": "801ff26176183030432b4baa302f3851c6d5d4aa953ae5123116436aa0ffbf2d663d3cb28bd25bb4e6e639d48d0f107cba0b325686716401aac77de5803aec0b"
 }
