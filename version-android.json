@@ -1,8 +1,8 @@
 {
-  "version": "4.7.2.0",
-  "notes": "Guide d'utilisation : la mise en ligne est décrite simplement, sans parler d'options.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.7.2.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.7.2.0.apk",
-  "sha256": "93c7bb32291b721f21b04370cfee12a0a651643e90455ecd436ebb92543be7ad",
-  "signature": "8ef99626575bed85b406fee7e4defa9f90926ed797f7f936b72324e3db3c4c0d995d83f3b9b904b0cb438f3a85f31d25160e00a1d153fbb4a1dc3124d702c20c"
+  "version": "4.7.3.0",
+  "notes": "Démonstration : le bouton « Commencer » passe à la version réelle sans fermer l'application (téléphones).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.7.3.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.7.3.0.apk",
+  "sha256": "40b748025dc8880f0359d89e842564c1589f94fd569dbc5d95a17575498e64a4",
+  "signature": "66ea10eef8b6fe0f29e639e994ec251c63d56662f423156ae60a3fcb8c85f19fcbcefc03ff26b63a353cd9eb1d9a054ffaf0150c40df6fb3a4e726e14579610d"
 }
