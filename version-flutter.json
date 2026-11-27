@@ -1,8 +1,8 @@
 {
-  "version": "4.6.7.0",
-  "notes": "Numéro de série : l'éditeur peut aussi donner un code de cinq chiffres, valable le jour même et le lendemain. Documentation : le guide d'utilisation est neuf, chaque écran expliqué avec tous ses champs, et refait à chaque version. Domotique : dans un PDF, les codes et mots de passe sont masqués sans le mot de passe de l'application. Succession : courriers à la mutuelle et à l'employeur. Loyers : « Encaissé » ne compte plus les loyers non payés, en retard ou en attente. Tableau de bord : les rendez-vous supprimés ne sont plus des échéances. Crédits : la mensualité est recalculée quand le capital, le taux ou la durée change. Agenda : les anniversaires de Mes Proches. Sauvegardes : plus de lignes de la comptabilité retirée.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.6.7.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.6.7.0.zip",
-  "sha256": "4d5a2f77bdb89d630719070d3193b8f82eea131185d3b4c72197b701ba7bd3fa",
-  "signature": "f062159d01656e80e1292586e7b2a56a0f38da938bf8adb516568ea01293bc68400834b96d858136b8da289918e6c48e2833d438c4fe33905d942ceb7929c004"
+  "version": "4.6.8.0",
+  "notes": "Numéro de série : plus d'empreinte à recopier ni à envoyer ; l'éditeur répond à votre demande avec un code à taper.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.6.8.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.6.8.0.zip",
+  "sha256": "639ff064809ec630b3bf60f02e8b1288526aa8d9f47791a96cdaa4a1f68b7ce1",
+  "signature": "d0160ab7e1f6e09fc0e1bab6b43871f5a4dc3906d61dc813838f72cfca41f6b29ce50be1a8143e2820c3c2cc310fc7883bf58a7ee9d25be05ff556417cb4630c"
 }
