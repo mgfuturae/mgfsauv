@@ -1,8 +1,8 @@
 {
-  "version": "4.6.8.0",
-  "notes": "Numéro de série : plus d'empreinte à recopier ni à envoyer ; l'éditeur répond à votre demande avec un code à taper.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.6.8.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.6.8.0.apk",
-  "sha256": "561f6567a9e1119ba0cef2dacfc80882e8634540e55a7c47f225ad1419a4ef76",
-  "signature": "258dce477b2a076573072f528aced252f7ee2d12a181b641d65622d3e2091f60ef82d70e551e216ddc0a72e86cd377ebdb7589f0e8941dd050fe4bcf5bd23c0e"
+  "version": "4.6.9.0",
+  "notes": "Réglages → Numéro de série : le numéro actuel est affiché, au-dessus de la place d'un nouveau.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.6.9.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.6.9.0.apk",
+  "sha256": "f315215517ec098cd99fb7dfff9c1f337e637c4a1b3194a87b97818450d1b443",
+  "signature": "aad38d125f301038ca5bea7f3c6564a655dd52a952d2879d311da1a7b91bf358fd887d0c52fa7a7d999a1d70317e50861800fdb58cc15c81131fbd3dbd27ac00"
 }
