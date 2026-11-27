@@ -1,8 +1,8 @@
 {
-  "version": "4.7.5.0",
-  "notes": "Mon Budget sur un téléphone couché : police plus petite, et les titres des rangées en entier.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.7.5.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.7.5.0.apk",
-  "sha256": "d3e484498614c507e2ef48fb05ed9b309076c41c604bbcdce6c0f3715f3d5052",
-  "signature": "8a162f4980e73867940c79d02036292f255fa1a4b576f1045ef93d32812f1cc8665b89f0d51ba91e6c141f1b90845240c81de409f34071a3641c3b21cb7f670f"
+  "version": "4.7.6.0",
+  "notes": "Mon Budget : un titre sur deux lignes garde ses lignes l'une sous l'autre.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.7.6.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.7.6.0.apk",
+  "sha256": "3af309a7386d8df4f67ba2244f815bcaf7470d9dd1f079ffae89540eff1a9ef7",
+  "signature": "da17ffa9e28e21b3609357d92e78ff34ac1f7643e605154cd33db85955454225b8fe0877d38f6e06eaacb7bb573e7b294279dcdaa6c8cdc9d90781ee766f4501"
 }
