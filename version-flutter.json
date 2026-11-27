@@ -1,8 +1,8 @@
 {
-  "version": "4.7.4.0",
-  "notes": "Mon Budget : sur un téléphone couché, les soldes et les totaux ne sont plus coupés.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.7.4.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.7.4.0.zip",
-  "sha256": "7348d278602104c28cdee6f6ebadc66bea2b3fc516dd230e1b556c1f58a6a178",
-  "signature": "5ca9cc5fe41213ff56666e042bfeb825c33ba98a9f12d2de56012756a2fd85131ee148bfe7a24b5cd363f62d1d202317b2ca5036b10564bd5071a7686762710d"
+  "version": "4.7.5.0",
+  "notes": "Mon Budget sur un téléphone couché : police plus petite, et les titres des rangées en entier.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.7.5.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.7.5.0.zip",
+  "sha256": "543b5927accb43b391d3904d70cd9ee808eb513f224b4cb5f2a11c36f3d46210",
+  "signature": "ea1883c16800736eda81b9387e90c5bc61a5def45f211c855d18840704fb291a96254bc35bb8b12098c5dbdc415eae141a97a9cb526fd619650c9be0d1e5c909"
 }
