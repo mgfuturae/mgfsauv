@@ -1,8 +1,8 @@
 {
-  "version": "4.6.8.0",
-  "notes": "Numéro de série : plus d'empreinte à recopier ni à envoyer ; l'éditeur répond à votre demande avec un code à taper.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.6.8.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.6.8.0.zip",
-  "sha256": "639ff064809ec630b3bf60f02e8b1288526aa8d9f47791a96cdaa4a1f68b7ce1",
-  "signature": "d0160ab7e1f6e09fc0e1bab6b43871f5a4dc3906d61dc813838f72cfca41f6b29ce50be1a8143e2820c3c2cc310fc7883bf58a7ee9d25be05ff556417cb4630c"
+  "version": "4.6.9.0",
+  "notes": "Réglages → Numéro de série : le numéro actuel est affiché, au-dessus de la place d'un nouveau.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.6.9.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.6.9.0.zip",
+  "sha256": "0c7ae51c4088ea6bf7124f9df9d19cbe442f4cae461c29aa1b10c588d4754ac6",
+  "signature": "6f3601a42bdeaf3cf4e574f07554ada05e75f960bc8acba56cdbfbb2b37186f42da312d533d5abb7b652ea8c8e94caa247f40e93c823f1e628c6b4aa1aeb420f"
 }
