@@ -1,8 +1,8 @@
 {
-  "version": "4.6.6.0",
-  "notes": "Documentation : le livre de mes données est retiré.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.6.6.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.6.6.0.apk",
-  "sha256": "c4460ef2f08ec7075d492a807d52dbacbc3ccfcc18895d07b668f053b59a4ae4",
-  "signature": "dc562fea6995abd86c56670bb119ea1b3a870671642e7f4c246701a4ca75a4abb6167430579f41d353cb3ad2b06fee4289ec1b82e2d4845f19f6835a1d10b90b"
+  "version": "4.6.7.0",
+  "notes": "Numéro de série : l'éditeur peut aussi donner un code de cinq chiffres, valable le jour même et le lendemain. Documentation : le guide d'utilisation est neuf, chaque écran expliqué avec tous ses champs, et refait à chaque version. Domotique : dans un PDF, les codes et mots de passe sont masqués sans le mot de passe de l'application. Succession : courriers à la mutuelle et à l'employeur. Loyers : « Encaissé » ne compte plus les loyers non payés, en retard ou en attente. Tableau de bord : les rendez-vous supprimés ne sont plus des échéances. Crédits : la mensualité est recalculée quand le capital, le taux ou la durée change. Agenda : les anniversaires de Mes Proches. Sauvegardes : plus de lignes de la comptabilité retirée.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.6.7.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.6.7.0.apk",
+  "sha256": "d0c8c470f0991bf9987c814adcd3900c63fcc9309e252cc0e18fc20306366e7d",
+  "signature": "f3cc195cfaf81aed9e25055dd2d93e67cb8acc5ed2a1f33af2715cf86091af234ab654e201d26811d0eab6e5ab830764c31b08635e035f8f8f92da326a946f07"
 }
