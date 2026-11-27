@@ -1,8 +1,8 @@
 {
-  "version": "4.6.9.0",
-  "notes": "Réglages → Numéro de série : le numéro actuel est affiché, au-dessus de la place d'un nouveau.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.6.9.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.6.9.0.apk",
-  "sha256": "f315215517ec098cd99fb7dfff9c1f337e637c4a1b3194a87b97818450d1b443",
-  "signature": "aad38d125f301038ca5bea7f3c6564a655dd52a952d2879d311da1a7b91bf358fd887d0c52fa7a7d999a1d70317e50861800fdb58cc15c81131fbd3dbd27ac00"
+  "version": "4.7.0.0",
+  "notes": "Réglages → Numéro de série : la fenêtre est simplifiée.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.7.0.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.7.0.0.apk",
+  "sha256": "d3dbaff15e08957f8508ab8c147165984b47baa73be8109570e7d9f0b50f128f",
+  "signature": "34e6e505c2d28ef16b2a2b97e6abd98aaa5d4260eb60a1de39c33693b33e0d0126d61d64e1a2d23b0f0318026263503c500185670de5c2e1c2a11b04b880fb0e"
 }
