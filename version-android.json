@@ -1,8 +1,8 @@
 {
-  "version": "4.7.4.0",
-  "notes": "Mon Budget : sur un téléphone couché, les soldes et les totaux ne sont plus coupés.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.7.4.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.7.4.0.apk",
-  "sha256": "f74bf63431dc58f535ba4e9e9b4a301d3c5808f15ee575e27e0e6bbda9801829",
-  "signature": "67edd051537e743b310675066ef93cd45936d21784eebae254b8c268bc67fb1e7afcf98382badd633ff09b12f44a88a38eb22821d613ae04b8f2bb3582921300"
+  "version": "4.7.5.0",
+  "notes": "Mon Budget sur un téléphone couché : police plus petite, et les titres des rangées en entier.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.7.5.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.7.5.0.apk",
+  "sha256": "d3e484498614c507e2ef48fb05ed9b309076c41c604bbcdce6c0f3715f3d5052",
+  "signature": "8a162f4980e73867940c79d02036292f255fa1a4b576f1045ef93d32812f1cc8665b89f0d51ba91e6c141f1b90845240c81de409f34071a3641c3b21cb7f670f"
 }
