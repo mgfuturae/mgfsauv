@@ -1,8 +1,8 @@
 {
-  "version": "4.7.3.0",
-  "notes": "Démonstration : le bouton « Commencer » passe à la version réelle sans fermer l'application (téléphones).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.7.3.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.7.3.0.zip",
-  "sha256": "141aa54d7f7759af3f5eaa8c038b4c738c7e645358fbf3d7458938a7756b2ad8",
-  "signature": "ddf13ab809c06f0daf02edacb67f8b75f308b4288d8d8553645d90f0d4717b54a2c31e901fb9a937d08c57b32d9d95d23aa500c16c49727029816ed7b4ff2102"
+  "version": "4.7.4.0",
+  "notes": "Mon Budget : sur un téléphone couché, les soldes et les totaux ne sont plus coupés.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.7.4.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.7.4.0.zip",
+  "sha256": "7348d278602104c28cdee6f6ebadc66bea2b3fc516dd230e1b556c1f58a6a178",
+  "signature": "5ca9cc5fe41213ff56666e042bfeb825c33ba98a9f12d2de56012756a2fd85131ee148bfe7a24b5cd363f62d1d202317b2ca5036b10564bd5071a7686762710d"
 }
