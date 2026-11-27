@@ -1,8 +1,8 @@
 {
-  "version": "4.7.2.0",
-  "notes": "Guide d'utilisation : la mise en ligne est décrite simplement, sans parler d'options.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.7.2.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.7.2.0.zip",
-  "sha256": "ad74617c32f2234c3c97d3d2d33849d3a8e4af4863264da50e3042abb47a792c",
-  "signature": "a3fcb20a1c106bc84a85f49bdbacd30fa1c7ca618a3c8c6b98915d5cece5fdb063885f9843dc1ed8f53325ec9a59fa926875557bc5eff4aa6124d1c2455b4a05"
+  "version": "4.7.3.0",
+  "notes": "Démonstration : le bouton « Commencer » passe à la version réelle sans fermer l'application (téléphones).",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.7.3.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.7.3.0.zip",
+  "sha256": "141aa54d7f7759af3f5eaa8c038b4c738c7e645358fbf3d7458938a7756b2ad8",
+  "signature": "ddf13ab809c06f0daf02edacb67f8b75f308b4288d8d8553645d90f0d4717b54a2c31e901fb9a937d08c57b32d9d95d23aa500c16c49727029816ed7b4ff2102"
 }
