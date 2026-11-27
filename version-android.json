@@ -1,8 +1,8 @@
 {
-  "version": "4.7.1.0",
-  "notes": "Raccourcis du Bureau : leur icône ne change plus à chaque mise à jour (Windows abîmait parfois les icônes du Bureau).",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.7.1.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.7.1.0.apk",
-  "sha256": "f9639d6dc84703136695b8d9214f771dda1115a914ce5620bfd9097830cd4330",
-  "signature": "3072456d0ff965196feb2b01d15da0b17e8b137ebe5732bfac208440c6c8abd88f3553c467a98fcc297bf95effee5e34c98f27ab233c636b81dd3de7c476e905"
+  "version": "4.7.2.0",
+  "notes": "Guide d'utilisation : la mise en ligne est décrite simplement, sans parler d'options.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.7.2.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.7.2.0.apk",
+  "sha256": "93c7bb32291b721f21b04370cfee12a0a651643e90455ecd436ebb92543be7ad",
+  "signature": "8ef99626575bed85b406fee7e4defa9f90926ed797f7f936b72324e3db3c4c0d995d83f3b9b904b0cb438f3a85f31d25160e00a1d153fbb4a1dc3124d702c20c"
 }
