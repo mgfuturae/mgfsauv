@@ -1,8 +1,8 @@
 {
-  "version": "4.6.6.0",
-  "notes": "Documentation : le livre de mes données est retiré.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.6.6.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.6.6.0.zip",
-  "sha256": "ca2632755599ce67f1f421ef993ebfae4c7bc56526779eed6e52744324a2eee1",
-  "signature": "77218d0493c8cfe18ba4fc4e5e69a552a9d8e7f08572682f967ecbbb7a93c5276c3d84204158029d42ce6d8ea18b9a10c5f474ab08d82dd82dc5bfc5d11d410a"
+  "version": "4.6.7.0",
+  "notes": "Numéro de série : l'éditeur peut aussi donner un code de cinq chiffres, valable le jour même et le lendemain. Documentation : le guide d'utilisation est neuf, chaque écran expliqué avec tous ses champs, et refait à chaque version. Domotique : dans un PDF, les codes et mots de passe sont masqués sans le mot de passe de l'application. Succession : courriers à la mutuelle et à l'employeur. Loyers : « Encaissé » ne compte plus les loyers non payés, en retard ou en attente. Tableau de bord : les rendez-vous supprimés ne sont plus des échéances. Crédits : la mensualité est recalculée quand le capital, le taux ou la durée change. Agenda : les anniversaires de Mes Proches. Sauvegardes : plus de lignes de la comptabilité retirée.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.6.7.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.6.7.0.zip",
+  "sha256": "4d5a2f77bdb89d630719070d3193b8f82eea131185d3b4c72197b701ba7bd3fa",
+  "signature": "f062159d01656e80e1292586e7b2a56a0f38da938bf8adb516568ea01293bc68400834b96d858136b8da289918e6c48e2833d438c4fe33905d942ceb7929c004"
 }
