@@ -1,8 +1,8 @@
 {
-  "version": "4.8.0.0",
-  "notes": "Mes Activités : nouveau texte du mail d'une dépense (« Ci-joint le justificatif… », somme restante, il reste), signature au seul nom ; sujet et texte du mail modifiables dans la fiche de l'activité.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.8.0.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.8.0.0.zip",
-  "sha256": "b425bb825f1e0ed738320fc42fcdbde3d8033774839853e32ad117c437546f29",
-  "signature": "b758d1b82ece625be932a0099e8976ea31ab2b3d5205143131ac086e7b3e72b0bef6b6b0abdab5fb23af39090944b445ef76d0ae0a203a084558ed893fe4df0a"
+  "version": "4.8.1.0",
+  "notes": "Mes Activités : le mail d'une dépense s'ouvre dans Outlook classique sans erreur, justificatif joint.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.8.1.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.8.1.0.zip",
+  "sha256": "2ed04161ae565d82f46a1cd255dad6a40929d0eac9f8470e89b2c487d340acc9",
+  "signature": "919171bd18d76b9bc54527523ed039e3f5fdbc402944771efb252d96da726881690694d5d3c22d4822dcb8d7d7bb8b9bca0268d471cbe51673ab87d3bdf91809"
 }
