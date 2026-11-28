@@ -1,8 +1,8 @@
 {
-  "version": "4.8.2.0",
-  "notes": "Mes Activités : un même mail pour plusieurs dépenses (« ✉ Mail de dépenses », en haut de l'écran), avec tous leurs justificatifs.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.8.2.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.8.2.0.apk",
-  "sha256": "f2913e87c067ae99ecebc477f80ed7a5cd296f73a475f58f402089e659c98cab",
-  "signature": "45049475de89e96326da3c6bfd07b3e912ed7aa5d5bde61852ad7f573c19c3d121c23b356385167a1cab92605776a205c7141d51c7c29417d7383c35ae16c50c"
+  "version": "4.8.3.0",
+  "notes": "Synchronisation : une fiche ne peut plus être effacée par une vieille suppression venue d'un autre appareil. Sauvegardes : « Reprendre des fiches » d'une sauvegarde, sans tout restaurer ; quittances sans bien rattachables à un bien loué.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.8.3.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.8.3.0.apk",
+  "sha256": "ad90c9e62d9ed2284cd3e181dad99db313e728ce6e0ddf5b72b5de75a4a68a7c",
+  "signature": "4830ab8eb9b41a2adc653ec4a8e7eda2a4cf9229c41a0f5ed49ce5f0915679d0775ad5d64b3b96b15682ddff66887f26a62385998d53868a7b1ef444eb8bf601"
 }
