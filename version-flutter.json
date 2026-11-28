@@ -1,8 +1,8 @@
 {
-  "version": "4.7.7.0",
-  "notes": "Inscription : le téléphone n'est plus demandé.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.7.7.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.7.7.0.zip",
-  "sha256": "bc90996e09fb10c836021ef10fecbc8ed0e698f45838c34b2975c070bf5fbd9a",
-  "signature": "53489606a3c6a3357f37918276d9b28733f1d8b46edc9b915eb401273e50287a8a2547ee4d0d5bd5a0adecb966394a3e6c76426b589979269557536d3dab770f"
+  "version": "4.7.8.0",
+  "notes": "Nouveau : Mes Activités (dans Ma Gestion, après Mes Courses) — l'argent d'une association, d'un club ou d'une copropriété : somme de départ, rentrées, dépenses avec justificatifs, avances à rembourser, reprise du reste de l'année, et son PDF.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.7.8.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.7.8.0.zip",
+  "sha256": "5f447f2e56c02e96ad6a7c6116c0a08d7a7fedbdd9436f7652e42af1d8551906",
+  "signature": "1a35009e34949a9c773ccac509723b399aab8a40fbfc1ea081373aab67ec1b98c2af4a7923ee6923f710165d1c2d468d8f88b68509a2a37367fbcf63f3e6e208"
 }
