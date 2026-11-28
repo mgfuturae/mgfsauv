@@ -1,8 +1,8 @@
 {
-  "version": "4.7.8.0",
-  "notes": "Nouveau : Mes Activités (dans Ma Gestion, après Mes Courses) — l'argent d'une association, d'un club ou d'une copropriété : somme de départ, rentrées, dépenses avec justificatifs, avances à rembourser, reprise du reste de l'année, et son PDF.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.7.8.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.7.8.0.zip",
-  "sha256": "5f447f2e56c02e96ad6a7c6116c0a08d7a7fedbdd9436f7652e42af1d8551906",
-  "signature": "1a35009e34949a9c773ccac509723b399aab8a40fbfc1ea081373aab67ec1b98c2af4a7923ee6923f710165d1c2d468d8f88b68509a2a37367fbcf63f3e6e208"
+  "version": "4.7.9.0",
+  "notes": "Mes Activités : le mail d'une dépense avec son justificatif (sujet et texte déjà écrits, deux contacts de plus dans la fiche) ; pavé de date pour la date de début ; PDF en portrait.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.7.9.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.7.9.0.zip",
+  "sha256": "4b846ca50385be5c329cba21c5549027ceb9248946b21a98ca3896527a6b393c",
+  "signature": "516769fd44112fd1c94780f1975de391b304150eca0b3004ac676abc10804c4361729966586776afe3907803a3c796c28d2fcbea42ab0a888b8f6f59ff874001"
 }
