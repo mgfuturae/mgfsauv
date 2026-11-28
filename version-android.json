@@ -1,8 +1,8 @@
 {
-  "version": "4.7.9.0",
-  "notes": "Mes Activités : le mail d'une dépense avec son justificatif (sujet et texte déjà écrits, deux contacts de plus dans la fiche) ; pavé de date pour la date de début ; PDF en portrait.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.7.9.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.7.9.0.apk",
-  "sha256": "697410564ce7c4af33bb878bc16b38e7d23670651f552be6fc14570b22f5e6c4",
-  "signature": "d269665733846ff118fb760f848ebd76415af9a6cfaac3839201ad510270d9d4f81090197ba7ae4327342a0c11a3a10c906535315dd27e0e2471e9fbc549d303"
+  "version": "4.8.0.0",
+  "notes": "Mes Activités : nouveau texte du mail d'une dépense (« Ci-joint le justificatif… », somme restante, il reste), signature au seul nom ; sujet et texte du mail modifiables dans la fiche de l'activité.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.8.0.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.8.0.0.apk",
+  "sha256": "059aaab74b9145f1010c4f517b0bb7ccc09d3a94ce64f7822ae5adfbf016c0f1",
+  "signature": "69610435e9b978f32323829d75f0a87d44e887928bc189995715d26b6346887af75a61aedc3aca9e1b332d9d9b71a036949d52eb18cfe0974275a454c5588401"
 }
