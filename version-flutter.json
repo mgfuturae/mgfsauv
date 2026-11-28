@@ -1,8 +1,8 @@
 {
-  "version": "4.7.6.0",
-  "notes": "Mon Budget : un titre sur deux lignes garde ses lignes l'une sous l'autre.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.7.6.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.7.6.0.zip",
-  "sha256": "6afa3a1bed0cc6ed5075701ba33020fba3e1318edbf425211af1b55741acdcfc",
-  "signature": "2f888e80978ee7da4d79c8ad824306fd9dea9653b673a71e2a56192a318a1fcb1bc005c1a9c422b62351dad28260c1577e2c41b0afe83bfb5b5c99a9ce34df01"
+  "version": "4.7.7.0",
+  "notes": "Inscription : le téléphone n'est plus demandé.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.7.7.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.7.7.0.zip",
+  "sha256": "bc90996e09fb10c836021ef10fecbc8ed0e698f45838c34b2975c070bf5fbd9a",
+  "signature": "53489606a3c6a3357f37918276d9b28733f1d8b46edc9b915eb401273e50287a8a2547ee4d0d5bd5a0adecb966394a3e6c76426b589979269557536d3dab770f"
 }
