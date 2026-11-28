@@ -1,8 +1,8 @@
 {
-  "version": "4.8.2.0",
-  "notes": "Mes Activités : un même mail pour plusieurs dépenses (« ✉ Mail de dépenses », en haut de l'écran), avec tous leurs justificatifs.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.8.2.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.8.2.0.zip",
-  "sha256": "d3bffed2114c5103c95f7348132f92b16d611bc6e7c0a730fe45d374362f037a",
-  "signature": "5918ce78439ba587d353889c6ca274ba541250c0fab6c27442aa859f315f2fe45d20c1a9e3459389ca9e31150a0db8483304651592e5737fd784ead64771500b"
+  "version": "4.8.3.0",
+  "notes": "Synchronisation : une fiche ne peut plus être effacée par une vieille suppression venue d'un autre appareil. Sauvegardes : « Reprendre des fiches » d'une sauvegarde, sans tout restaurer ; quittances sans bien rattachables à un bien loué.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.8.3.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.8.3.0.zip",
+  "sha256": "99517bcdee0ac12c297f74d3356bb537d4f97bea8788255d11f52b1047d3555b",
+  "signature": "cf553b387ebc6416a77cc958577a38cca18df83fb065bb8497fb3bcec2477e008bc466f7bc76e5619f1c786f11fabdeb0e3634cae60e8561817664fe4abeb207"
 }
