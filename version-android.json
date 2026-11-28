@@ -1,8 +1,8 @@
 {
-  "version": "4.7.7.0",
-  "notes": "Inscription : le téléphone n'est plus demandé.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.7.7.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.7.7.0.apk",
-  "sha256": "eceafaaae1bb351e127b80e5edc4ae24cbe2eaf1e42216a7f6f5d6d45dcc4662",
-  "signature": "78fd69e83cb61eee8d1572d5dbaf964711be0f4320f733094fd636d0ef548b25775d7b983b216b7aa4dc765d0a42557911d1b893b093838bfb0d64c8b0462f0b"
+  "version": "4.7.8.0",
+  "notes": "Nouveau : Mes Activités (dans Ma Gestion, après Mes Courses) — l'argent d'une association, d'un club ou d'une copropriété : somme de départ, rentrées, dépenses avec justificatifs, avances à rembourser, reprise du reste de l'année, et son PDF.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.7.8.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.7.8.0.apk",
+  "sha256": "a1e69783d50544ebabc6584ca90b1cb3ff46f0b435d6e980c9b2fd4eb6f988b1",
+  "signature": "6560f75bb8890d928840be3266243d61d233c87fdb3ad18f2106e8964a529e6d609edd71d96f12d3c7abbf1dab0d31cb0e884c7e139f8157a31556d8bfaac50f"
 }
