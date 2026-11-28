@@ -1,8 +1,8 @@
 {
-  "version": "4.8.1.0",
-  "notes": "Mes Activités : le mail d'une dépense s'ouvre dans Outlook classique sans erreur, justificatif joint.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.8.1.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.8.1.0.zip",
-  "sha256": "2ed04161ae565d82f46a1cd255dad6a40929d0eac9f8470e89b2c487d340acc9",
-  "signature": "919171bd18d76b9bc54527523ed039e3f5fdbc402944771efb252d96da726881690694d5d3c22d4822dcb8d7d7bb8b9bca0268d471cbe51673ab87d3bdf91809"
+  "version": "4.8.2.0",
+  "notes": "Mes Activités : un même mail pour plusieurs dépenses (« ✉ Mail de dépenses », en haut de l'écran), avec tous leurs justificatifs.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.8.2.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.8.2.0.zip",
+  "sha256": "d3bffed2114c5103c95f7348132f92b16d611bc6e7c0a730fe45d374362f037a",
+  "signature": "5918ce78439ba587d353889c6ca274ba541250c0fab6c27442aa859f315f2fe45d20c1a9e3459389ca9e31150a0db8483304651592e5737fd784ead64771500b"
 }
