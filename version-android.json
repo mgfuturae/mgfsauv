@@ -1,8 +1,8 @@
 {
-  "version": "4.8.1.0",
-  "notes": "Mes Activités : le mail d'une dépense s'ouvre dans Outlook classique sans erreur, justificatif joint.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.8.1.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.8.1.0.apk",
-  "sha256": "95cd0f5b374b34f082299f9968156580646f343eb4c315e0ba1af49428266bd4",
-  "signature": "845741fdb0469e214fcc76eb6a67770fc9543bfc3cf7b97cc86376396685f83d68217f72d6aa3a2b53d2d3d56a0179b7119430d17dbc4ab8ffe72466bc1d330b"
+  "version": "4.8.2.0",
+  "notes": "Mes Activités : un même mail pour plusieurs dépenses (« ✉ Mail de dépenses », en haut de l'écran), avec tous leurs justificatifs.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.8.2.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.8.2.0.apk",
+  "sha256": "f2913e87c067ae99ecebc477f80ed7a5cd296f73a475f58f402089e659c98cab",
+  "signature": "45049475de89e96326da3c6bfd07b3e912ed7aa5d5bde61852ad7f573c19c3d121c23b356385167a1cab92605776a205c7141d51c7c29417d7383c35ae16c50c"
 }
