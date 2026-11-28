@@ -1,8 +1,8 @@
 {
-  "version": "4.7.6.0",
-  "notes": "Mon Budget : un titre sur deux lignes garde ses lignes l'une sous l'autre.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.7.6.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.7.6.0.apk",
-  "sha256": "3af309a7386d8df4f67ba2244f815bcaf7470d9dd1f079ffae89540eff1a9ef7",
-  "signature": "da17ffa9e28e21b3609357d92e78ff34ac1f7643e605154cd33db85955454225b8fe0877d38f6e06eaacb7bb573e7b294279dcdaa6c8cdc9d90781ee766f4501"
+  "version": "4.7.7.0",
+  "notes": "Inscription : le téléphone n'est plus demandé.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.7.7.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.7.7.0.apk",
+  "sha256": "eceafaaae1bb351e127b80e5edc4ae24cbe2eaf1e42216a7f6f5d6d45dcc4662",
+  "signature": "78fd69e83cb61eee8d1572d5dbaf964711be0f4320f733094fd636d0ef548b25775d7b983b216b7aa4dc765d0a42557911d1b893b093838bfb0d64c8b0462f0b"
 }
