@@ -1,8 +1,8 @@
 {
-  "version": "4.7.8.0",
-  "notes": "Nouveau : Mes Activités (dans Ma Gestion, après Mes Courses) — l'argent d'une association, d'un club ou d'une copropriété : somme de départ, rentrées, dépenses avec justificatifs, avances à rembourser, reprise du reste de l'année, et son PDF.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.7.8.0.apk",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.7.8.0.apk",
-  "sha256": "a1e69783d50544ebabc6584ca90b1cb3ff46f0b435d6e980c9b2fd4eb6f988b1",
-  "signature": "6560f75bb8890d928840be3266243d61d233c87fdb3ad18f2106e8964a529e6d609edd71d96f12d3c7abbf1dab0d31cb0e884c7e139f8157a31556d8bfaac50f"
+  "version": "4.7.9.0",
+  "notes": "Mes Activités : le mail d'une dépense avec son justificatif (sujet et texte déjà écrits, deux contacts de plus dans la fiche) ; pavé de date pour la date de début ; PDF en portrait.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-android-4.7.9.0.apk",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-android-4.7.9.0.apk",
+  "sha256": "697410564ce7c4af33bb878bc16b38e7d23670651f552be6fc14570b22f5e6c4",
+  "signature": "d269665733846ff118fb760f848ebd76415af9a6cfaac3839201ad510270d9d4f81090197ba7ae4327342a0c11a3a10c906535315dd27e0e2471e9fbc549d303"
 }
