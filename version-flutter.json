@@ -1,8 +1,8 @@
 {
-  "version": "4.7.9.0",
-  "notes": "Mes Activités : le mail d'une dépense avec son justificatif (sujet et texte déjà écrits, deux contacts de plus dans la fiche) ; pavé de date pour la date de début ; PDF en portrait.",
-  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.7.9.0.zip",
-  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.7.9.0.zip",
-  "sha256": "4b846ca50385be5c329cba21c5549027ceb9248946b21a98ca3896527a6b393c",
-  "signature": "516769fd44112fd1c94780f1975de391b304150eca0b3004ac676abc10804c4361729966586776afe3907803a3c796c28d2fcbea42ab0a888b8f6f59ff874001"
+  "version": "4.8.0.0",
+  "notes": "Mes Activités : nouveau texte du mail d'une dépense (« Ci-joint le justificatif… », somme restante, il reste), signature au seul nom ; sujet et texte du mail modifiables dans la fiche de l'activité.",
+  "url": "https://raw.githubusercontent.com/mgfuturae/mgfsauv/main/ManageFuturae-windows-4.8.0.0.zip",
+  "page": "https://github.com/mgfuturae/mgfsauv/blob/main/ManageFuturae-windows-4.8.0.0.zip",
+  "sha256": "b425bb825f1e0ed738320fc42fcdbde3d8033774839853e32ad117c437546f29",
+  "signature": "b758d1b82ece625be932a0099e8976ea31ab2b3d5205143131ac086e7b3e72b0bef6b6b0abdab5fb23af39090944b445ef76d0ae0a203a084558ed893fe4df0a"
 }
